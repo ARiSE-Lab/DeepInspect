@@ -1,0 +1,2127 @@
+object1,object2,concurrence count
+airplane,bird,1
+airplane,bus,1
+airplane,chair,1
+airplane,dog,1
+airplane,surfboard,1
+airplane,tv,1
+apple,bed,1
+apple,bird,1
+apple,man,1
+apple,microwave,1
+apple,teddy bear,1
+apple,woman,1
+backpack,boat,1
+backpack,bottle,1
+backpack,bus,1
+backpack,couch,1
+backpack,hot dog,1
+backpack,laptop,1
+backpack,tennis racket,1
+backpack,train,1
+backpack,tv,1
+banana,dog,1
+banana,fork,1
+banana,hot dog,1
+banana,motorcycle,1
+banana,refrigerator,1
+banana,sandwich,1
+banana,sink,1
+banana,spoon,1
+banana,teddy bear,1
+banana,umbrella,1
+banana,woman,1
+baseball bat,bench,1
+baseball bat,frisbee,1
+baseball bat,remote,1
+baseball bat,tennis racket,1
+baseball bat,woman,1
+baseball glove,bench,1
+baseball glove,frisbee,1
+bear,carrot,1
+bear,cow,1
+bear,giraffe,1
+bear,orange,1
+bed,apple,1
+bed,bottle,1
+bed,clock,1
+bed,handbag,1
+bed,keyboard,1
+bed,kite,1
+bed,refrigerator,1
+bed,remote,1
+bench,baseball bat,1
+bench,baseball glove,1
+bench,bus,1
+bench,clock,1
+bench,couch,1
+bench,frisbee,1
+bench,laptop,1
+bench,orange,1
+bench,oven,1
+bench,scissors,1
+bench,sports ball,1
+bench,surfboard,1
+bench,tennis racket,1
+bench,toilet,1
+bench,traffic light,1
+bench,umbrella,1
+bicycle,book,1
+bicycle,bottle,1
+bicycle,cell phone,1
+bicycle,cow,1
+bicycle,horse,1
+bicycle,potted plant,1
+bicycle,sandwich,1
+bicycle,surfboard,1
+bicycle,tie,1
+bicycle,tv,1
+bird,airplane,1
+bird,apple,1
+bird,bowl,1
+bird,car,1
+bird,chair,1
+bird,clock,1
+bird,cup,1
+bird,donut,1
+bird,fire hydrant,1
+bird,giraffe,1
+bird,orange,1
+bird,sheep,1
+bird,umbrella,1
+boat,backpack,1
+boat,cow,1
+boat,fire hydrant,1
+boat,motorcycle,1
+boat,pizza,1
+boat,suitcase,1
+boat,traffic light,1
+book,bicycle,1
+book,donut,1
+book,kite,1
+book,orange,1
+book,snowboard,1
+bottle,backpack,1
+bottle,bed,1
+bottle,bicycle,1
+bottle,remote,1
+bottle,skis,1
+bottle,suitcase,1
+bottle,teddy bear,1
+bowl,bird,1
+bowl,cell phone,1
+bowl,fire hydrant,1
+bowl,handbag,1
+bowl,laptop,1
+broccoli,man,1
+broccoli,potted plant,1
+broccoli,woman,1
+bus,airplane,1
+bus,backpack,1
+bus,bench,1
+bus,fire hydrant,1
+bus,horse,1
+bus,umbrella,1
+bus,woman,1
+cake,clock,1
+cake,fire hydrant,1
+cake,handbag,1
+cake,hot dog,1
+cake,microwave,1
+cake,pizza,1
+cake,potted plant,1
+cake,remote,1
+cake,tie,1
+cake,toothbrush,1
+car,bird,1
+car,carrot,1
+car,donut,1
+car,hot dog,1
+car,laptop,1
+car,orange,1
+car,sheep,1
+car,sports ball,1
+car,surfboard,1
+car,teddy bear,1
+car,toilet,1
+carrot,bear,1
+carrot,car,1
+carrot,chair,1
+carrot,dog,1
+carrot,donut,1
+carrot,potted plant,1
+carrot,tv,1
+cat,clock,1
+cat,scissors,1
+cat,zebra,1
+cell phone,bicycle,1
+cell phone,bowl,1
+cell phone,clock,1
+cell phone,frisbee,1
+cell phone,knife,1
+cell phone,sink,1
+cell phone,snowboard,1
+cell phone,spoon,1
+cell phone,toothbrush,1
+cell phone,traffic light,1
+cell phone,umbrella,1
+chair,airplane,1
+chair,bird,1
+chair,carrot,1
+chair,skateboard,1
+chair,surfboard,1
+chair,toaster,1
+chair,train,1
+clock,bed,1
+clock,bench,1
+clock,bird,1
+clock,cake,1
+clock,cat,1
+clock,cell phone,1
+clock,cow,1
+clock,handbag,1
+clock,sheep,1
+clock,toothbrush,1
+clock,woman,1
+couch,backpack,1
+couch,bench,1
+couch,fork,1
+couch,handbag,1
+couch,knife,1
+couch,microwave,1
+couch,toilet,1
+couch,wine glass,1
+cow,bear,1
+cow,bicycle,1
+cow,boat,1
+cow,clock,1
+cow,parking meter,1
+cow,zebra,1
+cup,bird,1
+cup,fire hydrant,1
+cup,handbag,1
+cup,tie,1
+cup,toilet,1
+cup,umbrella,1
+dining table,scissors,1
+dining table,suitcase,1
+dining table,tie,1
+dog,airplane,1
+dog,banana,1
+dog,carrot,1
+dog,elephant,1
+dog,hot dog,1
+dog,knife,1
+dog,laptop,1
+dog,mouse,1
+dog,oven,1
+dog,pizza,1
+dog,potted plant,1
+dog,refrigerator,1
+dog,sink,1
+dog,spoon,1
+dog,stop sign,1
+dog,surfboard,1
+dog,tennis racket,1
+dog,toilet,1
+dog,traffic light,1
+donut,bird,1
+donut,book,1
+donut,car,1
+donut,carrot,1
+donut,fork,1
+donut,horse,1
+donut,hot dog,1
+donut,refrigerator,1
+donut,toilet,1
+donut,wine glass,1
+elephant,dog,1
+elephant,umbrella,1
+elephant,woman,1
+fire hydrant,bird,1
+fire hydrant,boat,1
+fire hydrant,bowl,1
+fire hydrant,bus,1
+fire hydrant,cake,1
+fire hydrant,cup,1
+fire hydrant,handbag,1
+fire hydrant,skateboard,1
+fire hydrant,teddy bear,1
+fire hydrant,vase,1
+fork,banana,1
+fork,couch,1
+fork,donut,1
+fork,microwave,1
+fork,potted plant,1
+fork,scissors,1
+frisbee,baseball bat,1
+frisbee,baseball glove,1
+frisbee,bench,1
+frisbee,cell phone,1
+frisbee,handbag,1
+frisbee,skateboard,1
+frisbee,teddy bear,1
+frisbee,tennis racket,1
+frisbee,truck,1
+giraffe,bear,1
+giraffe,bird,1
+giraffe,sheep,1
+giraffe,woman,1
+handbag,bed,1
+handbag,bowl,1
+handbag,cake,1
+handbag,clock,1
+handbag,couch,1
+handbag,cup,1
+handbag,fire hydrant,1
+handbag,frisbee,1
+handbag,horse,1
+handbag,pizza,1
+handbag,skateboard,1
+handbag,teddy bear,1
+handbag,toothbrush,1
+handbag,tv,1
+horse,bicycle,1
+horse,bus,1
+horse,donut,1
+horse,handbag,1
+horse,umbrella,1
+hot dog,backpack,1
+hot dog,banana,1
+hot dog,cake,1
+hot dog,car,1
+hot dog,dog,1
+hot dog,donut,1
+hot dog,knife,1
+hot dog,umbrella,1
+keyboard,bed,1
+keyboard,teddy bear,1
+kite,bed,1
+kite,book,1
+kite,scissors,1
+kite,tie,1
+kite,truck,1
+kite,vase,1
+knife,cell phone,1
+knife,couch,1
+knife,dog,1
+knife,hot dog,1
+knife,remote,1
+knife,tie,1
+laptop,backpack,1
+laptop,bench,1
+laptop,bowl,1
+laptop,car,1
+laptop,dog,1
+laptop,oven,1
+laptop,sink,1
+laptop,spoon,1
+laptop,umbrella,1
+laptop,wine glass,1
+man,apple,1
+man,broccoli,1
+man,toilet,1
+man,vase,1
+microwave,apple,1
+microwave,cake,1
+microwave,couch,1
+microwave,fork,1
+microwave,pizza,1
+microwave,scissors,1
+motorcycle,banana,1
+motorcycle,boat,1
+motorcycle,skateboard,1
+motorcycle,surfboard,1
+motorcycle,tie,1
+motorcycle,train,1
+mouse,dog,1
+mouse,potted plant,1
+mouse,spoon,1
+mouse,teddy bear,1
+mouse,woman,1
+orange,bear,1
+orange,bench,1
+orange,bird,1
+orange,book,1
+orange,car,1
+orange,tv,1
+oven,bench,1
+oven,dog,1
+oven,laptop,1
+oven,suitcase,1
+parking meter,cow,1
+parking meter,stop sign,1
+parking meter,traffic light,1
+pizza,boat,1
+pizza,cake,1
+pizza,dog,1
+pizza,handbag,1
+pizza,microwave,1
+pizza,sandwich,1
+pizza,toilet,1
+potted plant,bicycle,1
+potted plant,broccoli,1
+potted plant,cake,1
+potted plant,carrot,1
+potted plant,dog,1
+potted plant,fork,1
+potted plant,mouse,1
+potted plant,scissors,1
+potted plant,skateboard,1
+potted plant,teddy bear,1
+refrigerator,banana,1
+refrigerator,bed,1
+refrigerator,dog,1
+refrigerator,donut,1
+refrigerator,sandwich,1
+refrigerator,scissors,1
+refrigerator,toothbrush,1
+refrigerator,truck,1
+refrigerator,wine glass,1
+remote,baseball bat,1
+remote,bed,1
+remote,bottle,1
+remote,cake,1
+remote,knife,1
+remote,scissors,1
+remote,tie,1
+remote,toothbrush,1
+sandwich,banana,1
+sandwich,bicycle,1
+sandwich,pizza,1
+sandwich,refrigerator,1
+scissors,bench,1
+scissors,cat,1
+scissors,dining table,1
+scissors,fork,1
+scissors,kite,1
+scissors,microwave,1
+scissors,potted plant,1
+scissors,refrigerator,1
+scissors,remote,1
+scissors,skis,1
+scissors,tie,1
+sheep,bird,1
+sheep,car,1
+sheep,clock,1
+sheep,giraffe,1
+sheep,teddy bear,1
+sink,banana,1
+sink,cell phone,1
+sink,dog,1
+sink,laptop,1
+skateboard,chair,1
+skateboard,fire hydrant,1
+skateboard,frisbee,1
+skateboard,handbag,1
+skateboard,motorcycle,1
+skateboard,potted plant,1
+skateboard,suitcase,1
+skateboard,surfboard,1
+skateboard,tennis racket,1
+skateboard,umbrella,1
+skis,bottle,1
+skis,scissors,1
+skis,surfboard,1
+snowboard,book,1
+snowboard,cell phone,1
+snowboard,suitcase,1
+snowboard,woman,1
+spoon,banana,1
+spoon,cell phone,1
+spoon,dog,1
+spoon,laptop,1
+spoon,mouse,1
+spoon,toaster,1
+spoon,toothbrush,1
+sports ball,bench,1
+sports ball,car,1
+sports ball,teddy bear,1
+stop sign,dog,1
+stop sign,parking meter,1
+stop sign,train,1
+stop sign,umbrella,1
+suitcase,boat,1
+suitcase,bottle,1
+suitcase,dining table,1
+suitcase,oven,1
+suitcase,skateboard,1
+suitcase,snowboard,1
+suitcase,traffic light,1
+suitcase,umbrella,1
+surfboard,airplane,1
+surfboard,bench,1
+surfboard,bicycle,1
+surfboard,car,1
+surfboard,chair,1
+surfboard,dog,1
+surfboard,motorcycle,1
+surfboard,skateboard,1
+surfboard,skis,1
+surfboard,umbrella,1
+teddy bear,apple,1
+teddy bear,banana,1
+teddy bear,bottle,1
+teddy bear,car,1
+teddy bear,fire hydrant,1
+teddy bear,frisbee,1
+teddy bear,handbag,1
+teddy bear,keyboard,1
+teddy bear,mouse,1
+teddy bear,potted plant,1
+teddy bear,sheep,1
+teddy bear,sports ball,1
+teddy bear,toilet,1
+teddy bear,toothbrush,1
+teddy bear,vase,1
+tennis racket,backpack,1
+tennis racket,baseball bat,1
+tennis racket,bench,1
+tennis racket,dog,1
+tennis racket,frisbee,1
+tennis racket,skateboard,1
+tennis racket,tie,1
+tie,bicycle,1
+tie,cake,1
+tie,cup,1
+tie,dining table,1
+tie,kite,1
+tie,knife,1
+tie,motorcycle,1
+tie,remote,1
+tie,scissors,1
+tie,tennis racket,1
+tie,train,1
+tie,truck,1
+tie,wine glass,1
+toaster,chair,1
+toaster,spoon,1
+toilet,bench,1
+toilet,car,1
+toilet,couch,1
+toilet,cup,1
+toilet,dog,1
+toilet,donut,1
+toilet,man,1
+toilet,pizza,1
+toilet,teddy bear,1
+toothbrush,cake,1
+toothbrush,cell phone,1
+toothbrush,clock,1
+toothbrush,handbag,1
+toothbrush,refrigerator,1
+toothbrush,remote,1
+toothbrush,spoon,1
+toothbrush,teddy bear,1
+toothbrush,vase,1
+toothbrush,wine glass,1
+traffic light,bench,1
+traffic light,boat,1
+traffic light,cell phone,1
+traffic light,dog,1
+traffic light,parking meter,1
+traffic light,suitcase,1
+traffic light,tv,1
+traffic light,umbrella,1
+train,backpack,1
+train,chair,1
+train,motorcycle,1
+train,stop sign,1
+train,tie,1
+truck,frisbee,1
+truck,kite,1
+truck,refrigerator,1
+truck,tie,1
+truck,woman,1
+tv,airplane,1
+tv,backpack,1
+tv,bicycle,1
+tv,carrot,1
+tv,handbag,1
+tv,orange,1
+tv,traffic light,1
+tv,wine glass,1
+umbrella,banana,1
+umbrella,bench,1
+umbrella,bird,1
+umbrella,bus,1
+umbrella,cell phone,1
+umbrella,cup,1
+umbrella,elephant,1
+umbrella,horse,1
+umbrella,hot dog,1
+umbrella,laptop,1
+umbrella,skateboard,1
+umbrella,stop sign,1
+umbrella,suitcase,1
+umbrella,surfboard,1
+umbrella,traffic light,1
+vase,fire hydrant,1
+vase,kite,1
+vase,man,1
+vase,teddy bear,1
+vase,toothbrush,1
+wine glass,couch,1
+wine glass,donut,1
+wine glass,laptop,1
+wine glass,refrigerator,1
+wine glass,tie,1
+wine glass,toothbrush,1
+wine glass,tv,1
+woman,apple,1
+woman,banana,1
+woman,baseball bat,1
+woman,broccoli,1
+woman,bus,1
+woman,clock,1
+woman,elephant,1
+woman,giraffe,1
+woman,mouse,1
+woman,snowboard,1
+woman,truck,1
+zebra,cat,1
+zebra,cow,1
+airplane,kite,2
+airplane,motorcycle,2
+airplane,train,2
+apple,cake,2
+apple,donut,2
+apple,fork,2
+apple,sandwich,2
+apple,spoon,2
+backpack,bench,2
+backpack,dog,2
+backpack,tie,2
+backpack,traffic light,2
+backpack,truck,2
+banana,broccoli,2
+banana,cake,2
+banana,knife,2
+banana,wine glass,2
+baseball bat,tie,2
+bear,dog,2
+bed,cake,2
+bed,mouse,2
+bed,sink,2
+bed,tie,2
+bed,umbrella,2
+bench,backpack,2
+bench,bicycle,2
+bench,cat,2
+bench,dining table,2
+bench,suitcase,2
+bench,vase,2
+bicycle,bench,2
+bicycle,chair,2
+bicycle,clock,2
+bicycle,fire hydrant,2
+bird,bottle,2
+bird,carrot,2
+bird,cat,2
+bird,dog,2
+bird,surfboard,2
+boat,bus,2
+boat,frisbee,2
+book,knife,2
+book,microwave,2
+book,toothbrush,2
+bottle,bird,2
+bottle,donut,2
+bowl,toothbrush,2
+broccoli,banana,2
+broccoli,wine glass,2
+bus,boat,2
+bus,clock,2
+cake,apple,2
+cake,banana,2
+cake,bed,2
+cake,carrot,2
+cake,horse,2
+cake,oven,2
+car,chair,2
+car,tennis racket,2
+carrot,bird,2
+carrot,cake,2
+carrot,truck,2
+carrot,woman,2
+cat,bench,2
+cat,bird,2
+cat,cell phone,2
+cat,donut,2
+cat,microwave,2
+cat,pizza,2
+cell phone,cat,2
+cell phone,couch,2
+cell phone,pizza,2
+cell phone,teddy bear,2
+chair,bicycle,2
+chair,car,2
+chair,hot dog,2
+chair,toothbrush,2
+clock,bicycle,2
+clock,bus,2
+clock,fire hydrant,2
+clock,man,2
+couch,cell phone,2
+couch,keyboard,2
+couch,orange,2
+couch,tie,2
+cow,elephant,2
+cow,giraffe,2
+cup,dog,2
+cup,teddy bear,2
+dining table,bench,2
+dining table,teddy bear,2
+dining table,toothbrush,2
+dog,backpack,2
+dog,bear,2
+dog,bird,2
+dog,cup,2
+dog,vase,2
+donut,apple,2
+donut,bottle,2
+donut,cat,2
+donut,sandwich,2
+donut,teddy bear,2
+elephant,cow,2
+elephant,giraffe,2
+fire hydrant,bicycle,2
+fire hydrant,clock,2
+fork,apple,2
+fork,oven,2
+fork,sink,2
+fork,toothbrush,2
+frisbee,boat,2
+frisbee,horse,2
+giraffe,cow,2
+giraffe,elephant,2
+hair drier,sink,2
+hair drier,toilet,2
+handbag,kite,2
+handbag,train,2
+handbag,truck,2
+horse,cake,2
+horse,frisbee,2
+horse,motorcycle,2
+hot dog,chair,2
+hot dog,woman,2
+keyboard,couch,2
+keyboard,potted plant,2
+keyboard,woman,2
+kite,airplane,2
+kite,handbag,2
+kite,snowboard,2
+knife,banana,2
+knife,book,2
+knife,toaster,2
+laptop,vase,2
+man,clock,2
+man,orange,2
+man,stop sign,2
+microwave,book,2
+microwave,cat,2
+microwave,orange,2
+microwave,wine glass,2
+microwave,woman,2
+motorcycle,airplane,2
+motorcycle,horse,2
+motorcycle,suitcase,2
+mouse,bed,2
+orange,couch,2
+orange,man,2
+orange,microwave,2
+orange,pizza,2
+orange,spoon,2
+orange,wine glass,2
+orange,woman,2
+oven,cake,2
+oven,fork,2
+pizza,cat,2
+pizza,cell phone,2
+pizza,orange,2
+potted plant,keyboard,2
+potted plant,spoon,2
+sandwich,apple,2
+sandwich,donut,2
+sandwich,scissors,2
+sandwich,teddy bear,2
+scissors,sandwich,2
+scissors,vase,2
+scissors,woman,2
+sheep,zebra,2
+sink,bed,2
+sink,fork,2
+sink,hair drier,2
+snowboard,kite,2
+snowboard,surfboard,2
+spoon,apple,2
+spoon,orange,2
+spoon,potted plant,2
+stop sign,man,2
+suitcase,bench,2
+suitcase,motorcycle,2
+suitcase,teddy bear,2
+surfboard,bird,2
+surfboard,snowboard,2
+teddy bear,cell phone,2
+teddy bear,cup,2
+teddy bear,dining table,2
+teddy bear,donut,2
+teddy bear,sandwich,2
+teddy bear,suitcase,2
+teddy bear,tv,2
+tennis racket,car,2
+tie,backpack,2
+tie,baseball bat,2
+tie,bed,2
+tie,couch,2
+tie,umbrella,2
+toaster,knife,2
+toilet,hair drier,2
+toilet,woman,2
+toothbrush,book,2
+toothbrush,bowl,2
+toothbrush,chair,2
+toothbrush,dining table,2
+toothbrush,fork,2
+traffic light,backpack,2
+traffic light,woman,2
+train,airplane,2
+train,handbag,2
+train,truck,2
+train,woman,2
+truck,backpack,2
+truck,carrot,2
+truck,handbag,2
+truck,train,2
+tv,teddy bear,2
+tv,woman,2
+umbrella,bed,2
+umbrella,tie,2
+umbrella,vase,2
+vase,bench,2
+vase,dog,2
+vase,laptop,2
+vase,scissors,2
+vase,umbrella,2
+vase,woman,2
+wine glass,banana,2
+wine glass,broccoli,2
+wine glass,microwave,2
+wine glass,orange,2
+woman,carrot,2
+woman,hot dog,2
+woman,keyboard,2
+woman,microwave,2
+woman,orange,2
+woman,scissors,2
+woman,toilet,2
+woman,traffic light,2
+woman,train,2
+woman,tv,2
+woman,vase,2
+zebra,sheep,2
+airplane,man,3
+airplane,traffic light,3
+apple,broccoli,3
+apple,wine glass,3
+backpack,cat,3
+backpack,motorcycle,3
+backpack,umbrella,3
+banana,bird,3
+banana,donut,3
+banana,vase,3
+bear,cat,3
+bear,elephant,3
+bear,sheep,3
+bear,teddy bear,3
+bench,car,3
+bench,tie,3
+bicycle,boat,3
+bicycle,suitcase,3
+bicycle,train,3
+bird,banana,3
+boat,bicycle,3
+boat,chair,3
+boat,clock,3
+boat,kite,3
+book,sink,3
+bottle,broccoli,3
+bottle,clock,3
+bottle,fire hydrant,3
+bottle,handbag,3
+bowl,dog,3
+broccoli,apple,3
+broccoli,bottle,3
+broccoli,cat,3
+bus,handbag,3
+bus,motorcycle,3
+cake,dog,3
+cake,teddy bear,3
+cake,umbrella,3
+cake,wine glass,3
+car,bench,3
+carrot,man,3
+carrot,wine glass,3
+cat,backpack,3
+cat,bear,3
+cat,broccoli,3
+cat,cup,3
+cat,wine glass,3
+cell phone,suitcase,3
+chair,boat,3
+chair,donut,3
+chair,scissors,3
+clock,boat,3
+clock,bottle,3
+clock,cup,3
+clock,oven,3
+clock,sink,3
+clock,train,3
+clock,truck,3
+couch,oven,3
+cow,motorcycle,3
+cow,truck,3
+cup,cat,3
+cup,clock,3
+cup,remote,3
+dining table,handbag,3
+dining table,keyboard,3
+dog,bowl,3
+dog,cake,3
+dog,keyboard,3
+donut,banana,3
+donut,chair,3
+donut,orange,3
+donut,spoon,3
+elephant,bear,3
+fire hydrant,bottle,3
+fork,hot dog,3
+fork,orange,3
+frisbee,umbrella,3
+handbag,bottle,3
+handbag,bus,3
+handbag,dining table,3
+handbag,laptop,3
+horse,traffic light,3
+horse,truck,3
+hot dog,fork,3
+keyboard,dining table,3
+keyboard,dog,3
+kite,boat,3
+kite,umbrella,3
+knife,potted plant,3
+knife,toothbrush,3
+laptop,handbag,3
+laptop,suitcase,3
+man,airplane,3
+man,carrot,3
+man,potted plant,3
+man,sheep,3
+motorcycle,backpack,3
+motorcycle,bus,3
+motorcycle,cow,3
+motorcycle,umbrella,3
+orange,donut,3
+orange,fork,3
+orange,umbrella,3
+oven,clock,3
+oven,couch,3
+oven,sandwich,3
+oven,scissors,3
+oven,wine glass,3
+potted plant,knife,3
+potted plant,man,3
+potted plant,woman,3
+remote,cup,3
+remote,skateboard,3
+sandwich,oven,3
+scissors,chair,3
+scissors,oven,3
+sheep,bear,3
+sheep,man,3
+sink,book,3
+sink,clock,3
+skateboard,remote,3
+skateboard,snowboard,3
+skateboard,truck,3
+snowboard,skateboard,3
+spoon,donut,3
+suitcase,bicycle,3
+suitcase,cell phone,3
+suitcase,laptop,3
+suitcase,truck,3
+teddy bear,bear,3
+teddy bear,cake,3
+tie,bench,3
+toothbrush,knife,3
+traffic light,airplane,3
+traffic light,horse,3
+train,bicycle,3
+train,clock,3
+truck,clock,3
+truck,cow,3
+truck,horse,3
+truck,skateboard,3
+truck,suitcase,3
+umbrella,backpack,3
+umbrella,cake,3
+umbrella,frisbee,3
+umbrella,kite,3
+umbrella,motorcycle,3
+umbrella,orange,3
+vase,banana,3
+wine glass,apple,3
+wine glass,cake,3
+wine glass,carrot,3
+wine glass,cat,3
+wine glass,oven,3
+woman,potted plant,3
+apple,refrigerator,4
+backpack,bed,4
+backpack,book,4
+backpack,cell phone,4
+backpack,snowboard,4
+banana,carrot,4
+banana,chair,4
+banana,oven,4
+banana,potted plant,4
+baseball glove,chair,4
+bear,bird,4
+bed,backpack,4
+bench,cell phone,4
+bicycle,skateboard,4
+bicycle,truck,4
+bicycle,umbrella,4
+bird,bear,4
+boat,dog,4
+boat,umbrella,4
+boat,woman,4
+book,backpack,4
+book,oven,4
+bottle,hot dog,4
+bowl,hot dog,4
+bowl,tv,4
+broccoli,oven,4
+cake,sandwich,4
+car,kite,4
+car,tie,4
+carrot,banana,4
+carrot,hot dog,4
+carrot,oven,4
+cat,motorcycle,4
+cat,refrigerator,4
+cat,tie,4
+cell phone,backpack,4
+cell phone,bench,4
+cell phone,wine glass,4
+chair,banana,4
+chair,baseball glove,4
+clock,dining table,4
+couch,refrigerator,4
+cup,toaster,4
+dining table,clock,4
+dining table,dog,4
+dog,boat,4
+dog,dining table,4
+dog,fire hydrant,4
+dog,motorcycle,4
+dog,umbrella,4
+fire hydrant,dog,4
+fire hydrant,parking meter,4
+fork,vase,4
+frisbee,sports ball,4
+giraffe,man,4
+handbag,motorcycle,4
+handbag,tie,4
+hot dog,bottle,4
+hot dog,bowl,4
+hot dog,carrot,4
+kite,car,4
+knife,orange,4
+laptop,tie,4
+man,giraffe,4
+man,mouse,4
+man,scissors,4
+microwave,potted plant,4
+microwave,vase,4
+motorcycle,cat,4
+motorcycle,dog,4
+motorcycle,handbag,4
+mouse,man,4
+orange,knife,4
+oven,banana,4
+oven,book,4
+oven,broccoli,4
+oven,carrot,4
+parking meter,fire hydrant,4
+pizza,spoon,4
+potted plant,banana,4
+potted plant,microwave,4
+potted plant,wine glass,4
+refrigerator,apple,4
+refrigerator,cat,4
+refrigerator,couch,4
+refrigerator,toaster,4
+sandwich,cake,4
+scissors,man,4
+scissors,sink,4
+scissors,toothbrush,4
+scissors,tv,4
+sink,scissors,4
+sink,tv,4
+skateboard,bicycle,4
+skateboard,woman,4
+skis,woman,4
+snowboard,backpack,4
+spoon,pizza,4
+sports ball,frisbee,4
+stop sign,traffic light,4
+suitcase,tv,4
+teddy bear,tie,4
+tie,car,4
+tie,cat,4
+tie,handbag,4
+tie,laptop,4
+tie,teddy bear,4
+toaster,cup,4
+toaster,refrigerator,4
+toothbrush,scissors,4
+traffic light,stop sign,4
+truck,bicycle,4
+tv,bowl,4
+tv,scissors,4
+tv,sink,4
+tv,suitcase,4
+umbrella,bicycle,4
+umbrella,boat,4
+umbrella,dog,4
+vase,fork,4
+vase,microwave,4
+wine glass,cell phone,4
+wine glass,potted plant,4
+woman,boat,4
+woman,skateboard,4
+woman,skis,4
+apple,chair,5
+apple,vase,5
+backpack,chair,5
+baseball bat,chair,5
+bench,bird,5
+bench,skateboard,5
+bicycle,woman,5
+bird,bench,5
+bird,man,5
+bottle,cake,5
+bowl,toaster,5
+cake,bottle,5
+cake,orange,5
+car,cow,5
+carrot,pizza,5
+cat,man,5
+chair,apple,5
+chair,backpack,5
+chair,baseball bat,5
+couch,sink,5
+cow,car,5
+dog,woman,5
+donut,oven,5
+keyboard,man,5
+laptop,potted plant,5
+laptop,scissors,5
+man,bird,5
+man,cat,5
+man,keyboard,5
+man,microwave,5
+man,toothbrush,5
+microwave,man,5
+microwave,tv,5
+orange,cake,5
+orange,refrigerator,5
+oven,donut,5
+pizza,carrot,5
+potted plant,laptop,5
+potted plant,umbrella,5
+refrigerator,orange,5
+refrigerator,tv,5
+sandwich,wine glass,5
+scissors,laptop,5
+sink,couch,5
+sink,wine glass,5
+skateboard,bench,5
+toaster,bowl,5
+toothbrush,man,5
+truck,umbrella,5
+tv,microwave,5
+tv,refrigerator,5
+umbrella,potted plant,5
+umbrella,truck,5
+vase,apple,5
+wine glass,sandwich,5
+wine glass,sink,5
+woman,bicycle,5
+woman,dog,5
+apple,sink,6
+banana,bottle,6
+bench,potted plant,6
+bicycle,bus,6
+boat,train,6
+book,clock,6
+book,refrigerator,6
+book,woman,6
+bottle,banana,6
+bottle,dog,6
+bowl,clock,6
+bowl,donut,6
+bowl,scissors,6
+bus,bicycle,6
+car,cell phone,6
+car,frisbee,6
+cat,toothbrush,6
+cat,umbrella,6
+cat,vase,6
+cell phone,car,6
+cell phone,scissors,6
+chair,teddy bear,6
+clock,book,6
+clock,bowl,6
+couch,suitcase,6
+couch,teddy bear,6
+dining table,mouse,6
+dog,bottle,6
+dog,suitcase,6
+donut,bowl,6
+donut,man,6
+donut,woman,6
+elephant,zebra,6
+fire hydrant,stop sign,6
+frisbee,car,6
+horse,sheep,6
+hot dog,man,6
+kite,surfboard,6
+man,donut,6
+man,hot dog,6
+microwave,toaster,6
+mouse,dining table,6
+orange,sink,6
+oven,tv,6
+potted plant,bench,6
+refrigerator,book,6
+refrigerator,woman,6
+remote,vase,6
+scissors,bowl,6
+scissors,cell phone,6
+scissors,spoon,6
+sheep,horse,6
+sink,apple,6
+sink,orange,6
+sink,woman,6
+spoon,scissors,6
+spoon,vase,6
+stop sign,fire hydrant,6
+suitcase,couch,6
+suitcase,dog,6
+surfboard,kite,6
+surfboard,woman,6
+teddy bear,chair,6
+teddy bear,couch,6
+toaster,microwave,6
+toothbrush,cat,6
+train,boat,6
+tv,oven,6
+umbrella,cat,6
+vase,cat,6
+vase,remote,6
+vase,spoon,6
+woman,book,6
+woman,donut,6
+woman,refrigerator,6
+woman,sink,6
+woman,surfboard,6
+zebra,elephant,6
+apple,oven,7
+banana,cup,7
+bed,vase,7
+boat,truck,7
+book,handbag,7
+broccoli,cup,7
+car,horse,7
+car,suitcase,7
+cat,teddy bear,7
+cell phone,dining table,7
+chair,sandwich,7
+chair,tie,7
+clock,tv,7
+cup,banana,7
+cup,broccoli,7
+cup,hot dog,7
+dining table,cell phone,7
+dog,remote,7
+fork,man,7
+frisbee,kite,7
+handbag,book,7
+horse,car,7
+hot dog,cup,7
+keyboard,scissors,7
+kite,frisbee,7
+man,fork,7
+man,sandwich,7
+man,sink,7
+man,teddy bear,7
+mouse,scissors,7
+oven,apple,7
+remote,dog,7
+sandwich,chair,7
+sandwich,man,7
+scissors,keyboard,7
+scissors,mouse,7
+sink,man,7
+suitcase,car,7
+suitcase,woman,7
+teddy bear,cat,7
+teddy bear,man,7
+tie,chair,7
+tie,woman,7
+toilet,vase,7
+truck,boat,7
+tv,clock,7
+vase,bed,7
+vase,toilet,7
+woman,suitcase,7
+woman,tie,7
+airplane,boat,8
+apple,knife,8
+bed,man,8
+bench,boat,8
+bicycle,dog,8
+bicycle,traffic light,8
+boat,airplane,8
+boat,bench,8
+book,man,8
+bottle,toaster,8
+bowl,cat,8
+broccoli,sandwich,8
+cake,vase,8
+cat,bowl,8
+chair,orange,8
+clock,traffic light,8
+dog,bicycle,8
+dog,horse,8
+dog,sheep,8
+dog,tv,8
+fire hydrant,traffic light,8
+frisbee,woman,8
+handbag,traffic light,8
+horse,dog,8
+knife,apple,8
+laptop,remote,8
+man,bed,8
+man,book,8
+man,spoon,8
+microwave,spoon,8
+motorcycle,traffic light,8
+orange,chair,8
+potted plant,remote,8
+refrigerator,spoon,8
+refrigerator,vase,8
+remote,laptop,8
+remote,potted plant,8
+sandwich,broccoli,8
+sheep,dog,8
+sink,toaster,8
+spoon,man,8
+spoon,microwave,8
+spoon,refrigerator,8
+toaster,bottle,8
+toaster,sink,8
+toothbrush,woman,8
+traffic light,bicycle,8
+traffic light,clock,8
+traffic light,fire hydrant,8
+traffic light,handbag,8
+traffic light,motorcycle,8
+tv,dog,8
+vase,cake,8
+vase,refrigerator,8
+woman,frisbee,8
+woman,toothbrush,8
+apple,bottle,9
+backpack,woman,9
+bed,dining table,9
+bench,handbag,9
+bicycle,cat,9
+bicycle,handbag,9
+bird,boat,9
+boat,bird,9
+boat,surfboard,9
+bottle,apple,9
+bottle,carrot,9
+bottle,couch,9
+broccoli,orange,9
+carrot,bottle,9
+cat,bicycle,9
+cat,dining table,9
+cat,potted plant,9
+clock,potted plant,9
+couch,bottle,9
+cup,scissors,9
+dining table,bed,9
+dining table,cat,9
+dog,truck,9
+fire hydrant,man,9
+handbag,bench,9
+handbag,bicycle,9
+keyboard,remote,9
+kite,woman,9
+knife,vase,9
+man,fire hydrant,9
+man,wine glass,9
+orange,broccoli,9
+orange,oven,9
+orange,vase,9
+oven,orange,9
+potted plant,cat,9
+potted plant,clock,9
+potted plant,toilet,9
+remote,keyboard,9
+scissors,cup,9
+surfboard,boat,9
+toilet,potted plant,9
+truck,dog,9
+vase,knife,9
+vase,orange,9
+wine glass,man,9
+woman,backpack,9
+woman,kite,9
+apple,carrot,10
+apple,potted plant,10
+backpack,car,10
+bed,potted plant,10
+boat,car,10
+book,bowl,10
+bowl,book,10
+broccoli,knife,10
+car,backpack,10
+car,boat,10
+carrot,apple,10
+cell phone,tie,10
+clock,vase,10
+couch,woman,10
+dining table,remote,10
+dining table,umbrella,10
+knife,broccoli,10
+man,refrigerator,10
+mouse,remote,10
+orange,potted plant,10
+oven,toaster,10
+oven,woman,10
+potted plant,apple,10
+potted plant,bed,10
+potted plant,orange,10
+potted plant,refrigerator,10
+refrigerator,man,10
+refrigerator,potted plant,10
+remote,dining table,10
+remote,mouse,10
+tie,cell phone,10
+toaster,oven,10
+umbrella,dining table,10
+vase,clock,10
+woman,couch,10
+woman,oven,10
+apple,cup,11
+bench,chair,11
+book,scissors,11
+bottle,cell phone,11
+bottle,scissors,11
+car,train,11
+cat,remote,11
+cell phone,bottle,11
+chair,bench,11
+chair,handbag,11
+couch,cup,11
+cup,apple,11
+cup,couch,11
+cup,toothbrush,11
+handbag,chair,11
+man,train,11
+oven,pizza,11
+pizza,oven,11
+remote,cat,11
+remote,woman,11
+scissors,book,11
+scissors,bottle,11
+toothbrush,cup,11
+train,car,11
+train,man,11
+woman,remote,11
+backpack,bicycle,12
+bicycle,backpack,12
+book,dog,12
+cake,chair,12
+chair,cake,12
+chair,suitcase,12
+clock,couch,12
+couch,clock,12
+dog,book,12
+spoon,woman,12
+suitcase,chair,12
+teddy bear,woman,12
+woman,spoon,12
+woman,teddy bear,12
+bench,dog,13
+book,suitcase,13
+bus,man,13
+bus,traffic light,13
+cake,donut,13
+cake,man,13
+couch,laptop,13
+cow,man,13
+cup,orange,13
+dog,bench,13
+donut,cake,13
+horse,woman,13
+knife,refrigerator,13
+laptop,couch,13
+laptop,woman,13
+man,bus,13
+man,cake,13
+man,cow,13
+orange,cup,13
+refrigerator,knife,13
+spoon,wine glass,13
+suitcase,book,13
+toilet,toothbrush,13
+toothbrush,toilet,13
+traffic light,bus,13
+vase,wine glass,13
+wine glass,spoon,13
+wine glass,vase,13
+wine glass,woman,13
+woman,horse,13
+woman,laptop,13
+woman,wine glass,13
+backpack,skis,14
+banana,man,14
+baseball bat,sports ball,14
+bed,suitcase,14
+book,teddy bear,14
+bottle,tv,14
+bowl,couch,14
+bus,train,14
+chair,clock,14
+clock,chair,14
+couch,bowl,14
+fire hydrant,truck,14
+man,banana,14
+man,oven,14
+oven,man,14
+skis,backpack,14
+sports ball,baseball bat,14
+suitcase,bed,14
+teddy bear,book,14
+train,bus,14
+truck,fire hydrant,14
+tv,bottle,14
+airplane,car,15
+bed,teddy bear,15
+bench,woman,15
+bottle,keyboard,15
+bottle,orange,15
+cake,spoon,15
+car,airplane,15
+car,cat,15
+cat,car,15
+chair,sports ball,15
+keyboard,bottle,15
+knife,microwave,15
+microwave,knife,15
+motorcycle,truck,15
+orange,bottle,15
+skis,snowboard,15
+snowboard,skis,15
+spoon,cake,15
+sports ball,chair,15
+teddy bear,bed,15
+truck,motorcycle,15
+woman,bench,15
+bed,woman,16
+bottle,laptop,16
+bottle,mouse,16
+broccoli,pizza,16
+broccoli,spoon,16
+cake,woman,16
+carrot,sandwich,16
+chair,pizza,16
+cow,dog,16
+dog,cow,16
+dog,teddy bear,16
+hot dog,sandwich,16
+knife,scissors,16
+laptop,bottle,16
+man,tv,16
+mouse,bottle,16
+pizza,broccoli,16
+pizza,chair,16
+sandwich,carrot,16
+sandwich,hot dog,16
+scissors,knife,16
+spoon,broccoli,16
+teddy bear,dog,16
+tv,man,16
+woman,bed,16
+woman,cake,16
+bed,laptop,17
+bed,tv,17
+bowl,pizza,17
+car,skateboard,17
+cell phone,remote,17
+couch,man,17
+cow,horse,17
+cup,donut,17
+donut,cup,17
+elephant,man,17
+horse,cow,17
+laptop,bed,17
+man,couch,17
+man,elephant,17
+pizza,bowl,17
+remote,cell phone,17
+skateboard,car,17
+tv,bed,17
+banana,dining table,18
+carrot,orange,18
+dining table,banana,18
+man,suitcase,18
+orange,carrot,18
+suitcase,man,18
+baseball glove,sports ball,19
+book,cat,19
+bowl,cake,19
+cake,bowl,19
+car,clock,19
+car,woman,19
+cat,book,19
+cell phone,cup,19
+chair,wine glass,19
+clock,car,19
+cup,cell phone,19
+dining table,microwave,19
+giraffe,zebra,19
+knife,man,19
+man,knife,19
+microwave,dining table,19
+pizza,woman,19
+sports ball,baseball glove,19
+stop sign,truck,19
+truck,stop sign,19
+wine glass,chair,19
+woman,car,19
+woman,pizza,19
+zebra,giraffe,19
+car,umbrella,20
+carrot,cup,20
+cat,mouse,20
+cup,carrot,20
+fork,woman,20
+mouse,cat,20
+umbrella,car,20
+woman,fork,20
+bottle,sandwich,21
+cat,chair,21
+cell phone,chair,21
+chair,cat,21
+chair,cell phone,21
+dining table,laptop,21
+laptop,dining table,21
+oven,potted plant,21
+pizza,wine glass,21
+potted plant,oven,21
+sandwich,bottle,21
+traffic light,train,21
+train,traffic light,21
+wine glass,pizza,21
+bench,man,22
+bowl,wine glass,22
+bowl,woman,22
+broccoli,fork,22
+carrot,knife,22
+cup,potted plant,22
+fork,broccoli,22
+knife,carrot,22
+knife,sandwich,22
+man,bench,22
+potted plant,cup,22
+sandwich,knife,22
+wine glass,bowl,22
+woman,bowl,22
+car,handbag,23
+chair,microwave,23
+handbag,car,23
+knife,woman,23
+man,pizza,23
+man,traffic light,23
+microwave,chair,23
+pizza,man,23
+traffic light,man,23
+woman,knife,23
+chair,spoon,24
+man,truck,24
+oven,vase,24
+spoon,chair,24
+truck,man,24
+vase,oven,24
+apple,dining table,25
+bottle,cat,25
+cat,bottle,25
+chair,tennis racket,25
+cow,sheep,25
+dining table,apple,25
+dining table,refrigerator,25
+knife,wine glass,25
+man,umbrella,25
+refrigerator,dining table,25
+sheep,cow,25
+tennis racket,chair,25
+umbrella,man,25
+wine glass,knife,25
+bed,book,26
+bicycle,motorcycle,26
+book,bed,26
+chair,umbrella,26
+motorcycle,bicycle,26
+sandwich,spoon,26
+sink,spoon,26
+spoon,sandwich,26
+spoon,sink,26
+umbrella,chair,26
+banana,bowl,27
+boat,man,27
+bottle,toilet,27
+bowl,banana,27
+bowl,man,27
+cat,toilet,27
+dining table,hot dog,27
+hot dog,dining table,27
+man,boat,27
+man,bowl,27
+toilet,bottle,27
+toilet,cat,27
+bottle,man,28
+carrot,fork,28
+cell phone,handbag,28
+fork,carrot,28
+handbag,cell phone,28
+laptop,man,28
+man,bottle,28
+man,laptop,28
+bicycle,car,29
+bottle,woman,29
+cake,cup,29
+car,bicycle,29
+cat,keyboard,29
+cat,sink,29
+chair,fork,29
+cup,cake,29
+cup,refrigerator,29
+dining table,tv,29
+dog,man,29
+fork,chair,29
+keyboard,cat,29
+man,dog,29
+refrigerator,cup,29
+sink,cat,29
+tv,dining table,29
+woman,bottle,29
+bottle,pizza,30
+cat,couch,30
+chair,dog,30
+couch,cat,30
+cup,microwave,30
+dog,chair,30
+knife,pizza,30
+microwave,cup,30
+pizza,bottle,30
+pizza,knife,30
+bottle,fork,31
+fork,bottle,31
+handbag,umbrella,31
+man,remote,31
+remote,man,31
+umbrella,handbag,31
+bus,truck,32
+dining table,donut,32
+donut,dining table,32
+truck,bus,32
+backpack,handbag,33
+cake,knife,33
+carrot,spoon,33
+cup,man,33
+fork,sandwich,33
+fork,wine glass,33
+handbag,backpack,33
+knife,cake,33
+knife,sink,33
+man,cup,33
+sandwich,fork,33
+sink,knife,33
+sink,toothbrush,33
+spoon,carrot,33
+toothbrush,sink,33
+wine glass,fork,33
+bottle,toothbrush,34
+cup,woman,34
+toothbrush,bottle,34
+woman,cup,34
+dining table,orange,35
+handbag,suitcase,35
+horse,man,35
+man,horse,35
+orange,dining table,35
+sports ball,woman,35
+suitcase,handbag,35
+tv,vase,35
+vase,tv,35
+woman,sports ball,35
+book,remote,37
+bottle,potted plant,37
+car,dog,37
+cup,vase,37
+dog,car,37
+potted plant,bottle,37
+remote,book,37
+vase,cup,37
+car,parking meter,38
+cat,suitcase,38
+chair,knife,38
+fork,pizza,38
+knife,chair,38
+knife,oven,38
+oven,knife,38
+parking meter,car,38
+pizza,fork,38
+suitcase,cat,38
+airplane,truck,39
+banana,orange,39
+book,bottle,39
+bottle,book,39
+bowl,microwave,39
+chair,refrigerator,39
+cup,tv,39
+microwave,bowl,39
+orange,banana,39
+refrigerator,chair,39
+truck,airplane,39
+tv,cup,39
+book,cell phone,41
+cat,tv,41
+cell phone,book,41
+tv,cat,41
+backpack,man,42
+bicycle,man,42
+cat,dog,42
+cell phone,tv,42
+dining table,sink,42
+dog,cat,42
+man,backpack,42
+man,bicycle,42
+sink,dining table,42
+sink,vase,42
+tv,cell phone,42
+vase,sink,42
+apple,bowl,43
+bowl,apple,43
+dining table,oven,43
+oven,dining table,43
+oven,spoon,43
+spoon,oven,43
+bed,dog,44
+cup,keyboard,44
+cup,laptop,44
+cup,mouse,44
+cup,pizza,44
+dining table,man,44
+dog,bed,44
+keyboard,cup,44
+laptop,cup,44
+man,dining table,44
+mouse,cup,44
+pizza,cup,44
+backpack,suitcase,45
+potted plant,sink,45
+sink,potted plant,45
+suitcase,backpack,45
+cat,laptop,46
+chair,remote,46
+handbag,man,46
+laptop,cat,46
+man,handbag,46
+potted plant,tv,46
+remote,chair,46
+tv,potted plant,46
+apple,banana,47
+banana,apple,47
+book,cup,47
+bottle,wine glass,47
+cup,book,47
+traffic light,truck,47
+truck,traffic light,47
+wine glass,bottle,47
+bottle,vase,48
+bowl,potted plant,48
+potted plant,bowl,48
+vase,bottle,48
+cake,fork,50
+fork,cake,50
+baseball bat,baseball glove,52
+baseball glove,baseball bat,52
+couch,dog,52
+dog,couch,52
+bed,couch,53
+book,potted plant,53
+book,vase,53
+bowl,orange,53
+bowl,sandwich,53
+car,fire hydrant,53
+cell phone,keyboard,53
+cell phone,mouse,53
+couch,bed,53
+dining table,woman,53
+fire hydrant,car,53
+keyboard,cell phone,53
+mouse,cell phone,53
+orange,bowl,53
+potted plant,book,53
+remote,tv,53
+sandwich,bowl,53
+tv,remote,53
+vase,book,53
+woman,dining table,53
+chair,oven,54
+oven,chair,54
+cell phone,laptop,55
+laptop,cell phone,55
+book,dining table,56
+cell phone,woman,56
+dining table,book,56
+woman,cell phone,56
+bowl,vase,57
+vase,bowl,57
+chair,sink,58
+cup,wine glass,58
+sink,chair,58
+wine glass,cup,58
+kite,man,59
+man,kite,59
+umbrella,woman,59
+woman,umbrella,59
+apple,orange,60
+bottle,spoon,60
+car,stop sign,60
+orange,apple,60
+spoon,bottle,60
+stop sign,car,60
+bottle,microwave,61
+couch,remote,61
+microwave,bottle,61
+remote,couch,61
+chair,woman,63
+woman,chair,63
+cell phone,man,65
+handbag,woman,65
+man,cell phone,65
+woman,handbag,65
+cup,oven,66
+fork,spoon,66
+oven,cup,66
+spoon,fork,66
+car,motorcycle,68
+motorcycle,car,68
+bowl,refrigerator,69
+cup,sandwich,69
+knife,spoon,69
+refrigerator,bowl,69
+sandwich,cup,69
+spoon,knife,69
+carrot,dining table,70
+dining table,carrot,70
+baseball glove,man,71
+bottle,knife,71
+bus,car,71
+car,bus,71
+knife,bottle,71
+man,baseball glove,71
+frisbee,man,73
+man,frisbee,73
+baseball bat,man,74
+man,baseball bat,74
+man,snowboard,74
+snowboard,man,74
+bed,cat,75
+cat,bed,75
+chair,keyboard,76
+keyboard,chair,76
+dog,frisbee,79
+frisbee,dog,79
+tennis racket,woman,79
+woman,tennis racket,79
+chair,mouse,81
+mouse,chair,81
+microwave,refrigerator,82
+refrigerator,microwave,82
+bowl,fork,85
+fork,bowl,85
+dining table,wine glass,87
+wine glass,dining table,87
+bowl,broccoli,88
+broccoli,bowl,88
+couch,dining table,91
+dining table,couch,91
+chair,man,93
+cup,sink,93
+man,chair,93
+sink,cup,93
+broccoli,dining table,94
+dining table,broccoli,94
+dining table,potted plant,94
+man,motorcycle,94
+motorcycle,man,94
+potted plant,dining table,94
+bed,chair,96
+bottle,chair,96
+chair,bed,96
+chair,bottle,96
+microwave,sink,96
+sink,microwave,96
+book,laptop,99
+laptop,book,99
+broccoli,carrot,100
+carrot,broccoli,100
+bowl,knife,101
+couch,vase,101
+knife,bowl,101
+vase,couch,101
+chair,laptop,102
+laptop,chair,102
+book,keyboard,104
+bowl,chair,104
+chair,bowl,104
+keyboard,book,104
+book,mouse,105
+mouse,book,105
+fork,knife,106
+knife,fork,106
+car,man,107
+couch,potted plant,107
+dining table,vase,107
+man,car,107
+potted plant,couch,107
+vase,dining table,107
+bowl,carrot,108
+carrot,bowl,108
+bowl,sink,110
+sink,bowl,110
+cup,fork,112
+fork,cup,112
+cup,knife,113
+knife,cup,113
+cake,dining table,115
+dining table,cake,115
+man,skis,117
+skis,man,117
+refrigerator,sink,118
+sink,refrigerator,118
+man,sports ball,121
+sports ball,man,121
+man,woman,122
+sports ball,tennis racket,122
+tennis racket,sports ball,122
+woman,man,122
+chair,cup,124
+cup,chair,124
+dining table,sandwich,126
+sandwich,dining table,126
+bottle,refrigerator,127
+refrigerator,bottle,127
+cup,spoon,135
+spoon,cup,135
+bowl,oven,137
+dining table,spoon,137
+oven,bowl,137
+spoon,dining table,137
+couch,tv,141
+tv,couch,141
+microwave,oven,142
+oven,microwave,142
+book,couch,144
+couch,book,144
+dining table,knife,144
+knife,dining table,144
+bottle,oven,147
+dining table,pizza,147
+oven,bottle,147
+pizza,dining table,147
+bottle,dining table,148
+dining table,bottle,148
+laptop,tv,152
+tv,laptop,152
+man,tie,153
+tie,man,153
+man,surfboard,157
+oven,refrigerator,157
+refrigerator,oven,157
+surfboard,man,157
+chair,vase,165
+man,skateboard,165
+skateboard,man,165
+vase,chair,165
+chair,potted plant,167
+potted plant,chair,167
+man,tennis racket,168
+tennis racket,man,168
+book,tv,177
+bowl,spoon,177
+spoon,bowl,177
+tv,book,177
+keyboard,laptop,179
+laptop,keyboard,179
+car,traffic light,192
+traffic light,car,192
+laptop,mouse,193
+mouse,laptop,193
+bottle,bowl,201
+bowl,bottle,201
+dining table,fork,207
+fork,dining table,207
+book,chair,212
+chair,book,212
+mouse,tv,212
+oven,sink,212
+sink,oven,212
+tv,mouse,212
+bottle,sink,219
+sink,bottle,219
+keyboard,tv,220
+tv,keyboard,220
+chair,tv,221
+tv,chair,221
+bottle,cup,237
+cup,bottle,237
+potted plant,vase,241
+vase,potted plant,241
+car,truck,249
+truck,car,249
+bowl,cup,269
+cup,bowl,269
+chair,dining table,278
+dining table,chair,278
+keyboard,mouse,282
+mouse,keyboard,282
+chair,couch,327
+couch,chair,327
+bowl,dining table,330
+dining table,bowl,330
+cup,dining table,355
+dining table,cup,355
+sink,toilet,367
+toilet,sink,367

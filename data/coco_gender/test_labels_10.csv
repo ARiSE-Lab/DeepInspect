@@ -1,0 +1,1694 @@
+image_file,labels
+COCO_val2014_000000398781.jpg,man;surfboard
+COCO_val2014_000000434900.jpg,tv;tv;tv;tv;tv;tv;tv;tv;tv;mouse;mouse;mouse;keyboard;keyboard;keyboard;chair;tv;tv;tv;keyboard;keyboard;keyboard;keyboard;chair;chair;tv;laptop;mouse;mouse
+COCO_val2014_000000402795.jpg,cell phone;chair;woman;handbag;backpack
+COCO_val2014_000000503755.jpg,woman;tennis racket
+COCO_val2014_000000145512.jpg,potted plant;potted plant;cat;bowl;vase;potted plant;book;book;book;book;book;book;book;book;book;book;book;vase;bowl;book;book;book
+COCO_val2014_000000024610.jpg,chair;couch;laptop;book;book;book;book;book;book;book;book;backpack;bottle;chair;chair;book
+COCO_val2014_000000498997.jpg,man;book;book;book;book;book;book;book;book;book;book;book;chair;keyboard;laptop;book;book;book
+COCO_val2014_000000014306.jpg,tv;laptop;mouse;keyboard;keyboard;tv
+COCO_val2014_000000143247.jpg,potted plant;bottle;couch;chair;cup;book;book;book;vase;vase
+COCO_val2014_000000396178.jpg,tv;mouse;keyboard
+COCO_val2014_000000427055.jpg,clock;car;car;car;car;stop sign;car;car;car
+COCO_val2014_000000342711.jpg,woman;tennis racket
+COCO_val2014_000000305781.jpg,cell phone;cell phone;man;laptop
+COCO_val2014_000000276945.jpg,oven;oven
+COCO_val2014_000000449043.jpg,clock;clock
+COCO_val2014_000000162914.jpg,clock;clock
+COCO_val2014_000000306426.jpg,woman;scissors
+COCO_val2014_000000194184.jpg,truck;woman;banana;car;car;car;truck;woman;traffic light;traffic light;traffic light;traffic light;handbag;apple;apple;apple;apple;chair;truck;truck;apple;car;banana;orange;banana;apple;apple;apple
+COCO_val2014_000000075595.jpg,man;bench;handbag
+COCO_val2014_000000517018.jpg,bottle;sink
+COCO_val2014_000000088988.jpg,spoon;keyboard;microwave;oven;sink;sink;bottle;cup;knife;knife;knife;knife;knife;knife;cup;cup;cup
+COCO_val2014_000000319055.jpg,dog;car;traffic light;traffic light;traffic light;traffic light;woman;woman;woman;handbag;woman;car;traffic light;traffic light
+COCO_val2014_000000451559.jpg,bicycle;bench;backpack;backpack
+COCO_val2014_000000185546.jpg,cup;toilet;sink
+COCO_val2014_000000394009.jpg,toilet;sink;sink;sink
+COCO_val2014_000000045099.jpg,potted plant;woman;bottle;wine glass;wine glass;toilet;sink;handbag;cup
+COCO_val2014_000000412753.jpg,toilet;sink;sink;toilet
+COCO_val2014_000000254864.jpg,fire hydrant;car;car
+COCO_val2014_000000079689.jpg,toilet;man;chair
+COCO_val2014_000000444576.jpg,dog;man;car
+COCO_val2014_000000304379.jpg,tie;man;car;car
+COCO_val2014_000000260635.jpg,toilet;laptop
+COCO_val2014_000000578203.jpg,apple;apple;orange;bowl;apple;apple
+COCO_val2014_000000543192.jpg,apple;apple;apple;orange;bowl;orange
+COCO_val2014_000000569705.jpg,airplane
+COCO_val2014_000000231582.jpg,airplane;man
+COCO_val2014_000000502599.jpg,airplane;airplane;airplane
+COCO_val2014_000000382699.jpg,traffic light;traffic light;traffic light;traffic light
+COCO_val2014_000000291330.jpg,giraffe;bird;bird
+COCO_val2014_000000144167.jpg,traffic light
+COCO_val2014_000000075187.jpg,woman;bench
+COCO_val2014_000000222053.jpg,bench
+COCO_val2014_000000532159.jpg,stop sign;car;car;car;car
+COCO_val2014_000000351903.jpg,giraffe;giraffe
+COCO_val2014_000000461522.jpg,giraffe;giraffe
+COCO_val2014_000000361571.jpg,dog
+COCO_val2014_000000069860.jpg,stop sign
+COCO_val2014_000000334513.jpg,car;train
+COCO_val2014_000000441863.jpg,
+COCO_val2014_000000406377.jpg,train
+COCO_val2014_000000433774.jpg,traffic light;parking meter;parking meter;car;car;traffic light;traffic light
+COCO_val2014_000000137507.jpg,cat;couch
+COCO_val2014_000000122213.jpg,cat;chair;sink
+COCO_val2014_000000366782.jpg,boat;clock;man;man;man;man;man;man;man;man;man;man;man;man;man
+COCO_val2014_000000434786.jpg,tie;man
+COCO_val2014_000000482605.jpg,tie;man
+COCO_val2014_000000064183.jpg,umbrella;car;car;woman;woman;woman;woman;woman;woman;woman;woman;woman;woman;woman;fire hydrant;woman;woman
+COCO_val2014_000000186240.jpg,elephant;man;man;elephant
+COCO_val2014_000000021779.jpg,woman;suitcase;backpack
+COCO_val2014_000000201764.jpg,suitcase
+COCO_val2014_000000197616.jpg,laptop;mouse;bed;teddy bear;teddy bear
+COCO_val2014_000000150812.jpg,bear
+COCO_val2014_000000545730.jpg,zebra;zebra;zebra;zebra;zebra;zebra;zebra;zebra;zebra
+COCO_val2014_000000365139.jpg,dog;cup;pizza;sink
+COCO_val2014_000000288576.jpg,bicycle;man;frisbee
+COCO_val2014_000000102367.jpg,dog;dog;dog
+COCO_val2014_000000429996.jpg,zebra
+COCO_val2014_000000140295.jpg,zebra;zebra;zebra
+COCO_val2014_000000557220.jpg,zebra;zebra
+COCO_val2014_000000141453.jpg,horse;horse;man
+COCO_val2014_000000488251.jpg,horse;man;man;car;car;bus
+COCO_val2014_000000299533.jpg,horse;horse;horse
+COCO_val2014_000000107227.jpg,horse;woman
+COCO_val2014_000000358247.jpg,woman;woman;banana;banana;banana;banana;banana;banana;banana;woman;banana;banana
+COCO_val2014_000000121897.jpg,man;man;man;man;baseball bat;man;man;baseball glove;baseball glove;baseball glove
+COCO_val2014_000000388066.jpg,sandwich;sandwich;cup;fork;knife;keyboard
+COCO_val2014_000000409042.jpg,potted plant;bowl;apple;orange;orange;orange;orange;vase;apple;orange;dining table
+COCO_val2014_000000062554.jpg,dining table;fork;bowl;broccoli;bowl;bowl
+COCO_val2014_000000485201.jpg,man;backpack;skis;skis
+COCO_val2014_000000138954.jpg,apple;dining table
+COCO_val2014_000000000776.jpg,teddy bear;teddy bear;teddy bear;bed
+COCO_val2014_000000473121.jpg,man;skis
+COCO_val2014_000000005032.jpg,woman;woman;skis;skis
+COCO_val2014_000000243148.jpg,woman;skis;skis;woman
+COCO_val2014_000000118344.jpg,chair;chair;knife;knife;knife;knife;knife;spoon;bowl;carrot;carrot;carrot;carrot;dining table;fork;bowl;carrot;carrot;carrot;cake;chair;spoon;bowl
+COCO_val2014_000000284421.jpg,man;skateboard
+COCO_val2014_000000438505.jpg,sandwich;sandwich;dining table
+COCO_val2014_000000020465.jpg,hot dog;dining table
+COCO_val2014_000000065383.jpg,sports ball;car;car;man;man;man;truck;man;car
+COCO_val2014_000000264853.jpg,tennis racket;man
+COCO_val2014_000000445999.jpg,woman;toothbrush
+COCO_val2014_000000147667.jpg,woman;tennis racket;sports ball;woman;woman
+COCO_val2014_000000143926.jpg,woman;kite;kite
+COCO_val2014_000000426836.jpg,man;kite
+COCO_val2014_000000383748.jpg,clock
+COCO_val2014_000000197279.jpg,clock;car;car;car;car;car;car;car
+COCO_val2014_000000384949.jpg,bird;bird;bird;bird;bird;bird;boat;boat;boat;bird;bird;bird;clock;boat
+COCO_val2014_000000374829.jpg,baseball bat;baseball glove;man;man;man;man;man;man;man;man;bench;chair;chair;chair;chair;chair;man;man;man;man;chair;chair;chair;chair;chair;chair;chair;man;chair;man;chair
+COCO_val2014_000000530337.jpg,sports ball;woman;tennis racket;woman;woman;woman;woman;woman
+COCO_val2014_000000023584.jpg,woman;tennis racket
+COCO_val2014_000000123545.jpg,sports ball;sports ball;sports ball;tennis racket;man;man;tennis racket
+COCO_val2014_000000418961.jpg,clock
+COCO_val2014_000000296151.jpg,teddy bear;teddy bear;teddy bear;teddy bear
+COCO_val2014_000000126141.jpg,teddy bear;teddy bear;couch;teddy bear;teddy bear
+COCO_val2014_000000031606.jpg,refrigerator;refrigerator;potted plant;potted plant;potted plant;potted plant
+COCO_val2014_000000220981.jpg,cell phone
+COCO_val2014_000000542511.jpg,clock
+COCO_val2014_000000305526.jpg,clock;clock
+COCO_val2014_000000180729.jpg,chair;woman;cup;cup;spoon;spoon;bowl;bowl;sandwich;sandwich;dining table;dining table
+COCO_val2014_000000016896.jpg,potted plant;refrigerator;bottle;bottle;bowl;bottle;bowl;bottle;dining table
+COCO_val2014_000000568265.jpg,car;car;car;man;man;man;car;traffic light;bench;kite;man;man;man;man;man;man;bench;man;man;train;man;car;bench;man;man
+COCO_val2014_000000505728.jpg,bottle;refrigerator;bottle;bottle;bottle;cup;bowl;oven;bottle;bottle;cup;cup;cup;spoon;woman;cup;bowl;cake;bottle;bottle;bottle;bottle;cake;bowl
+COCO_val2014_000000050655.jpg,toilet;sink;toilet
+COCO_val2014_000000437392.jpg,toilet
+COCO_val2014_000000449879.jpg,motorcycle;man;cat
+COCO_val2014_000000198563.jpg,cat;toilet
+COCO_val2014_000000108283.jpg,toilet
+COCO_val2014_000000359203.jpg,bench
+COCO_val2014_000000580975.jpg,motorcycle;motorcycle;motorcycle;motorcycle;motorcycle;motorcycle;motorcycle
+COCO_val2014_000000101656.jpg,motorcycle;man
+COCO_val2014_000000370325.jpg,airplane
+COCO_val2014_000000355234.jpg,dog;sheep;sheep;sheep;woman;woman;woman;woman;handbag;woman;woman;woman;dog;dog;dog;chair;chair;dog;woman;chair
+COCO_val2014_000000140691.jpg,zebra;giraffe;giraffe;giraffe;zebra
+COCO_val2014_000000333412.jpg,chair;chair;chair;chair;potted plant;potted plant;potted plant;potted plant;potted plant;bench;potted plant;potted plant
+COCO_val2014_000000404931.jpg,bus;bus;bus;bus;bus;bus;bus;bus;bus;bus;bus;bus;bus
+COCO_val2014_000000349676.jpg,man;giraffe;giraffe
+COCO_val2014_000000416543.jpg,car;car;car;car;car;bus;truck
+COCO_val2014_000000296865.jpg,sheep;sheep;sheep
+COCO_val2014_000000352481.jpg,bus
+COCO_val2014_000000092604.jpg,
+COCO_val2014_000000318550.jpg,car;car;car;car;car;car;car;car;train;train;truck;truck;traffic light;car;car;car;car;car;truck;car
+COCO_val2014_000000228290.jpg,bird;bird;bird;bird;bird
+COCO_val2014_000000220058.jpg,train
+COCO_val2014_000000281512.jpg,stop sign;car;man;man;man;car;car;fire hydrant;man
+COCO_val2014_000000322831.jpg,train
+COCO_val2014_000000464130.jpg,boat;truck;car;car;truck;truck;boat;boat;boat;car;car
+COCO_val2014_000000373848.jpg,chair;dining table;cell phone
+COCO_val2014_000000581033.jpg,cat;man
+COCO_val2014_000000465093.jpg,cat
+COCO_val2014_000000184606.jpg,dog;boat
+COCO_val2014_000000304941.jpg,cat;remote;couch;bed
+COCO_val2014_000000298656.jpg,cow;cow;cow;cow;cow;cow
+COCO_val2014_000000277227.jpg,car;boat;boat;boat
+COCO_val2014_000000274219.jpg,tie;man
+COCO_val2014_000000330478.jpg,woman;suitcase;handbag
+COCO_val2014_000000183997.jpg,boat;boat;boat;boat;boat;boat;boat;boat;boat;boat;boat;boat;boat;boat
+COCO_val2014_000000563337.jpg,dog;frisbee
+COCO_val2014_000000356949.jpg,zebra;zebra
+COCO_val2014_000000170048.jpg,man;frisbee
+COCO_val2014_000000560880.jpg,dog;horse;horse;man
+COCO_val2014_000000127920.jpg,horse
+COCO_val2014_000000461172.jpg,bowl;banana;banana;orange;carrot;carrot;orange;dining table;carrot;carrot
+COCO_val2014_000000414576.jpg,sports ball;sports ball;man;man;man;man;man;man;man;baseball glove;man;man;man;man;man;man;man
+COCO_val2014_000000166320.jpg,orange;orange;orange;orange;apple;apple;apple
+COCO_val2014_000000115243.jpg,man;backpack;man;man;skis
+COCO_val2014_000000190033.jpg,broccoli
+COCO_val2014_000000324962.jpg,woman;woman;skateboard
+COCO_val2014_000000438905.jpg,fork;knife;spoon;bowl;carrot;carrot;carrot;carrot
+COCO_val2014_000000254638.jpg,skateboard;man
+COCO_val2014_000000516875.jpg,hot dog;hot dog;woman
+COCO_val2014_000000036230.jpg,bottle;bottle;woman;woman;fork;cake;handbag;cake;handbag
+COCO_val2014_000000119773.jpg,man;man;surfboard
+COCO_val2014_000000573565.jpg,cup;spoon;dining table;tv;cake
+COCO_val2014_000000407162.jpg,dining table;pizza
+COCO_val2014_000000570947.jpg,fork;knife;pizza;bottle;dining table
+COCO_val2014_000000053183.jpg,dining table;woman;cup;fork;fork;knife;spoon;pizza;cup;knife;bowl;bowl;bowl;bowl;bench;woman
+COCO_val2014_000000088895.jpg,man;tennis racket;sports ball
+COCO_val2014_000000040018.jpg,couch;chair;chair;cup;vase;cup;chair;vase;chair;couch;vase;vase;vase;vase;vase;cup;couch
+COCO_val2014_000000173117.jpg,baseball bat;man
+COCO_val2014_000000353028.jpg,cup;fork;knife;pizza;dining table;spoon
+COCO_val2014_000000004265.jpg,potted plant;potted plant;cup;vase;car;car;car;vase;vase;vase;vase;car
+COCO_val2014_000000354460.jpg,scissors;scissors;scissors;scissors;woman;woman;woman;woman;woman;woman;woman
+COCO_val2014_000000115361.jpg,teddy bear
+COCO_val2014_000000094846.jpg,cell phone;chair;man;laptop;man;chair;chair;chair
+COCO_val2014_000000363986.jpg,chair;chair;chair;dining table;fork;knife;dining table;dining table;vase;vase;wine glass;wine glass;wine glass;wine glass;wine glass;wine glass;wine glass;wine glass;wine glass;wine glass;wine glass;wine glass;fork;knife;knife;knife;knife;chair;chair;chair;chair;chair;chair;chair;wine glass;fork;fork;fork;fork;fork;fork;fork;chair;dining table;dining table;dining table;vase;wine glass;knife;chair;vase;knife;wine glass;chair
+COCO_val2014_000000200882.jpg,clock
+COCO_val2014_000000577552.jpg,oven
+COCO_val2014_000000423990.jpg,clock
+COCO_val2014_000000357432.jpg,clock;clock
+COCO_val2014_000000272728.jpg,vase;chair;potted plant;dining table
+COCO_val2014_000000379892.jpg,chair;chair;vase;dining table;dining table
+COCO_val2014_000000276488.jpg,bottle;dining table;sandwich;mouse;cake
+COCO_val2014_000000225963.jpg,man;cup;fork;sink;cup;spoon;bowl;man
+COCO_val2014_000000167724.jpg,bottle;spoon;woman
+COCO_val2014_000000243857.jpg,microwave;oven;sink;knife;knife;knife;knife;bowl;bowl;bowl;vase
+COCO_val2014_000000466981.jpg,car;man;hair drier;car
+COCO_val2014_000000499842.jpg,laptop;mouse;keyboard;tv
+COCO_val2014_000000309836.jpg,airplane
+COCO_val2014_000000005477.jpg,airplane;airplane
+COCO_val2014_000000401163.jpg,dog;man;man;bench;man
+COCO_val2014_000000104619.jpg,giraffe
+COCO_val2014_000000378327.jpg,knife;knife
+COCO_val2014_000000270381.jpg,bench
+COCO_val2014_000000062875.jpg,dog;sheep;sheep;sheep;sheep
+COCO_val2014_000000286327.jpg,dog;sheep;sheep;man;sheep;sheep;sheep;sheep
+COCO_val2014_000000329375.jpg,sheep;sheep;sheep
+COCO_val2014_000000301380.jpg,sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep
+COCO_val2014_000000211063.jpg,bird
+COCO_val2014_000000047395.jpg,bird;traffic light
+COCO_val2014_000000036414.jpg,bird;bird;bird
+COCO_val2014_000000250680.jpg,bird;bird
+COCO_val2014_000000491985.jpg,cat;bed
+COCO_val2014_000000022423.jpg,man;elephant
+COCO_val2014_000000523245.jpg,cow;cow;man;man
+COCO_val2014_000000283147.jpg,
+COCO_val2014_000000362391.jpg,train;train;train;train
+COCO_val2014_000000431896.jpg,train
+COCO_val2014_000000485406.jpg,parking meter;parking meter
+COCO_val2014_000000214648.jpg,umbrella;dining table;dining table;parking meter;parking meter;man;bench;bench;bench;bench
+COCO_val2014_000000171539.jpg,dog;woman;woman;woman;car;truck
+COCO_val2014_000000337133.jpg,horse;man;dog;cow
+COCO_val2014_000000219485.jpg,cat
+COCO_val2014_000000448703.jpg,truck;cup
+COCO_val2014_000000340841.jpg,tv;cat;bottle;book;man;book;book;couch
+COCO_val2014_000000213586.jpg,tie;man
+COCO_val2014_000000071738.jpg,tie;chair;chair;man;man;man;man;man;man;man;chair;chair;chair;chair
+COCO_val2014_000000056437.jpg,man;tie
+COCO_val2014_000000145751.jpg,tie;chair;chair;man;man;cup;chair
+COCO_val2014_000000257896.jpg,tie;man
+COCO_val2014_000000104544.jpg,elephant;elephant
+COCO_val2014_000000198349.jpg,umbrella;umbrella
+COCO_val2014_000000042413.jpg,tie;man;man
+COCO_val2014_000000487741.jpg,dog;bed
+COCO_val2014_000000353446.jpg,umbrella;umbrella;chair;chair;chair
+COCO_val2014_000000093419.jpg,bear
+COCO_val2014_000000323468.jpg,zebra;zebra;zebra;zebra;zebra;zebra;zebra;zebra;zebra;zebra;zebra;zebra
+COCO_val2014_000000116589.jpg,zebra;zebra;zebra
+COCO_val2014_000000029306.jpg,dog
+COCO_val2014_000000234614.jpg,banana;orange;orange;orange
+COCO_val2014_000000566096.jpg,man;man;man;man;man;man;skis;man;man;man;man;man;man;man;man
+COCO_val2014_000000020906.jpg,sandwich;banana;banana;banana;banana;banana
+COCO_val2014_000000209130.jpg,sports ball;man;man;man;man;man;man;man;baseball bat;baseball glove;man;chair;chair;chair;chair;chair;chair;chair;chair;chair;chair;chair;book;man;man;man;man;man;man
+COCO_val2014_000000199319.jpg,banana
+COCO_val2014_000000486491.jpg,baseball glove;man;man;man;man;man;man;man;man;man;man;baseball glove;baseball glove
+COCO_val2014_000000337160.jpg,baseball bat;baseball bat;baseball glove;man;man;man;man;man;man;man;man;man;man;man;man;man;man
+COCO_val2014_000000398339.jpg,broccoli
+COCO_val2014_000000374734.jpg,man;skis
+COCO_val2014_000000167273.jpg,car;car;skateboard;man;man;bench
+COCO_val2014_000000467500.jpg,fork;carrot;carrot;carrot;carrot;carrot;carrot;dining table
+COCO_val2014_000000356586.jpg,donut;donut;donut;donut;dining table
+COCO_val2014_000000061967.jpg,man;chair;cup
+COCO_val2014_000000029151.jpg,woman;surfboard
+COCO_val2014_000000387286.jpg,man;boat;boat
+COCO_val2014_000000561517.jpg,fork;knife;broccoli;cup;dining table;sandwich;sandwich
+COCO_val2014_000000493864.jpg,man;man;man;surfboard;surfboard;surfboard
+COCO_val2014_000000537025.jpg,bed
+COCO_val2014_000000445908.jpg,sports ball;woman;tennis racket
+COCO_val2014_000000330880.jpg,chair;dining table;man;man;man;man;man;pizza;man;man;bottle;fork;man;man;chair;chair;chair;chair;chair;chair;chair;dining table;dining table;dining table;dining table;dining table;man;man;knife
+COCO_val2014_000000497009.jpg,bottle;chair;dining table;man;man;man;cup;cup;cup;fork;fork;pizza;pizza;knife;knife;cup;knife;pizza;dining table
+COCO_val2014_000000471117.jpg,sports ball;sports ball;man;tennis racket;tennis racket;man
+COCO_val2014_000000491856.jpg,potted plant;potted plant;tv;couch;chair;book;book;cup;cup;cup;bowl;bowl;bowl;bowl;book;book;vase
+COCO_val2014_000000248019.jpg,vase
+COCO_val2014_000000485673.jpg,baseball bat;baseball glove;baseball glove;man;man;man;man;man;man;man;man;man;man;man;sports ball;man;baseball bat;man;man
+COCO_val2014_000000071563.jpg,tv;bottle;bottle;cup;laptop;mouse;keyboard;cup
+COCO_val2014_000000175688.jpg,clock
+COCO_val2014_000000399702.jpg,sandwich;dining table;cup;bowl;bowl;cup;cup;cup
+COCO_val2014_000000201111.jpg,bottle;bottle;chair;chair;dining table;woman;cup;microwave;oven;sink;bottle;bottle;chair;chair;chair;cup
+COCO_val2014_000000035705.jpg,couch;woman;laptop;laptop;book;scissors;book;book;book;book;book
+COCO_val2014_000000083097.jpg,bowl;bowl;banana;microwave;oven;book;couch;banana
+COCO_val2014_000000085390.jpg,man;cup;clock;cell phone;microwave
+COCO_val2014_000000136770.jpg,bicycle;man;man
+COCO_val2014_000000238090.jpg,toilet
+COCO_val2014_000000219657.jpg,toilet
+COCO_val2014_000000364783.jpg,potted plant;toilet;sink;bottle;cup;chair;toothbrush;cup;cup;bottle;cup;potted plant
+COCO_val2014_000000435005.jpg,toilet;sink;sink
+COCO_val2014_000000106739.jpg,bicycle;car;man;man;stop sign;man;car
+COCO_val2014_000000346904.jpg,car;car;bus;bus;bus;car;stop sign
+COCO_val2014_000000411093.jpg,car;boat;boat
+COCO_val2014_000000211756.jpg,spoon;bowl;bowl;banana;orange;orange;banana
+COCO_val2014_000000411908.jpg,bird;bird;motorcycle;man;man;man;man;man;bird;man;bird;bird;bird;bird;bird;man
+COCO_val2014_000000538465.jpg,giraffe;giraffe
+COCO_val2014_000000327857.jpg,airplane
+COCO_val2014_000000498857.jpg,giraffe
+COCO_val2014_000000451940.jpg,giraffe;giraffe
+COCO_val2014_000000173445.jpg,sheep;sheep;sheep;sheep
+COCO_val2014_000000247914.jpg,potted plant;potted plant
+COCO_val2014_000000350157.jpg,car;car;car;car;car;car;car;traffic light;woman;backpack;car;car;car;car;truck;truck;woman;car;woman;car
+COCO_val2014_000000323758.jpg,train;train
+COCO_val2014_000000120282.jpg,bird;bird;bird;bird;bird;bird;bird
+COCO_val2014_000000353489.jpg,train
+COCO_val2014_000000516879.jpg,cat;knife
+COCO_val2014_000000264180.jpg,cow;cow
+COCO_val2014_000000376059.jpg,tie;man
+COCO_val2014_000000387355.jpg,bear
+COCO_val2014_000000547502.jpg,dog;dog;dog;dog;frisbee
+COCO_val2014_000000090003.jpg,dog;dog;frisbee
+COCO_val2014_000000016064.jpg,man;man;man;man;man;man;man;man;man;man;man;man;frisbee;man
+COCO_val2014_000000406451.jpg,horse;car;car;car;car;car;car;traffic light;traffic light
+COCO_val2014_000000581253.jpg,zebra
+COCO_val2014_000000321062.jpg,orange;orange;orange;orange;orange;orange;orange
+COCO_val2014_000000577451.jpg,banana;apple;apple;apple;orange;orange;orange
+COCO_val2014_000000113113.jpg,banana;banana;orange;orange;orange;banana;apple;apple;apple;apple;apple;apple;orange;bowl
+COCO_val2014_000000344844.jpg,bench;bench;bench;truck
+COCO_val2014_000000307480.jpg,orange;orange;orange;orange;orange;orange;orange;orange;orange;orange;orange;orange;orange
+COCO_val2014_000000130579.jpg,man;baseball glove
+COCO_val2014_000000264540.jpg,broccoli;broccoli;broccoli;broccoli;broccoli;zebra;broccoli;broccoli
+COCO_val2014_000000154155.jpg,apple;apple;apple;apple;apple;banana;banana
+COCO_val2014_000000345288.jpg,man;snowboard
+COCO_val2014_000000301221.jpg,dining table;cup;knife;bowl;bowl;pizza;man;cup
+COCO_val2014_000000289263.jpg,woman;surfboard
+COCO_val2014_000000247587.jpg,car;man;man;man;surfboard;car;car;man
+COCO_val2014_000000463802.jpg,man;tennis racket;teddy bear
+COCO_val2014_000000363241.jpg,woman;pizza;fork;knife;pizza;dining table;bowl
+COCO_val2014_000000396068.jpg,tv;woman;woman;remote;woman
+COCO_val2014_000000509824.jpg,couch;bowl;vase;vase;bowl;bowl;book;book
+COCO_val2014_000000157960.jpg,tv;man;man;wine glass;remote;cup;couch
+COCO_val2014_000000186282.jpg,tv;mouse;keyboard
+COCO_val2014_000000573819.jpg,man;man;man;man;laptop;laptop;chair;chair;laptop;man;chair;chair
+COCO_val2014_000000181409.jpg,baseball bat;man;man;man;man;man;man;man;man;man;man;man;baseball glove;man;man;man
+COCO_val2014_000000140634.jpg,sports ball;man;man;baseball bat;baseball glove;man
+COCO_val2014_000000545039.jpg,dining table;cup;fork;knife;knife;pizza;cup
+COCO_val2014_000000232187.jpg,woman;woman;woman;woman;tennis racket;sports ball;sports ball
+COCO_val2014_000000215170.jpg,cell phone;cell phone;cell phone;cell phone;cell phone;cell phone;cell phone;cell phone;cell phone;cell phone;cell phone;cell phone;cell phone;cell phone
+COCO_val2014_000000151790.jpg,cup;scissors
+COCO_val2014_000000028285.jpg,clock
+COCO_val2014_000000300403.jpg,tv;tv;bottle;bottle;cell phone;cell phone;dining table;cup;cup;cup;fork;bowl;bowl;woman;woman;woman;woman;woman;woman;woman;woman;woman;woman;woman;woman;wine glass;cup;cup;woman;fork;cup
+COCO_val2014_000000079261.jpg,clock;man;man;man;man;man;man;man;man;man;man;backpack;backpack;backpack;handbag;handbag;man;handbag;handbag;man;man;man
+COCO_val2014_000000163447.jpg,potted plant;potted plant;vase;vase
+COCO_val2014_000000158795.jpg,bicycle;bicycle;man;backpack
+COCO_val2014_000000496099.jpg,bottle;bottle;refrigerator;chair;chair;chair;chair;dining table
+COCO_val2014_000000289992.jpg,sink
+COCO_val2014_000000563311.jpg,clock
+COCO_val2014_000000183657.jpg,bowl;orange
+COCO_val2014_000000488385.jpg,motorcycle;motorcycle
+COCO_val2014_000000489264.jpg,tv;couch;chair;chair;vase;vase
+COCO_val2014_000000192616.jpg,tv;chair;couch;backpack;dining table;book;book;vase;chair;chair;book;book
+COCO_val2014_000000566042.jpg,giraffe;giraffe;giraffe;giraffe;giraffe;giraffe
+COCO_val2014_000000347367.jpg,airplane
+COCO_val2014_000000334542.jpg,sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep
+COCO_val2014_000000406189.jpg,giraffe;giraffe;giraffe;giraffe;giraffe;giraffe;giraffe;giraffe;giraffe;giraffe
+COCO_val2014_000000098261.jpg,bird;bird
+COCO_val2014_000000066519.jpg,bird
+COCO_val2014_000000327401.jpg,bird
+COCO_val2014_000000105291.jpg,stop sign;car;car;bench
+COCO_val2014_000000474164.jpg,dog;truck;car
+COCO_val2014_000000517135.jpg,man;man;man;man;man;elephant;man;chair;chair;man
+COCO_val2014_000000072255.jpg,tie;man
+COCO_val2014_000000431996.jpg,boat;man
+COCO_val2014_000000477689.jpg,tie;woman
+COCO_val2014_000000520109.jpg,umbrella;umbrella;umbrella;umbrella;umbrella;umbrella;umbrella
+COCO_val2014_000000565543.jpg,umbrella;umbrella;umbrella;umbrella;umbrella;umbrella
+COCO_val2014_000000321385.jpg,dog;dog;chair;chair;dining table;cake;cake
+COCO_val2014_000000539196.jpg,dog;horse
+COCO_val2014_000000563015.jpg,man;backpack;backpack;suitcase;suitcase;suitcase;suitcase;suitcase;suitcase;suitcase;suitcase
+COCO_val2014_000000315524.jpg,skateboard
+COCO_val2014_000000112342.jpg,dog;dog;frisbee
+COCO_val2014_000000312586.jpg,bear;bear;bear
+COCO_val2014_000000496897.jpg,dog;dog;dog;dog;man;potted plant;potted plant;potted plant;potted plant;backpack
+COCO_val2014_000000063958.jpg,zebra
+COCO_val2014_000000199003.jpg,zebra;zebra;zebra
+COCO_val2014_000000480408.jpg,dog;horse;car;car;man;car;truck;dog
+COCO_val2014_000000107068.jpg,man;baseball bat;baseball glove;man;man
+COCO_val2014_000000571437.jpg,broccoli
+COCO_val2014_000000008844.jpg,woman;banana;banana;banana;banana;woman;woman
+COCO_val2014_000000185936.jpg,man;banana;potted plant;potted plant;potted plant
+COCO_val2014_000000506357.jpg,spoon;bowl;apple;apple;apple;apple;apple;apple;apple;apple;knife
+COCO_val2014_000000202886.jpg,broccoli;broccoli;broccoli;broccoli;broccoli;broccoli;dining table
+COCO_val2014_000000363126.jpg,woman;skis
+COCO_val2014_000000482690.jpg,man;man;man;skateboard;skateboard;skateboard;skateboard;man
+COCO_val2014_000000117028.jpg,man;skateboard
+COCO_val2014_000000089557.jpg,tie;knife;cake;cake;man;man;man;man;man;man;man;man;man;man;man;tie;potted plant;man;knife
+COCO_val2014_000000388983.jpg,hot dog;dining table;cup;sandwich
+COCO_val2014_000000293768.jpg,man;skateboard
+COCO_val2014_000000023359.jpg,man;snowboard
+COCO_val2014_000000257943.jpg,woman;woman;woman;woman;woman;baseball bat;bench;sports ball;chair;chair;woman;woman;bench
+COCO_val2014_000000030455.jpg,book;book;book;book;bed;book;book;book;book;book;book;book;book;book;book
+COCO_val2014_000000333924.jpg,man;surfboard
+COCO_val2014_000000019888.jpg,bed;teddy bear;bicycle
+COCO_val2014_000000488915.jpg,cell phone;man;laptop;keyboard
+COCO_val2014_000000361140.jpg,couch;man;clock;chair;chair;book;book;book;book;book;book;book;book;book;book;book;book;clock;couch;book;book
+COCO_val2014_000000404897.jpg,couch;cup;remote;suitcase;remote
+COCO_val2014_000000507167.jpg,bottle;bottle;toothbrush;man;cup
+COCO_val2014_000000125651.jpg,car;car;toothbrush;man
+COCO_val2014_000000221554.jpg,vase;handbag;chair;handbag
+COCO_val2014_000000001138.jpg,potted plant;potted plant;chair;couch;couch;potted plant;clock;chair
+COCO_val2014_000000038090.jpg,potted plant;potted plant;potted plant;couch;couch;couch;clock;potted plant;couch
+COCO_val2014_000000486040.jpg,chair;laptop;laptop;mouse;potted plant;cup
+COCO_val2014_000000189305.jpg,tv;man;laptop;man
+COCO_val2014_000000064842.jpg,cell phone;woman
+COCO_val2014_000000518234.jpg,clock
+COCO_val2014_000000069873.jpg,clock;clock
+COCO_val2014_000000257169.jpg,toilet;hair drier;woman;handbag
+COCO_val2014_000000534516.jpg,tie;traffic light;man;man;man;man;man;man;man;man;man;man;man;traffic light;man
+COCO_val2014_000000325357.jpg,
+COCO_val2014_000000289714.jpg,woman;oven;oven;sink;bottle;vase;bottle;bottle;bowl;bowl
+COCO_val2014_000000318543.jpg,car;man;skateboard;car;car;car;car;bench;bench;car;car;car
+COCO_val2014_000000050753.jpg,refrigerator;microwave;oven;toaster;sink;bed;tv
+COCO_val2014_000000530384.jpg,potted plant;bottle;chair;chair;chair;bed;refrigerator;microwave;oven;toaster;potted plant;sink;sink;vase;vase;bowl;dining table;oven
+COCO_val2014_000000581177.jpg,refrigerator;spoon;spoon;microwave;oven;sink;cup;cup;cup;spoon;bowl;bowl;bowl;cup;bowl;cup;cup;cup
+COCO_val2014_000000445567.jpg,toothbrush;woman
+COCO_val2014_000000371151.jpg,clock;chair
+COCO_val2014_000000026522.jpg,sink;toilet
+COCO_val2014_000000466583.jpg,toothbrush;toothbrush;sink;potted plant
+COCO_val2014_000000023666.jpg,toilet
+COCO_val2014_000000567787.jpg,potted plant;toilet;sink
+COCO_val2014_000000421569.jpg,dog;car
+COCO_val2014_000000301014.jpg,cat;cat;bowl;book;book;bowl;chair;tv;bed
+COCO_val2014_000000548498.jpg,cat;bowl;book;book;book;book;book;book;book;book;book;book
+COCO_val2014_000000241113.jpg,motorcycle;book;book;book;book;train;train;train;train;train;train;train;train;book;book;book;book;book;book
+COCO_val2014_000000291067.jpg,train;train
+COCO_val2014_000000167235.jpg,woman;bench;handbag
+COCO_val2014_000000053139.jpg,traffic light;traffic light;traffic light;traffic light
+COCO_val2014_000000350988.jpg,bench;bench;bench;bench;bench;bench;bench;bench
+COCO_val2014_000000303908.jpg,boat;boat;car;bench;boat;bench
+COCO_val2014_000000302298.jpg,giraffe;giraffe
+COCO_val2014_000000334743.jpg,bus;bus;traffic light;bus;bus
+COCO_val2014_000000254555.jpg,bird;cow
+COCO_val2014_000000361029.jpg,car;man;traffic light;car;car;traffic light;traffic light;car
+COCO_val2014_000000134722.jpg,train;bench
+COCO_val2014_000000184400.jpg,train;traffic light
+COCO_val2014_000000259475.jpg,cat;banana
+COCO_val2014_000000197528.jpg,cat
+COCO_val2014_000000488979.jpg,cow;cow;cow;cow;cow;cow;cow;cow;cow;cow;cow;cow
+COCO_val2014_000000509750.jpg,cow;cow;bed
+COCO_val2014_000000230362.jpg,boat;boat;boat;boat;boat;boat;boat;boat;boat;boat;boat;boat;boat
+COCO_val2014_000000469343.jpg,elephant;elephant;elephant;elephant;elephant;elephant;elephant;elephant;elephant
+COCO_val2014_000000408221.jpg,elephant;elephant;elephant;elephant;elephant;elephant;elephant;elephant
+COCO_val2014_000000483368.jpg,man;frisbee
+COCO_val2014_000000204670.jpg,horse;vase
+COCO_val2014_000000187641.jpg,horse;horse;horse
+COCO_val2014_000000056891.jpg,horse
+COCO_val2014_000000153669.jpg,baseball bat;baseball glove;man;man;man;man;man;man;man;man;man;man;man;man;bench;man;man
+COCO_val2014_000000068525.jpg,man;snowboard
+COCO_val2014_000000492016.jpg,broccoli;carrot;carrot;carrot;carrot;bowl;bowl;dining table
+COCO_val2014_000000218350.jpg,man;man;skateboard;skateboard
+COCO_val2014_000000043555.jpg,skateboard;man
+COCO_val2014_000000113173.jpg,man;man;man
+COCO_val2014_000000013892.jpg,skateboard;man
+COCO_val2014_000000565438.jpg,car;man;skateboard;man;traffic light;bicycle;traffic light;man
+COCO_val2014_000000125472.jpg,man;skateboard
+COCO_val2014_000000060080.jpg,man;man;man;man;man;skateboard;skateboard;skateboard;skateboard;man;skateboard;skateboard
+COCO_val2014_000000414661.jpg,man;man;man;man;skateboard;skateboard;man
+COCO_val2014_000000557829.jpg,woman;woman;woman;woman;woman;snowboard;woman;woman;woman;woman
+COCO_val2014_000000252711.jpg,dining table;donut;donut;donut;donut;donut;donut;donut;donut;donut;donut;donut;donut;donut;donut
+COCO_val2014_000000026374.jpg,sports ball;man;sports ball
+COCO_val2014_000000373396.jpg,dog;cake;bowl
+COCO_val2014_000000576070.jpg,tv;bed
+COCO_val2014_000000034455.jpg,remote;remote;couch
+COCO_val2014_000000175619.jpg,bottle;man;remote;remote;remote;couch;cell phone;chair;chair
+COCO_val2014_000000346586.jpg,man;remote;tv;man;man;man;man;man
+COCO_val2014_000000326959.jpg,tv;couch;couch;dining table;book;chair;vase
+COCO_val2014_000000555405.jpg,kite;kite;kite;kite;kite;kite;kite;kite;kite;kite;kite;kite;kite;kite
+COCO_val2014_000000264968.jpg,man;man;man;baseball bat;man;man;man;man
+COCO_val2014_000000313737.jpg,chair;chair;chair;chair;chair;oven;knife;knife;knife;knife;knife;knife;knife;knife;knife;knife;dining table;chair;knife
+COCO_val2014_000000291784.jpg,chair;dining table;microwave;toaster;bowl;bowl;bowl;vase
+COCO_val2014_000000202777.jpg,clock
+COCO_val2014_000000050232.jpg,clock;clock
+COCO_val2014_000000576483.jpg,vase
+COCO_val2014_000000050965.jpg,clock;clock
+COCO_val2014_000000342479.jpg,clock;chair
+COCO_val2014_000000114503.jpg,bottle;bottle;bottle;bottle;bottle;teddy bear;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle
+COCO_val2014_000000344614.jpg,clock;clock
+COCO_val2014_000000120473.jpg,clock
+COCO_val2014_000000323615.jpg,potted plant;vase
+COCO_val2014_000000463070.jpg,man;scissors
+COCO_val2014_000000088102.jpg,book;scissors
+COCO_val2014_000000325239.jpg,bottle;bottle;woman;bowl;oven;sink;knife;microwave;knife;bowl;bowl;refrigerator
+COCO_val2014_000000203661.jpg,bottle;chair;dining table;knife;knife;microwave;sink;knife;knife;knife;chair;book;cup;cup;cup;cup;bowl;bowl;bowl;chair;chair;knife
+COCO_val2014_000000474786.jpg,sink;bottle;bottle;tv;sink;sink
+COCO_val2014_000000092016.jpg,bottle;sink;bottle
+COCO_val2014_000000325907.jpg,woman;woman
+COCO_val2014_000000187513.jpg,sink;toilet
+COCO_val2014_000000216428.jpg,cat;cat;toilet;toilet
+COCO_val2014_000000354165.jpg,bowl;bowl;bowl;bowl;broccoli;carrot;carrot;banana;banana;banana;banana;banana;broccoli;carrot;carrot;carrot;carrot;carrot;banana;dining table
+COCO_val2014_000000438704.jpg,airplane
+COCO_val2014_000000396204.jpg,airplane
+COCO_val2014_000000427782.jpg,orange;orange;dining table;bench
+COCO_val2014_000000465092.jpg,bench;bench
+COCO_val2014_000000475844.jpg,bench;bench;bench;bench;woman;woman;woman;woman;woman;woman;woman;woman;woman;woman;handbag;handbag;woman;woman;bench;bench;bench;woman;woman
+COCO_val2014_000000062661.jpg,fire hydrant;car
+COCO_val2014_000000255990.jpg,sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep
+COCO_val2014_000000019783.jpg,bird;bird;bird;man;bird;donut
+COCO_val2014_000000049259.jpg,man
+COCO_val2014_000000467593.jpg,bird
+COCO_val2014_000000369470.jpg,car;car;car;car;car;parking meter;car;parking meter;parking meter;parking meter;parking meter;parking meter;car;car;parking meter;car
+COCO_val2014_000000104095.jpg,cow;cow;cow;cow;cow;cow;cow;cow;cow;cow;cow;cow;cow;cow
+COCO_val2014_000000264615.jpg,cow;cow;cow;cow;cow;cow;cow
+COCO_val2014_000000267169.jpg,bottle;man;elephant;elephant;man
+COCO_val2014_000000005569.jpg,tie;man;sink
+COCO_val2014_000000297277.jpg,boat;bench
+COCO_val2014_000000045721.jpg,cat;mouse;keyboard;tv
+COCO_val2014_000000399212.jpg,backpack;suitcase;backpack;backpack
+COCO_val2014_000000568337.jpg,suitcase
+COCO_val2014_000000530765.jpg,dog;woman;frisbee
+COCO_val2014_000000403315.jpg,dog;frisbee
+COCO_val2014_000000171443.jpg,man;man;man;man;frisbee;man;man;man;man;man;man;man;man;man
+COCO_val2014_000000439188.jpg,man;man;man;man;man;man;man;frisbee;man;man;man
+COCO_val2014_000000233405.jpg,man;frisbee
+COCO_val2014_000000303253.jpg,dog
+COCO_val2014_000000548848.jpg,zebra;zebra
+COCO_val2014_000000301236.jpg,zebra;zebra
+COCO_val2014_000000002302.jpg,horse;man;backpack;horse;man
+COCO_val2014_000000014592.jpg,bottle;banana
+COCO_val2014_000000506279.jpg,dining table;wine glass
+COCO_val2014_000000377371.jpg,knife;banana;banana;banana;banana
+COCO_val2014_000000166392.jpg,man;skateboard
+COCO_val2014_000000231240.jpg,car;car;man;man;man;man;man;dog;skateboard;man;man;car;car;car;traffic light;man;bench
+COCO_val2014_000000441541.jpg,carrot;knife;broccoli
+COCO_val2014_000000316917.jpg,sandwich
+COCO_val2014_000000302823.jpg,donut;donut;donut;book;dining table;bottle;cup;knife;book
+COCO_val2014_000000521088.jpg,man;hot dog;man;man;man;man;hot dog
+COCO_val2014_000000504790.jpg,man;man;man;bottle;wine glass;cup;cup;sandwich;chair;chair;dining table;wine glass;bowl;sandwich
+COCO_val2014_000000099938.jpg,bed;woman;book;woman;book;woman;woman
+COCO_val2014_000000129855.jpg,man;surfboard
+COCO_val2014_000000289059.jpg,man;man;tennis racket
+COCO_val2014_000000547258.jpg,couch;chair;chair;man;man;remote;chair;chair;chair
+COCO_val2014_000000550729.jpg,kite
+COCO_val2014_000000458941.jpg,potted plant;vase
+COCO_val2014_000000546717.jpg,couch;woman;potted plant;laptop;mouse;cup
+COCO_val2014_000000329903.jpg,teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear
+COCO_val2014_000000125322.jpg,cell phone;man;backpack
+COCO_val2014_000000202622.jpg,clock
+COCO_val2014_000000077402.jpg,cup;fork;fork;spoon;spoon;cup;fork;chair;dining table
+COCO_val2014_000000058655.jpg,clock
+COCO_val2014_000000309848.jpg,sandwich;sandwich;sandwich
+COCO_val2014_000000037109.jpg,spoon;cake
+COCO_val2014_000000069340.jpg,potted plant;potted plant;potted plant;potted plant;bottle;bowl;banana;orange;orange;orange;sink;vase;vase;bowl;vase;apple;oven;potted plant
+COCO_val2014_000000402473.jpg,cat;cat
+COCO_val2014_000000121875.jpg,man;knife
+COCO_val2014_000000340737.jpg,sink
+COCO_val2014_000000016523.jpg,bottle;bottle;toilet;sink;hair drier
+COCO_val2014_000000060364.jpg,toilet
+COCO_val2014_000000258674.jpg,car;parking meter;parking meter
+COCO_val2014_000000141597.jpg,car;car;truck
+COCO_val2014_000000190326.jpg,cat;car;car;motorcycle;cat
+COCO_val2014_000000102735.jpg,dog;car;motorcycle;bus;truck;car;motorcycle
+COCO_val2014_000000494629.jpg,tv;tv;man;toilet;mouse;keyboard;toilet
+COCO_val2014_000000283028.jpg,cat;keyboard;chair
+COCO_val2014_000000443351.jpg,motorcycle;motorcycle
+COCO_val2014_000000151537.jpg,dog
+COCO_val2014_000000490869.jpg,dog;dog;tv;chair;dining table
+COCO_val2014_000000137496.jpg,airplane;man;airplane;airplane;airplane;airplane;airplane
+COCO_val2014_000000287830.jpg,airplane;airplane;airplane;airplane
+COCO_val2014_000000467966.jpg,bird;bird;bird;bird;bird;bird;bird;airplane;bird;bird;bird;bird
+COCO_val2014_000000216867.jpg,airplane;airplane
+COCO_val2014_000000017095.jpg,bird;woman;bench
+COCO_val2014_000000063309.jpg,traffic light
+COCO_val2014_000000486991.jpg,bus
+COCO_val2014_000000272048.jpg,man;man;man;bench;tennis racket;man;man;umbrella;chair
+COCO_val2014_000000386661.jpg,bench;bench;chair;bench
+COCO_val2014_000000483038.jpg,sheep;man;sheep;sheep;sheep;sheep
+COCO_val2014_000000525869.jpg,sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep
+COCO_val2014_000000527476.jpg,man;train;man;man
+COCO_val2014_000000196754.jpg,stop sign;chair
+COCO_val2014_000000211653.jpg,parking meter;parking meter;parking meter;parking meter;parking meter
+COCO_val2014_000000516194.jpg,dog;cat
+COCO_val2014_000000184338.jpg,truck
+COCO_val2014_000000319469.jpg,cow;bench;dining table;cow
+COCO_val2014_000000149832.jpg,cow;cow;cow;cow;cow;cow;cow
+COCO_val2014_000000535950.jpg,cow;motorcycle;cow
+COCO_val2014_000000285599.jpg,bird;bird;elephant
+COCO_val2014_000000353408.jpg,elephant;elephant;elephant
+COCO_val2014_000000356043.jpg,tie;man
+COCO_val2014_000000229014.jpg,boat;boat;boat;boat;boat;boat;boat;boat;boat;boat
+COCO_val2014_000000086036.jpg,umbrella;woman;woman;woman;woman;woman
+COCO_val2014_000000426075.jpg,zebra;zebra
+COCO_val2014_000000242342.jpg,horse;horse
+COCO_val2014_000000248297.jpg,horse;horse
+COCO_val2014_000000231527.jpg,cup;cup;orange;orange;orange;orange;orange;knife;dining table
+COCO_val2014_000000140797.jpg,banana;dining table
+COCO_val2014_000000329014.jpg,knife;apple;apple;apple;apple;apple
+COCO_val2014_000000484280.jpg,fork;bowl;broccoli;carrot;carrot;carrot;carrot;carrot;carrot;carrot;dining table
+COCO_val2014_000000511906.jpg,sandwich;man;carrot;hot dog
+COCO_val2014_000000081691.jpg,bicycle;man;skateboard;man;man;man;man;bicycle;bicycle;skateboard;bicycle;bicycle
+COCO_val2014_000000545002.jpg,man;skis;backpack
+COCO_val2014_000000005193.jpg,man;man;man;man;man;surfboard;surfboard;bottle;man
+COCO_val2014_000000575079.jpg,bed
+COCO_val2014_000000124876.jpg,man;man;surfboard;man;surfboard
+COCO_val2014_000000549324.jpg,pizza;dining table
+COCO_val2014_000000372147.jpg,bed;woman;woman;woman;woman
+COCO_val2014_000000355660.jpg,woman;surfboard
+COCO_val2014_000000409211.jpg,sports ball;tennis racket;man;man;man;man;man;man;man;man;man;man;man;man;man
+COCO_val2014_000000505809.jpg,bottle;chair;chair;man;man;man;man;man;tennis racket;tennis racket;man;cell phone;cell phone;backpack;tennis racket;man;cell phone;man
+COCO_val2014_000000127530.jpg,sports ball;man;tennis racket
+COCO_val2014_000000239456.jpg,man;tennis racket
+COCO_val2014_000000384822.jpg,chair;chair;chair;cup;pizza;knife
+COCO_val2014_000000184266.jpg,man;tennis racket
+COCO_val2014_000000539140.jpg,bench;tennis racket;man;man;man;man;man;man;man;man;man;man;man;bench;handbag;sports ball;cup;man;man;man
+COCO_val2014_000000002562.jpg,sports ball;tennis racket;man;man;bench;bench;bench;man;man;man;man;man;man;man;man;man;man;man;man
+COCO_val2014_000000170474.jpg,sports ball;man;tennis racket;chair
+COCO_val2014_000000368204.jpg,man;tennis racket
+COCO_val2014_000000561311.jpg,chair;man;man;pizza;chair;dining table;chair;chair
+COCO_val2014_000000138204.jpg,dog;couch;laptop;potted plant;potted plant
+COCO_val2014_000000512974.jpg,remote;book;remote
+COCO_val2014_000000445662.jpg,potted plant;bowl;vase
+COCO_val2014_000000271546.jpg,sports ball;sports ball;man;man;tennis racket;tennis racket
+COCO_val2014_000000094865.jpg,man;man;man;man;man;man;man;man;sports ball;tennis racket;tennis racket;tennis racket;tennis racket;tennis racket;tennis racket;tennis racket;tennis racket;man
+COCO_val2014_000000413419.jpg,bicycle;car;clock;truck;potted plant;potted plant;potted plant;potted plant;potted plant;potted plant;potted plant;potted plant
+COCO_val2014_000000529944.jpg,woman;oven;refrigerator;refrigerator
+COCO_val2014_000000090280.jpg,
+COCO_val2014_000000075725.jpg,clock
+COCO_val2014_000000343903.jpg,cup;pizza;dining table;chair
+COCO_val2014_000000216419.jpg,clock;traffic light
+COCO_val2014_000000475890.jpg,clock
+COCO_val2014_000000336046.jpg,woman;scissors;scissors
+COCO_val2014_000000217937.jpg,fork;knife;dining table;sandwich
+COCO_val2014_000000010217.jpg,pizza;mouse
+COCO_val2014_000000147205.jpg,dining table;cake
+COCO_val2014_000000047873.jpg,bottle;bottle;bottle;chair;bowl;microwave;cup;cup;cup;cup;cup;cup;cup;cup;cup;bottle;bottle;bottle;cup;cup;chair;cup;cup;cup;cup
+COCO_val2014_000000539390.jpg,
+COCO_val2014_000000067164.jpg,cat;car
+COCO_val2014_000000287320.jpg,bottle;toilet;sink
+COCO_val2014_000000578902.jpg,horse;horse;horse;horse
+COCO_val2014_000000567053.jpg,airplane
+COCO_val2014_000000575205.jpg,airplane
+COCO_val2014_000000461017.jpg,airplane;airplane;airplane
+COCO_val2014_000000001525.jpg,airplane
+COCO_val2014_000000503292.jpg,airplane;airplane;airplane;airplane;truck;truck;truck;truck
+COCO_val2014_000000092768.jpg,man;bench;bench
+COCO_val2014_000000377361.jpg,woman;giraffe;giraffe;handbag;handbag
+COCO_val2014_000000085005.jpg,giraffe;giraffe
+COCO_val2014_000000065239.jpg,sheep;sheep
+COCO_val2014_000000291394.jpg,car;bus;bus;bus;car;dog
+COCO_val2014_000000503980.jpg,man;man;man;man;man;bus;backpack;man;man;car;truck;truck;fire hydrant;man
+COCO_val2014_000000016076.jpg,car;car;car;car;car;fire hydrant;man;man;man;man;car;car;stop sign
+COCO_val2014_000000203299.jpg,sheep;sheep
+COCO_val2014_000000043758.jpg,sheep;sheep;sheep
+COCO_val2014_000000156276.jpg,bird
+COCO_val2014_000000449259.jpg,giraffe
+COCO_val2014_000000508291.jpg,giraffe;giraffe
+COCO_val2014_000000323847.jpg,bird
+COCO_val2014_000000531136.jpg,bird;bird
+COCO_val2014_000000370701.jpg,dog;dog;man;truck
+COCO_val2014_000000057149.jpg,car;train;bus;traffic light;traffic light;car
+COCO_val2014_000000492284.jpg,cat;woman;backpack;backpack
+COCO_val2014_000000172648.jpg,truck;man;man;car
+COCO_val2014_000000396580.jpg,boat;bench
+COCO_val2014_000000197263.jpg,tie;man
+COCO_val2014_000000411953.jpg,tie;man;man
+COCO_val2014_000000128417.jpg,umbrella
+COCO_val2014_000000174457.jpg,bear
+COCO_val2014_000000075673.jpg,dog;man
+COCO_val2014_000000415153.jpg,woman;frisbee
+COCO_val2014_000000109403.jpg,horse;man;man;man;man;man;man;man;man;man;man
+COCO_val2014_000000199553.jpg,man;skis;backpack
+COCO_val2014_000000015469.jpg,man;man;man;man;man;man;man;man;man;man;man;man;man;baseball glove;man
+COCO_val2014_000000508087.jpg,motorcycle;man;truck;man;man;tie;banana;banana;banana;banana;banana;banana;banana;banana;banana;banana;banana;banana;bus;banana;banana
+COCO_val2014_000000140068.jpg,baseball glove;man;man;man;man;man;man;man;man;man;man;baseball glove;man;man;bench;bench;bench;man;chair;man
+COCO_val2014_000000318124.jpg,broccoli;broccoli;broccoli;broccoli
+COCO_val2014_000000554727.jpg,man;skateboard;bicycle
+COCO_val2014_000000345294.jpg,man;skateboard;man
+COCO_val2014_000000393284.jpg,man;snowboard
+COCO_val2014_000000249046.jpg,man;snowboard
+COCO_val2014_000000035682.jpg,dining table;man;man;man;cup;donut;donut;donut;cake;handbag;cup;donut;chair;man;donut;cake;chair;chair
+COCO_val2014_000000240009.jpg,man;surfboard;man
+COCO_val2014_000000357385.jpg,chair;cup;donut;book;man;book
+COCO_val2014_000000391463.jpg,surfboard;backpack;woman;woman;woman;woman;woman;woman;woman;dog
+COCO_val2014_000000578418.jpg,sandwich;fork;knife;wine glass;wine glass;bowl
+COCO_val2014_000000230646.jpg,woman;woman;cake
+COCO_val2014_000000049759.jpg,sports ball;man;man;man;man;man;man;man;man;man;man;man;man;man;man
+COCO_val2014_000000408746.jpg,man;man;surfboard;surfboard
+COCO_val2014_000000093534.jpg,woman;woman;cup;cake;woman;woman;woman;woman;woman
+COCO_val2014_000000082488.jpg,bed;bed;remote;clock;book
+COCO_val2014_000000437540.jpg,surfboard;man;boat
+COCO_val2014_000000051157.jpg,man;surfboard
+COCO_val2014_000000247130.jpg,tv;chair;laptop;book;book;book;book;airplane;chair;tv;book;book;book;book;book;book
+COCO_val2014_000000295472.jpg,laptop;man;man;man;man;man;man;man;man;tie;book;book;laptop;laptop
+COCO_val2014_000000251019.jpg,man;tennis racket
+COCO_val2014_000000103509.jpg,man;chair;potted plant;remote
+COCO_val2014_000000166913.jpg,potted plant;woman;woman;woman;couch;remote;remote;remote;woman;potted plant;vase
+COCO_val2014_000000050148.jpg,chair;chair;chair;man;man;man;man;laptop;laptop;remote;man;man;bottle;bottle;cell phone
+COCO_val2014_000000093763.jpg,man;man;man;man;couch;couch;remote;man;remote;couch
+COCO_val2014_000000310915.jpg,cell phone;woman;woman;woman;woman;woman
+COCO_val2014_000000351967.jpg,clock;clock;clock;clock;clock;clock;clock;car;clock
+COCO_val2014_000000045516.jpg,cell phone;woman
+COCO_val2014_000000214454.jpg,cell phone;fire hydrant;woman
+COCO_val2014_000000205409.jpg,woman;oven
+COCO_val2014_000000535842.jpg,cup;cake;dining table
+COCO_val2014_000000511849.jpg,clock
+COCO_val2014_000000468233.jpg,clock
+COCO_val2014_000000295797.jpg,clock;clock
+COCO_val2014_000000443301.jpg,orange;scissors
+COCO_val2014_000000430762.jpg,scissors
+COCO_val2014_000000323100.jpg,woman;woman;woman;cup;knife;bottle;bowl;bowl;bowl;bowl
+COCO_val2014_000000482590.jpg,umbrella;handbag;handbag;handbag;woman;woman;woman
+COCO_val2014_000000017409.jpg,bottle;wine glass;bowl;bottle;cup;knife;bowl;dining table
+COCO_val2014_000000228436.jpg,bicycle;car;car;bicycle;car;car;car;car;car;car;boat;boat;boat;boat;boat;boat;car;car;boat;boat;boat;boat;boat;boat;car;car;boat;car;car
+COCO_val2014_000000237723.jpg,toilet
+COCO_val2014_000000494438.jpg,sink;toilet
+COCO_val2014_000000452013.jpg,toilet
+COCO_val2014_000000277542.jpg,cow;cow;cow;cow;cow;car;man;cow;horse;horse;horse;horse;car;cow;cow;cow;cow;cow;cow;cow
+COCO_val2014_000000189424.jpg,toilet;toilet
+COCO_val2014_000000367452.jpg,clock
+COCO_val2014_000000369128.jpg,toothbrush;toothbrush;toothbrush;cup;toilet;bowl
+COCO_val2014_000000081943.jpg,potted plant;toilet
+COCO_val2014_000000567609.jpg,vase;chair;chair;bird;potted plant;dining table;dining table;bird
+COCO_val2014_000000279343.jpg,airplane;airplane;airplane;airplane;airplane;airplane
+COCO_val2014_000000260094.jpg,airplane;airplane
+COCO_val2014_000000349459.jpg,airplane;airplane;airplane
+COCO_val2014_000000081505.jpg,airplane
+COCO_val2014_000000266677.jpg,woman;giraffe;giraffe
+COCO_val2014_000000126877.jpg,cake;sheep
+COCO_val2014_000000352936.jpg,bird;bench;bench
+COCO_val2014_000000119132.jpg,airplane
+COCO_val2014_000000441788.jpg,
+COCO_val2014_000000048308.jpg,giraffe
+COCO_val2014_000000282912.jpg,giraffe
+COCO_val2014_000000521285.jpg,giraffe;giraffe;giraffe;giraffe;giraffe;giraffe;giraffe;giraffe
+COCO_val2014_000000574200.jpg,bus;bus;bus;bus;bus;bus;stop sign;bus;bus;bus;bus;bus
+COCO_val2014_000000249524.jpg,man;bench;bench
+COCO_val2014_000000405248.jpg,potted plant;potted plant;potted plant;potted plant;potted plant;potted plant;potted plant;potted plant;potted plant;potted plant;potted plant;potted plant;bench;potted plant;potted plant
+COCO_val2014_000000165713.jpg,fire hydrant
+COCO_val2014_000000234633.jpg,bird;boat;man;bird;bird;bird;bird;bird;bird;man;man;bird
+COCO_val2014_000000282600.jpg,bird;apple;apple
+COCO_val2014_000000379190.jpg,
+COCO_val2014_000000492282.jpg,horse;horse;horse;horse;horse;man;man;man;man
+COCO_val2014_000000224970.jpg,
+COCO_val2014_000000044508.jpg,tie;man
+COCO_val2014_000000017778.jpg,bird;bird
+COCO_val2014_000000105734.jpg,bird;bird;bird;bird;bird
+COCO_val2014_000000398454.jpg,
+COCO_val2014_000000215471.jpg,cat
+COCO_val2014_000000501229.jpg,cat;carrot
+COCO_val2014_000000385205.jpg,cat;carrot
+COCO_val2014_000000398489.jpg,cat;bed;couch
+COCO_val2014_000000386436.jpg,cow;cow
+COCO_val2014_000000535604.jpg,boat;man;man;man;man;boat;boat;man;man;man;boat;man
+COCO_val2014_000000349486.jpg,elephant
+COCO_val2014_000000379314.jpg,chair;chair;dining table;dining table;chair;chair;chair;chair;chair;chair;chair;umbrella;umbrella;umbrella;umbrella;umbrella;umbrella;umbrella;dining table;umbrella;umbrella;umbrella;chair;chair;chair;umbrella
+COCO_val2014_000000165141.jpg,bear
+COCO_val2014_000000577065.jpg,zebra;zebra;zebra;zebra;zebra
+COCO_val2014_000000212533.jpg,spoon;spoon;bowl;banana;banana;banana;banana;apple;banana;banana;apple;orange;orange;orange;orange;apple;apple;apple;apple;apple;bowl;banana;banana;apple
+COCO_val2014_000000543224.jpg,dining table;sandwich;sandwich;hot dog
+COCO_val2014_000000172079.jpg,potted plant;vase;cup;cup
+COCO_val2014_000000443605.jpg,donut;donut
+COCO_val2014_000000404209.jpg,cup;spoon;cake;spoon;cake;dining table
+COCO_val2014_000000194434.jpg,couch;laptop;mouse;remote
+COCO_val2014_000000050306.jpg,cup;cup;cup;fork;knife;pizza;pizza;dining table;cup;cup
+COCO_val2014_000000144162.jpg,chair;tv;tv;tv;tv;tv;mouse;mouse;keyboard;tv;tv;cell phone;mouse
+COCO_val2014_000000303970.jpg,tv;chair;chair;chair;dining table;wine glass;wine glass;cup;chair;remote;remote;cup;wine glass;chair
+COCO_val2014_000000248014.jpg,couch;clock;chair;chair;chair;couch
+COCO_val2014_000000506982.jpg,refrigerator
+COCO_val2014_000000552866.jpg,clock;clock
+COCO_val2014_000000542694.jpg,teddy bear
+COCO_val2014_000000470256.jpg,potted plant;bottle;bottle;bottle;dining table;bottle;refrigerator;sink;bottle;bottle;bottle;bottle;bowl;oven
+COCO_val2014_000000292741.jpg,tv;mouse;keyboard;mouse;chair
+COCO_val2014_000000525083.jpg,tv;chair;chair;dining table;refrigerator;microwave;sink;couch;couch
+COCO_val2014_000000143370.jpg,bottle;toothbrush;cup;toilet;sink;book;handbag
+COCO_val2014_000000476299.jpg,toilet;sink
+COCO_val2014_000000330536.jpg,toilet;sink;toilet
+COCO_val2014_000000428305.jpg,bottle;bottle;cup;cup;cup;sink;cup;chair;potted plant;vase
+COCO_val2014_000000088031.jpg,potted plant;toilet;book;book;book;book;teddy bear;toilet;book;book;book
+COCO_val2014_000000007241.jpg,donut;cup
+COCO_val2014_000000249371.jpg,sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep
+COCO_val2014_000000325022.jpg,airplane
+COCO_val2014_000000419560.jpg,giraffe;giraffe
+COCO_val2014_000000527960.jpg,bench
+COCO_val2014_000000333290.jpg,giraffe;giraffe;giraffe;giraffe
+COCO_val2014_000000137612.jpg,car;car
+COCO_val2014_000000176629.jpg,giraffe
+COCO_val2014_000000453330.jpg,bird
+COCO_val2014_000000090155.jpg,train
+COCO_val2014_000000344816.jpg,train
+COCO_val2014_000000492805.jpg,train
+COCO_val2014_000000114479.jpg,backpack;handbag;suitcase;suitcase;suitcase
+COCO_val2014_000000177258.jpg,cat;couch;chair;chair;chair;dining table;bottle;fork;fork;knife;knife;bowl;bowl;dining table
+COCO_val2014_000000540452.jpg,cat;couch
+COCO_val2014_000000209299.jpg,cat;laptop;mouse;remote;keyboard;cup;cell phone
+COCO_val2014_000000104683.jpg,umbrella;chair
+COCO_val2014_000000099317.jpg,handbag;suitcase;book;book;book;book
+COCO_val2014_000000505487.jpg,suitcase
+COCO_val2014_000000300157.jpg,zebra;zebra
+COCO_val2014_000000113354.jpg,zebra;zebra;zebra
+COCO_val2014_000000038064.jpg,zebra;zebra
+COCO_val2014_000000193889.jpg,zebra;zebra;zebra;zebra
+COCO_val2014_000000165984.jpg,horse;horse
+COCO_val2014_000000372307.jpg,horse
+COCO_val2014_000000497661.jpg,banana;orange;orange
+COCO_val2014_000000331339.jpg,banana;banana
+COCO_val2014_000000253432.jpg,dining table;fork;knife;broccoli;broccoli;broccoli;broccoli;broccoli;broccoli;broccoli
+COCO_val2014_000000398236.jpg,sandwich
+COCO_val2014_000000465643.jpg,dining table;sandwich;sandwich;cup;spoon;orange;knife
+COCO_val2014_000000466570.jpg,bed;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear
+COCO_val2014_000000463842.jpg,bed;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle
+COCO_val2014_000000295767.jpg,cup;cup;pizza;pizza;fork;fork;knife;dining table;cup
+COCO_val2014_000000514464.jpg,bed;bird;bird;bird;bird;bird;bird;bird;bird;bird;bird;bird
+COCO_val2014_000000182696.jpg,cat;laptop
+COCO_val2014_000000371694.jpg,dining table;pizza
+COCO_val2014_000000357903.jpg,pizza;pizza
+COCO_val2014_000000317062.jpg,cell phone;mouse;keyboard;book;book;book;book;book;tv;book;book;book;book;book;book;book
+COCO_val2014_000000463876.jpg,laptop;mouse;keyboard;keyboard
+COCO_val2014_000000222831.jpg,horse;horse;horse;vase;vase;handbag;horse;horse
+COCO_val2014_000000524656.jpg,bottle;bottle;bottle;bottle;refrigerator;cup;cup;cup;bowl;bowl;oven;sink;bottle;bottle;bottle;wine glass;wine glass;cup;cup;knife;knife;spoon;spoon;spoon;bottle;bottle;bottle;wine glass;wine glass;cup;cup;cup;knife;microwave
+COCO_val2014_000000321805.jpg,clock
+COCO_val2014_000000105455.jpg,clock;clock;car
+COCO_val2014_000000385236.jpg,clock
+COCO_val2014_000000262466.jpg,vase;vase
+COCO_val2014_000000145391.jpg,scissors
+COCO_val2014_000000138806.jpg,refrigerator;sink;sink;microwave;oven;clock
+COCO_val2014_000000267135.jpg,bottle;remote;sink;book;vase;cup;banana;bowl;cell phone;chair;dining table
+COCO_val2014_000000452695.jpg,refrigerator;microwave;sink;microwave;oven;oven
+COCO_val2014_000000385103.jpg,refrigerator;sink;cup;oven
+COCO_val2014_000000243773.jpg,cell phone;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;wine glass;oven
+COCO_val2014_000000010844.jpg,oven;oven;sink;bowl;sink;bottle;chair
+COCO_val2014_000000124236.jpg,spoon;spoon;bowl;oven;toaster;dining table
+COCO_val2014_000000262682.jpg,spoon;spoon;spoon;oven;sink;sink;spoon;potted plant
+COCO_val2014_000000009170.jpg,cat;toilet;book
+COCO_val2014_000000170550.jpg,traffic light;traffic light
+COCO_val2014_000000040064.jpg,traffic light
+COCO_val2014_000000504580.jpg,giraffe;giraffe;giraffe
+COCO_val2014_000000453104.jpg,giraffe
+COCO_val2014_000000498196.jpg,giraffe;giraffe
+COCO_val2014_000000255718.jpg,fire hydrant
+COCO_val2014_000000503660.jpg,bird;bench;bottle
+COCO_val2014_000000503197.jpg,bus
+COCO_val2014_000000005706.jpg,bird
+COCO_val2014_000000407039.jpg,giraffe;giraffe
+COCO_val2014_000000094231.jpg,giraffe
+COCO_val2014_000000129903.jpg,
+COCO_val2014_000000529907.jpg,train
+COCO_val2014_000000405355.jpg,train
+COCO_val2014_000000186956.jpg,train
+COCO_val2014_000000500139.jpg,stop sign;car;car;car;car;car;car;car;car;truck;truck
+COCO_val2014_000000407457.jpg,parking meter;parking meter
+COCO_val2014_000000200401.jpg,parking meter;car;bicycle
+COCO_val2014_000000140435.jpg,truck;bed
+COCO_val2014_000000316041.jpg,cow
+COCO_val2014_000000006397.jpg,cat;suitcase;chair;chair
+COCO_val2014_000000494634.jpg,cat;wine glass;laptop;bottle;wine glass;wine glass;wine glass;oven
+COCO_val2014_000000041635.jpg,cow;cow;cow;cow
+COCO_val2014_000000561979.jpg,dog;boat;boat
+COCO_val2014_000000000042.jpg,dog
+COCO_val2014_000000500507.jpg,dog;dog;dog
+COCO_val2014_000000127623.jpg,banana;banana;apple;orange
+COCO_val2014_000000350388.jpg,bowl;broccoli;broccoli;broccoli;broccoli
+COCO_val2014_000000257137.jpg,bowl;broccoli;broccoli;broccoli;broccoli;broccoli;broccoli;broccoli;broccoli;broccoli;broccoli;broccoli;broccoli
+COCO_val2014_000000208825.jpg,fork;cake
+COCO_val2014_000000534274.jpg,sandwich;hot dog
+COCO_val2014_000000477194.jpg,sandwich
+COCO_val2014_000000287959.jpg,sandwich
+COCO_val2014_000000010008.jpg,tv;bed;bed
+COCO_val2014_000000356380.jpg,tv;couch;chair;clock;remote;remote;book;book;remote;bed;book
+COCO_val2014_000000286478.jpg,dog;bed
+COCO_val2014_000000224509.jpg,tv;book;book;clock;book
+COCO_val2014_000000333888.jpg,chair;book;book;book;book;book;book;book;cat;remote;keyboard;book;book;book;chair;couch;laptop;book;book;book;book
+COCO_val2014_000000556091.jpg,laptop;mouse;keyboard;cell phone;tv
+COCO_val2014_000000468744.jpg,remote;remote;vase
+COCO_val2014_000000499134.jpg,laptop;mouse;keyboard;keyboard;book;book;chair;tv;remote;book;book;chair;chair
+COCO_val2014_000000453273.jpg,potted plant;vase
+COCO_val2014_000000145209.jpg,vase;vase;chair;dining table;chair;dining table
+COCO_val2014_000000329030.jpg,refrigerator;microwave
+COCO_val2014_000000531128.jpg,clock
+COCO_val2014_000000045356.jpg,vase
+COCO_val2014_000000555843.jpg,scissors;bird;bird;bird;bird;bird;bottle;bird;bird;bird;bird;bird;bird;bird;bird
+COCO_val2014_000000506151.jpg,cat;chair;bowl;microwave;handbag;dining table
+COCO_val2014_000000369082.jpg,spoon;bowl;oven;oven;oven
+COCO_val2014_000000500784.jpg,chair;vase;vase;chair;vase
+COCO_val2014_000000065485.jpg,dog;car
+COCO_val2014_000000379580.jpg,toilet;sink
+COCO_val2014_000000386313.jpg,tv;bicycle;clock;book;book;book;book;book;book;book;book;book;book;book;book;book;book
+COCO_val2014_000000109045.jpg,airplane
+COCO_val2014_000000347925.jpg,giraffe;giraffe
+COCO_val2014_000000155451.jpg,traffic light;traffic light;car;car;car;traffic light;traffic light;traffic light;traffic light;traffic light
+COCO_val2014_000000022718.jpg,airplane
+COCO_val2014_000000367843.jpg,traffic light;traffic light;traffic light;umbrella;traffic light;traffic light
+COCO_val2014_000000417586.jpg,bench
+COCO_val2014_000000568529.jpg,bench
+COCO_val2014_000000076087.jpg,giraffe;giraffe;giraffe;giraffe;giraffe
+COCO_val2014_000000343325.jpg,bus
+COCO_val2014_000000358345.jpg,fire hydrant;car
+COCO_val2014_000000483149.jpg,bird
+COCO_val2014_000000098808.jpg,giraffe;giraffe;giraffe
+COCO_val2014_000000335177.jpg,car;truck;stop sign
+COCO_val2014_000000337506.jpg,
+COCO_val2014_000000184874.jpg,
+COCO_val2014_000000186428.jpg,train
+COCO_val2014_000000266712.jpg,stop sign
+COCO_val2014_000000223005.jpg,cow;cow
+COCO_val2014_000000172993.jpg,cat;bed
+COCO_val2014_000000435783.jpg,elephant
+COCO_val2014_000000513417.jpg,elephant
+COCO_val2014_000000384726.jpg,bear
+COCO_val2014_000000521231.jpg,bear
+COCO_val2014_000000223032.jpg,dog;frisbee
+COCO_val2014_000000013948.jpg,zebra;zebra
+COCO_val2014_000000233430.jpg,chair;skis;car;skis;skis;skis;skis;skis;skis;skis;skis;skis;skis
+COCO_val2014_000000410493.jpg,orange;orange;orange;orange;orange;orange;orange;orange
+COCO_val2014_000000105120.jpg,cat;cat;cat;cat;cat;carrot;carrot;cat;carrot;couch
+COCO_val2014_000000026765.jpg,dog;dog;bed;book;book
+COCO_val2014_000000546674.jpg,tv;chair;dining table;potted plant;vase;microwave
+COCO_val2014_000000432234.jpg,teddy bear;teddy bear;chair
+COCO_val2014_000000073595.jpg,potted plant;teddy bear
+COCO_val2014_000000014038.jpg,tv;bottle;bottle;dining table;bed;cell phone;refrigerator;book;book;book;book;book;book;bottle;couch;potted plant;book;chair;book;book;book;book;microwave;book;book
+COCO_val2014_000000169468.jpg,clock;traffic light
+COCO_val2014_000000535501.jpg,clock;book;book;book;book
+COCO_val2014_000000025457.jpg,clock;book;book;book;book;book;book;book;book;book;book
+COCO_val2014_000000106563.jpg,clock
+COCO_val2014_000000383979.jpg,bowl;orange;dining table;dining table;cake;sandwich
+COCO_val2014_000000499391.jpg,oven
+COCO_val2014_000000327047.jpg,bottle;bottle;bottle;bottle;bottle;bowl;bowl;oven;toaster;sink;sink;bottle;wine glass;wine glass;wine glass;cup;knife;book;book;book;scissors;bottle;wine glass;wine glass;bowl;potted plant;bottle
+COCO_val2014_000000390190.jpg,clock;toothbrush;toilet;sink;sink;bottle;bottle;bottle;cup
+COCO_val2014_000000318464.jpg,potted plant;potted plant;bicycle;bicycle;potted plant;bench;bench
+COCO_val2014_000000163628.jpg,toilet
+COCO_val2014_000000422916.jpg,toilet;sink
+COCO_val2014_000000489613.jpg,toilet
+COCO_val2014_000000418757.jpg,clock
+COCO_val2014_000000484760.jpg,clock
+COCO_val2014_000000570782.jpg,mouse;keyboard;bottle;keyboard;keyboard;laptop;laptop;remote
+COCO_val2014_000000464296.jpg,
+COCO_val2014_000000166565.jpg,tv;chair;laptop;laptop;mouse;mouse;remote;keyboard;keyboard;tv;remote;remote;keyboard;scissors;scissors;tv;tv
+COCO_val2014_000000008548.jpg,airplane
+COCO_val2014_000000196650.jpg,giraffe
+COCO_val2014_000000455044.jpg,bench
+COCO_val2014_000000006019.jpg,bicycle;fire hydrant
+COCO_val2014_000000201916.jpg,sheep
+COCO_val2014_000000094566.jpg,cat;keyboard;laptop;mouse
+COCO_val2014_000000515585.jpg,cat;cat;cat
+COCO_val2014_000000128669.jpg,boat
+COCO_val2014_000000379533.jpg,elephant;elephant;zebra
+COCO_val2014_000000113413.jpg,boat
+COCO_val2014_000000138556.jpg,suitcase
+COCO_val2014_000000085665.jpg,kite
+COCO_val2014_000000528251.jpg,dog;handbag;donut
+COCO_val2014_000000249346.jpg,bear
+COCO_val2014_000000020247.jpg,bear;bear
+COCO_val2014_000000137057.jpg,dog;frisbee
+COCO_val2014_000000230619.jpg,dog;oven
+COCO_val2014_000000083960.jpg,zebra
+COCO_val2014_000000090724.jpg,banana;banana;banana;orange;orange;orange;orange;broccoli;orange;apple
+COCO_val2014_000000573196.jpg,fork;spoon;cake
+COCO_val2014_000000050239.jpg,banana;banana;banana;banana;banana;banana;banana;banana;banana;banana;banana;banana;banana;banana
+COCO_val2014_000000347568.jpg,spoon;bowl;banana;cup;bowl;bowl;dining table
+COCO_val2014_000000423048.jpg,banana;banana;banana;banana;banana;banana;banana;banana;banana;banana;banana;banana;banana;banana
+COCO_val2014_000000359945.jpg,knife;apple
+COCO_val2014_000000213675.jpg,broccoli;broccoli;broccoli;broccoli
+COCO_val2014_000000446265.jpg,carrot;carrot;carrot;carrot;carrot;carrot
+COCO_val2014_000000323515.jpg,dining table;spoon;spoon;spoon;bowl;cup;fork;fork;spoon;bowl;bowl;carrot;carrot;carrot;carrot;carrot;carrot;carrot;carrot;carrot;carrot;carrot;carrot;carrot
+COCO_val2014_000000283168.jpg,sandwich;fork;bowl
+COCO_val2014_000000090138.jpg,sandwich;cup;cup;fork
+COCO_val2014_000000009721.jpg,mouse;keyboard
+COCO_val2014_000000178980.jpg,cup;laptop;mouse
+COCO_val2014_000000325894.jpg,vase;vase;vase;vase;vase;cup;cup;vase;vase;vase;vase;vase
+COCO_val2014_000000518524.jpg,refrigerator;microwave;oven;oven;refrigerator
+COCO_val2014_000000058462.jpg,refrigerator;microwave;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle
+COCO_val2014_000000025216.jpg,dining table;spoon;broccoli;broccoli;broccoli
+COCO_val2014_000000291983.jpg,clock;clock
+COCO_val2014_000000069863.jpg,vase;potted plant
+COCO_val2014_000000521542.jpg,bottle;microwave;oven;knife;knife;bowl;bottle;cell phone;microwave
+COCO_val2014_000000238355.jpg,potted plant;bowl;sink;sink;potted plant
+COCO_val2014_000000289486.jpg,giraffe;giraffe;giraffe;giraffe;giraffe
+COCO_val2014_000000234057.jpg,bird;sheep;sheep;sheep;sheep;sheep;sheep
+COCO_val2014_000000425898.jpg,car;car;car;car;fire hydrant
+COCO_val2014_000000285992.jpg,bird
+COCO_val2014_000000257359.jpg,train
+COCO_val2014_000000554767.jpg,train;train;traffic light;bench;bench;bench;bench;bench;bench;traffic light
+COCO_val2014_000000095191.jpg,train;train;train
+COCO_val2014_000000458702.jpg,parking meter;car;parking meter;car
+COCO_val2014_000000468902.jpg,dog;cow
+COCO_val2014_000000239198.jpg,cow
+COCO_val2014_000000133778.jpg,cow;cow
+COCO_val2014_000000311205.jpg,car;car;truck;car
+COCO_val2014_000000489743.jpg,cat;teddy bear;bed
+COCO_val2014_000000054603.jpg,cat
+COCO_val2014_000000514979.jpg,elephant;elephant
+COCO_val2014_000000347377.jpg,umbrella;umbrella;umbrella;umbrella;umbrella
+COCO_val2014_000000516404.jpg,dog;bed
+COCO_val2014_000000375407.jpg,dog;dog;bed;teddy bear;potted plant
+COCO_val2014_000000579561.jpg,zebra;zebra
+COCO_val2014_000000062831.jpg,zebra;zebra;zebra
+COCO_val2014_000000449073.jpg,orange;orange;orange;orange;orange;orange;orange;orange;orange;orange;orange;orange;orange
+COCO_val2014_000000551998.jpg,bottle;bowl;broccoli;broccoli;broccoli;broccoli;broccoli;broccoli;broccoli;broccoli
+COCO_val2014_000000097513.jpg,broccoli;broccoli
+COCO_val2014_000000323370.jpg,sandwich;sandwich;wine glass;fork;knife;bowl;bottle;knife;knife;dining table;bottle
+COCO_val2014_000000483945.jpg,bed
+COCO_val2014_000000373170.jpg,tv;chair;chair;chair;book;book;chair;chair;chair;book;book;book;book;book
+COCO_val2014_000000096034.jpg,teddy bear;bear
+COCO_val2014_000000407097.jpg,potted plant;potted plant;potted plant;potted plant;potted plant;vase;potted plant;vase;vase;vase
+COCO_val2014_000000378311.jpg,oven;oven;oven;oven
+COCO_val2014_000000300121.jpg,clock
+COCO_val2014_000000474571.jpg,bottle;cell phone;dining table
+COCO_val2014_000000351598.jpg,vase
+COCO_val2014_000000061108.jpg,dog;bicycle;car;bench;bench;bench;car;car;car
+COCO_val2014_000000500533.jpg,toilet
+COCO_val2014_000000460621.jpg,toilet
+COCO_val2014_000000388027.jpg,toilet
+COCO_val2014_000000528811.jpg,train;train;train
+COCO_val2014_000000255213.jpg,airplane;bird;bird;bird;bird
+COCO_val2014_000000042968.jpg,airplane;potted plant;potted plant;potted plant
+COCO_val2014_000000401820.jpg,giraffe
+COCO_val2014_000000558736.jpg,zebra;zebra;zebra;giraffe;giraffe
+COCO_val2014_000000469721.jpg,fire hydrant
+COCO_val2014_000000416405.jpg,fire hydrant
+COCO_val2014_000000156299.jpg,
+COCO_val2014_000000174902.jpg,
+COCO_val2014_000000167902.jpg,bird
+COCO_val2014_000000029852.jpg,bus
+COCO_val2014_000000324421.jpg,bird;bird;bird;bird;bird;bird;bird;bird;bird;bird;bird;bird;bird;bird;bird;bird
+COCO_val2014_000000011260.jpg,train
+COCO_val2014_000000185903.jpg,train;car;train
+COCO_val2014_000000524742.jpg,train
+COCO_val2014_000000138316.jpg,cow;cow;cow;cow;cow;cow;cow;cow;cow;cow;cow;cow;cow;cow;cow;cow;cow;cow;cow
+COCO_val2014_000000526706.jpg,cow;cow;cow;cow
+COCO_val2014_000000057460.jpg,cat;laptop
+COCO_val2014_000000365098.jpg,boat
+COCO_val2014_000000206112.jpg,backpack;suitcase;suitcase;suitcase;backpack
+COCO_val2014_000000002690.jpg,boat;boat;boat;boat;boat;boat;boat;boat;boat;boat;boat;boat;boat;boat
+COCO_val2014_000000315824.jpg,bear;bear
+COCO_val2014_000000006688.jpg,zebra;zebra;zebra
+COCO_val2014_000000287846.jpg,dog;sports ball
+COCO_val2014_000000306383.jpg,bird;zebra
+COCO_val2014_000000056288.jpg,sandwich;keyboard;tv
+COCO_val2014_000000226459.jpg,banana
+COCO_val2014_000000335733.jpg,broccoli;broccoli;broccoli;carrot
+COCO_val2014_000000074591.jpg,carrot;carrot;carrot;broccoli;carrot
+COCO_val2014_000000352234.jpg,fork;pizza
+COCO_val2014_000000429623.jpg,pizza;chair;dining table;fork
+COCO_val2014_000000388126.jpg,bed
+COCO_val2014_000000225693.jpg,bed;chair
+COCO_val2014_000000527578.jpg,potted plant;tv;chair;couch;dining table;bowl;apple;apple;sink;refrigerator;orange;chair;chair;chair;chair;chair
+COCO_val2014_000000439472.jpg,tv;couch;couch;couch;dining table
+COCO_val2014_000000463498.jpg,couch;dining table;chair;chair;bowl;bowl;bowl;chair;tv
+COCO_val2014_000000471816.jpg,tv;bottle;chair;couch;clock;wine glass;book;book;wine glass;book;book;book;book;vase;vase;vase;remote;remote;book;vase
+COCO_val2014_000000531232.jpg,
+COCO_val2014_000000380348.jpg,bottle;chair;chair;chair;dining table;chair;chair;chair;chair;chair;potted plant;chair;chair;dining table;wine glass;wine glass;wine glass;bowl;bowl;vase;chair;vase;chair;chair;chair
+COCO_val2014_000000319696.jpg,bottle;microwave;clock;teddy bear;potted plant
+COCO_val2014_000000403482.jpg,oven;toaster;sink;vase;knife;microwave;sink
+COCO_val2014_000000194297.jpg,toilet
+COCO_val2014_000000108679.jpg,bicycle;bed;backpack
+COCO_val2014_000000398304.jpg,bicycle;cell phone
+COCO_val2014_000000223467.jpg,sink;sink;toothbrush;toothbrush;toothbrush;toothbrush;toothbrush;toothbrush
+COCO_val2014_000000069121.jpg,bottle;bottle;potted plant;sink
+COCO_val2014_000000323919.jpg,car;teddy bear
+COCO_val2014_000000280320.jpg,toilet;toilet;toilet;toilet;toilet
+COCO_val2014_000000162589.jpg,toilet
+COCO_val2014_000000255965.jpg,cat
+COCO_val2014_000000153184.jpg,bird;bird;bird;giraffe
+COCO_val2014_000000001532.jpg,car;car;car;car;truck;car;car;car
+COCO_val2014_000000006701.jpg,truck;traffic light;traffic light;car;stop sign
+COCO_val2014_000000061720.jpg,giraffe
+COCO_val2014_000000238292.jpg,bird;apple;apple;apple
+COCO_val2014_000000114616.jpg,sheep;sheep
+COCO_val2014_000000482526.jpg,bird;bird;clock;bird
+COCO_val2014_000000182348.jpg,bird;bird;bird;bird;bird;bird;bird;bird
+COCO_val2014_000000156858.jpg,bird
+COCO_val2014_000000088902.jpg,traffic light
+COCO_val2014_000000349185.jpg,truck;truck;truck
+COCO_val2014_000000247428.jpg,dog;cat
+COCO_val2014_000000467776.jpg,cow;cow;sheep;sheep;sheep;sheep;sheep;sheep
+COCO_val2014_000000380117.jpg,potted plant;potted plant;potted plant;potted plant;potted plant;cat
+COCO_val2014_000000500084.jpg,cat;cat
+COCO_val2014_000000197245.jpg,cat;couch;remote
+COCO_val2014_000000454577.jpg,cow;cow
+COCO_val2014_000000002290.jpg,boat;boat;boat
+COCO_val2014_000000062250.jpg,bird;bird;bird;bird;bird;bird;bird;bird;bird;bird;bird;bird;bird;elephant;elephant;elephant;elephant;bird
+COCO_val2014_000000273618.jpg,elephant;elephant
+COCO_val2014_000000174276.jpg,boat;boat;boat;boat
+COCO_val2014_000000437426.jpg,bear
+COCO_val2014_000000330201.jpg,dog
+COCO_val2014_000000573869.jpg,bear
+COCO_val2014_000000527625.jpg,bear
+COCO_val2014_000000220526.jpg,zebra;zebra;zebra
+COCO_val2014_000000531070.jpg,zebra
+COCO_val2014_000000401653.jpg,zebra;zebra
+COCO_val2014_000000386194.jpg,zebra;zebra
+COCO_val2014_000000272518.jpg,horse;horse
+COCO_val2014_000000147256.jpg,broccoli;broccoli;broccoli;broccoli;broccoli;broccoli;broccoli;broccoli;broccoli
+COCO_val2014_000000170670.jpg,bottle;bottle;bottle;chair;dining table;cup;cup;cup;fork;fork;fork;bowl;bowl;bowl;bowl;carrot;cup;fork;fork;chair;bottle
+COCO_val2014_000000244401.jpg,broccoli;carrot;carrot;carrot;carrot;carrot;carrot;broccoli
+COCO_val2014_000000263393.jpg,cup;fork;fork;knife;spoon;bowl;dining table;carrot;carrot;carrot;carrot;carrot;carrot;carrot;carrot;carrot;bottle
+COCO_val2014_000000000133.jpg,bed;teddy bear
+COCO_val2014_000000065888.jpg,pizza
+COCO_val2014_000000110027.jpg,refrigerator;chair;chair;chair;chair;dining table;microwave;bowl;chair;dining table;microwave
+COCO_val2014_000000317575.jpg,
+COCO_val2014_000000541634.jpg,cup;spoon;bowl;broccoli;broccoli;broccoli;cup;cup;dining table;dining table;spoon
+COCO_val2014_000000106392.jpg,tv;bottle;cup;bowl;bowl;microwave;oven;toaster;bottle;cup;bottle;bottle;cup;sink;knife;cup
+COCO_val2014_000000540642.jpg,refrigerator;sink;oven
+COCO_val2014_000000186165.jpg,bottle;bottle;refrigerator;clock;clock;chair;dining table;bowl;bowl;bowl;bowl;oven;sink;bowl;bottle
+COCO_val2014_000000439837.jpg,potted plant;potted plant;bottle;potted plant;potted plant;sink;bowl;potted plant;potted plant
+COCO_val2014_000000256094.jpg,toilet;bottle;bottle;bottle;bottle;bottle
+COCO_val2014_000000317715.jpg,cat;bicycle;bicycle
+COCO_val2014_000000109055.jpg,cat;bicycle
+COCO_val2014_000000514604.jpg,bottle;bottle;toilet;toilet;book
+COCO_val2014_000000490567.jpg,toilet;sink
+COCO_val2014_000000577521.jpg,toilet;sink
+COCO_val2014_000000291833.jpg,toilet;toilet
+COCO_val2014_000000369386.jpg,toilet
+COCO_val2014_000000445638.jpg,clock
+COCO_val2014_000000433483.jpg,traffic light;traffic light;traffic light
+COCO_val2014_000000170545.jpg,car;car;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light
+COCO_val2014_000000260048.jpg,car;car;car;car;car;car;traffic light;traffic light;traffic light;car;car;car;car
+COCO_val2014_000000452027.jpg,zebra;giraffe;giraffe;giraffe
+COCO_val2014_000000178747.jpg,bus;stop sign
+COCO_val2014_000000382584.jpg,bus
+COCO_val2014_000000220621.jpg,fire hydrant
+COCO_val2014_000000198590.jpg,bird;truck;truck
+COCO_val2014_000000485269.jpg,train
+COCO_val2014_000000488004.jpg,cat;suitcase
+COCO_val2014_000000279386.jpg,cat;cup;chair
+COCO_val2014_000000576200.jpg,cow;cow;cow;cow;cow;cow;cow;cow;cow;cow
+COCO_val2014_000000278437.jpg,cow;cow;cow
+COCO_val2014_000000416758.jpg,cow;cow;cow;cow
+COCO_val2014_000000298830.jpg,cow
+COCO_val2014_000000465506.jpg,cat;remote;remote;remote
+COCO_val2014_000000492196.jpg,boat
+COCO_val2014_000000527670.jpg,dog;couch
+COCO_val2014_000000539678.jpg,bear
+COCO_val2014_000000573391.jpg,bear
+COCO_val2014_000000479762.jpg,zebra;zebra;zebra
+COCO_val2014_000000528011.jpg,zebra
+COCO_val2014_000000134167.jpg,zebra;zebra
+COCO_val2014_000000294451.jpg,banana;apple;apple;apple;apple;orange;orange;orange;orange;banana;orange;orange
+COCO_val2014_000000100343.jpg,banana;banana;teddy bear
+COCO_val2014_000000470318.jpg,fork;hot dog;dining table;sandwich
+COCO_val2014_000000147818.jpg,donut
+COCO_val2014_000000131416.jpg,chair;dining table;sandwich;sandwich;bottle;bottle;bottle;potted plant;potted plant;cup;cup;chair;refrigerator;bottle;dining table;bottle;bottle;bottle;bottle;cup;cup;cup;cup;cup
+COCO_val2014_000000146489.jpg,bottle;cell phone;wine glass;pizza;dining table;wine glass
+COCO_val2014_000000012010.jpg,pizza
+COCO_val2014_000000225757.jpg,tv;tv;tv;cell phone;mouse;keyboard;laptop;remote;cell phone
+COCO_val2014_000000546569.jpg,tv;chair;bed;chair;potted plant;vase
+COCO_val2014_000000224004.jpg,remote
+COCO_val2014_000000148620.jpg,tv;laptop;mouse;keyboard;keyboard
+COCO_val2014_000000264238.jpg,boat;boat;boat;clock;clock;bird
+COCO_val2014_000000085556.jpg,chair;chair;dining table;cup;fork;knife;pizza;cup;chair;chair;chair
+COCO_val2014_000000490322.jpg,clock;clock
+COCO_val2014_000000289128.jpg,refrigerator;chair;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;chair;bottle;bottle;bottle
+COCO_val2014_000000335085.jpg,refrigerator;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle
+COCO_val2014_000000386257.jpg,clock;clock;clock;clock
+COCO_val2014_000000006673.jpg,vase;potted plant
+COCO_val2014_000000494072.jpg,teddy bear
+COCO_val2014_000000088040.jpg,bottle;bottle;cup;cup;fork;fork;spoon;bowl;bowl;knife;spoon;bowl;dining table
+COCO_val2014_000000301449.jpg,bottle;bottle;bottle;bottle;bottle;bottle;bottle;dining table;wine glass;cup;cup;cup;cup;bottle;bottle;bottle
+COCO_val2014_000000427796.jpg,cup;sink;knife;knife;knife;sink;bottle;knife;knife;knife;knife;knife;knife
+COCO_val2014_000000033931.jpg,spoon
+COCO_val2014_000000224819.jpg,sandwich
+COCO_val2014_000000577946.jpg,bottle;bottle;bottle;bottle;spoon;bowl;bottle;bowl;bowl;bowl;sink;spoon;spoon;bottle;bottle;bottle;dining table
+COCO_val2014_000000081315.jpg,chair;dining table;refrigerator;microwave;oven;sink
+COCO_val2014_000000159133.jpg,toilet;book
+COCO_val2014_000000067956.jpg,car;car;car;car;car;car;car;stop sign
+COCO_val2014_000000355040.jpg,motorcycle;motorcycle;motorcycle;motorcycle;motorcycle;motorcycle;motorcycle;motorcycle;motorcycle;motorcycle;motorcycle
+COCO_val2014_000000067558.jpg,toilet
+COCO_val2014_000000142581.jpg,clock
+COCO_val2014_000000404792.jpg,bicycle;motorcycle;motorcycle;motorcycle;motorcycle;bicycle;truck
+COCO_val2014_000000202913.jpg,bowl;cake;donut;donut;donut;donut;bowl;bowl;bowl;bowl;bowl;bowl;bowl;bowl;bowl
+COCO_val2014_000000287559.jpg,airplane
+COCO_val2014_000000225184.jpg,dog;sheep;sheep;sheep
+COCO_val2014_000000225032.jpg,giraffe
+COCO_val2014_000000289659.jpg,giraffe
+COCO_val2014_000000010211.jpg,zebra;zebra;zebra;giraffe;giraffe;giraffe
+COCO_val2014_000000041773.jpg,bird;bird;bird
+COCO_val2014_000000166260.jpg,
+COCO_val2014_000000503483.jpg,
+COCO_val2014_000000578595.jpg,sheep;sheep
+COCO_val2014_000000405213.jpg,traffic light
+COCO_val2014_000000323571.jpg,car;car;truck;truck;traffic light
+COCO_val2014_000000166995.jpg,dog;car;truck
+COCO_val2014_000000051095.jpg,cat;suitcase;bed;book
+COCO_val2014_000000312388.jpg,cat;suitcase
+COCO_val2014_000000376336.jpg,cat
+COCO_val2014_000000159170.jpg,cat;couch
+COCO_val2014_000000250924.jpg,cat;book;book;book;book;book;book;book;book;book;book;book;book;book;book
+COCO_val2014_000000233362.jpg,boat
+COCO_val2014_000000442175.jpg,elephant;elephant;elephant
+COCO_val2014_000000574874.jpg,bear
+COCO_val2014_000000228309.jpg,dog;couch;bed
+COCO_val2014_000000254976.jpg,dog;frisbee
+COCO_val2014_000000289264.jpg,dog
+COCO_val2014_000000474762.jpg,horse;horse;horse;horse
+COCO_val2014_000000009077.jpg,orange;orange;orange;banana;banana;banana;banana;banana;banana;banana;banana;banana;banana;banana;banana;apple;apple;apple;apple;apple;orange;orange;orange;orange;orange;orange;orange;orange;orange;banana;apple;apple;apple;apple;orange;orange
+COCO_val2014_000000379922.jpg,orange
+COCO_val2014_000000070657.jpg,dining table;banana;bowl;bowl
+COCO_val2014_000000041923.jpg,dining table;cup;cup;spoon;bowl;bowl;bowl;spoon;bowl;bowl;sandwich;sandwich
+COCO_val2014_000000334884.jpg,bowl;carrot;carrot;dining table
+COCO_val2014_000000107770.jpg,cup;hot dog;chair;dining table;bottle;bottle
+COCO_val2014_000000467578.jpg,cup;donut;donut;donut;donut;donut;donut;donut;donut;donut;donut;donut;donut;dining table;donut;donut
+COCO_val2014_000000403821.jpg,cake;cake;cake;cake;cake;cake;cake;cake;bottle;bottle;bottle;bottle;bottle;cake;cake;cake;bottle
+COCO_val2014_000000230268.jpg,bed;chair;cup
+COCO_val2014_000000036661.jpg,bed;book;book;remote;book;cell phone;book
+COCO_val2014_000000314965.jpg,cake
+COCO_val2014_000000197840.jpg,potted plant;couch;chair;remote;remote;vase
+COCO_val2014_000000383549.jpg,potted plant;tv;couch;remote;chair
+COCO_val2014_000000183049.jpg,clock;book;book;book;book;book;book;book;book;book;book;book;book;book;book
+COCO_val2014_000000470746.jpg,potted plant;chair;chair;couch;couch;couch;book;book;book;book;dining table;book;chair;chair;chair;chair;chair;couch;couch;book;book;book;book;book;book;book;dining table;dining table;book;couch;couch;book
+COCO_val2014_000000359097.jpg,mouse;mouse;mouse;keyboard;keyboard
+COCO_val2014_000000459050.jpg,couch;chair;dining table;book;chair;chair;chair;book;chair;chair;couch;book;book;book;book;book;book;book;remote
+COCO_val2014_000000288229.jpg,clock;spoon;apple
+COCO_val2014_000000461759.jpg,clock
+COCO_val2014_000000435957.jpg,teddy bear
+COCO_val2014_000000218494.jpg,laptop;mouse;keyboard
+COCO_val2014_000000314027.jpg,clock;clock
+COCO_val2014_000000148977.jpg,bottle;keyboard;book;teddy bear
+COCO_val2014_000000153307.jpg,vase
+COCO_val2014_000000556648.jpg,cell phone;cell phone;cell phone;cell phone;cell phone
+COCO_val2014_000000245534.jpg,clock
+COCO_val2014_000000330535.jpg,
+COCO_val2014_000000321314.jpg,vase;vase;vase;vase;dining table
+COCO_val2014_000000234684.jpg,scissors
+COCO_val2014_000000196168.jpg,toilet;sink;sink;hair drier
+COCO_val2014_000000012101.jpg,toilet
+COCO_val2014_000000202040.jpg,motorcycle;motorcycle
+COCO_val2014_000000144870.jpg,bed;chair;backpack;backpack
+COCO_val2014_000000311954.jpg,tv;couch;couch;chair;potted plant;potted plant;potted plant;book;vase;chair;chair;book;book;book;book;book;book;book;book;book;book;book;vase;dining table;book;couch;couch;couch;book
+COCO_val2014_000000233298.jpg,airplane
+COCO_val2014_000000515962.jpg,giraffe;giraffe;giraffe
+COCO_val2014_000000109012.jpg,car;car;car;car;car;car;car;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;car;traffic light;traffic light;traffic light;traffic light;traffic light;car
+COCO_val2014_000000454661.jpg,car;car;car;bus;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light
+COCO_val2014_000000279081.jpg,traffic light;traffic light
+COCO_val2014_000000185157.jpg,bicycle;bicycle;bicycle;bicycle;bicycle;bicycle
+COCO_val2014_000000492349.jpg,bird
+COCO_val2014_000000280480.jpg,bird
+COCO_val2014_000000475365.jpg,train
+COCO_val2014_000000031339.jpg,car;car;car;car;traffic light;traffic light;traffic light;car;traffic light;traffic light;traffic light
+COCO_val2014_000000488567.jpg,car;car
+COCO_val2014_000000221190.jpg,traffic light;train;traffic light
+COCO_val2014_000000570115.jpg,cat;keyboard;tv
+COCO_val2014_000000407821.jpg,boat
+COCO_val2014_000000280515.jpg,elephant;elephant
+COCO_val2014_000000010935.jpg,elephant;elephant;elephant;elephant;elephant;elephant;elephant;elephant;elephant
+COCO_val2014_000000086946.jpg,umbrella;chair;chair
+COCO_val2014_000000317147.jpg,dog;cake
+COCO_val2014_000000034193.jpg,bear;bear
+COCO_val2014_000000213438.jpg,zebra
+COCO_val2014_000000244592.jpg,zebra;zebra;zebra
+COCO_val2014_000000380343.jpg,banana;banana;banana;banana;banana;banana;banana;banana;banana;banana;banana;banana;banana;banana
+COCO_val2014_000000338050.jpg,broccoli;chair;chair;dining table
+COCO_val2014_000000041507.jpg,cup;fork;broccoli;dining table;sandwich
+COCO_val2014_000000177575.jpg,bowl;broccoli;broccoli;broccoli;broccoli;broccoli
+COCO_val2014_000000555920.jpg,broccoli
+COCO_val2014_000000056244.jpg,pizza
+COCO_val2014_000000185614.jpg,hot dog;bottle;couch;dining table;wine glass;spoon;bowl;book;book;bird;chair;chair;couch
+COCO_val2014_000000419848.jpg,dining table;wine glass;fork;spoon;bowl;hot dog;hot dog
+COCO_val2014_000000438373.jpg,sandwich;sandwich;bottle;wine glass;fork;knife;bottle;dining table
+COCO_val2014_000000052947.jpg,donut;donut;donut;donut;donut;donut;donut;donut;donut;donut;donut;donut
+COCO_val2014_000000256787.jpg,dog;chair;dining table;chair;cake;tie;carrot
+COCO_val2014_000000574845.jpg,bed;chair;couch
+COCO_val2014_000000449594.jpg,bed;chair;chair;backpack;tv;bed
+COCO_val2014_000000450790.jpg,knife;pizza;cup;fork;bowl;cup;cup
+COCO_val2014_000000534554.jpg,pizza;fork;cup
+COCO_val2014_000000211107.jpg,chair;couch;dining table;remote;remote
+COCO_val2014_000000143822.jpg,remote
+COCO_val2014_000000555048.jpg,couch;couch;car;vase
+COCO_val2014_000000072004.jpg,pizza;pizza;pizza;pizza;pizza;pizza;pizza;pizza;pizza;pizza;pizza;pizza;pizza;pizza
+COCO_val2014_000000479909.jpg,refrigerator;oven
+COCO_val2014_000000563731.jpg,clock
+COCO_val2014_000000198841.jpg,vase
+COCO_val2014_000000037729.jpg,cat;bottle;dining table;vase;wine glass;potted plant
+COCO_val2014_000000051355.jpg,bottle;bottle;knife;bowl;bowl;cup;sink;pizza;oven;cake
+COCO_val2014_000000514682.jpg,toilet;sink;bottle
+COCO_val2014_000000361656.jpg,banana;dining table
+COCO_val2014_000000276284.jpg,car;car;car;car;motorcycle
+COCO_val2014_000000247123.jpg,tv;book;book;book;book;book
+COCO_val2014_000000560893.jpg,bench;bench
+COCO_val2014_000000057350.jpg,zebra;zebra;zebra;zebra;giraffe;giraffe;giraffe
+COCO_val2014_000000127136.jpg,airplane;car
+COCO_val2014_000000032703.jpg,giraffe
+COCO_val2014_000000201993.jpg,bench
+COCO_val2014_000000492658.jpg,sheep
+COCO_val2014_000000338531.jpg,sheep;sheep;sheep
+COCO_val2014_000000390301.jpg,fire hydrant
+COCO_val2014_000000043610.jpg,bird
+COCO_val2014_000000411958.jpg,train;train;truck
+COCO_val2014_000000307598.jpg,train;traffic light;traffic light;traffic light
+COCO_val2014_000000060859.jpg,train;bird
+COCO_val2014_000000357841.jpg,stop sign
+COCO_val2014_000000070619.jpg,train
+COCO_val2014_000000043680.jpg,cow;cow;cow;cow;cow;cow;cow;cow
+COCO_val2014_000000505573.jpg,dog;tie
+COCO_val2014_000000127761.jpg,boat
+COCO_val2014_000000225133.jpg,umbrella;umbrella;umbrella;umbrella;umbrella;umbrella;umbrella;umbrella;umbrella;umbrella;umbrella;umbrella;umbrella;umbrella
+COCO_val2014_000000069021.jpg,dog;couch;vase;potted plant
+COCO_val2014_000000402742.jpg,dog;chair
+COCO_val2014_000000203460.jpg,bear
+COCO_val2014_000000465095.jpg,potted plant;zebra;zebra;bird;bird;bird;bird
+COCO_val2014_000000085285.jpg,zebra;zebra
+COCO_val2014_000000396608.jpg,cup;cup;banana;apple
+COCO_val2014_000000345497.jpg,broccoli;broccoli;carrot;carrot
+COCO_val2014_000000018442.jpg,bottle;dining table;wine glass;spoon;broccoli;broccoli;broccoli;broccoli;broccoli;broccoli;chair
+COCO_val2014_000000009156.jpg,sandwich;cup;fork;dining table
+COCO_val2014_000000216194.jpg,sandwich;cup;cup;sandwich
+COCO_val2014_000000442877.jpg,dining table;fork;knife;sandwich;sandwich
+COCO_val2014_000000302555.jpg,dining table;sandwich;sandwich;sandwich;cup;cup;cup;fork;bowl;sandwich
+COCO_val2014_000000449424.jpg,tv;bed;book;book;laptop;book;book;book;book;book;book;book;book;book;book;chair;book
+COCO_val2014_000000101660.jpg,bed;bed;bed
+COCO_val2014_000000537721.jpg,cell phone;book;book;book
+COCO_val2014_000000030407.jpg,cell phone;cell phone;cell phone;cell phone
+COCO_val2014_000000367018.jpg,dining table;cup;bowl;wine glass;bowl;bowl
+COCO_val2014_000000426172.jpg,bottle;bottle;bottle;bottle;bottle;bottle;bottle;knife;knife;knife;bottle;bottle;bottle;bottle;dining table;dining table;knife;bottle;chair;book;book;book;book;book;book;bottle;dining table;bottle
+COCO_val2014_000000444382.jpg,bench;chair;chair;potted plant;sink;dining table
+COCO_val2014_000000280498.jpg,tv;chair;chair;chair;chair;bowl;microwave;sink;potted plant;oven
+COCO_val2014_000000469638.jpg,sink;toothbrush;toothbrush
+COCO_val2014_000000267300.jpg,dog;potted plant;bed
+COCO_val2014_000000084749.jpg,cat
+COCO_val2014_000000425303.jpg,airplane
+COCO_val2014_000000217039.jpg,airplane
+COCO_val2014_000000574785.jpg,airplane
+COCO_val2014_000000353964.jpg,airplane;airplane
+COCO_val2014_000000052368.jpg,potted plant;potted plant;umbrella;bench;bench;bench;bench;dining table
+COCO_val2014_000000025660.jpg,bench
+COCO_val2014_000000070079.jpg,giraffe
+COCO_val2014_000000083246.jpg,
+COCO_val2014_000000290741.jpg,bird
+COCO_val2014_000000197191.jpg,bird;bird
+COCO_val2014_000000337226.jpg,train;car;car
+COCO_val2014_000000357824.jpg,bird;bird;bird
+COCO_val2014_000000114090.jpg,bird;bird
+COCO_val2014_000000020371.jpg,bird
+COCO_val2014_000000539141.jpg,boat;boat;boat;boat;truck;truck;truck;boat;boat;boat;boat;boat;boat;truck;truck;bench
+COCO_val2014_000000062398.jpg,cat;cat;bed
+COCO_val2014_000000493612.jpg,cow;cow;cow;cow;cow
+COCO_val2014_000000493295.jpg,potted plant;cat;laptop;mouse
+COCO_val2014_000000345499.jpg,elephant;elephant
+COCO_val2014_000000194216.jpg,bear;bear;bear
+COCO_val2014_000000532985.jpg,bear;bear
+COCO_val2014_000000219524.jpg,bear;truck
+COCO_val2014_000000080328.jpg,zebra;zebra;zebra;zebra;zebra;zebra;cow
+COCO_val2014_000000415961.jpg,dog
+COCO_val2014_000000364636.jpg,dog;bench
+COCO_val2014_000000522021.jpg,zebra;zebra;zebra
+COCO_val2014_000000468178.jpg,zebra;zebra;zebra;zebra;zebra;zebra;zebra;zebra;zebra;zebra;zebra;zebra;zebra
+COCO_val2014_000000496267.jpg,zebra;zebra
+COCO_val2014_000000042534.jpg,zebra;zebra
+COCO_val2014_000000142318.jpg,horse
+COCO_val2014_000000198367.jpg,bowl;banana;apple;apple
+COCO_val2014_000000207431.jpg,cup;cup;fork;pizza;dining table
+COCO_val2014_000000013490.jpg,knife;knife;dining table;sandwich
+COCO_val2014_000000543631.jpg,bed
+COCO_val2014_000000331937.jpg,bed;bed;car;chair;bed;dining table;cell phone;clock;chair
+COCO_val2014_000000385719.jpg,tv;tv;laptop;mouse;mouse;keyboard;keyboard;keyboard;keyboard;book;remote;book;book;book;book;book;mouse
+COCO_val2014_000000249534.jpg,dining table;pizza
+COCO_val2014_000000473555.jpg,tv;cat;chair;chair;couch;bowl;chair;bowl
+COCO_val2014_000000561729.jpg,cup;mouse;keyboard;dining table
+COCO_val2014_000000220137.jpg,vase;vase;vase
+COCO_val2014_000000450439.jpg,kite;kite
+COCO_val2014_000000034114.jpg,refrigerator;bottle;microwave
+COCO_val2014_000000407976.jpg,
+COCO_val2014_000000426852.jpg,vase;vase;vase
+COCO_val2014_000000039663.jpg,book;scissors;backpack;cell phone;laptop;book
+COCO_val2014_000000359525.jpg,chair;chair;cup;spoon;cup;dining table;bottle
+COCO_val2014_000000166437.jpg,clock;clock;clock;clock;clock;clock;clock;clock;clock;clock;clock;clock;clock;clock
+COCO_val2014_000000280226.jpg,vase
+COCO_val2014_000000347965.jpg,teddy bear
+COCO_val2014_000000338419.jpg,teddy bear
+COCO_val2014_000000437283.jpg,dining table;fork;bowl;bowl
+COCO_val2014_000000539423.jpg,chair;microwave;oven;book;book;book;book;book
+COCO_val2014_000000242529.jpg,bicycle;bicycle;boat;boat;boat;bottle;boat;boat;boat;boat
+COCO_val2014_000000504970.jpg,toilet;parking meter
+COCO_val2014_000000057454.jpg,toilet;toilet;toilet;toilet
+COCO_val2014_000000330720.jpg,clock
+COCO_val2014_000000497099.jpg,toilet;toilet;toilet;toilet;sink;sink;sink
+COCO_val2014_000000581829.jpg,dining table;spoon;bowl;banana;banana;banana;banana;banana;banana;banana;banana;banana;banana;banana
+COCO_val2014_000000392481.jpg,airplane
+COCO_val2014_000000226419.jpg,airplane
+COCO_val2014_000000042137.jpg,bus;car;car;car;car
+COCO_val2014_000000018888.jpg,bench
+COCO_val2014_000000011202.jpg,giraffe
+COCO_val2014_000000261906.jpg,bird
+COCO_val2014_000000142000.jpg,bicycle
+COCO_val2014_000000270009.jpg,train;bird
+COCO_val2014_000000457133.jpg,stop sign
+COCO_val2014_000000334658.jpg,stop sign
+COCO_val2014_000000228552.jpg,car;car;car;car;parking meter;parking meter;parking meter;parking meter;parking meter;parking meter;parking meter;parking meter;parking meter;parking meter;parking meter;parking meter;car;car
+COCO_val2014_000000341137.jpg,parking meter;car;truck;car;car
+COCO_val2014_000000421499.jpg,bird;bird;bird;cow;cow;cow;cow;cow;cow;cow;cow;cow;cow;truck
+COCO_val2014_000000107306.jpg,boat;boat;boat;boat;boat;boat;boat;boat;boat;boat;boat;boat
+COCO_val2014_000000232790.jpg,tie;tie;tie;tie;tie;tie;tie;tie;tie;tie;tie;tie;tie;tie
+COCO_val2014_000000054718.jpg,elephant;elephant;elephant;elephant
+COCO_val2014_000000114891.jpg,dog;banana
+COCO_val2014_000000367509.jpg,car;zebra;car;zebra;car;truck
+COCO_val2014_000000082375.jpg,zebra;zebra
+COCO_val2014_000000358494.jpg,horse;horse;horse;truck
+COCO_val2014_000000421109.jpg,horse;horse;horse
+COCO_val2014_000000069906.jpg,fork;broccoli;wine glass;dining table
+COCO_val2014_000000280536.jpg,bowl;bowl;bowl;carrot;orange;orange;orange;orange;orange;orange;orange;orange;carrot;carrot;carrot;carrot;carrot;carrot;carrot;carrot;dining table;orange;orange;orange;orange;orange;carrot;carrot;carrot
+COCO_val2014_000000416787.jpg,donut
+COCO_val2014_000000415619.jpg,bed
+COCO_val2014_000000143329.jpg,bed
+COCO_val2014_000000073020.jpg,bed;chair;couch
+COCO_val2014_000000232863.jpg,cake
+COCO_val2014_000000121157.jpg,cell phone;mouse;keyboard;tv
+COCO_val2014_000000498738.jpg,bottle;couch;chair;chair;chair;dining table;wine glass;wine glass;wine glass;wine glass;cup;fork;fork;cup;spoon;spoon;spoon;chair;chair
+COCO_val2014_000000401327.jpg,cell phone;mouse;keyboard;tv
+COCO_val2014_000000183693.jpg,clock;clock
+COCO_val2014_000000551403.jpg,clock
+COCO_val2014_000000369998.jpg,teddy bear
+COCO_val2014_000000373748.jpg,refrigerator;bottle;bottle;bottle;bottle;bottle;chair;dining table;dining table;chair;chair;tv;bottle;bottle;bottle;bottle;bottle;bottle;bottle
+COCO_val2014_000000235119.jpg,cake
+COCO_val2014_000000157866.jpg,refrigerator;microwave;oven;sink;sink;cup;bowl
+COCO_val2014_000000524392.jpg,refrigerator
+COCO_val2014_000000095069.jpg,clock
+COCO_val2014_000000427639.jpg,dog;potted plant;cup;cup;vase;cup;potted plant;potted plant;potted plant;cup
+COCO_val2014_000000087567.jpg,potted plant;knife;bowl;bowl;oven;scissors;bottle;knife;knife;knife;knife;knife;knife;knife;book;knife
+COCO_val2014_000000055077.jpg,bench;toilet;sink;sink
+COCO_val2014_000000342025.jpg,toilet;sink;vase
+COCO_val2014_000000422416.jpg,toilet;sink;sink
+COCO_val2014_000000141538.jpg,dog;dog;dog
+COCO_val2014_000000176474.jpg,dog;dog;dog
+COCO_val2014_000000056212.jpg,toilet
+COCO_val2014_000000193015.jpg,bowl;banana
+COCO_val2014_000000347253.jpg,airplane;truck;truck;truck
+COCO_val2014_000000388258.jpg,bicycle;airplane;bench;bottle
+COCO_val2014_000000518438.jpg,car;car;car;car;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;fire hydrant;traffic light;traffic light;car
+COCO_val2014_000000423513.jpg,cat;bench
+COCO_val2014_000000089500.jpg,bus
+COCO_val2014_000000258860.jpg,bicycle;fire hydrant
+COCO_val2014_000000133827.jpg,car;car;car;fire hydrant;car;car;car;car;parking meter;car;car;car;parking meter
+COCO_val2014_000000177419.jpg,fire hydrant
+COCO_val2014_000000272925.jpg,fire hydrant;car
+COCO_val2014_000000423172.jpg,bench;bench;bench
+COCO_val2014_000000396404.jpg,car;car;bench;car;car;car;car;car;bench;car
+COCO_val2014_000000558927.jpg,giraffe;giraffe
+COCO_val2014_000000253227.jpg,bird;clock;clock
+COCO_val2014_000000325368.jpg,
+COCO_val2014_000000364743.jpg,train
+COCO_val2014_000000200703.jpg,bird;bird;bird;bird
+COCO_val2014_000000395497.jpg,bird;bird;bird;bird;bird;bird;bird;bird;bird
+COCO_val2014_000000202926.jpg,bird;bird;bird;bird;bird;bird;bird;bird;bird;bird;bird;bird;bird;bird;bird;bird
+COCO_val2014_000000027932.jpg,baseball glove
+COCO_val2014_000000269662.jpg,bird
+COCO_val2014_000000391415.jpg,car;truck;traffic light;traffic light;traffic light
+COCO_val2014_000000296988.jpg,car;truck
+COCO_val2014_000000254050.jpg,dog;backpack;cup
+COCO_val2014_000000294053.jpg,car;car;car;truck;truck;car
+COCO_val2014_000000137321.jpg,bed;cat;bowl;bowl;bowl;dog
+COCO_val2014_000000495881.jpg,cow;cow;cow;cow;cow;cow;cow
+COCO_val2014_000000167193.jpg,cow;cow
+COCO_val2014_000000136681.jpg,tie;tie;tie;tie;tie;tie;tie;tie
+COCO_val2014_000000246672.jpg,elephant;elephant
+COCO_val2014_000000183199.jpg,dog;dog;couch;book
+COCO_val2014_000000082465.jpg,suitcase;suitcase;suitcase
+COCO_val2014_000000114419.jpg,bear
+COCO_val2014_000000493019.jpg,zebra;zebra;zebra;zebra;zebra;zebra;zebra;zebra
+COCO_val2014_000000312890.jpg,zebra
+COCO_val2014_000000442523.jpg,horse
+COCO_val2014_000000078283.jpg,apple;orange
+COCO_val2014_000000303937.jpg,apple;orange
+COCO_val2014_000000132706.jpg,carrot;carrot;carrot;broccoli;carrot;orange;orange;carrot
+COCO_val2014_000000054517.jpg,bottle;bottle;dining table;fork;remote;sandwich;sandwich
+COCO_val2014_000000152749.jpg,bed;handbag
+COCO_val2014_000000009857.jpg,bed;clock
+COCO_val2014_000000002212.jpg,dog;dog;couch
+COCO_val2014_000000352507.jpg,potted plant;tv;couch;chair;chair;bed;chair
+COCO_val2014_000000308117.jpg,tv;laptop;mouse;mouse;keyboard
+COCO_val2014_000000355819.jpg,sports ball;baseball bat;baseball glove
+COCO_val2014_000000141946.jpg,chair;laptop;keyboard;tennis racket;bottle;cup;mouse;keyboard;tv;cup
+COCO_val2014_000000053616.jpg,teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear
+COCO_val2014_000000433192.jpg,bed;laptop;book
+COCO_val2014_000000277831.jpg,wine glass;laptop;dining table;keyboard
+COCO_val2014_000000468778.jpg,umbrella;umbrella;boat;bowl;bowl;bowl;bowl;bowl;bowl;potted plant;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;boat;handbag;knife
+COCO_val2014_000000370103.jpg,bus;clock;traffic light;traffic light;traffic light;traffic light
+COCO_val2014_000000455275.jpg,couch;vase;potted plant
+COCO_val2014_000000080652.jpg,refrigerator;clock;chair;dining table;oven;apple;sink;chair;chair;chair;apple
+COCO_val2014_000000119617.jpg,bottle;bottle;bottle;cup;spoon;bowl;sink;knife;knife;spoon;spoon;bottle;knife;knife;knife;bowl
+COCO_val2014_000000334140.jpg,bicycle
+COCO_val2014_000000006861.jpg,toilet
+COCO_val2014_000000490638.jpg,car;car;car;car;car;traffic light;traffic light;traffic light;traffic light;car
+COCO_val2014_000000024636.jpg,sink;cup;cup
+COCO_val2014_000000193599.jpg,toilet;teddy bear
+COCO_val2014_000000218924.jpg,cat;toilet
+COCO_val2014_000000248314.jpg,chair;spoon;bowl;laptop;mouse;bottle;keyboard;chair
+COCO_val2014_000000075173.jpg,parking meter;parking meter;bench
+COCO_val2014_000000197941.jpg,bench
+COCO_val2014_000000101180.jpg,car;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;traffic light;car;traffic light;stop sign;traffic light;traffic light;traffic light;traffic light
+COCO_val2014_000000382211.jpg,giraffe
+COCO_val2014_000000025430.jpg,bench
+COCO_val2014_000000322567.jpg,bench
+COCO_val2014_000000227218.jpg,cat;bird
+COCO_val2014_000000430238.jpg,bird;dining table;cup;cup;spoon;spoon;chair
+COCO_val2014_000000522613.jpg,giraffe
+COCO_val2014_000000102174.jpg,tv;bird;keyboard;mouse
+COCO_val2014_000000201765.jpg,bird
+COCO_val2014_000000262014.jpg,cat
+COCO_val2014_000000532773.jpg,truck
+COCO_val2014_000000192730.jpg,cow;cow;cow
+COCO_val2014_000000451440.jpg,chair;dining table;cup;laptop;cat
+COCO_val2014_000000416170.jpg,cat;potted plant
+COCO_val2014_000000446603.jpg,suitcase;suitcase;handbag;suitcase;suitcase
+COCO_val2014_000000408101.jpg,bear
+COCO_val2014_000000262933.jpg,bear;bear;bear
+COCO_val2014_000000176314.jpg,horse;horse
+COCO_val2014_000000569319.jpg,dining table;fork;bowl;cake;cup;cup;spoon;broccoli;broccoli;carrot;carrot;cup;carrot;carrot;cake;bowl;broccoli
+COCO_val2014_000000308504.jpg,broccoli;carrot
+COCO_val2014_000000140010.jpg,cake
+COCO_val2014_000000253282.jpg,bottle;bottle;bottle;bottle;bottle;cake;bird
+COCO_val2014_000000556608.jpg,cake;chair;chair;dining table;dining table
+COCO_val2014_000000484425.jpg,pizza;oven
+COCO_val2014_000000070626.jpg,bowl;bowl;pizza;fork;fork
+COCO_val2014_000000167818.jpg,laptop;laptop;mouse;mouse;keyboard;keyboard;handbag;keyboard;cell phone;book
+COCO_val2014_000000302513.jpg,pizza
+COCO_val2014_000000326410.jpg,tv;couch;book;handbag
+COCO_val2014_000000038539.jpg,bottle;bottle;clock;clock;clock;clock;clock;clock;clock;clock;clock;clock;clock;clock;clock;clock
+COCO_val2014_000000243817.jpg,kite
+COCO_val2014_000000375484.jpg,laptop;mouse;tv
+COCO_val2014_000000226058.jpg,couch;teddy bear;teddy bear
+COCO_val2014_000000505492.jpg,clock;car;traffic light;car;car;car
+COCO_val2014_000000053697.jpg,bottle;cup;microwave;oven;dining table
+COCO_val2014_000000523426.jpg,toilet;sink
+COCO_val2014_000000186079.jpg,toilet
+COCO_val2014_000000413435.jpg,potted plant;toothbrush;cup;bowl;sink;toothbrush;vase
+COCO_val2014_000000264191.jpg,toilet
+COCO_val2014_000000264964.jpg,toilet
+COCO_val2014_000000094651.jpg,tv;cat;book;chair;book;book;book;book;book;book;book
+COCO_val2014_000000014108.jpg,dog;dog;tv;chair
+COCO_val2014_000000328433.jpg,bird;bench
+COCO_val2014_000000506540.jpg,giraffe
+COCO_val2014_000000575372.jpg,traffic light;traffic light;traffic light;traffic light
+COCO_val2014_000000442539.jpg,sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep;sheep
+COCO_val2014_000000130651.jpg,traffic light;traffic light;traffic light;bench;bench;traffic light
+COCO_val2014_000000327890.jpg,car;car;car;car;car;car;car;bench;bench;bench;car;bench;car
+COCO_val2014_000000319127.jpg,bench
+COCO_val2014_000000049091.jpg,
+COCO_val2014_000000506568.jpg,car;car;car;car;car
+COCO_val2014_000000176701.jpg,
+COCO_val2014_000000297736.jpg,
+COCO_val2014_000000551596.jpg,bird
+COCO_val2014_000000140974.jpg,
+COCO_val2014_000000414481.jpg,cat;teddy bear
+COCO_val2014_000000066271.jpg,cat;suitcase
+COCO_val2014_000000330500.jpg,tv;cat
+COCO_val2014_000000533156.jpg,cat;chair;dining table;laptop
+COCO_val2014_000000566470.jpg,boat;boat
+COCO_val2014_000000010449.jpg,elephant;elephant;elephant
+COCO_val2014_000000239455.jpg,boat;boat;boat;boat;boat
+COCO_val2014_000000126272.jpg,suitcase;suitcase;suitcase;suitcase;suitcase
+COCO_val2014_000000075791.jpg,bear;bear
+COCO_val2014_000000341950.jpg,zebra;zebra
+COCO_val2014_000000044524.jpg,zebra;zebra;zebra
+COCO_val2014_000000299017.jpg,zebra
+COCO_val2014_000000120046.jpg,zebra;zebra
+COCO_val2014_000000345209.jpg,horse;horse
+COCO_val2014_000000165639.jpg,bottle;banana;hot dog
+COCO_val2014_000000139260.jpg,spoon;banana;banana;banana;bowl;dining table
+COCO_val2014_000000285646.jpg,apple;apple;apple;apple;apple;apple;apple;apple;apple;apple;apple;apple
+COCO_val2014_000000552352.jpg,fork;cake
+COCO_val2014_000000241620.jpg,surfboard;surfboard
+COCO_val2014_000000316596.jpg,knife;cake;dining table
+COCO_val2014_000000199783.jpg,bed;bed;cell phone;handbag
+COCO_val2014_000000001205.jpg,bed
+COCO_val2014_000000031634.jpg,bed;chair;couch
+COCO_val2014_000000253426.jpg,pizza;dining table
+COCO_val2014_000000154804.jpg,pizza
+COCO_val2014_000000578964.jpg,keyboard;remote
+COCO_val2014_000000109482.jpg,bottle;couch;couch;wine glass;wine glass;potted plant;vase;bottle
+COCO_val2014_000000019589.jpg,couch;chair;book;book;vase;vase;vase;bottle;bowl
+COCO_val2014_000000534268.jpg,potted plant;potted plant;potted plant;couch;vase;vase;vase;book;book;book;book;book;book;book;book;book;book;book;book;book;vase;book
+COCO_val2014_000000355919.jpg,cup;pizza;chair;dining table
+COCO_val2014_000000537672.jpg,refrigerator;chair
+COCO_val2014_000000269600.jpg,clock
+COCO_val2014_000000394841.jpg,refrigerator
+COCO_val2014_000000520683.jpg,clock;clock
+COCO_val2014_000000514200.jpg,clock;clock
+COCO_val2014_000000080413.jpg,teddy bear
+COCO_val2014_000000447169.jpg,bottle;clock;oven;chair
+COCO_val2014_000000011347.jpg,airplane
+COCO_val2014_000000291664.jpg,dog;fire hydrant
+COCO_val2014_000000356181.jpg,fire hydrant
+COCO_val2014_000000154670.jpg,bus;sports ball;sports ball
+COCO_val2014_000000126131.jpg,train
+COCO_val2014_000000278032.jpg,train
+COCO_val2014_000000066144.jpg,stop sign;car;car;car;car;car;car;car
+COCO_val2014_000000251717.jpg,cow;cow;cow;cow;cow;cow
+COCO_val2014_000000175729.jpg,potted plant;cat;potted plant;potted plant
+COCO_val2014_000000065465.jpg,elephant;elephant;elephant;elephant
+COCO_val2014_000000510154.jpg,elephant
+COCO_val2014_000000106896.jpg,elephant
+COCO_val2014_000000572734.jpg,bed;chair;book;book;book;suitcase;book;book;book;backpack
+COCO_val2014_000000315622.jpg,bear
+COCO_val2014_000000289702.jpg,dog;dog
+COCO_val2014_000000315805.jpg,toothbrush
+COCO_val2014_000000066700.jpg,zebra;zebra
+COCO_val2014_000000554981.jpg,zebra
+COCO_val2014_000000527504.jpg,horse;horse
+COCO_val2014_000000461758.jpg,banana;orange;orange;orange;orange
+COCO_val2014_000000239005.jpg,bowl;broccoli;broccoli;broccoli;broccoli;dining table;broccoli
+COCO_val2014_000000345411.jpg,hot dog
+COCO_val2014_000000520781.jpg,tv;bed;chair
+COCO_val2014_000000453341.jpg,tv;couch;cell phone;keyboard;mouse;teddy bear;tv
+COCO_val2014_000000554145.jpg,toothbrush;toothbrush;toothbrush;toothbrush;toothbrush;toothbrush;toothbrush;toothbrush;toothbrush;toothbrush;toothbrush;toothbrush;toothbrush;toothbrush
+COCO_val2014_000000161370.jpg,potted plant;clock;vase;bench;chair;chair;couch;potted plant;bench
+COCO_val2014_000000558012.jpg,tv;laptop;mouse;keyboard;keyboard
+COCO_val2014_000000032610.jpg,laptop;laptop;laptop;backpack;laptop;laptop;laptop
+COCO_val2014_000000066011.jpg,potted plant;cat;vase
+COCO_val2014_000000001340.jpg,vase
+COCO_val2014_000000174018.jpg,teddy bear;teddy bear
+COCO_val2014_000000183735.jpg,bottle;dining table;knife;chair;potted plant
+COCO_val2014_000000512760.jpg,toilet
+COCO_val2014_000000197796.jpg,bottle;bottle;bottle;bottle;bottle;bottle;sink
+COCO_val2014_000000187424.jpg,car;toilet;truck;truck
+COCO_val2014_000000285421.jpg,cat;toilet
+COCO_val2014_000000306524.jpg,clock
+COCO_val2014_000000234239.jpg,car;motorcycle;car;car
+COCO_val2014_000000255279.jpg,potted plant;potted plant;car;car;car;motorcycle;backpack
+COCO_val2014_000000132084.jpg,motorcycle
+COCO_val2014_000000480223.jpg,airplane
+COCO_val2014_000000011525.jpg,airplane
+COCO_val2014_000000150013.jpg,bench
+COCO_val2014_000000284762.jpg,traffic light
+COCO_val2014_000000132189.jpg,car;bus;bus
+COCO_val2014_000000270893.jpg,bus;bus
+COCO_val2014_000000156466.jpg,bench
+COCO_val2014_000000489920.jpg,bench
+COCO_val2014_000000078056.jpg,car
+COCO_val2014_000000019087.jpg,motorcycle
+COCO_val2014_000000365511.jpg,stop sign
+COCO_val2014_000000530261.jpg,train
+COCO_val2014_000000041300.jpg,train
+COCO_val2014_000000069842.jpg,train
+COCO_val2014_000000161758.jpg,train
+COCO_val2014_000000337653.jpg,
+COCO_val2014_000000001374.jpg,train;car
+COCO_val2014_000000299448.jpg,train;traffic light
+COCO_val2014_000000134844.jpg,train
+COCO_val2014_000000067948.jpg,train
+COCO_val2014_000000335885.jpg,parking meter
+COCO_val2014_000000033144.jpg,truck
+COCO_val2014_000000391689.jpg,car;truck;car
+COCO_val2014_000000095833.jpg,elephant
+COCO_val2014_000000322762.jpg,elephant
+COCO_val2014_000000233033.jpg,umbrella;chair;chair;chair;chair;dining table;potted plant;potted plant
+COCO_val2014_000000224777.jpg,elephant
+COCO_val2014_000000448511.jpg,cup;fork;carrot;carrot;carrot;carrot;carrot;carrot;carrot;carrot;wine glass;dining table;carrot
+COCO_val2014_000000453310.jpg,car;truck;surfboard;car;car;car;car
+COCO_val2014_000000561465.jpg,donut;donut;donut;cake;donut;dining table
+COCO_val2014_000000515993.jpg,cake;fork
+COCO_val2014_000000358939.jpg,potted plant;chair;chair;wine glass;cup;cake;cup;dining table;vase;vase;vase
+COCO_val2014_000000497928.jpg,potted plant;tv;couch
+COCO_val2014_000000410988.jpg,refrigerator
+COCO_val2014_000000552563.jpg,bottle;bottle;spoon;spoon;bowl;oven;sink;bottle;bottle;bottle;spoon;orange;bottle;knife;spoon;bowl;orange;orange
+COCO_val2014_000000533978.jpg,bottle;clock;oven;microwave;refrigerator
+COCO_val2014_000000214664.jpg,sink;cup;cup
+COCO_val2014_000000430519.jpg,bicycle;bus
+COCO_val2014_000000346621.jpg,cup;car;car;car
+COCO_val2014_000000136720.jpg,bottle;bottle;toilet;bottle;dog
+COCO_val2014_000000111014.jpg,toilet
+COCO_val2014_000000453634.jpg,sink;toilet
+COCO_val2014_000000493753.jpg,laptop;mouse;mouse;remote;keyboard;keyboard;cup;cup;chair;chair;tv;bottle
+COCO_val2014_000000172979.jpg,car
+COCO_val2014_000000297108.jpg,cat;couch;bowl;book;bottle
+COCO_val2014_000000126260.jpg,car;car;car;car;car;car;car;traffic light;traffic light;car
+COCO_val2014_000000538132.jpg,dog;couch
+COCO_val2014_000000396543.jpg,dog
+COCO_val2014_000000512337.jpg,bird
+COCO_val2014_000000447789.jpg,
+COCO_val2014_000000179430.jpg,
+COCO_val2014_000000027874.jpg,train
+COCO_val2014_000000515670.jpg,stop sign;refrigerator
+COCO_val2014_000000523819.jpg,stop sign
+COCO_val2014_000000433134.jpg,cat
+COCO_val2014_000000501498.jpg,cat;suitcase
+COCO_val2014_000000159262.jpg,truck;truck
+COCO_val2014_000000462424.jpg,cat;cell phone;remote;tv
+COCO_val2014_000000219894.jpg,cat;laptop;keyboard;keyboard
+COCO_val2014_000000026768.jpg,cat;cat;laptop;book;book;book;chair;bed;keyboard;book;bottle;bottle;book;book
+COCO_val2014_000000318722.jpg,cat;refrigerator;oven
+COCO_val2014_000000561047.jpg,chair;boat;chair;chair;chair;chair;chair;chair;chair;boat;umbrella;umbrella;umbrella;umbrella;umbrella;umbrella;umbrella;chair;chair;chair;chair;chair
+COCO_val2014_000000419228.jpg,bear
+COCO_val2014_000000160211.jpg,dog;car
+COCO_val2014_000000317019.jpg,zebra;zebra;zebra;zebra
+COCO_val2014_000000428945.jpg,zebra
+COCO_val2014_000000513181.jpg,boat;car;car;car;car;car;car;car;car;boat;car;car;car;truck
+COCO_val2014_000000268215.jpg,orange;carrot;carrot;carrot;carrot;dining table;carrot
+COCO_val2014_000000159598.jpg,hot dog;hot dog;hot dog;oven;oven;oven;hot dog
+COCO_val2014_000000208649.jpg,cup;fork;bowl;cake;bottle;knife;spoon;sandwich;sandwich;dining table;cup;bowl
+COCO_val2014_000000239145.jpg,sandwich;bowl;hot dog
+COCO_val2014_000000549012.jpg,
+COCO_val2014_000000523677.jpg,bottle;bottle;bottle;pizza;pizza;microwave;bottle;bottle;bottle;refrigerator;bottle;bottle;bottle
+COCO_val2014_000000005486.jpg,bottle;chair;chair;chair;chair;couch;dining table;bottle;bottle;bottle;chair;vase;potted plant;potted plant;chair;vase
+COCO_val2014_000000197266.jpg,car;oven;truck
+COCO_val2014_000000256916.jpg,chair;chair;pizza;pizza;pizza;dining table;knife;knife;pizza
+COCO_val2014_000000054355.jpg,chair;chair;chair;pizza;pizza;pizza;dining table;chair;chair
+COCO_val2014_000000370123.jpg,clock;clock
+COCO_val2014_000000446703.jpg,teddy bear
+COCO_val2014_000000136466.jpg,oven;clock
+COCO_val2014_000000361660.jpg,refrigerator;knife;knife;knife;knife;knife;knife;knife;knife
+COCO_val2014_000000581482.jpg,clock;clock
+COCO_val2014_000000462978.jpg,wine glass;bird
+COCO_val2014_000000055467.jpg,bottle;chair;chair;chair;chair;chair;chair;cup;cup;cup;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;teddy bear;bottle;teddy bear;dining table;teddy bear
+COCO_val2014_000000461254.jpg,cup;knife;spoon;spoon;dining table;knife;cup
+COCO_val2014_000000260105.jpg,cup;fork;knife;spoon;pizza
+COCO_val2014_000000473055.jpg,bottle;toothbrush;toothbrush;toilet;sink
+COCO_val2014_000000401556.jpg,toilet;sink;chair
+COCO_val2014_000000400596.jpg,bottle;cup;sink
+COCO_val2014_000000154587.jpg,bicycle;motorcycle
+COCO_val2014_000000014921.jpg,toilet;sink
+COCO_val2014_000000441165.jpg,cat;car
+COCO_val2014_000000243810.jpg,car;car;toilet;toilet;potted plant;stop sign
+COCO_val2014_000000227730.jpg,cat;bowl
+COCO_val2014_000000380427.jpg,toilet;toilet
+COCO_val2014_000000464689.jpg,bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle;bottle
+COCO_val2014_000000055955.jpg,motorcycle;backpack;handbag
+COCO_val2014_000000095063.jpg,traffic light;traffic light;traffic light;car;car
+COCO_val2014_000000314541.jpg,bench
+COCO_val2014_000000019042.jpg,bird;car;car
+COCO_val2014_000000415964.jpg,stop sign
+COCO_val2014_000000005617.jpg,bed;laptop;cat;cat
+COCO_val2014_000000026803.jpg,cat
+COCO_val2014_000000162711.jpg,cow;cow;cow;cow;cow;cow;cow;cow;cow;cow;cow
+COCO_val2014_000000146334.jpg,dog;tie
+COCO_val2014_000000565624.jpg,elephant;elephant
+COCO_val2014_000000215554.jpg,dog;teddy bear
+COCO_val2014_000000335810.jpg,dining table;banana;banana;banana;banana;orange;orange;orange;orange;orange;orange;orange;orange;orange;orange;banana;banana
+COCO_val2014_000000374164.jpg,remote;remote;remote;remote;remote;remote;remote;remote;remote;remote;remote;remote;remote
+COCO_val2014_000000302893.jpg,chair;chair;potted plant;potted plant
+COCO_val2014_000000223540.jpg,tv;chair;couch;laptop;book;book;book;book;mouse;keyboard;cell phone;book;cell phone;book;book;book;book;book;book;book;keyboard;book;chair;book
+COCO_val2014_000000111706.jpg,vase;vase;vase;vase;vase;vase;vase;vase;vase;vase;vase;vase;vase;vase

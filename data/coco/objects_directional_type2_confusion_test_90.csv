@@ -1,0 +1,6316 @@
+object1,object2,test data type2 confusion
+airplane,apple,0.0
+airplane,banana,0.0
+airplane,baseball bat,0.0
+airplane,baseball glove,0.0
+airplane,bear,0.0
+airplane,bed,0.0
+airplane,bench,0.0
+airplane,bicycle,0.0
+airplane,book,0.0
+airplane,bottle,0.0
+airplane,bowl,0.0
+airplane,broccoli,0.0
+airplane,bus,0.0
+airplane,cake,0.0
+airplane,carrot,0.0
+airplane,cat,0.0
+airplane,chair,0.0
+airplane,clock,0.0
+airplane,couch,0.0
+airplane,cow,0.0
+airplane,cup,0.0
+airplane,dining table,0.0
+airplane,donut,0.0
+airplane,elephant,0.0
+airplane,fire hydrant,0.0
+airplane,fork,0.0
+airplane,frisbee,0.0
+airplane,giraffe,0.0
+airplane,hair drier,0.0
+airplane,handbag,0.0
+airplane,horse,0.0
+airplane,hot dog,0.0
+airplane,keyboard,0.0
+airplane,knife,0.0
+airplane,laptop,0.0
+airplane,microwave,0.0
+airplane,motorcycle,0.0
+airplane,mouse,0.0
+airplane,orange,0.0
+airplane,oven,0.0
+airplane,parking meter,0.0
+airplane,pizza,0.0
+airplane,potted plant,0.0
+airplane,refrigerator,0.0
+airplane,remote,0.0
+airplane,sandwich,0.0
+airplane,scissors,0.0
+airplane,sheep,0.0
+airplane,sink,0.0
+airplane,skateboard,0.0
+airplane,snowboard,0.0
+airplane,spoon,0.0
+airplane,sports ball,0.0
+airplane,stop sign,0.0
+airplane,teddy bear,0.0
+airplane,tennis racket,0.0
+airplane,toaster,0.0
+airplane,toilet,0.0
+airplane,toothbrush,0.0
+airplane,train,0.0
+airplane,umbrella,0.0
+airplane,vase,0.0
+airplane,wine glass,0.0
+airplane,zebra,0.0
+apple,airplane,0.0
+apple,backpack,0.0
+apple,baseball bat,0.0
+apple,baseball glove,0.0
+apple,bear,0.0
+apple,bed,0.0
+apple,bench,0.0
+apple,bicycle,0.0
+apple,bird,0.0
+apple,book,0.0
+apple,bus,0.0
+apple,cake,0.0
+apple,car,0.0
+apple,cat,0.0
+apple,cell phone,0.0
+apple,chair,0.0
+apple,clock,0.0
+apple,cow,0.0
+apple,dog,0.0
+apple,donut,0.0
+apple,elephant,0.0
+apple,fire hydrant,0.0
+apple,frisbee,0.0
+apple,giraffe,0.0
+apple,hair drier,0.0
+apple,horse,0.0
+apple,hot dog,0.0
+apple,keyboard,0.0
+apple,kite,0.0
+apple,laptop,0.0
+apple,microwave,0.0
+apple,motorcycle,0.0
+apple,mouse,0.0
+apple,parking meter,0.0
+apple,pizza,0.0
+apple,remote,0.0
+apple,sandwich,0.0
+apple,scissors,0.0
+apple,sheep,0.0
+apple,skateboard,0.0
+apple,skis,0.0
+apple,snowboard,0.0
+apple,sports ball,0.0
+apple,stop sign,0.0
+apple,suitcase,0.0
+apple,surfboard,0.0
+apple,teddy bear,0.0
+apple,tennis racket,0.0
+apple,tie,0.0
+apple,toaster,0.0
+apple,toilet,0.0
+apple,toothbrush,0.0
+apple,traffic light,0.0
+apple,train,0.0
+apple,truck,0.0
+apple,tv,0.0
+apple,umbrella,0.0
+apple,zebra,0.0
+backpack,airplane,0.0
+backpack,apple,0.0
+backpack,banana,0.0
+backpack,baseball bat,0.0
+backpack,baseball glove,0.0
+backpack,bear,0.0
+backpack,bed,0.0
+backpack,bird,0.0
+backpack,boat,0.0
+backpack,bowl,0.0
+backpack,broccoli,0.0
+backpack,cake,0.0
+backpack,carrot,0.0
+backpack,cat,0.0
+backpack,clock,0.0
+backpack,couch,0.0
+backpack,cow,0.0
+backpack,dog,0.0
+backpack,donut,0.0
+backpack,elephant,0.0
+backpack,fire hydrant,0.0
+backpack,fork,0.0
+backpack,frisbee,0.0
+backpack,giraffe,0.0
+backpack,hair drier,0.0
+backpack,horse,0.0
+backpack,hot dog,0.0
+backpack,keyboard,0.0
+backpack,knife,0.0
+backpack,laptop,0.0
+backpack,microwave,0.0
+backpack,motorcycle,0.0
+backpack,mouse,0.0
+backpack,orange,0.0
+backpack,oven,0.0
+backpack,parking meter,0.0
+backpack,pizza,0.0
+backpack,potted plant,0.0
+backpack,refrigerator,0.0
+backpack,remote,0.0
+backpack,sandwich,0.0
+backpack,scissors,0.0
+backpack,sheep,0.0
+backpack,sink,0.0
+backpack,skateboard,0.0
+backpack,spoon,0.0
+backpack,sports ball,0.0
+backpack,stop sign,0.0
+backpack,surfboard,0.0
+backpack,teddy bear,0.0
+backpack,tennis racket,0.0
+backpack,toaster,0.0
+backpack,toilet,0.0
+backpack,toothbrush,0.0
+backpack,vase,0.0
+backpack,wine glass,0.0
+backpack,zebra,0.0
+banana,airplane,0.0
+banana,backpack,0.0
+banana,baseball bat,0.0
+banana,baseball glove,0.0
+banana,bear,0.0
+banana,bed,0.0
+banana,bench,0.0
+banana,bicycle,0.0
+banana,book,0.0
+banana,broccoli,0.0
+banana,bus,0.0
+banana,cake,0.0
+banana,cat,0.0
+banana,cell phone,0.0
+banana,chair,0.0
+banana,clock,0.0
+banana,couch,0.0
+banana,cow,0.0
+banana,dog,0.0
+banana,donut,0.0
+banana,elephant,0.0
+banana,fire hydrant,0.0
+banana,fork,0.0
+banana,frisbee,0.0
+banana,giraffe,0.0
+banana,hair drier,0.0
+banana,horse,0.0
+banana,keyboard,0.0
+banana,kite,0.0
+banana,laptop,0.0
+banana,microwave,0.0
+banana,motorcycle,0.0
+banana,mouse,0.0
+banana,parking meter,0.0
+banana,pizza,0.0
+banana,refrigerator,0.0
+banana,remote,0.0
+banana,sandwich,0.0
+banana,scissors,0.0
+banana,sheep,0.0
+banana,sink,0.0
+banana,skateboard,0.0
+banana,skis,0.0
+banana,snowboard,0.0
+banana,sports ball,0.0
+banana,stop sign,0.0
+banana,suitcase,0.0
+banana,teddy bear,0.0
+banana,tennis racket,0.0
+banana,tie,0.0
+banana,toaster,0.0
+banana,toilet,0.0
+banana,toothbrush,0.0
+banana,traffic light,0.0
+banana,train,0.0
+banana,tv,0.0
+banana,umbrella,0.0
+banana,zebra,0.0
+baseball bat,airplane,0.0
+baseball bat,apple,0.0
+baseball bat,backpack,0.0
+baseball bat,banana,0.0
+baseball bat,bear,0.0
+baseball bat,bed,0.0
+baseball bat,bicycle,0.0
+baseball bat,bird,0.0
+baseball bat,boat,0.0
+baseball bat,book,0.0
+baseball bat,bottle,0.0
+baseball bat,bowl,0.0
+baseball bat,broccoli,0.0
+baseball bat,bus,0.0
+baseball bat,cake,0.0
+baseball bat,carrot,0.0
+baseball bat,cat,0.0
+baseball bat,cell phone,0.0
+baseball bat,clock,0.0
+baseball bat,couch,0.0
+baseball bat,cow,0.0
+baseball bat,cup,0.0
+baseball bat,dining table,0.0
+baseball bat,dog,0.0
+baseball bat,donut,0.0
+baseball bat,elephant,0.0
+baseball bat,fire hydrant,0.0
+baseball bat,fork,0.0
+baseball bat,giraffe,0.0
+baseball bat,hair drier,0.0
+baseball bat,handbag,0.0
+baseball bat,horse,0.0
+baseball bat,hot dog,0.0
+baseball bat,keyboard,0.0
+baseball bat,kite,0.0
+baseball bat,knife,0.0
+baseball bat,laptop,0.0
+baseball bat,microwave,0.0
+baseball bat,motorcycle,0.0
+baseball bat,mouse,0.0
+baseball bat,orange,0.0
+baseball bat,oven,0.0
+baseball bat,parking meter,0.0
+baseball bat,pizza,0.0
+baseball bat,potted plant,0.0
+baseball bat,refrigerator,0.0
+baseball bat,remote,0.0
+baseball bat,sandwich,0.0
+baseball bat,scissors,0.0
+baseball bat,sheep,0.0
+baseball bat,sink,0.0
+baseball bat,skateboard,0.0
+baseball bat,skis,0.0
+baseball bat,snowboard,0.0
+baseball bat,spoon,0.0
+baseball bat,stop sign,0.0
+baseball bat,suitcase,0.0
+baseball bat,surfboard,0.0
+baseball bat,teddy bear,0.0
+baseball bat,tie,0.0
+baseball bat,toaster,0.0
+baseball bat,toilet,0.0
+baseball bat,traffic light,0.0
+baseball bat,train,0.0
+baseball bat,tv,0.0
+baseball bat,umbrella,0.0
+baseball bat,vase,0.0
+baseball bat,wine glass,0.0
+baseball bat,zebra,0.0
+baseball glove,airplane,0.0
+baseball glove,apple,0.0
+baseball glove,backpack,0.0
+baseball glove,banana,0.0
+baseball glove,bear,0.0
+baseball glove,bed,0.0
+baseball glove,bicycle,0.0
+baseball glove,bird,0.0
+baseball glove,boat,0.0
+baseball glove,book,0.0
+baseball glove,bottle,0.0
+baseball glove,bowl,0.0
+baseball glove,broccoli,0.0
+baseball glove,bus,0.0
+baseball glove,cake,0.0
+baseball glove,car,0.0
+baseball glove,carrot,0.0
+baseball glove,cat,0.0
+baseball glove,cell phone,0.0
+baseball glove,clock,0.0
+baseball glove,couch,0.0
+baseball glove,cow,0.0
+baseball glove,cup,0.0
+baseball glove,dining table,0.0
+baseball glove,dog,0.0
+baseball glove,donut,0.0
+baseball glove,elephant,0.0
+baseball glove,fire hydrant,0.0
+baseball glove,fork,0.0
+baseball glove,giraffe,0.0
+baseball glove,hair drier,0.0
+baseball glove,handbag,0.0
+baseball glove,horse,0.0
+baseball glove,hot dog,0.0
+baseball glove,keyboard,0.0
+baseball glove,kite,0.0
+baseball glove,knife,0.0
+baseball glove,laptop,0.0
+baseball glove,microwave,0.0
+baseball glove,motorcycle,0.0
+baseball glove,mouse,0.0
+baseball glove,orange,0.0
+baseball glove,oven,0.0
+baseball glove,parking meter,0.0
+baseball glove,pizza,0.0
+baseball glove,potted plant,0.0
+baseball glove,refrigerator,0.0
+baseball glove,remote,0.0
+baseball glove,sandwich,0.0
+baseball glove,scissors,0.0
+baseball glove,sheep,0.0
+baseball glove,sink,0.0
+baseball glove,skateboard,0.0
+baseball glove,skis,0.0
+baseball glove,snowboard,0.0
+baseball glove,spoon,0.0
+baseball glove,stop sign,0.0
+baseball glove,suitcase,0.0
+baseball glove,surfboard,0.0
+baseball glove,teddy bear,0.0
+baseball glove,tie,0.0
+baseball glove,toaster,0.0
+baseball glove,toilet,0.0
+baseball glove,toothbrush,0.0
+baseball glove,traffic light,0.0
+baseball glove,train,0.0
+baseball glove,tv,0.0
+baseball glove,umbrella,0.0
+baseball glove,vase,0.0
+baseball glove,wine glass,0.0
+baseball glove,zebra,0.0
+bear,airplane,0.0
+bear,apple,0.0
+bear,backpack,0.0
+bear,banana,0.0
+bear,baseball bat,0.0
+bear,baseball glove,0.0
+bear,bed,0.0
+bear,bench,0.0
+bear,bicycle,0.0
+bear,boat,0.0
+bear,book,0.0
+bear,bottle,0.0
+bear,bowl,0.0
+bear,broccoli,0.0
+bear,bus,0.0
+bear,cake,0.0
+bear,car,0.0
+bear,carrot,0.0
+bear,cell phone,0.0
+bear,chair,0.0
+bear,clock,0.0
+bear,couch,0.0
+bear,cow,0.0
+bear,cup,0.0
+bear,dining table,0.0
+bear,donut,0.0
+bear,fire hydrant,0.0
+bear,fork,0.0
+bear,frisbee,0.0
+bear,giraffe,0.0
+bear,hair drier,0.0
+bear,handbag,0.0
+bear,horse,0.0
+bear,hot dog,0.0
+bear,keyboard,0.0
+bear,kite,0.0
+bear,knife,0.0
+bear,laptop,0.0
+bear,microwave,0.0
+bear,motorcycle,0.0
+bear,mouse,0.0
+bear,orange,0.0
+bear,oven,0.0
+bear,parking meter,0.0
+bear,person,0.0
+bear,pizza,0.0
+bear,potted plant,0.0
+bear,refrigerator,0.0
+bear,remote,0.0
+bear,sandwich,0.0
+bear,scissors,0.0
+bear,sink,0.0
+bear,skateboard,0.0
+bear,skis,0.0
+bear,snowboard,0.0
+bear,spoon,0.0
+bear,sports ball,0.0
+bear,stop sign,0.0
+bear,suitcase,0.0
+bear,surfboard,0.0
+bear,tennis racket,0.0
+bear,tie,0.0
+bear,toaster,0.0
+bear,toilet,0.0
+bear,toothbrush,0.0
+bear,traffic light,0.0
+bear,train,0.0
+bear,truck,0.0
+bear,tv,0.0
+bear,umbrella,0.0
+bear,vase,0.0
+bear,wine glass,0.0
+bear,zebra,0.0
+bed,airplane,0.0
+bed,apple,0.0
+bed,banana,0.0
+bed,baseball bat,0.0
+bed,baseball glove,0.0
+bed,bear,0.0
+bed,bench,0.0
+bed,bicycle,0.0
+bed,bird,0.0
+bed,boat,0.0
+bed,bottle,0.0
+bed,bowl,0.0
+bed,broccoli,0.0
+bed,bus,0.0
+bed,cake,0.0
+bed,car,0.0
+bed,carrot,0.0
+bed,cow,0.0
+bed,cup,0.0
+bed,donut,0.0
+bed,elephant,0.0
+bed,fire hydrant,0.0
+bed,fork,0.0
+bed,frisbee,0.0
+bed,giraffe,0.0
+bed,hair drier,0.0
+bed,horse,0.0
+bed,hot dog,0.0
+bed,knife,0.0
+bed,microwave,0.0
+bed,motorcycle,0.0
+bed,orange,0.0
+bed,oven,0.0
+bed,parking meter,0.0
+bed,pizza,0.0
+bed,sandwich,0.0
+bed,scissors,0.0
+bed,sheep,0.0
+bed,sink,0.0
+bed,skateboard,0.0
+bed,skis,0.0
+bed,snowboard,0.0
+bed,spoon,0.0
+bed,sports ball,0.0
+bed,stop sign,0.0
+bed,surfboard,0.0
+bed,tennis racket,0.0
+bed,toaster,0.0
+bed,toilet,0.0
+bed,toothbrush,0.0
+bed,traffic light,0.0
+bed,train,0.0
+bed,truck,0.0
+bed,umbrella,0.0
+bed,zebra,0.0
+bench,airplane,0.0
+bench,apple,0.0
+bench,banana,0.0
+bench,baseball bat,0.0
+bench,bear,0.0
+bench,bed,0.0
+bench,book,0.0
+bench,bowl,0.0
+bench,broccoli,0.0
+bench,bus,0.0
+bench,cake,0.0
+bench,carrot,0.0
+bench,couch,0.0
+bench,cow,0.0
+bench,cup,0.0
+bench,donut,0.0
+bench,elephant,0.0
+bench,giraffe,0.0
+bench,hair drier,0.0
+bench,keyboard,0.0
+bench,kite,0.0
+bench,knife,0.0
+bench,laptop,0.0
+bench,microwave,0.0
+bench,mouse,0.0
+bench,orange,0.0
+bench,oven,0.0
+bench,parking meter,0.0
+bench,pizza,0.0
+bench,refrigerator,0.0
+bench,remote,0.0
+bench,scissors,0.0
+bench,sheep,0.0
+bench,sink,0.0
+bench,skis,0.0
+bench,snowboard,0.0
+bench,stop sign,0.0
+bench,surfboard,0.0
+bench,teddy bear,0.0
+bench,toaster,0.0
+bench,toilet,0.0
+bench,tv,0.0
+bench,vase,0.0
+bench,wine glass,0.0
+bench,zebra,0.0
+bicycle,airplane,0.0
+bicycle,apple,0.0
+bicycle,banana,0.0
+bicycle,baseball bat,0.0
+bicycle,baseball glove,0.0
+bicycle,bear,0.0
+bicycle,bed,0.0
+bicycle,bowl,0.0
+bicycle,broccoli,0.0
+bicycle,cake,0.0
+bicycle,carrot,0.0
+bicycle,couch,0.0
+bicycle,cow,0.0
+bicycle,cup,0.0
+bicycle,donut,0.0
+bicycle,elephant,0.0
+bicycle,fire hydrant,0.0
+bicycle,fork,0.0
+bicycle,frisbee,0.0
+bicycle,giraffe,0.0
+bicycle,hair drier,0.0
+bicycle,horse,0.0
+bicycle,hot dog,0.0
+bicycle,keyboard,0.0
+bicycle,kite,0.0
+bicycle,knife,0.0
+bicycle,laptop,0.0
+bicycle,microwave,0.0
+bicycle,mouse,0.0
+bicycle,orange,0.0
+bicycle,oven,0.0
+bicycle,pizza,0.0
+bicycle,refrigerator,0.0
+bicycle,remote,0.0
+bicycle,scissors,0.0
+bicycle,sink,0.0
+bicycle,skis,0.0
+bicycle,snowboard,0.0
+bicycle,spoon,0.0
+bicycle,sports ball,0.0
+bicycle,suitcase,0.0
+bicycle,surfboard,0.0
+bicycle,teddy bear,0.0
+bicycle,tie,0.0
+bicycle,toaster,0.0
+bicycle,toilet,0.0
+bicycle,toothbrush,0.0
+bicycle,tv,0.0
+bicycle,vase,0.0
+bicycle,wine glass,0.0
+bicycle,zebra,0.0
+bird,backpack,0.0
+bird,baseball bat,0.0
+bird,baseball glove,0.0
+bird,bear,0.0
+bird,bed,0.0
+bird,bottle,0.0
+bird,broccoli,0.0
+bird,bus,0.0
+bird,cake,0.0
+bird,car,0.0
+bird,cell phone,0.0
+bird,chair,0.0
+bird,clock,0.0
+bird,couch,0.0
+bird,cow,0.0
+bird,dining table,0.0
+bird,fire hydrant,0.0
+bird,fork,0.0
+bird,frisbee,0.0
+bird,giraffe,0.0
+bird,hair drier,0.0
+bird,handbag,0.0
+bird,horse,0.0
+bird,hot dog,0.0
+bird,keyboard,0.0
+bird,kite,0.0
+bird,knife,0.0
+bird,laptop,0.0
+bird,microwave,0.0
+bird,mouse,0.0
+bird,oven,0.0
+bird,parking meter,0.0
+bird,pizza,0.0
+bird,potted plant,0.0
+bird,refrigerator,0.0
+bird,remote,0.0
+bird,sandwich,0.0
+bird,scissors,0.0
+bird,sheep,0.0
+bird,sink,0.0
+bird,skateboard,0.0
+bird,skis,0.0
+bird,snowboard,0.0
+bird,spoon,0.0
+bird,sports ball,0.0
+bird,stop sign,0.0
+bird,suitcase,0.0
+bird,surfboard,0.0
+bird,teddy bear,0.0
+bird,tennis racket,0.0
+bird,tie,0.0
+bird,toaster,0.0
+bird,toilet,0.0
+bird,toothbrush,0.0
+bird,traffic light,0.0
+bird,train,0.0
+bird,truck,0.0
+bird,tv,0.0
+bird,umbrella,0.0
+bird,vase,0.0
+bird,wine glass,0.0
+bird,zebra,0.0
+boat,apple,0.0
+boat,baseball bat,0.0
+boat,baseball glove,0.0
+boat,bear,0.0
+boat,bed,0.0
+boat,book,0.0
+boat,bowl,0.0
+boat,broccoli,0.0
+boat,bus,0.0
+boat,cake,0.0
+boat,carrot,0.0
+boat,cat,0.0
+boat,clock,0.0
+boat,couch,0.0
+boat,cup,0.0
+boat,donut,0.0
+boat,elephant,0.0
+boat,fire hydrant,0.0
+boat,fork,0.0
+boat,frisbee,0.0
+boat,giraffe,0.0
+boat,hair drier,0.0
+boat,horse,0.0
+boat,hot dog,0.0
+boat,keyboard,0.0
+boat,knife,0.0
+boat,laptop,0.0
+boat,microwave,0.0
+boat,mouse,0.0
+boat,orange,0.0
+boat,oven,0.0
+boat,parking meter,0.0
+boat,pizza,0.0
+boat,potted plant,0.0
+boat,refrigerator,0.0
+boat,remote,0.0
+boat,sandwich,0.0
+boat,scissors,0.0
+boat,sheep,0.0
+boat,sink,0.0
+boat,skateboard,0.0
+boat,skis,0.0
+boat,snowboard,0.0
+boat,spoon,0.0
+boat,sports ball,0.0
+boat,stop sign,0.0
+boat,suitcase,0.0
+boat,teddy bear,0.0
+boat,tennis racket,0.0
+boat,tie,0.0
+boat,toaster,0.0
+boat,toothbrush,0.0
+boat,traffic light,0.0
+boat,tv,0.0
+boat,vase,0.0
+boat,zebra,0.0
+book,airplane,0.0
+book,backpack,0.0
+book,banana,0.0
+book,baseball bat,0.0
+book,baseball glove,0.0
+book,bear,0.0
+book,bicycle,0.0
+book,bird,0.0
+book,boat,0.0
+book,broccoli,0.0
+book,bus,0.0
+book,cake,0.0
+book,car,0.0
+book,carrot,0.0
+book,cow,0.0
+book,elephant,0.0
+book,fire hydrant,0.0
+book,fork,0.0
+book,frisbee,0.0
+book,giraffe,0.0
+book,hair drier,0.0
+book,horse,0.0
+book,hot dog,0.0
+book,kite,0.0
+book,microwave,0.0
+book,motorcycle,0.0
+book,parking meter,0.0
+book,pizza,0.0
+book,sandwich,0.0
+book,sheep,0.0
+book,sink,0.0
+book,skateboard,0.0
+book,skis,0.0
+book,snowboard,0.0
+book,sports ball,0.0
+book,stop sign,0.0
+book,surfboard,0.0
+book,tennis racket,0.0
+book,tie,0.0
+book,toaster,0.0
+book,toilet,0.0
+book,traffic light,0.0
+book,train,0.0
+book,truck,0.0
+book,umbrella,0.0
+book,wine glass,0.0
+book,zebra,0.0
+bottle,airplane,0.0
+bottle,banana,0.0
+bottle,baseball bat,0.0
+bottle,baseball glove,0.0
+bottle,bear,0.0
+bottle,bed,0.0
+bottle,bench,0.0
+bottle,bicycle,0.0
+bottle,bird,0.0
+bottle,boat,0.0
+bottle,bus,0.0
+bottle,car,0.0
+bottle,cat,0.0
+bottle,cow,0.0
+bottle,elephant,0.0
+bottle,fire hydrant,0.0
+bottle,frisbee,0.0
+bottle,giraffe,0.0
+bottle,hair drier,0.0
+bottle,horse,0.0
+bottle,kite,0.0
+bottle,motorcycle,0.0
+bottle,parking meter,0.0
+bottle,sheep,0.0
+bottle,skateboard,0.0
+bottle,skis,0.0
+bottle,snowboard,0.0
+bottle,sports ball,0.0
+bottle,stop sign,0.0
+bottle,teddy bear,0.0
+bottle,tennis racket,0.0
+bottle,traffic light,0.0
+bottle,train,0.0
+bottle,truck,0.0
+bottle,zebra,0.0
+bowl,airplane,0.0
+bowl,backpack,0.0
+bowl,baseball bat,0.0
+bowl,baseball glove,0.0
+bowl,bear,0.0
+bowl,bed,0.0
+bowl,bench,0.0
+bowl,bicycle,0.0
+bowl,bird,0.0
+bowl,boat,0.0
+bowl,bus,0.0
+bowl,car,0.0
+bowl,cell phone,0.0
+bowl,cow,0.0
+bowl,dog,0.0
+bowl,elephant,0.0
+bowl,fire hydrant,0.0
+bowl,frisbee,0.0
+bowl,giraffe,0.0
+bowl,hair drier,0.0
+bowl,horse,0.0
+bowl,keyboard,0.0
+bowl,kite,0.0
+bowl,laptop,0.0
+bowl,motorcycle,0.0
+bowl,mouse,0.0
+bowl,parking meter,0.0
+bowl,remote,0.0
+bowl,sheep,0.0
+bowl,skateboard,0.0
+bowl,skis,0.0
+bowl,snowboard,0.0
+bowl,sports ball,0.0
+bowl,stop sign,0.0
+bowl,suitcase,0.0
+bowl,surfboard,0.0
+bowl,teddy bear,0.0
+bowl,tennis racket,0.0
+bowl,traffic light,0.0
+bowl,train,0.0
+bowl,truck,0.0
+bowl,tv,0.0
+bowl,umbrella,0.0
+bowl,zebra,0.0
+broccoli,airplane,0.0
+broccoli,backpack,0.0
+broccoli,baseball bat,0.0
+broccoli,baseball glove,0.0
+broccoli,bear,0.0
+broccoli,bed,0.0
+broccoli,bench,0.0
+broccoli,bicycle,0.0
+broccoli,bird,0.0
+broccoli,boat,0.0
+broccoli,book,0.0
+broccoli,bus,0.0
+broccoli,cake,0.0
+broccoli,car,0.0
+broccoli,cell phone,0.0
+broccoli,clock,0.0
+broccoli,couch,0.0
+broccoli,cow,0.0
+broccoli,dog,0.0
+broccoli,donut,0.0
+broccoli,elephant,0.0
+broccoli,fire hydrant,0.0
+broccoli,frisbee,0.0
+broccoli,giraffe,0.0
+broccoli,hair drier,0.0
+broccoli,handbag,0.0
+broccoli,horse,0.0
+broccoli,hot dog,0.0
+broccoli,keyboard,0.0
+broccoli,kite,0.0
+broccoli,laptop,0.0
+broccoli,microwave,0.0
+broccoli,motorcycle,0.0
+broccoli,mouse,0.0
+broccoli,parking meter,0.0
+broccoli,refrigerator,0.0
+broccoli,remote,0.0
+broccoli,scissors,0.0
+broccoli,sheep,0.0
+broccoli,sink,0.0
+broccoli,skateboard,0.0
+broccoli,skis,0.0
+broccoli,snowboard,0.0
+broccoli,sports ball,0.0
+broccoli,stop sign,0.0
+broccoli,suitcase,0.0
+broccoli,surfboard,0.0
+broccoli,teddy bear,0.0
+broccoli,tennis racket,0.0
+broccoli,tie,0.0
+broccoli,toaster,0.0
+broccoli,toilet,0.0
+broccoli,toothbrush,0.0
+broccoli,traffic light,0.0
+broccoli,train,0.0
+broccoli,truck,0.0
+broccoli,tv,0.0
+broccoli,umbrella,0.0
+broccoli,vase,0.0
+broccoli,wine glass,0.0
+broccoli,zebra,0.0
+bus,airplane,0.0
+bus,apple,0.0
+bus,banana,0.0
+bus,baseball bat,0.0
+bus,baseball glove,0.0
+bus,bear,0.0
+bus,bed,0.0
+bus,bird,0.0
+bus,boat,0.0
+bus,book,0.0
+bus,bottle,0.0
+bus,bowl,0.0
+bus,broccoli,0.0
+bus,cake,0.0
+bus,carrot,0.0
+bus,cat,0.0
+bus,cell phone,0.0
+bus,chair,0.0
+bus,couch,0.0
+bus,cow,0.0
+bus,cup,0.0
+bus,dining table,0.0
+bus,dog,0.0
+bus,donut,0.0
+bus,elephant,0.0
+bus,fire hydrant,0.0
+bus,fork,0.0
+bus,frisbee,0.0
+bus,giraffe,0.0
+bus,hair drier,0.0
+bus,horse,0.0
+bus,hot dog,0.0
+bus,keyboard,0.0
+bus,kite,0.0
+bus,knife,0.0
+bus,laptop,0.0
+bus,microwave,0.0
+bus,mouse,0.0
+bus,orange,0.0
+bus,oven,0.0
+bus,parking meter,0.0
+bus,pizza,0.0
+bus,potted plant,0.0
+bus,refrigerator,0.0
+bus,remote,0.0
+bus,sandwich,0.0
+bus,scissors,0.0
+bus,sheep,0.0
+bus,sink,0.0
+bus,skateboard,0.0
+bus,skis,0.0
+bus,snowboard,0.0
+bus,spoon,0.0
+bus,sports ball,0.0
+bus,stop sign,0.0
+bus,suitcase,0.0
+bus,surfboard,0.0
+bus,teddy bear,0.0
+bus,tennis racket,0.0
+bus,tie,0.0
+bus,toaster,0.0
+bus,toilet,0.0
+bus,toothbrush,0.0
+bus,tv,0.0
+bus,vase,0.0
+bus,wine glass,0.0
+bus,zebra,0.0
+cake,airplane,0.0
+cake,backpack,0.0
+cake,banana,0.0
+cake,baseball bat,0.0
+cake,baseball glove,0.0
+cake,bear,0.0
+cake,bed,0.0
+cake,bench,0.0
+cake,bicycle,0.0
+cake,boat,0.0
+cake,bus,0.0
+cake,car,0.0
+cake,cat,0.0
+cake,clock,0.0
+cake,couch,0.0
+cake,dog,0.0
+cake,elephant,0.0
+cake,fire hydrant,0.0
+cake,frisbee,0.0
+cake,giraffe,0.0
+cake,hair drier,0.0
+cake,handbag,0.0
+cake,horse,0.0
+cake,kite,0.0
+cake,laptop,0.0
+cake,microwave,0.0
+cake,motorcycle,0.0
+cake,mouse,0.0
+cake,parking meter,0.0
+cake,pizza,0.0
+cake,scissors,0.0
+cake,sheep,0.0
+cake,skateboard,0.0
+cake,skis,0.0
+cake,snowboard,0.0
+cake,sports ball,0.0
+cake,stop sign,0.0
+cake,surfboard,0.0
+cake,tennis racket,0.0
+cake,toaster,0.0
+cake,toilet,0.0
+cake,toothbrush,0.0
+cake,traffic light,0.0
+cake,truck,0.0
+cake,tv,0.0
+cake,umbrella,0.0
+cake,zebra,0.0
+car,apple,0.0
+car,banana,0.0
+car,baseball glove,0.0
+car,bear,0.0
+car,bed,0.0
+car,book,0.0
+car,bottle,0.0
+car,broccoli,0.0
+car,cake,0.0
+car,carrot,0.0
+car,couch,0.0
+car,cup,0.0
+car,fork,0.0
+car,giraffe,0.0
+car,hair drier,0.0
+car,hot dog,0.0
+car,keyboard,0.0
+car,kite,0.0
+car,knife,0.0
+car,laptop,0.0
+car,microwave,0.0
+car,mouse,0.0
+car,orange,0.0
+car,oven,0.0
+car,refrigerator,0.0
+car,remote,0.0
+car,sandwich,0.0
+car,scissors,0.0
+car,sink,0.0
+car,skis,0.0
+car,snowboard,0.0
+car,spoon,0.0
+car,teddy bear,0.0
+car,tennis racket,0.0
+car,tie,0.0
+car,toaster,0.0
+car,toilet,0.0
+car,toothbrush,0.0
+car,tv,0.0
+car,vase,0.0
+car,zebra,0.0
+carrot,airplane,0.0
+carrot,backpack,0.0
+carrot,baseball bat,0.0
+carrot,baseball glove,0.0
+carrot,bed,0.0
+carrot,bench,0.0
+carrot,bicycle,0.0
+carrot,bird,0.0
+carrot,boat,0.0
+carrot,book,0.0
+carrot,bus,0.0
+carrot,cake,0.0
+carrot,car,0.0
+carrot,cat,0.0
+carrot,cell phone,0.0
+carrot,chair,0.0
+carrot,clock,0.0
+carrot,couch,0.0
+carrot,cow,0.0
+carrot,dog,0.0
+carrot,donut,0.0
+carrot,elephant,0.0
+carrot,fire hydrant,0.0
+carrot,frisbee,0.0
+carrot,giraffe,0.0
+carrot,hair drier,0.0
+carrot,handbag,0.0
+carrot,horse,0.0
+carrot,hot dog,0.0
+carrot,keyboard,0.0
+carrot,kite,0.0
+carrot,laptop,0.0
+carrot,microwave,0.0
+carrot,motorcycle,0.0
+carrot,mouse,0.0
+carrot,orange,0.0
+carrot,parking meter,0.0
+carrot,pizza,0.0
+carrot,refrigerator,0.0
+carrot,remote,0.0
+carrot,scissors,0.0
+carrot,sheep,0.0
+carrot,skateboard,0.0
+carrot,skis,0.0
+carrot,snowboard,0.0
+carrot,sports ball,0.0
+carrot,stop sign,0.0
+carrot,suitcase,0.0
+carrot,surfboard,0.0
+carrot,teddy bear,0.0
+carrot,tennis racket,0.0
+carrot,tie,0.0
+carrot,toaster,0.0
+carrot,toilet,0.0
+carrot,traffic light,0.0
+carrot,train,0.0
+carrot,tv,0.0
+carrot,umbrella,0.0
+carrot,zebra,0.0
+cat,airplane,0.0
+cat,apple,0.0
+cat,banana,0.0
+cat,baseball bat,0.0
+cat,baseball glove,0.0
+cat,bicycle,0.0
+cat,bird,0.0
+cat,boat,0.0
+cat,broccoli,0.0
+cat,bus,0.0
+cat,carrot,0.0
+cat,clock,0.0
+cat,elephant,0.0
+cat,fire hydrant,0.0
+cat,fork,0.0
+cat,frisbee,0.0
+cat,giraffe,0.0
+cat,hair drier,0.0
+cat,horse,0.0
+cat,hot dog,0.0
+cat,kite,0.0
+cat,knife,0.0
+cat,motorcycle,0.0
+cat,orange,0.0
+cat,parking meter,0.0
+cat,pizza,0.0
+cat,sandwich,0.0
+cat,scissors,0.0
+cat,sheep,0.0
+cat,skateboard,0.0
+cat,skis,0.0
+cat,snowboard,0.0
+cat,spoon,0.0
+cat,sports ball,0.0
+cat,stop sign,0.0
+cat,surfboard,0.0
+cat,tennis racket,0.0
+cat,toaster,0.0
+cat,traffic light,0.0
+cat,train,0.0
+cat,vase,0.0
+cat,zebra,0.0
+cell phone,airplane,0.0
+cell phone,apple,0.0
+cell phone,banana,0.0
+cell phone,baseball bat,0.0
+cell phone,baseball glove,0.0
+cell phone,bear,0.0
+cell phone,bicycle,0.0
+cell phone,bird,0.0
+cell phone,boat,0.0
+cell phone,bowl,0.0
+cell phone,broccoli,0.0
+cell phone,cake,0.0
+cell phone,carrot,0.0
+cell phone,cat,0.0
+cell phone,cow,0.0
+cell phone,dog,0.0
+cell phone,donut,0.0
+cell phone,elephant,0.0
+cell phone,fire hydrant,0.0
+cell phone,frisbee,0.0
+cell phone,giraffe,0.0
+cell phone,hair drier,0.0
+cell phone,horse,0.0
+cell phone,hot dog,0.0
+cell phone,kite,0.0
+cell phone,motorcycle,0.0
+cell phone,orange,0.0
+cell phone,oven,0.0
+cell phone,refrigerator,0.0
+cell phone,sandwich,0.0
+cell phone,sheep,0.0
+cell phone,sink,0.0
+cell phone,snowboard,0.0
+cell phone,sports ball,0.0
+cell phone,stop sign,0.0
+cell phone,suitcase,0.0
+cell phone,surfboard,0.0
+cell phone,teddy bear,0.0
+cell phone,tennis racket,0.0
+cell phone,toaster,0.0
+cell phone,toilet,0.0
+cell phone,traffic light,0.0
+cell phone,train,0.0
+cell phone,vase,0.0
+cell phone,wine glass,0.0
+cell phone,zebra,0.0
+chair,airplane,0.0
+chair,apple,0.0
+chair,bear,0.0
+chair,bird,0.0
+chair,bus,0.0
+chair,cow,0.0
+chair,elephant,0.0
+chair,fire hydrant,0.0
+chair,frisbee,0.0
+chair,giraffe,0.0
+chair,hair drier,0.0
+chair,motorcycle,0.0
+chair,parking meter,0.0
+chair,sheep,0.0
+chair,skateboard,0.0
+chair,skis,0.0
+chair,snowboard,0.0
+chair,stop sign,0.0
+chair,toilet,0.0
+chair,traffic light,0.0
+chair,train,0.0
+chair,truck,0.0
+chair,zebra,0.0
+clock,airplane,0.0
+clock,apple,0.0
+clock,banana,0.0
+clock,baseball bat,0.0
+clock,baseball glove,0.0
+clock,bear,0.0
+clock,bird,0.0
+clock,broccoli,0.0
+clock,cake,0.0
+clock,cat,0.0
+clock,cow,0.0
+clock,dog,0.0
+clock,donut,0.0
+clock,elephant,0.0
+clock,fork,0.0
+clock,frisbee,0.0
+clock,giraffe,0.0
+clock,hair drier,0.0
+clock,horse,0.0
+clock,hot dog,0.0
+clock,keyboard,0.0
+clock,kite,0.0
+clock,knife,0.0
+clock,laptop,0.0
+clock,mouse,0.0
+clock,pizza,0.0
+clock,refrigerator,0.0
+clock,sandwich,0.0
+clock,scissors,0.0
+clock,sheep,0.0
+clock,sink,0.0
+clock,skateboard,0.0
+clock,skis,0.0
+clock,snowboard,0.0
+clock,spoon,0.0
+clock,sports ball,0.0
+clock,stop sign,0.0
+clock,suitcase,0.0
+clock,surfboard,0.0
+clock,tennis racket,0.0
+clock,tie,0.0
+clock,toaster,0.0
+clock,toilet,0.0
+clock,toothbrush,0.0
+clock,train,0.0
+clock,zebra,0.0
+couch,airplane,0.0
+couch,apple,0.0
+couch,backpack,0.0
+couch,banana,0.0
+couch,baseball bat,0.0
+couch,baseball glove,0.0
+couch,bear,0.0
+couch,bicycle,0.0
+couch,boat,0.0
+couch,broccoli,0.0
+couch,bus,0.0
+couch,cake,0.0
+couch,car,0.0
+couch,carrot,0.0
+couch,cow,0.0
+couch,donut,0.0
+couch,elephant,0.0
+couch,fire hydrant,0.0
+couch,fork,0.0
+couch,frisbee,0.0
+couch,giraffe,0.0
+couch,hair drier,0.0
+couch,handbag,0.0
+couch,horse,0.0
+couch,hot dog,0.0
+couch,keyboard,0.0
+couch,kite,0.0
+couch,knife,0.0
+couch,motorcycle,0.0
+couch,mouse,0.0
+couch,parking meter,0.0
+couch,pizza,0.0
+couch,sandwich,0.0
+couch,scissors,0.0
+couch,sheep,0.0
+couch,skateboard,0.0
+couch,skis,0.0
+couch,snowboard,0.0
+couch,spoon,0.0
+couch,sports ball,0.0
+couch,stop sign,0.0
+couch,suitcase,0.0
+couch,surfboard,0.0
+couch,tennis racket,0.0
+couch,tie,0.0
+couch,toaster,0.0
+couch,toilet,0.0
+couch,toothbrush,0.0
+couch,traffic light,0.0
+couch,train,0.0
+couch,truck,0.0
+couch,umbrella,0.0
+couch,wine glass,0.0
+couch,zebra,0.0
+cow,airplane,0.0
+cow,apple,0.0
+cow,backpack,0.0
+cow,banana,0.0
+cow,baseball bat,0.0
+cow,baseball glove,0.0
+cow,bear,0.0
+cow,bed,0.0
+cow,bench,0.0
+cow,bicycle,0.0
+cow,bird,0.0
+cow,book,0.0
+cow,bottle,0.0
+cow,bowl,0.0
+cow,broccoli,0.0
+cow,bus,0.0
+cow,cake,0.0
+cow,carrot,0.0
+cow,cat,0.0
+cow,cell phone,0.0
+cow,chair,0.0
+cow,couch,0.0
+cow,cup,0.0
+cow,dining table,0.0
+cow,donut,0.0
+cow,elephant,0.0
+cow,fire hydrant,0.0
+cow,fork,0.0
+cow,frisbee,0.0
+cow,hair drier,0.0
+cow,handbag,0.0
+cow,hot dog,0.0
+cow,keyboard,0.0
+cow,kite,0.0
+cow,knife,0.0
+cow,laptop,0.0
+cow,microwave,0.0
+cow,motorcycle,0.0
+cow,mouse,0.0
+cow,orange,0.0
+cow,oven,0.0
+cow,parking meter,0.0
+cow,pizza,0.0
+cow,potted plant,0.0
+cow,refrigerator,0.0
+cow,remote,0.0
+cow,sandwich,0.0
+cow,scissors,0.0
+cow,sink,0.0
+cow,skateboard,0.0
+cow,skis,0.0
+cow,snowboard,0.0
+cow,spoon,0.0
+cow,sports ball,0.0
+cow,stop sign,0.0
+cow,suitcase,0.0
+cow,surfboard,0.0
+cow,teddy bear,0.0
+cow,tennis racket,0.0
+cow,tie,0.0
+cow,toaster,0.0
+cow,toilet,0.0
+cow,toothbrush,0.0
+cow,traffic light,0.0
+cow,train,0.0
+cow,tv,0.0
+cow,umbrella,0.0
+cow,vase,0.0
+cow,wine glass,0.0
+cow,zebra,0.0
+cup,airplane,0.0
+cup,apple,0.0
+cup,backpack,0.0
+cup,baseball bat,0.0
+cup,baseball glove,0.0
+cup,bear,0.0
+cup,bed,0.0
+cup,bicycle,0.0
+cup,bird,0.0
+cup,boat,0.0
+cup,bus,0.0
+cup,car,0.0
+cup,cow,0.0
+cup,dog,0.0
+cup,elephant,0.0
+cup,fire hydrant,0.0
+cup,frisbee,0.0
+cup,giraffe,0.0
+cup,hair drier,0.0
+cup,horse,0.0
+cup,kite,0.0
+cup,motorcycle,0.0
+cup,parking meter,0.0
+cup,sheep,0.0
+cup,skateboard,0.0
+cup,skis,0.0
+cup,snowboard,0.0
+cup,sports ball,0.0
+cup,stop sign,0.0
+cup,suitcase,0.0
+cup,surfboard,0.0
+cup,teddy bear,0.0
+cup,tennis racket,0.0
+cup,traffic light,0.0
+cup,train,0.0
+cup,truck,0.0
+cup,zebra,0.0
+dining table,airplane,0.0
+dining table,backpack,0.0
+dining table,baseball bat,0.0
+dining table,baseball glove,0.0
+dining table,bear,0.0
+dining table,bicycle,0.0
+dining table,bird,0.0
+dining table,boat,0.0
+dining table,bus,0.0
+dining table,cow,0.0
+dining table,elephant,0.0
+dining table,fire hydrant,0.0
+dining table,frisbee,0.0
+dining table,giraffe,0.0
+dining table,hair drier,0.0
+dining table,horse,0.0
+dining table,kite,0.0
+dining table,motorcycle,0.0
+dining table,mouse,0.0
+dining table,parking meter,0.0
+dining table,sheep,0.0
+dining table,skateboard,0.0
+dining table,skis,0.0
+dining table,snowboard,0.0
+dining table,sports ball,0.0
+dining table,stop sign,0.0
+dining table,suitcase,0.0
+dining table,surfboard,0.0
+dining table,teddy bear,0.0
+dining table,tennis racket,0.0
+dining table,toilet,0.0
+dining table,toothbrush,0.0
+dining table,traffic light,0.0
+dining table,train,0.0
+dining table,truck,0.0
+dining table,zebra,0.0
+dog,airplane,0.0
+dog,apple,0.0
+dog,banana,0.0
+dog,baseball bat,0.0
+dog,baseball glove,0.0
+dog,bottle,0.0
+dog,broccoli,0.0
+dog,bus,0.0
+dog,cake,0.0
+dog,carrot,0.0
+dog,cell phone,0.0
+dog,clock,0.0
+dog,cup,0.0
+dog,donut,0.0
+dog,elephant,0.0
+dog,fire hydrant,0.0
+dog,fork,0.0
+dog,giraffe,0.0
+dog,hair drier,0.0
+dog,hot dog,0.0
+dog,knife,0.0
+dog,microwave,0.0
+dog,orange,0.0
+dog,parking meter,0.0
+dog,pizza,0.0
+dog,potted plant,0.0
+dog,refrigerator,0.0
+dog,sandwich,0.0
+dog,scissors,0.0
+dog,sink,0.0
+dog,skis,0.0
+dog,snowboard,0.0
+dog,sports ball,0.0
+dog,stop sign,0.0
+dog,tennis racket,0.0
+dog,tie,0.0
+dog,toaster,0.0
+dog,toilet,0.0
+dog,toothbrush,0.0
+dog,traffic light,0.0
+dog,train,0.0
+dog,vase,0.0
+dog,wine glass,0.0
+dog,zebra,0.0
+donut,airplane,0.0
+donut,backpack,0.0
+donut,banana,0.0
+donut,baseball bat,0.0
+donut,baseball glove,0.0
+donut,bear,0.0
+donut,bed,0.0
+donut,bench,0.0
+donut,bicycle,0.0
+donut,bird,0.0
+donut,boat,0.0
+donut,bottle,0.0
+donut,broccoli,0.0
+donut,bus,0.0
+donut,car,0.0
+donut,carrot,0.0
+donut,cat,0.0
+donut,cell phone,0.0
+donut,clock,0.0
+donut,couch,0.0
+donut,cow,0.0
+donut,dog,0.0
+donut,elephant,0.0
+donut,fire hydrant,0.0
+donut,frisbee,0.0
+donut,giraffe,0.0
+donut,hair drier,0.0
+donut,handbag,0.0
+donut,horse,0.0
+donut,keyboard,0.0
+donut,kite,0.0
+donut,laptop,0.0
+donut,microwave,0.0
+donut,motorcycle,0.0
+donut,mouse,0.0
+donut,parking meter,0.0
+donut,potted plant,0.0
+donut,remote,0.0
+donut,scissors,0.0
+donut,sheep,0.0
+donut,sink,0.0
+donut,skateboard,0.0
+donut,skis,0.0
+donut,snowboard,0.0
+donut,sports ball,0.0
+donut,stop sign,0.0
+donut,suitcase,0.0
+donut,surfboard,0.0
+donut,tennis racket,0.0
+donut,tie,0.0
+donut,toaster,0.0
+donut,toilet,0.0
+donut,toothbrush,0.0
+donut,traffic light,0.0
+donut,train,0.0
+donut,truck,0.0
+donut,tv,0.0
+donut,umbrella,0.0
+donut,vase,0.0
+donut,zebra,0.0
+elephant,airplane,0.0
+elephant,apple,0.0
+elephant,backpack,0.0
+elephant,banana,0.0
+elephant,baseball glove,0.0
+elephant,bear,0.0
+elephant,bed,0.0
+elephant,bicycle,0.0
+elephant,bird,0.0
+elephant,book,0.0
+elephant,bottle,0.0
+elephant,bowl,0.0
+elephant,broccoli,0.0
+elephant,bus,0.0
+elephant,cake,0.0
+elephant,carrot,0.0
+elephant,cat,0.0
+elephant,cell phone,0.0
+elephant,clock,0.0
+elephant,couch,0.0
+elephant,cow,0.0
+elephant,cup,0.0
+elephant,dining table,0.0
+elephant,dog,0.0
+elephant,donut,0.0
+elephant,fire hydrant,0.0
+elephant,fork,0.0
+elephant,frisbee,0.0
+elephant,giraffe,0.0
+elephant,hair drier,0.0
+elephant,horse,0.0
+elephant,hot dog,0.0
+elephant,keyboard,0.0
+elephant,kite,0.0
+elephant,knife,0.0
+elephant,laptop,0.0
+elephant,microwave,0.0
+elephant,motorcycle,0.0
+elephant,mouse,0.0
+elephant,orange,0.0
+elephant,oven,0.0
+elephant,parking meter,0.0
+elephant,pizza,0.0
+elephant,potted plant,0.0
+elephant,refrigerator,0.0
+elephant,remote,0.0
+elephant,sandwich,0.0
+elephant,scissors,0.0
+elephant,sheep,0.0
+elephant,sink,0.0
+elephant,skateboard,0.0
+elephant,skis,0.0
+elephant,snowboard,0.0
+elephant,spoon,0.0
+elephant,sports ball,0.0
+elephant,stop sign,0.0
+elephant,suitcase,0.0
+elephant,surfboard,0.0
+elephant,teddy bear,0.0
+elephant,tennis racket,0.0
+elephant,tie,0.0
+elephant,toaster,0.0
+elephant,toilet,0.0
+elephant,toothbrush,0.0
+elephant,traffic light,0.0
+elephant,train,0.0
+elephant,truck,0.0
+elephant,tv,0.0
+elephant,vase,0.0
+elephant,wine glass,0.0
+elephant,zebra,0.0
+fire hydrant,airplane,0.0
+fire hydrant,apple,0.0
+fire hydrant,backpack,0.0
+fire hydrant,banana,0.0
+fire hydrant,baseball bat,0.0
+fire hydrant,baseball glove,0.0
+fire hydrant,bear,0.0
+fire hydrant,bed,0.0
+fire hydrant,bicycle,0.0
+fire hydrant,bird,0.0
+fire hydrant,boat,0.0
+fire hydrant,book,0.0
+fire hydrant,bottle,0.0
+fire hydrant,bowl,0.0
+fire hydrant,broccoli,0.0
+fire hydrant,bus,0.0
+fire hydrant,cake,0.0
+fire hydrant,carrot,0.0
+fire hydrant,cat,0.0
+fire hydrant,cell phone,0.0
+fire hydrant,chair,0.0
+fire hydrant,couch,0.0
+fire hydrant,cow,0.0
+fire hydrant,cup,0.0
+fire hydrant,dining table,0.0
+fire hydrant,dog,0.0
+fire hydrant,donut,0.0
+fire hydrant,elephant,0.0
+fire hydrant,fork,0.0
+fire hydrant,frisbee,0.0
+fire hydrant,giraffe,0.0
+fire hydrant,hair drier,0.0
+fire hydrant,horse,0.0
+fire hydrant,hot dog,0.0
+fire hydrant,keyboard,0.0
+fire hydrant,kite,0.0
+fire hydrant,knife,0.0
+fire hydrant,laptop,0.0
+fire hydrant,microwave,0.0
+fire hydrant,motorcycle,0.0
+fire hydrant,mouse,0.0
+fire hydrant,orange,0.0
+fire hydrant,oven,0.0
+fire hydrant,pizza,0.0
+fire hydrant,potted plant,0.0
+fire hydrant,refrigerator,0.0
+fire hydrant,remote,0.0
+fire hydrant,sandwich,0.0
+fire hydrant,scissors,0.0
+fire hydrant,sheep,0.0
+fire hydrant,sink,0.0
+fire hydrant,skateboard,0.0
+fire hydrant,skis,0.0
+fire hydrant,snowboard,0.0
+fire hydrant,spoon,0.0
+fire hydrant,stop sign,0.0
+fire hydrant,suitcase,0.0
+fire hydrant,surfboard,0.0
+fire hydrant,teddy bear,0.0
+fire hydrant,tennis racket,0.0
+fire hydrant,tie,0.0
+fire hydrant,toaster,0.0
+fire hydrant,toilet,0.0
+fire hydrant,toothbrush,0.0
+fire hydrant,train,0.0
+fire hydrant,tv,0.0
+fire hydrant,umbrella,0.0
+fire hydrant,vase,0.0
+fire hydrant,wine glass,0.0
+fire hydrant,zebra,0.0
+fork,airplane,0.0
+fork,apple,0.0
+fork,backpack,0.0
+fork,banana,0.0
+fork,baseball bat,0.0
+fork,baseball glove,0.0
+fork,bear,0.0
+fork,bed,0.0
+fork,bicycle,0.0
+fork,bird,0.0
+fork,boat,0.0
+fork,book,0.0
+fork,bus,0.0
+fork,car,0.0
+fork,cat,0.0
+fork,clock,0.0
+fork,cow,0.0
+fork,dog,0.0
+fork,donut,0.0
+fork,elephant,0.0
+fork,fire hydrant,0.0
+fork,frisbee,0.0
+fork,giraffe,0.0
+fork,hair drier,0.0
+fork,horse,0.0
+fork,keyboard,0.0
+fork,kite,0.0
+fork,laptop,0.0
+fork,microwave,0.0
+fork,motorcycle,0.0
+fork,mouse,0.0
+fork,parking meter,0.0
+fork,refrigerator,0.0
+fork,remote,0.0
+fork,scissors,0.0
+fork,sheep,0.0
+fork,sink,0.0
+fork,skateboard,0.0
+fork,skis,0.0
+fork,snowboard,0.0
+fork,sports ball,0.0
+fork,stop sign,0.0
+fork,suitcase,0.0
+fork,surfboard,0.0
+fork,teddy bear,0.0
+fork,tennis racket,0.0
+fork,toaster,0.0
+fork,toilet,0.0
+fork,toothbrush,0.0
+fork,traffic light,0.0
+fork,train,0.0
+fork,truck,0.0
+fork,tv,0.0
+fork,zebra,0.0
+frisbee,airplane,0.0
+frisbee,apple,0.0
+frisbee,backpack,0.0
+frisbee,bear,0.0
+frisbee,bed,0.0
+frisbee,bicycle,0.0
+frisbee,bird,0.0
+frisbee,boat,0.0
+frisbee,book,0.0
+frisbee,bottle,0.0
+frisbee,bowl,0.0
+frisbee,broccoli,0.0
+frisbee,bus,0.0
+frisbee,cake,0.0
+frisbee,carrot,0.0
+frisbee,cat,0.0
+frisbee,cell phone,0.0
+frisbee,couch,0.0
+frisbee,cow,0.0
+frisbee,cup,0.0
+frisbee,dining table,0.0
+frisbee,donut,0.0
+frisbee,elephant,0.0
+frisbee,fire hydrant,0.0
+frisbee,fork,0.0
+frisbee,giraffe,0.0
+frisbee,hair drier,0.0
+frisbee,handbag,0.0
+frisbee,horse,0.0
+frisbee,hot dog,0.0
+frisbee,keyboard,0.0
+frisbee,knife,0.0
+frisbee,laptop,0.0
+frisbee,microwave,0.0
+frisbee,motorcycle,0.0
+frisbee,mouse,0.0
+frisbee,orange,0.0
+frisbee,oven,0.0
+frisbee,parking meter,0.0
+frisbee,pizza,0.0
+frisbee,potted plant,0.0
+frisbee,refrigerator,0.0
+frisbee,remote,0.0
+frisbee,sandwich,0.0
+frisbee,scissors,0.0
+frisbee,sheep,0.0
+frisbee,sink,0.0
+frisbee,skateboard,0.0
+frisbee,skis,0.0
+frisbee,snowboard,0.0
+frisbee,spoon,0.0
+frisbee,stop sign,0.0
+frisbee,suitcase,0.0
+frisbee,teddy bear,0.0
+frisbee,tie,0.0
+frisbee,toaster,0.0
+frisbee,toothbrush,0.0
+frisbee,traffic light,0.0
+frisbee,train,0.0
+frisbee,tv,0.0
+frisbee,vase,0.0
+frisbee,wine glass,0.0
+frisbee,zebra,0.0
+giraffe,airplane,0.0
+giraffe,apple,0.0
+giraffe,backpack,0.0
+giraffe,banana,0.0
+giraffe,baseball bat,0.0
+giraffe,baseball glove,0.0
+giraffe,bear,0.0
+giraffe,bed,0.0
+giraffe,bench,0.0
+giraffe,bicycle,0.0
+giraffe,boat,0.0
+giraffe,book,0.0
+giraffe,bottle,0.0
+giraffe,bowl,0.0
+giraffe,broccoli,0.0
+giraffe,bus,0.0
+giraffe,cake,0.0
+giraffe,car,0.0
+giraffe,carrot,0.0
+giraffe,cat,0.0
+giraffe,cell phone,0.0
+giraffe,chair,0.0
+giraffe,clock,0.0
+giraffe,couch,0.0
+giraffe,cup,0.0
+giraffe,dining table,0.0
+giraffe,donut,0.0
+giraffe,fire hydrant,0.0
+giraffe,fork,0.0
+giraffe,frisbee,0.0
+giraffe,hair drier,0.0
+giraffe,handbag,0.0
+giraffe,horse,0.0
+giraffe,hot dog,0.0
+giraffe,keyboard,0.0
+giraffe,kite,0.0
+giraffe,knife,0.0
+giraffe,laptop,0.0
+giraffe,microwave,0.0
+giraffe,motorcycle,0.0
+giraffe,mouse,0.0
+giraffe,orange,0.0
+giraffe,oven,0.0
+giraffe,parking meter,0.0
+giraffe,pizza,0.0
+giraffe,potted plant,0.0
+giraffe,refrigerator,0.0
+giraffe,remote,0.0
+giraffe,sandwich,0.0
+giraffe,scissors,0.0
+giraffe,sheep,0.0
+giraffe,sink,0.0
+giraffe,skateboard,0.0
+giraffe,skis,0.0
+giraffe,snowboard,0.0
+giraffe,spoon,0.0
+giraffe,sports ball,0.0
+giraffe,stop sign,0.0
+giraffe,suitcase,0.0
+giraffe,surfboard,0.0
+giraffe,teddy bear,0.0
+giraffe,tennis racket,0.0
+giraffe,tie,0.0
+giraffe,toaster,0.0
+giraffe,toilet,0.0
+giraffe,toothbrush,0.0
+giraffe,traffic light,0.0
+giraffe,train,0.0
+giraffe,truck,0.0
+giraffe,tv,0.0
+giraffe,umbrella,0.0
+giraffe,vase,0.0
+giraffe,wine glass,0.0
+giraffe,zebra,0.0
+hair drier,airplane,0.0
+hair drier,apple,0.0
+hair drier,backpack,0.0
+hair drier,banana,0.0
+hair drier,baseball bat,0.0
+hair drier,baseball glove,0.0
+hair drier,bear,0.0
+hair drier,bed,0.0
+hair drier,bench,0.0
+hair drier,bicycle,0.0
+hair drier,bird,0.0
+hair drier,boat,0.0
+hair drier,book,0.0
+hair drier,bottle,0.0
+hair drier,bowl,0.0
+hair drier,broccoli,0.0
+hair drier,bus,0.0
+hair drier,cake,0.0
+hair drier,car,0.0
+hair drier,carrot,0.0
+hair drier,cat,0.0
+hair drier,cell phone,0.0
+hair drier,chair,0.0
+hair drier,clock,0.0
+hair drier,couch,0.0
+hair drier,cow,0.0
+hair drier,cup,0.0
+hair drier,dining table,0.0
+hair drier,dog,0.0
+hair drier,donut,0.0
+hair drier,elephant,0.0
+hair drier,fire hydrant,0.0
+hair drier,fork,0.0
+hair drier,frisbee,0.0
+hair drier,giraffe,0.0
+hair drier,handbag,0.0
+hair drier,horse,0.0
+hair drier,hot dog,0.0
+hair drier,keyboard,0.0
+hair drier,kite,0.0
+hair drier,knife,0.0
+hair drier,laptop,0.0
+hair drier,microwave,0.0
+hair drier,motorcycle,0.0
+hair drier,mouse,0.0
+hair drier,orange,0.0
+hair drier,oven,0.0
+hair drier,parking meter,0.0
+hair drier,person,0.0
+hair drier,pizza,0.0
+hair drier,potted plant,0.0
+hair drier,refrigerator,0.0
+hair drier,remote,0.0
+hair drier,sandwich,0.0
+hair drier,scissors,0.0
+hair drier,sheep,0.0
+hair drier,sink,0.0
+hair drier,skateboard,0.0
+hair drier,skis,0.0
+hair drier,snowboard,0.0
+hair drier,spoon,0.0
+hair drier,sports ball,0.0
+hair drier,stop sign,0.0
+hair drier,suitcase,0.0
+hair drier,surfboard,0.0
+hair drier,teddy bear,0.0
+hair drier,tennis racket,0.0
+hair drier,tie,0.0
+hair drier,toaster,0.0
+hair drier,toilet,0.0
+hair drier,toothbrush,0.0
+hair drier,traffic light,0.0
+hair drier,train,0.0
+hair drier,truck,0.0
+hair drier,tv,0.0
+hair drier,umbrella,0.0
+hair drier,vase,0.0
+hair drier,wine glass,0.0
+hair drier,zebra,0.0
+handbag,airplane,0.0
+handbag,banana,0.0
+handbag,baseball bat,0.0
+handbag,baseball glove,0.0
+handbag,bear,0.0
+handbag,bed,0.0
+handbag,bicycle,0.0
+handbag,bird,0.0
+handbag,book,0.0
+handbag,bowl,0.0
+handbag,broccoli,0.0
+handbag,cake,0.0
+handbag,carrot,0.0
+handbag,couch,0.0
+handbag,cow,0.0
+handbag,elephant,0.0
+handbag,fire hydrant,0.0
+handbag,fork,0.0
+handbag,frisbee,0.0
+handbag,giraffe,0.0
+handbag,hair drier,0.0
+handbag,horse,0.0
+handbag,hot dog,0.0
+handbag,keyboard,0.0
+handbag,knife,0.0
+handbag,laptop,0.0
+handbag,microwave,0.0
+handbag,mouse,0.0
+handbag,orange,0.0
+handbag,oven,0.0
+handbag,parking meter,0.0
+handbag,pizza,0.0
+handbag,refrigerator,0.0
+handbag,remote,0.0
+handbag,sandwich,0.0
+handbag,scissors,0.0
+handbag,sheep,0.0
+handbag,sink,0.0
+handbag,skis,0.0
+handbag,snowboard,0.0
+handbag,spoon,0.0
+handbag,stop sign,0.0
+handbag,teddy bear,0.0
+handbag,toaster,0.0
+handbag,toilet,0.0
+handbag,toothbrush,0.0
+handbag,vase,0.0
+handbag,wine glass,0.0
+handbag,zebra,0.0
+horse,airplane,0.0
+horse,apple,0.0
+horse,banana,0.0
+horse,baseball bat,0.0
+horse,baseball glove,0.0
+horse,bear,0.0
+horse,bed,0.0
+horse,boat,0.0
+horse,book,0.0
+horse,bottle,0.0
+horse,bowl,0.0
+horse,broccoli,0.0
+horse,bus,0.0
+horse,cake,0.0
+horse,carrot,0.0
+horse,cat,0.0
+horse,cell phone,0.0
+horse,couch,0.0
+horse,cup,0.0
+horse,dining table,0.0
+horse,donut,0.0
+horse,fire hydrant,0.0
+horse,fork,0.0
+horse,frisbee,0.0
+horse,giraffe,0.0
+horse,hair drier,0.0
+horse,hot dog,0.0
+horse,keyboard,0.0
+horse,knife,0.0
+horse,laptop,0.0
+horse,microwave,0.0
+horse,mouse,0.0
+horse,orange,0.0
+horse,oven,0.0
+horse,parking meter,0.0
+horse,pizza,0.0
+horse,refrigerator,0.0
+horse,remote,0.0
+horse,sandwich,0.0
+horse,scissors,0.0
+horse,sink,0.0
+horse,skateboard,0.0
+horse,skis,0.0
+horse,snowboard,0.0
+horse,spoon,0.0
+horse,sports ball,0.0
+horse,stop sign,0.0
+horse,suitcase,0.0
+horse,surfboard,0.0
+horse,teddy bear,0.0
+horse,tennis racket,0.0
+horse,toaster,0.0
+horse,toilet,0.0
+horse,toothbrush,0.0
+horse,train,0.0
+horse,tv,0.0
+horse,vase,0.0
+horse,wine glass,0.0
+horse,zebra,0.0
+hot dog,airplane,0.0
+hot dog,apple,0.0
+hot dog,backpack,0.0
+hot dog,banana,0.0
+hot dog,baseball bat,0.0
+hot dog,baseball glove,0.0
+hot dog,bear,0.0
+hot dog,bed,0.0
+hot dog,bench,0.0
+hot dog,bicycle,0.0
+hot dog,bird,0.0
+hot dog,boat,0.0
+hot dog,book,0.0
+hot dog,broccoli,0.0
+hot dog,bus,0.0
+hot dog,cake,0.0
+hot dog,cat,0.0
+hot dog,cell phone,0.0
+hot dog,clock,0.0
+hot dog,couch,0.0
+hot dog,cow,0.0
+hot dog,dog,0.0
+hot dog,elephant,0.0
+hot dog,fire hydrant,0.0
+hot dog,frisbee,0.0
+hot dog,giraffe,0.0
+hot dog,hair drier,0.0
+hot dog,handbag,0.0
+hot dog,horse,0.0
+hot dog,kite,0.0
+hot dog,knife,0.0
+hot dog,laptop,0.0
+hot dog,microwave,0.0
+hot dog,motorcycle,0.0
+hot dog,mouse,0.0
+hot dog,orange,0.0
+hot dog,parking meter,0.0
+hot dog,potted plant,0.0
+hot dog,remote,0.0
+hot dog,scissors,0.0
+hot dog,sheep,0.0
+hot dog,sink,0.0
+hot dog,skateboard,0.0
+hot dog,skis,0.0
+hot dog,snowboard,0.0
+hot dog,spoon,0.0
+hot dog,sports ball,0.0
+hot dog,stop sign,0.0
+hot dog,suitcase,0.0
+hot dog,surfboard,0.0
+hot dog,teddy bear,0.0
+hot dog,tennis racket,0.0
+hot dog,tie,0.0
+hot dog,toaster,0.0
+hot dog,toilet,0.0
+hot dog,toothbrush,0.0
+hot dog,traffic light,0.0
+hot dog,train,0.0
+hot dog,truck,0.0
+hot dog,tv,0.0
+hot dog,vase,0.0
+hot dog,wine glass,0.0
+hot dog,zebra,0.0
+keyboard,airplane,0.0
+keyboard,apple,0.0
+keyboard,backpack,0.0
+keyboard,banana,0.0
+keyboard,baseball bat,0.0
+keyboard,baseball glove,0.0
+keyboard,bear,0.0
+keyboard,bed,0.0
+keyboard,bench,0.0
+keyboard,bicycle,0.0
+keyboard,bird,0.0
+keyboard,boat,0.0
+keyboard,bowl,0.0
+keyboard,broccoli,0.0
+keyboard,bus,0.0
+keyboard,cake,0.0
+keyboard,car,0.0
+keyboard,carrot,0.0
+keyboard,cow,0.0
+keyboard,dog,0.0
+keyboard,donut,0.0
+keyboard,elephant,0.0
+keyboard,fire hydrant,0.0
+keyboard,fork,0.0
+keyboard,frisbee,0.0
+keyboard,giraffe,0.0
+keyboard,hair drier,0.0
+keyboard,handbag,0.0
+keyboard,horse,0.0
+keyboard,hot dog,0.0
+keyboard,kite,0.0
+keyboard,knife,0.0
+keyboard,motorcycle,0.0
+keyboard,orange,0.0
+keyboard,oven,0.0
+keyboard,parking meter,0.0
+keyboard,pizza,0.0
+keyboard,refrigerator,0.0
+keyboard,sheep,0.0
+keyboard,sink,0.0
+keyboard,skateboard,0.0
+keyboard,skis,0.0
+keyboard,snowboard,0.0
+keyboard,spoon,0.0
+keyboard,sports ball,0.0
+keyboard,stop sign,0.0
+keyboard,suitcase,0.0
+keyboard,surfboard,0.0
+keyboard,tennis racket,0.0
+keyboard,tie,0.0
+keyboard,toaster,0.0
+keyboard,toilet,0.0
+keyboard,toothbrush,0.0
+keyboard,traffic light,0.0
+keyboard,train,0.0
+keyboard,truck,0.0
+keyboard,umbrella,0.0
+keyboard,vase,0.0
+keyboard,wine glass,0.0
+keyboard,zebra,0.0
+kite,apple,0.0
+kite,banana,0.0
+kite,baseball bat,0.0
+kite,baseball glove,0.0
+kite,bear,0.0
+kite,bed,0.0
+kite,bicycle,0.0
+kite,book,0.0
+kite,bottle,0.0
+kite,bowl,0.0
+kite,broccoli,0.0
+kite,bus,0.0
+kite,cake,0.0
+kite,carrot,0.0
+kite,cat,0.0
+kite,cell phone,0.0
+kite,clock,0.0
+kite,couch,0.0
+kite,cow,0.0
+kite,cup,0.0
+kite,dining table,0.0
+kite,dog,0.0
+kite,donut,0.0
+kite,elephant,0.0
+kite,fire hydrant,0.0
+kite,fork,0.0
+kite,giraffe,0.0
+kite,hair drier,0.0
+kite,horse,0.0
+kite,hot dog,0.0
+kite,keyboard,0.0
+kite,knife,0.0
+kite,laptop,0.0
+kite,microwave,0.0
+kite,mouse,0.0
+kite,orange,0.0
+kite,oven,0.0
+kite,parking meter,0.0
+kite,pizza,0.0
+kite,potted plant,0.0
+kite,refrigerator,0.0
+kite,remote,0.0
+kite,sandwich,0.0
+kite,scissors,0.0
+kite,sink,0.0
+kite,skateboard,0.0
+kite,snowboard,0.0
+kite,spoon,0.0
+kite,stop sign,0.0
+kite,suitcase,0.0
+kite,teddy bear,0.0
+kite,tennis racket,0.0
+kite,tie,0.0
+kite,toaster,0.0
+kite,toilet,0.0
+kite,toothbrush,0.0
+kite,traffic light,0.0
+kite,train,0.0
+kite,tv,0.0
+kite,vase,0.0
+kite,zebra,0.0
+knife,airplane,0.0
+knife,backpack,0.0
+knife,baseball bat,0.0
+knife,baseball glove,0.0
+knife,bear,0.0
+knife,bed,0.0
+knife,bench,0.0
+knife,bicycle,0.0
+knife,bird,0.0
+knife,boat,0.0
+knife,book,0.0
+knife,bus,0.0
+knife,car,0.0
+knife,cat,0.0
+knife,couch,0.0
+knife,cow,0.0
+knife,dog,0.0
+knife,donut,0.0
+knife,elephant,0.0
+knife,fire hydrant,0.0
+knife,frisbee,0.0
+knife,giraffe,0.0
+knife,hair drier,0.0
+knife,handbag,0.0
+knife,horse,0.0
+knife,hot dog,0.0
+knife,keyboard,0.0
+knife,kite,0.0
+knife,laptop,0.0
+knife,motorcycle,0.0
+knife,mouse,0.0
+knife,parking meter,0.0
+knife,remote,0.0
+knife,sheep,0.0
+knife,skateboard,0.0
+knife,skis,0.0
+knife,snowboard,0.0
+knife,stop sign,0.0
+knife,suitcase,0.0
+knife,surfboard,0.0
+knife,teddy bear,0.0
+knife,tennis racket,0.0
+knife,toilet,0.0
+knife,traffic light,0.0
+knife,train,0.0
+knife,truck,0.0
+knife,tv,0.0
+knife,umbrella,0.0
+knife,zebra,0.0
+laptop,airplane,0.0
+laptop,apple,0.0
+laptop,backpack,0.0
+laptop,banana,0.0
+laptop,baseball bat,0.0
+laptop,baseball glove,0.0
+laptop,bear,0.0
+laptop,bicycle,0.0
+laptop,bird,0.0
+laptop,boat,0.0
+laptop,broccoli,0.0
+laptop,bus,0.0
+laptop,cake,0.0
+laptop,car,0.0
+laptop,cow,0.0
+laptop,donut,0.0
+laptop,elephant,0.0
+laptop,fire hydrant,0.0
+laptop,frisbee,0.0
+laptop,giraffe,0.0
+laptop,hair drier,0.0
+laptop,horse,0.0
+laptop,hot dog,0.0
+laptop,kite,0.0
+laptop,motorcycle,0.0
+laptop,orange,0.0
+laptop,parking meter,0.0
+laptop,pizza,0.0
+laptop,sheep,0.0
+laptop,sink,0.0
+laptop,skateboard,0.0
+laptop,skis,0.0
+laptop,snowboard,0.0
+laptop,sports ball,0.0
+laptop,stop sign,0.0
+laptop,suitcase,0.0
+laptop,surfboard,0.0
+laptop,teddy bear,0.0
+laptop,tennis racket,0.0
+laptop,toaster,0.0
+laptop,toilet,0.0
+laptop,toothbrush,0.0
+laptop,traffic light,0.0
+laptop,train,0.0
+laptop,truck,0.0
+laptop,umbrella,0.0
+laptop,zebra,0.0
+microwave,airplane,0.0
+microwave,backpack,0.0
+microwave,baseball bat,0.0
+microwave,baseball glove,0.0
+microwave,bear,0.0
+microwave,bed,0.0
+microwave,bench,0.0
+microwave,bicycle,0.0
+microwave,bird,0.0
+microwave,boat,0.0
+microwave,broccoli,0.0
+microwave,bus,0.0
+microwave,cake,0.0
+microwave,car,0.0
+microwave,carrot,0.0
+microwave,clock,0.0
+microwave,cow,0.0
+microwave,dog,0.0
+microwave,donut,0.0
+microwave,elephant,0.0
+microwave,fire hydrant,0.0
+microwave,frisbee,0.0
+microwave,giraffe,0.0
+microwave,hair drier,0.0
+microwave,handbag,0.0
+microwave,horse,0.0
+microwave,hot dog,0.0
+microwave,keyboard,0.0
+microwave,kite,0.0
+microwave,laptop,0.0
+microwave,motorcycle,0.0
+microwave,mouse,0.0
+microwave,parking meter,0.0
+microwave,sandwich,0.0
+microwave,scissors,0.0
+microwave,sheep,0.0
+microwave,skateboard,0.0
+microwave,skis,0.0
+microwave,snowboard,0.0
+microwave,sports ball,0.0
+microwave,stop sign,0.0
+microwave,suitcase,0.0
+microwave,surfboard,0.0
+microwave,teddy bear,0.0
+microwave,tennis racket,0.0
+microwave,tie,0.0
+microwave,toilet,0.0
+microwave,toothbrush,0.0
+microwave,traffic light,0.0
+microwave,train,0.0
+microwave,truck,0.0
+microwave,umbrella,0.0
+microwave,zebra,0.0
+motorcycle,apple,0.0
+motorcycle,banana,0.0
+motorcycle,baseball bat,0.0
+motorcycle,baseball glove,0.0
+motorcycle,bear,0.0
+motorcycle,bed,0.0
+motorcycle,bench,0.0
+motorcycle,bird,0.0
+motorcycle,book,0.0
+motorcycle,bottle,0.0
+motorcycle,bowl,0.0
+motorcycle,broccoli,0.0
+motorcycle,bus,0.0
+motorcycle,cake,0.0
+motorcycle,carrot,0.0
+motorcycle,cat,0.0
+motorcycle,couch,0.0
+motorcycle,cow,0.0
+motorcycle,cup,0.0
+motorcycle,dining table,0.0
+motorcycle,dog,0.0
+motorcycle,donut,0.0
+motorcycle,elephant,0.0
+motorcycle,fire hydrant,0.0
+motorcycle,fork,0.0
+motorcycle,giraffe,0.0
+motorcycle,hair drier,0.0
+motorcycle,horse,0.0
+motorcycle,hot dog,0.0
+motorcycle,keyboard,0.0
+motorcycle,kite,0.0
+motorcycle,knife,0.0
+motorcycle,laptop,0.0
+motorcycle,microwave,0.0
+motorcycle,mouse,0.0
+motorcycle,orange,0.0
+motorcycle,oven,0.0
+motorcycle,parking meter,0.0
+motorcycle,pizza,0.0
+motorcycle,refrigerator,0.0
+motorcycle,remote,0.0
+motorcycle,sandwich,0.0
+motorcycle,scissors,0.0
+motorcycle,sheep,0.0
+motorcycle,sink,0.0
+motorcycle,skateboard,0.0
+motorcycle,skis,0.0
+motorcycle,snowboard,0.0
+motorcycle,spoon,0.0
+motorcycle,sports ball,0.0
+motorcycle,stop sign,0.0
+motorcycle,suitcase,0.0
+motorcycle,surfboard,0.0
+motorcycle,teddy bear,0.0
+motorcycle,tennis racket,0.0
+motorcycle,tie,0.0
+motorcycle,toaster,0.0
+motorcycle,toilet,0.0
+motorcycle,toothbrush,0.0
+motorcycle,train,0.0
+motorcycle,tv,0.0
+motorcycle,vase,0.0
+motorcycle,wine glass,0.0
+motorcycle,zebra,0.0
+mouse,airplane,0.0
+mouse,apple,0.0
+mouse,backpack,0.0
+mouse,banana,0.0
+mouse,baseball bat,0.0
+mouse,baseball glove,0.0
+mouse,bear,0.0
+mouse,bed,0.0
+mouse,bench,0.0
+mouse,bicycle,0.0
+mouse,bird,0.0
+mouse,boat,0.0
+mouse,bowl,0.0
+mouse,broccoli,0.0
+mouse,bus,0.0
+mouse,cake,0.0
+mouse,car,0.0
+mouse,carrot,0.0
+mouse,cow,0.0
+mouse,dog,0.0
+mouse,donut,0.0
+mouse,elephant,0.0
+mouse,fire hydrant,0.0
+mouse,fork,0.0
+mouse,frisbee,0.0
+mouse,giraffe,0.0
+mouse,hair drier,0.0
+mouse,handbag,0.0
+mouse,horse,0.0
+mouse,hot dog,0.0
+mouse,kite,0.0
+mouse,knife,0.0
+mouse,microwave,0.0
+mouse,motorcycle,0.0
+mouse,orange,0.0
+mouse,oven,0.0
+mouse,parking meter,0.0
+mouse,pizza,0.0
+mouse,refrigerator,0.0
+mouse,sandwich,0.0
+mouse,sheep,0.0
+mouse,sink,0.0
+mouse,skateboard,0.0
+mouse,skis,0.0
+mouse,snowboard,0.0
+mouse,spoon,0.0
+mouse,sports ball,0.0
+mouse,stop sign,0.0
+mouse,suitcase,0.0
+mouse,surfboard,0.0
+mouse,tennis racket,0.0
+mouse,tie,0.0
+mouse,toaster,0.0
+mouse,toilet,0.0
+mouse,toothbrush,0.0
+mouse,traffic light,0.0
+mouse,train,0.0
+mouse,truck,0.0
+mouse,umbrella,0.0
+mouse,wine glass,0.0
+mouse,zebra,0.0
+orange,airplane,0.0
+orange,backpack,0.0
+orange,baseball bat,0.0
+orange,baseball glove,0.0
+orange,bear,0.0
+orange,bed,0.0
+orange,bench,0.0
+orange,bicycle,0.0
+orange,bird,0.0
+orange,boat,0.0
+orange,book,0.0
+orange,broccoli,0.0
+orange,bus,0.0
+orange,car,0.0
+orange,cat,0.0
+orange,cell phone,0.0
+orange,chair,0.0
+orange,clock,0.0
+orange,cow,0.0
+orange,dog,0.0
+orange,donut,0.0
+orange,elephant,0.0
+orange,fire hydrant,0.0
+orange,frisbee,0.0
+orange,giraffe,0.0
+orange,hair drier,0.0
+orange,handbag,0.0
+orange,horse,0.0
+orange,hot dog,0.0
+orange,keyboard,0.0
+orange,kite,0.0
+orange,laptop,0.0
+orange,microwave,0.0
+orange,motorcycle,0.0
+orange,mouse,0.0
+orange,parking meter,0.0
+orange,remote,0.0
+orange,scissors,0.0
+orange,sheep,0.0
+orange,skateboard,0.0
+orange,skis,0.0
+orange,snowboard,0.0
+orange,spoon,0.0
+orange,stop sign,0.0
+orange,suitcase,0.0
+orange,surfboard,0.0
+orange,teddy bear,0.0
+orange,tennis racket,0.0
+orange,tie,0.0
+orange,toaster,0.0
+orange,toilet,0.0
+orange,toothbrush,0.0
+orange,traffic light,0.0
+orange,train,0.0
+orange,tv,0.0
+orange,umbrella,0.0
+orange,wine glass,0.0
+orange,zebra,0.0
+oven,airplane,0.0
+oven,backpack,0.0
+oven,baseball bat,0.0
+oven,baseball glove,0.0
+oven,bear,0.0
+oven,bed,0.0
+oven,bench,0.0
+oven,bicycle,0.0
+oven,bird,0.0
+oven,boat,0.0
+oven,broccoli,0.0
+oven,bus,0.0
+oven,cake,0.0
+oven,car,0.0
+oven,carrot,0.0
+oven,cat,0.0
+oven,cell phone,0.0
+oven,cow,0.0
+oven,elephant,0.0
+oven,fire hydrant,0.0
+oven,frisbee,0.0
+oven,giraffe,0.0
+oven,hair drier,0.0
+oven,handbag,0.0
+oven,horse,0.0
+oven,hot dog,0.0
+oven,keyboard,0.0
+oven,kite,0.0
+oven,laptop,0.0
+oven,motorcycle,0.0
+oven,mouse,0.0
+oven,parking meter,0.0
+oven,remote,0.0
+oven,sheep,0.0
+oven,skateboard,0.0
+oven,skis,0.0
+oven,snowboard,0.0
+oven,sports ball,0.0
+oven,stop sign,0.0
+oven,suitcase,0.0
+oven,surfboard,0.0
+oven,teddy bear,0.0
+oven,tennis racket,0.0
+oven,tie,0.0
+oven,toilet,0.0
+oven,toothbrush,0.0
+oven,traffic light,0.0
+oven,train,0.0
+oven,truck,0.0
+oven,umbrella,0.0
+oven,zebra,0.0
+parking meter,airplane,0.0
+parking meter,apple,0.0
+parking meter,backpack,0.0
+parking meter,banana,0.0
+parking meter,baseball bat,0.0
+parking meter,baseball glove,0.0
+parking meter,bear,0.0
+parking meter,bed,0.0
+parking meter,bench,0.0
+parking meter,bicycle,0.0
+parking meter,bird,0.0
+parking meter,boat,0.0
+parking meter,book,0.0
+parking meter,bottle,0.0
+parking meter,bowl,0.0
+parking meter,broccoli,0.0
+parking meter,bus,0.0
+parking meter,cake,0.0
+parking meter,carrot,0.0
+parking meter,cat,0.0
+parking meter,cell phone,0.0
+parking meter,chair,0.0
+parking meter,clock,0.0
+parking meter,couch,0.0
+parking meter,cow,0.0
+parking meter,cup,0.0
+parking meter,dining table,0.0
+parking meter,dog,0.0
+parking meter,donut,0.0
+parking meter,elephant,0.0
+parking meter,fire hydrant,0.0
+parking meter,fork,0.0
+parking meter,frisbee,0.0
+parking meter,giraffe,0.0
+parking meter,hair drier,0.0
+parking meter,handbag,0.0
+parking meter,horse,0.0
+parking meter,hot dog,0.0
+parking meter,keyboard,0.0
+parking meter,kite,0.0
+parking meter,knife,0.0
+parking meter,laptop,0.0
+parking meter,microwave,0.0
+parking meter,motorcycle,0.0
+parking meter,mouse,0.0
+parking meter,orange,0.0
+parking meter,oven,0.0
+parking meter,pizza,0.0
+parking meter,potted plant,0.0
+parking meter,refrigerator,0.0
+parking meter,remote,0.0
+parking meter,sandwich,0.0
+parking meter,scissors,0.0
+parking meter,sheep,0.0
+parking meter,sink,0.0
+parking meter,skateboard,0.0
+parking meter,skis,0.0
+parking meter,snowboard,0.0
+parking meter,spoon,0.0
+parking meter,sports ball,0.0
+parking meter,stop sign,0.0
+parking meter,suitcase,0.0
+parking meter,surfboard,0.0
+parking meter,teddy bear,0.0
+parking meter,tennis racket,0.0
+parking meter,tie,0.0
+parking meter,toaster,0.0
+parking meter,toilet,0.0
+parking meter,toothbrush,0.0
+parking meter,train,0.0
+parking meter,tv,0.0
+parking meter,umbrella,0.0
+parking meter,vase,0.0
+parking meter,wine glass,0.0
+parking meter,zebra,0.0
+person,hair drier,0.0
+person,zebra,0.0
+pizza,airplane,0.0
+pizza,apple,0.0
+pizza,backpack,0.0
+pizza,banana,0.0
+pizza,baseball bat,0.0
+pizza,baseball glove,0.0
+pizza,bear,0.0
+pizza,bed,0.0
+pizza,bicycle,0.0
+pizza,bird,0.0
+pizza,boat,0.0
+pizza,bus,0.0
+pizza,car,0.0
+pizza,carrot,0.0
+pizza,cat,0.0
+pizza,clock,0.0
+pizza,cow,0.0
+pizza,donut,0.0
+pizza,elephant,0.0
+pizza,fire hydrant,0.0
+pizza,frisbee,0.0
+pizza,giraffe,0.0
+pizza,hair drier,0.0
+pizza,handbag,0.0
+pizza,horse,0.0
+pizza,hot dog,0.0
+pizza,keyboard,0.0
+pizza,kite,0.0
+pizza,laptop,0.0
+pizza,microwave,0.0
+pizza,motorcycle,0.0
+pizza,mouse,0.0
+pizza,orange,0.0
+pizza,parking meter,0.0
+pizza,remote,0.0
+pizza,scissors,0.0
+pizza,sheep,0.0
+pizza,skis,0.0
+pizza,snowboard,0.0
+pizza,sports ball,0.0
+pizza,suitcase,0.0
+pizza,surfboard,0.0
+pizza,teddy bear,0.0
+pizza,tennis racket,0.0
+pizza,tie,0.0
+pizza,toaster,0.0
+pizza,toilet,0.0
+pizza,toothbrush,0.0
+pizza,traffic light,0.0
+pizza,train,0.0
+pizza,truck,0.0
+pizza,umbrella,0.0
+pizza,vase,0.0
+pizza,zebra,0.0
+potted plant,airplane,0.0
+potted plant,backpack,0.0
+potted plant,baseball bat,0.0
+potted plant,baseball glove,0.0
+potted plant,bear,0.0
+potted plant,bicycle,0.0
+potted plant,boat,0.0
+potted plant,broccoli,0.0
+potted plant,bus,0.0
+potted plant,cake,0.0
+potted plant,carrot,0.0
+potted plant,cell phone,0.0
+potted plant,cow,0.0
+potted plant,donut,0.0
+potted plant,elephant,0.0
+potted plant,fire hydrant,0.0
+potted plant,fork,0.0
+potted plant,frisbee,0.0
+potted plant,giraffe,0.0
+potted plant,hair drier,0.0
+potted plant,horse,0.0
+potted plant,hot dog,0.0
+potted plant,kite,0.0
+potted plant,motorcycle,0.0
+potted plant,mouse,0.0
+potted plant,sandwich,0.0
+potted plant,scissors,0.0
+potted plant,sheep,0.0
+potted plant,skis,0.0
+potted plant,snowboard,0.0
+potted plant,sports ball,0.0
+potted plant,stop sign,0.0
+potted plant,suitcase,0.0
+potted plant,surfboard,0.0
+potted plant,tennis racket,0.0
+potted plant,tie,0.0
+potted plant,toaster,0.0
+potted plant,toothbrush,0.0
+potted plant,traffic light,0.0
+potted plant,train,0.0
+potted plant,truck,0.0
+potted plant,umbrella,0.0
+potted plant,zebra,0.0
+refrigerator,airplane,0.0
+refrigerator,backpack,0.0
+refrigerator,baseball bat,0.0
+refrigerator,baseball glove,0.0
+refrigerator,bear,0.0
+refrigerator,bed,0.0
+refrigerator,bench,0.0
+refrigerator,bicycle,0.0
+refrigerator,bird,0.0
+refrigerator,boat,0.0
+refrigerator,broccoli,0.0
+refrigerator,bus,0.0
+refrigerator,cake,0.0
+refrigerator,car,0.0
+refrigerator,carrot,0.0
+refrigerator,cat,0.0
+refrigerator,cow,0.0
+refrigerator,elephant,0.0
+refrigerator,fire hydrant,0.0
+refrigerator,fork,0.0
+refrigerator,frisbee,0.0
+refrigerator,giraffe,0.0
+refrigerator,hair drier,0.0
+refrigerator,horse,0.0
+refrigerator,hot dog,0.0
+refrigerator,keyboard,0.0
+refrigerator,kite,0.0
+refrigerator,laptop,0.0
+refrigerator,motorcycle,0.0
+refrigerator,mouse,0.0
+refrigerator,parking meter,0.0
+refrigerator,pizza,0.0
+refrigerator,remote,0.0
+refrigerator,sandwich,0.0
+refrigerator,sheep,0.0
+refrigerator,skateboard,0.0
+refrigerator,skis,0.0
+refrigerator,snowboard,0.0
+refrigerator,sports ball,0.0
+refrigerator,stop sign,0.0
+refrigerator,suitcase,0.0
+refrigerator,teddy bear,0.0
+refrigerator,tennis racket,0.0
+refrigerator,tie,0.0
+refrigerator,toilet,0.0
+refrigerator,traffic light,0.0
+refrigerator,train,0.0
+refrigerator,truck,0.0
+refrigerator,umbrella,0.0
+refrigerator,zebra,0.0
+remote,airplane,0.0
+remote,apple,0.0
+remote,backpack,0.0
+remote,banana,0.0
+remote,baseball bat,0.0
+remote,baseball glove,0.0
+remote,bear,0.0
+remote,bench,0.0
+remote,bicycle,0.0
+remote,bird,0.0
+remote,boat,0.0
+remote,bowl,0.0
+remote,broccoli,0.0
+remote,bus,0.0
+remote,cake,0.0
+remote,car,0.0
+remote,carrot,0.0
+remote,cow,0.0
+remote,donut,0.0
+remote,elephant,0.0
+remote,fire hydrant,0.0
+remote,fork,0.0
+remote,frisbee,0.0
+remote,giraffe,0.0
+remote,hair drier,0.0
+remote,handbag,0.0
+remote,horse,0.0
+remote,hot dog,0.0
+remote,kite,0.0
+remote,knife,0.0
+remote,motorcycle,0.0
+remote,orange,0.0
+remote,oven,0.0
+remote,parking meter,0.0
+remote,pizza,0.0
+remote,sandwich,0.0
+remote,scissors,0.0
+remote,sheep,0.0
+remote,sink,0.0
+remote,skateboard,0.0
+remote,skis,0.0
+remote,snowboard,0.0
+remote,spoon,0.0
+remote,sports ball,0.0
+remote,stop sign,0.0
+remote,suitcase,0.0
+remote,surfboard,0.0
+remote,teddy bear,0.0
+remote,tennis racket,0.0
+remote,tie,0.0
+remote,toaster,0.0
+remote,toilet,0.0
+remote,toothbrush,0.0
+remote,traffic light,0.0
+remote,train,0.0
+remote,truck,0.0
+remote,umbrella,0.0
+remote,zebra,0.0
+sandwich,airplane,0.0
+sandwich,apple,0.0
+sandwich,backpack,0.0
+sandwich,baseball bat,0.0
+sandwich,baseball glove,0.0
+sandwich,bear,0.0
+sandwich,bed,0.0
+sandwich,bench,0.0
+sandwich,bicycle,0.0
+sandwich,bird,0.0
+sandwich,boat,0.0
+sandwich,book,0.0
+sandwich,bus,0.0
+sandwich,car,0.0
+sandwich,cat,0.0
+sandwich,cell phone,0.0
+sandwich,couch,0.0
+sandwich,cow,0.0
+sandwich,dog,0.0
+sandwich,donut,0.0
+sandwich,elephant,0.0
+sandwich,fire hydrant,0.0
+sandwich,frisbee,0.0
+sandwich,giraffe,0.0
+sandwich,hair drier,0.0
+sandwich,handbag,0.0
+sandwich,horse,0.0
+sandwich,keyboard,0.0
+sandwich,kite,0.0
+sandwich,laptop,0.0
+sandwich,microwave,0.0
+sandwich,motorcycle,0.0
+sandwich,mouse,0.0
+sandwich,oven,0.0
+sandwich,parking meter,0.0
+sandwich,refrigerator,0.0
+sandwich,remote,0.0
+sandwich,scissors,0.0
+sandwich,sheep,0.0
+sandwich,sink,0.0
+sandwich,skateboard,0.0
+sandwich,skis,0.0
+sandwich,snowboard,0.0
+sandwich,sports ball,0.0
+sandwich,stop sign,0.0
+sandwich,suitcase,0.0
+sandwich,surfboard,0.0
+sandwich,teddy bear,0.0
+sandwich,tennis racket,0.0
+sandwich,tie,0.0
+sandwich,toaster,0.0
+sandwich,toilet,0.0
+sandwich,toothbrush,0.0
+sandwich,traffic light,0.0
+sandwich,train,0.0
+sandwich,truck,0.0
+sandwich,tv,0.0
+sandwich,vase,0.0
+sandwich,zebra,0.0
+scissors,airplane,0.0
+scissors,apple,0.0
+scissors,backpack,0.0
+scissors,baseball glove,0.0
+scissors,bear,0.0
+scissors,bed,0.0
+scissors,bench,0.0
+scissors,bird,0.0
+scissors,boat,0.0
+scissors,broccoli,0.0
+scissors,bus,0.0
+scissors,cake,0.0
+scissors,car,0.0
+scissors,carrot,0.0
+scissors,cat,0.0
+scissors,cell phone,0.0
+scissors,chair,0.0
+scissors,couch,0.0
+scissors,cow,0.0
+scissors,cup,0.0
+scissors,dining table,0.0
+scissors,dog,0.0
+scissors,donut,0.0
+scissors,elephant,0.0
+scissors,fire hydrant,0.0
+scissors,fork,0.0
+scissors,frisbee,0.0
+scissors,giraffe,0.0
+scissors,hair drier,0.0
+scissors,handbag,0.0
+scissors,horse,0.0
+scissors,hot dog,0.0
+scissors,keyboard,0.0
+scissors,kite,0.0
+scissors,laptop,0.0
+scissors,microwave,0.0
+scissors,motorcycle,0.0
+scissors,mouse,0.0
+scissors,orange,0.0
+scissors,oven,0.0
+scissors,parking meter,0.0
+scissors,pizza,0.0
+scissors,potted plant,0.0
+scissors,refrigerator,0.0
+scissors,sandwich,0.0
+scissors,sheep,0.0
+scissors,sink,0.0
+scissors,skateboard,0.0
+scissors,skis,0.0
+scissors,snowboard,0.0
+scissors,sports ball,0.0
+scissors,stop sign,0.0
+scissors,suitcase,0.0
+scissors,surfboard,0.0
+scissors,teddy bear,0.0
+scissors,tie,0.0
+scissors,toaster,0.0
+scissors,toilet,0.0
+scissors,traffic light,0.0
+scissors,train,0.0
+scissors,truck,0.0
+scissors,tv,0.0
+scissors,umbrella,0.0
+scissors,vase,0.0
+scissors,wine glass,0.0
+scissors,zebra,0.0
+sheep,airplane,0.0
+sheep,apple,0.0
+sheep,backpack,0.0
+sheep,banana,0.0
+sheep,baseball bat,0.0
+sheep,baseball glove,0.0
+sheep,bear,0.0
+sheep,bed,0.0
+sheep,bench,0.0
+sheep,bicycle,0.0
+sheep,bird,0.0
+sheep,boat,0.0
+sheep,book,0.0
+sheep,bottle,0.0
+sheep,bowl,0.0
+sheep,broccoli,0.0
+sheep,bus,0.0
+sheep,cake,0.0
+sheep,carrot,0.0
+sheep,cat,0.0
+sheep,cell phone,0.0
+sheep,chair,0.0
+sheep,clock,0.0
+sheep,couch,0.0
+sheep,cup,0.0
+sheep,dining table,0.0
+sheep,donut,0.0
+sheep,elephant,0.0
+sheep,fire hydrant,0.0
+sheep,fork,0.0
+sheep,frisbee,0.0
+sheep,giraffe,0.0
+sheep,hair drier,0.0
+sheep,handbag,0.0
+sheep,horse,0.0
+sheep,hot dog,0.0
+sheep,keyboard,0.0
+sheep,kite,0.0
+sheep,knife,0.0
+sheep,laptop,0.0
+sheep,microwave,0.0
+sheep,motorcycle,0.0
+sheep,mouse,0.0
+sheep,orange,0.0
+sheep,oven,0.0
+sheep,parking meter,0.0
+sheep,pizza,0.0
+sheep,potted plant,0.0
+sheep,refrigerator,0.0
+sheep,remote,0.0
+sheep,sandwich,0.0
+sheep,sink,0.0
+sheep,skateboard,0.0
+sheep,skis,0.0
+sheep,snowboard,0.0
+sheep,spoon,0.0
+sheep,sports ball,0.0
+sheep,stop sign,0.0
+sheep,suitcase,0.0
+sheep,surfboard,0.0
+sheep,tennis racket,0.0
+sheep,tie,0.0
+sheep,toaster,0.0
+sheep,toilet,0.0
+sheep,toothbrush,0.0
+sheep,traffic light,0.0
+sheep,train,0.0
+sheep,tv,0.0
+sheep,umbrella,0.0
+sheep,vase,0.0
+sheep,wine glass,0.0
+sheep,zebra,0.0
+sink,airplane,0.0
+sink,backpack,0.0
+sink,baseball bat,0.0
+sink,baseball glove,0.0
+sink,bear,0.0
+sink,bed,0.0
+sink,bench,0.0
+sink,bicycle,0.0
+sink,bird,0.0
+sink,boat,0.0
+sink,bus,0.0
+sink,cake,0.0
+sink,car,0.0
+sink,carrot,0.0
+sink,cell phone,0.0
+sink,cow,0.0
+sink,dog,0.0
+sink,donut,0.0
+sink,elephant,0.0
+sink,fire hydrant,0.0
+sink,fork,0.0
+sink,frisbee,0.0
+sink,giraffe,0.0
+sink,hair drier,0.0
+sink,handbag,0.0
+sink,horse,0.0
+sink,hot dog,0.0
+sink,keyboard,0.0
+sink,kite,0.0
+sink,laptop,0.0
+sink,motorcycle,0.0
+sink,mouse,0.0
+sink,parking meter,0.0
+sink,pizza,0.0
+sink,remote,0.0
+sink,sheep,0.0
+sink,skateboard,0.0
+sink,skis,0.0
+sink,snowboard,0.0
+sink,sports ball,0.0
+sink,stop sign,0.0
+sink,suitcase,0.0
+sink,surfboard,0.0
+sink,teddy bear,0.0
+sink,tennis racket,0.0
+sink,tie,0.0
+sink,traffic light,0.0
+sink,train,0.0
+sink,truck,0.0
+sink,tv,0.0
+sink,umbrella,0.0
+sink,zebra,0.0
+skateboard,apple,0.0
+skateboard,banana,0.0
+skateboard,baseball glove,0.0
+skateboard,bear,0.0
+skateboard,bed,0.0
+skateboard,bird,0.0
+skateboard,book,0.0
+skateboard,bottle,0.0
+skateboard,bowl,0.0
+skateboard,broccoli,0.0
+skateboard,bus,0.0
+skateboard,cake,0.0
+skateboard,carrot,0.0
+skateboard,cat,0.0
+skateboard,cell phone,0.0
+skateboard,chair,0.0
+skateboard,couch,0.0
+skateboard,cow,0.0
+skateboard,cup,0.0
+skateboard,dog,0.0
+skateboard,donut,0.0
+skateboard,elephant,0.0
+skateboard,fire hydrant,0.0
+skateboard,fork,0.0
+skateboard,giraffe,0.0
+skateboard,hair drier,0.0
+skateboard,horse,0.0
+skateboard,hot dog,0.0
+skateboard,keyboard,0.0
+skateboard,kite,0.0
+skateboard,knife,0.0
+skateboard,laptop,0.0
+skateboard,microwave,0.0
+skateboard,motorcycle,0.0
+skateboard,mouse,0.0
+skateboard,orange,0.0
+skateboard,oven,0.0
+skateboard,parking meter,0.0
+skateboard,pizza,0.0
+skateboard,potted plant,0.0
+skateboard,refrigerator,0.0
+skateboard,sandwich,0.0
+skateboard,scissors,0.0
+skateboard,sheep,0.0
+skateboard,sink,0.0
+skateboard,skis,0.0
+skateboard,spoon,0.0
+skateboard,stop sign,0.0
+skateboard,teddy bear,0.0
+skateboard,tennis racket,0.0
+skateboard,tie,0.0
+skateboard,toaster,0.0
+skateboard,toilet,0.0
+skateboard,toothbrush,0.0
+skateboard,traffic light,0.0
+skateboard,train,0.0
+skateboard,tv,0.0
+skateboard,umbrella,0.0
+skateboard,vase,0.0
+skateboard,wine glass,0.0
+skateboard,zebra,0.0
+skis,airplane,0.0
+skis,apple,0.0
+skis,banana,0.0
+skis,baseball bat,0.0
+skis,baseball glove,0.0
+skis,bear,0.0
+skis,bed,0.0
+skis,bench,0.0
+skis,bicycle,0.0
+skis,bird,0.0
+skis,book,0.0
+skis,bottle,0.0
+skis,bowl,0.0
+skis,broccoli,0.0
+skis,bus,0.0
+skis,cake,0.0
+skis,carrot,0.0
+skis,cat,0.0
+skis,chair,0.0
+skis,clock,0.0
+skis,couch,0.0
+skis,cow,0.0
+skis,cup,0.0
+skis,dining table,0.0
+skis,donut,0.0
+skis,elephant,0.0
+skis,fire hydrant,0.0
+skis,fork,0.0
+skis,frisbee,0.0
+skis,giraffe,0.0
+skis,hair drier,0.0
+skis,handbag,0.0
+skis,horse,0.0
+skis,hot dog,0.0
+skis,keyboard,0.0
+skis,knife,0.0
+skis,laptop,0.0
+skis,microwave,0.0
+skis,mouse,0.0
+skis,orange,0.0
+skis,oven,0.0
+skis,parking meter,0.0
+skis,pizza,0.0
+skis,potted plant,0.0
+skis,refrigerator,0.0
+skis,remote,0.0
+skis,sandwich,0.0
+skis,scissors,0.0
+skis,sheep,0.0
+skis,sink,0.0
+skis,spoon,0.0
+skis,sports ball,0.0
+skis,stop sign,0.0
+skis,suitcase,0.0
+skis,surfboard,0.0
+skis,teddy bear,0.0
+skis,tennis racket,0.0
+skis,tie,0.0
+skis,toaster,0.0
+skis,toilet,0.0
+skis,toothbrush,0.0
+skis,traffic light,0.0
+skis,train,0.0
+skis,truck,0.0
+skis,tv,0.0
+skis,umbrella,0.0
+skis,vase,0.0
+skis,wine glass,0.0
+skis,zebra,0.0
+snowboard,airplane,0.0
+snowboard,apple,0.0
+snowboard,banana,0.0
+snowboard,baseball bat,0.0
+snowboard,baseball glove,0.0
+snowboard,bear,0.0
+snowboard,bed,0.0
+snowboard,bench,0.0
+snowboard,bicycle,0.0
+snowboard,bird,0.0
+snowboard,boat,0.0
+snowboard,book,0.0
+snowboard,bottle,0.0
+snowboard,bowl,0.0
+snowboard,broccoli,0.0
+snowboard,bus,0.0
+snowboard,cake,0.0
+snowboard,car,0.0
+snowboard,carrot,0.0
+snowboard,cat,0.0
+snowboard,cell phone,0.0
+snowboard,chair,0.0
+snowboard,clock,0.0
+snowboard,couch,0.0
+snowboard,cow,0.0
+snowboard,cup,0.0
+snowboard,dining table,0.0
+snowboard,donut,0.0
+snowboard,elephant,0.0
+snowboard,fire hydrant,0.0
+snowboard,fork,0.0
+snowboard,frisbee,0.0
+snowboard,giraffe,0.0
+snowboard,hair drier,0.0
+snowboard,handbag,0.0
+snowboard,horse,0.0
+snowboard,hot dog,0.0
+snowboard,keyboard,0.0
+snowboard,knife,0.0
+snowboard,laptop,0.0
+snowboard,microwave,0.0
+snowboard,motorcycle,0.0
+snowboard,mouse,0.0
+snowboard,orange,0.0
+snowboard,oven,0.0
+snowboard,parking meter,0.0
+snowboard,pizza,0.0
+snowboard,potted plant,0.0
+snowboard,refrigerator,0.0
+snowboard,remote,0.0
+snowboard,sandwich,0.0
+snowboard,scissors,0.0
+snowboard,sheep,0.0
+snowboard,sink,0.0
+snowboard,spoon,0.0
+snowboard,sports ball,0.0
+snowboard,stop sign,0.0
+snowboard,suitcase,0.0
+snowboard,teddy bear,0.0
+snowboard,tennis racket,0.0
+snowboard,tie,0.0
+snowboard,toaster,0.0
+snowboard,toilet,0.0
+snowboard,toothbrush,0.0
+snowboard,traffic light,0.0
+snowboard,train,0.0
+snowboard,truck,0.0
+snowboard,tv,0.0
+snowboard,umbrella,0.0
+snowboard,vase,0.0
+snowboard,wine glass,0.0
+snowboard,zebra,0.0
+spoon,airplane,0.0
+spoon,backpack,0.0
+spoon,baseball bat,0.0
+spoon,baseball glove,0.0
+spoon,bear,0.0
+spoon,bed,0.0
+spoon,bench,0.0
+spoon,bicycle,0.0
+spoon,bird,0.0
+spoon,boat,0.0
+spoon,book,0.0
+spoon,bus,0.0
+spoon,car,0.0
+spoon,cat,0.0
+spoon,cell phone,0.0
+spoon,couch,0.0
+spoon,cow,0.0
+spoon,dog,0.0
+spoon,elephant,0.0
+spoon,fire hydrant,0.0
+spoon,frisbee,0.0
+spoon,giraffe,0.0
+spoon,hair drier,0.0
+spoon,handbag,0.0
+spoon,horse,0.0
+spoon,hot dog,0.0
+spoon,keyboard,0.0
+spoon,kite,0.0
+spoon,laptop,0.0
+spoon,motorcycle,0.0
+spoon,mouse,0.0
+spoon,parking meter,0.0
+spoon,remote,0.0
+spoon,sheep,0.0
+spoon,skateboard,0.0
+spoon,skis,0.0
+spoon,snowboard,0.0
+spoon,sports ball,0.0
+spoon,stop sign,0.0
+spoon,suitcase,0.0
+spoon,surfboard,0.0
+spoon,teddy bear,0.0
+spoon,tennis racket,0.0
+spoon,tie,0.0
+spoon,toilet,0.0
+spoon,traffic light,0.0
+spoon,train,0.0
+spoon,truck,0.0
+spoon,tv,0.0
+spoon,umbrella,0.0
+spoon,zebra,0.0
+sports ball,airplane,0.0
+sports ball,backpack,0.0
+sports ball,banana,0.0
+sports ball,bear,0.0
+sports ball,bed,0.0
+sports ball,bicycle,0.0
+sports ball,bird,0.0
+sports ball,boat,0.0
+sports ball,book,0.0
+sports ball,bottle,0.0
+sports ball,bowl,0.0
+sports ball,broccoli,0.0
+sports ball,bus,0.0
+sports ball,cake,0.0
+sports ball,carrot,0.0
+sports ball,cell phone,0.0
+sports ball,clock,0.0
+sports ball,couch,0.0
+sports ball,cow,0.0
+sports ball,cup,0.0
+sports ball,dining table,0.0
+sports ball,dog,0.0
+sports ball,donut,0.0
+sports ball,elephant,0.0
+sports ball,fire hydrant,0.0
+sports ball,fork,0.0
+sports ball,giraffe,0.0
+sports ball,hair drier,0.0
+sports ball,handbag,0.0
+sports ball,horse,0.0
+sports ball,hot dog,0.0
+sports ball,keyboard,0.0
+sports ball,kite,0.0
+sports ball,knife,0.0
+sports ball,laptop,0.0
+sports ball,microwave,0.0
+sports ball,motorcycle,0.0
+sports ball,oven,0.0
+sports ball,parking meter,0.0
+sports ball,pizza,0.0
+sports ball,potted plant,0.0
+sports ball,refrigerator,0.0
+sports ball,remote,0.0
+sports ball,sandwich,0.0
+sports ball,scissors,0.0
+sports ball,sheep,0.0
+sports ball,sink,0.0
+sports ball,skateboard,0.0
+sports ball,skis,0.0
+sports ball,snowboard,0.0
+sports ball,spoon,0.0
+sports ball,stop sign,0.0
+sports ball,suitcase,0.0
+sports ball,surfboard,0.0
+sports ball,tie,0.0
+sports ball,toaster,0.0
+sports ball,toilet,0.0
+sports ball,toothbrush,0.0
+sports ball,traffic light,0.0
+sports ball,train,0.0
+sports ball,tv,0.0
+sports ball,umbrella,0.0
+sports ball,vase,0.0
+sports ball,wine glass,0.0
+sports ball,zebra,0.0
+stop sign,airplane,0.0
+stop sign,apple,0.0
+stop sign,backpack,0.0
+stop sign,banana,0.0
+stop sign,baseball bat,0.0
+stop sign,baseball glove,0.0
+stop sign,bear,0.0
+stop sign,bed,0.0
+stop sign,bicycle,0.0
+stop sign,bird,0.0
+stop sign,book,0.0
+stop sign,bottle,0.0
+stop sign,bowl,0.0
+stop sign,broccoli,0.0
+stop sign,cake,0.0
+stop sign,carrot,0.0
+stop sign,cat,0.0
+stop sign,cell phone,0.0
+stop sign,chair,0.0
+stop sign,clock,0.0
+stop sign,couch,0.0
+stop sign,cow,0.0
+stop sign,cup,0.0
+stop sign,dining table,0.0
+stop sign,dog,0.0
+stop sign,donut,0.0
+stop sign,elephant,0.0
+stop sign,fire hydrant,0.0
+stop sign,fork,0.0
+stop sign,frisbee,0.0
+stop sign,giraffe,0.0
+stop sign,hair drier,0.0
+stop sign,handbag,0.0
+stop sign,horse,0.0
+stop sign,hot dog,0.0
+stop sign,keyboard,0.0
+stop sign,kite,0.0
+stop sign,knife,0.0
+stop sign,laptop,0.0
+stop sign,microwave,0.0
+stop sign,motorcycle,0.0
+stop sign,mouse,0.0
+stop sign,orange,0.0
+stop sign,oven,0.0
+stop sign,parking meter,0.0
+stop sign,pizza,0.0
+stop sign,potted plant,0.0
+stop sign,refrigerator,0.0
+stop sign,remote,0.0
+stop sign,sandwich,0.0
+stop sign,scissors,0.0
+stop sign,sheep,0.0
+stop sign,sink,0.0
+stop sign,skateboard,0.0
+stop sign,skis,0.0
+stop sign,snowboard,0.0
+stop sign,spoon,0.0
+stop sign,sports ball,0.0
+stop sign,suitcase,0.0
+stop sign,surfboard,0.0
+stop sign,teddy bear,0.0
+stop sign,tennis racket,0.0
+stop sign,tie,0.0
+stop sign,toaster,0.0
+stop sign,toilet,0.0
+stop sign,toothbrush,0.0
+stop sign,train,0.0
+stop sign,tv,0.0
+stop sign,vase,0.0
+stop sign,wine glass,0.0
+stop sign,zebra,0.0
+suitcase,apple,0.0
+suitcase,banana,0.0
+suitcase,baseball bat,0.0
+suitcase,baseball glove,0.0
+suitcase,bear,0.0
+suitcase,bird,0.0
+suitcase,boat,0.0
+suitcase,bottle,0.0
+suitcase,bowl,0.0
+suitcase,broccoli,0.0
+suitcase,cake,0.0
+suitcase,carrot,0.0
+suitcase,cat,0.0
+suitcase,clock,0.0
+suitcase,cow,0.0
+suitcase,cup,0.0
+suitcase,dining table,0.0
+suitcase,dog,0.0
+suitcase,donut,0.0
+suitcase,elephant,0.0
+suitcase,fire hydrant,0.0
+suitcase,fork,0.0
+suitcase,frisbee,0.0
+suitcase,giraffe,0.0
+suitcase,hair drier,0.0
+suitcase,horse,0.0
+suitcase,hot dog,0.0
+suitcase,keyboard,0.0
+suitcase,knife,0.0
+suitcase,microwave,0.0
+suitcase,motorcycle,0.0
+suitcase,mouse,0.0
+suitcase,orange,0.0
+suitcase,pizza,0.0
+suitcase,potted plant,0.0
+suitcase,refrigerator,0.0
+suitcase,remote,0.0
+suitcase,sandwich,0.0
+suitcase,scissors,0.0
+suitcase,sheep,0.0
+suitcase,sink,0.0
+suitcase,skis,0.0
+suitcase,snowboard,0.0
+suitcase,spoon,0.0
+suitcase,sports ball,0.0
+suitcase,stop sign,0.0
+suitcase,surfboard,0.0
+suitcase,teddy bear,0.0
+suitcase,tennis racket,0.0
+suitcase,toaster,0.0
+suitcase,toilet,0.0
+suitcase,toothbrush,0.0
+suitcase,vase,0.0
+suitcase,wine glass,0.0
+suitcase,zebra,0.0
+surfboard,apple,0.0
+surfboard,backpack,0.0
+surfboard,banana,0.0
+surfboard,baseball bat,0.0
+surfboard,baseball glove,0.0
+surfboard,bear,0.0
+surfboard,bed,0.0
+surfboard,bench,0.0
+surfboard,bicycle,0.0
+surfboard,bird,0.0
+surfboard,book,0.0
+surfboard,bottle,0.0
+surfboard,bowl,0.0
+surfboard,broccoli,0.0
+surfboard,bus,0.0
+surfboard,carrot,0.0
+surfboard,cat,0.0
+surfboard,cell phone,0.0
+surfboard,clock,0.0
+surfboard,couch,0.0
+surfboard,cow,0.0
+surfboard,cup,0.0
+surfboard,donut,0.0
+surfboard,elephant,0.0
+surfboard,fire hydrant,0.0
+surfboard,fork,0.0
+surfboard,giraffe,0.0
+surfboard,hair drier,0.0
+surfboard,handbag,0.0
+surfboard,horse,0.0
+surfboard,hot dog,0.0
+surfboard,keyboard,0.0
+surfboard,laptop,0.0
+surfboard,microwave,0.0
+surfboard,mouse,0.0
+surfboard,orange,0.0
+surfboard,oven,0.0
+surfboard,parking meter,0.0
+surfboard,pizza,0.0
+surfboard,potted plant,0.0
+surfboard,refrigerator,0.0
+surfboard,remote,0.0
+surfboard,sandwich,0.0
+surfboard,scissors,0.0
+surfboard,sheep,0.0
+surfboard,sink,0.0
+surfboard,snowboard,0.0
+surfboard,spoon,0.0
+surfboard,sports ball,0.0
+surfboard,stop sign,0.0
+surfboard,teddy bear,0.0
+surfboard,tennis racket,0.0
+surfboard,tie,0.0
+surfboard,toaster,0.0
+surfboard,toilet,0.0
+surfboard,toothbrush,0.0
+surfboard,traffic light,0.0
+surfboard,train,0.0
+surfboard,tv,0.0
+surfboard,vase,0.0
+surfboard,wine glass,0.0
+surfboard,zebra,0.0
+teddy bear,airplane,0.0
+teddy bear,apple,0.0
+teddy bear,backpack,0.0
+teddy bear,banana,0.0
+teddy bear,baseball bat,0.0
+teddy bear,baseball glove,0.0
+teddy bear,bear,0.0
+teddy bear,bench,0.0
+teddy bear,bicycle,0.0
+teddy bear,bottle,0.0
+teddy bear,bowl,0.0
+teddy bear,broccoli,0.0
+teddy bear,bus,0.0
+teddy bear,cake,0.0
+teddy bear,carrot,0.0
+teddy bear,cow,0.0
+teddy bear,dining table,0.0
+teddy bear,elephant,0.0
+teddy bear,fire hydrant,0.0
+teddy bear,fork,0.0
+teddy bear,frisbee,0.0
+teddy bear,giraffe,0.0
+teddy bear,hair drier,0.0
+teddy bear,handbag,0.0
+teddy bear,horse,0.0
+teddy bear,hot dog,0.0
+teddy bear,keyboard,0.0
+teddy bear,kite,0.0
+teddy bear,knife,0.0
+teddy bear,laptop,0.0
+teddy bear,microwave,0.0
+teddy bear,mouse,0.0
+teddy bear,orange,0.0
+teddy bear,oven,0.0
+teddy bear,parking meter,0.0
+teddy bear,pizza,0.0
+teddy bear,potted plant,0.0
+teddy bear,refrigerator,0.0
+teddy bear,remote,0.0
+teddy bear,sandwich,0.0
+teddy bear,scissors,0.0
+teddy bear,sheep,0.0
+teddy bear,sink,0.0
+teddy bear,skateboard,0.0
+teddy bear,skis,0.0
+teddy bear,snowboard,0.0
+teddy bear,spoon,0.0
+teddy bear,stop sign,0.0
+teddy bear,suitcase,0.0
+teddy bear,surfboard,0.0
+teddy bear,tennis racket,0.0
+teddy bear,toaster,0.0
+teddy bear,toilet,0.0
+teddy bear,toothbrush,0.0
+teddy bear,traffic light,0.0
+teddy bear,train,0.0
+teddy bear,truck,0.0
+teddy bear,tv,0.0
+teddy bear,umbrella,0.0
+teddy bear,wine glass,0.0
+teddy bear,zebra,0.0
+tennis racket,airplane,0.0
+tennis racket,apple,0.0
+tennis racket,backpack,0.0
+tennis racket,banana,0.0
+tennis racket,baseball glove,0.0
+tennis racket,bear,0.0
+tennis racket,bed,0.0
+tennis racket,bird,0.0
+tennis racket,boat,0.0
+tennis racket,book,0.0
+tennis racket,bottle,0.0
+tennis racket,bowl,0.0
+tennis racket,broccoli,0.0
+tennis racket,bus,0.0
+tennis racket,cake,0.0
+tennis racket,carrot,0.0
+tennis racket,cat,0.0
+tennis racket,couch,0.0
+tennis racket,cow,0.0
+tennis racket,cup,0.0
+tennis racket,dining table,0.0
+tennis racket,donut,0.0
+tennis racket,elephant,0.0
+tennis racket,fire hydrant,0.0
+tennis racket,fork,0.0
+tennis racket,giraffe,0.0
+tennis racket,hair drier,0.0
+tennis racket,handbag,0.0
+tennis racket,horse,0.0
+tennis racket,hot dog,0.0
+tennis racket,keyboard,0.0
+tennis racket,kite,0.0
+tennis racket,knife,0.0
+tennis racket,laptop,0.0
+tennis racket,microwave,0.0
+tennis racket,motorcycle,0.0
+tennis racket,mouse,0.0
+tennis racket,oven,0.0
+tennis racket,parking meter,0.0
+tennis racket,pizza,0.0
+tennis racket,potted plant,0.0
+tennis racket,refrigerator,0.0
+tennis racket,sandwich,0.0
+tennis racket,sheep,0.0
+tennis racket,sink,0.0
+tennis racket,skateboard,0.0
+tennis racket,skis,0.0
+tennis racket,snowboard,0.0
+tennis racket,spoon,0.0
+tennis racket,stop sign,0.0
+tennis racket,suitcase,0.0
+tennis racket,surfboard,0.0
+tennis racket,toaster,0.0
+tennis racket,toilet,0.0
+tennis racket,traffic light,0.0
+tennis racket,train,0.0
+tennis racket,umbrella,0.0
+tennis racket,vase,0.0
+tennis racket,wine glass,0.0
+tennis racket,zebra,0.0
+tie,airplane,0.0
+tie,apple,0.0
+tie,backpack,0.0
+tie,banana,0.0
+tie,baseball glove,0.0
+tie,bear,0.0
+tie,bench,0.0
+tie,bicycle,0.0
+tie,bird,0.0
+tie,boat,0.0
+tie,broccoli,0.0
+tie,couch,0.0
+tie,elephant,0.0
+tie,fire hydrant,0.0
+tie,frisbee,0.0
+tie,giraffe,0.0
+tie,hair drier,0.0
+tie,horse,0.0
+tie,hot dog,0.0
+tie,keyboard,0.0
+tie,kite,0.0
+tie,microwave,0.0
+tie,motorcycle,0.0
+tie,mouse,0.0
+tie,orange,0.0
+tie,oven,0.0
+tie,parking meter,0.0
+tie,pizza,0.0
+tie,refrigerator,0.0
+tie,sandwich,0.0
+tie,scissors,0.0
+tie,sink,0.0
+tie,skis,0.0
+tie,snowboard,0.0
+tie,spoon,0.0
+tie,stop sign,0.0
+tie,surfboard,0.0
+tie,tennis racket,0.0
+tie,toaster,0.0
+tie,toothbrush,0.0
+tie,traffic light,0.0
+tie,truck,0.0
+tie,zebra,0.0
+toaster,airplane,0.0
+toaster,apple,0.0
+toaster,backpack,0.0
+toaster,banana,0.0
+toaster,baseball bat,0.0
+toaster,baseball glove,0.0
+toaster,bear,0.0
+toaster,bed,0.0
+toaster,bench,0.0
+toaster,bicycle,0.0
+toaster,bird,0.0
+toaster,boat,0.0
+toaster,book,0.0
+toaster,bottle,0.0
+toaster,bowl,0.0
+toaster,broccoli,0.0
+toaster,bus,0.0
+toaster,cake,0.0
+toaster,car,0.0
+toaster,carrot,0.0
+toaster,cat,0.0
+toaster,cell phone,0.0
+toaster,chair,0.0
+toaster,clock,0.0
+toaster,couch,0.0
+toaster,cow,0.0
+toaster,dining table,0.0
+toaster,dog,0.0
+toaster,donut,0.0
+toaster,elephant,0.0
+toaster,fire hydrant,0.0
+toaster,fork,0.0
+toaster,frisbee,0.0
+toaster,giraffe,0.0
+toaster,hair drier,0.0
+toaster,handbag,0.0
+toaster,horse,0.0
+toaster,hot dog,0.0
+toaster,keyboard,0.0
+toaster,kite,0.0
+toaster,knife,0.0
+toaster,laptop,0.0
+toaster,motorcycle,0.0
+toaster,mouse,0.0
+toaster,orange,0.0
+toaster,oven,0.0
+toaster,parking meter,0.0
+toaster,person,0.0
+toaster,pizza,0.0
+toaster,potted plant,0.0
+toaster,refrigerator,0.0
+toaster,remote,0.0
+toaster,sandwich,0.0
+toaster,scissors,0.0
+toaster,sheep,0.0
+toaster,sink,0.0
+toaster,skateboard,0.0
+toaster,skis,0.0
+toaster,snowboard,0.0
+toaster,spoon,0.0
+toaster,sports ball,0.0
+toaster,stop sign,0.0
+toaster,suitcase,0.0
+toaster,surfboard,0.0
+toaster,teddy bear,0.0
+toaster,tennis racket,0.0
+toaster,tie,0.0
+toaster,toilet,0.0
+toaster,toothbrush,0.0
+toaster,traffic light,0.0
+toaster,train,0.0
+toaster,truck,0.0
+toaster,tv,0.0
+toaster,umbrella,0.0
+toaster,vase,0.0
+toaster,wine glass,0.0
+toaster,zebra,0.0
+toilet,airplane,0.0
+toilet,apple,0.0
+toilet,backpack,0.0
+toilet,banana,0.0
+toilet,baseball bat,0.0
+toilet,baseball glove,0.0
+toilet,bear,0.0
+toilet,bench,0.0
+toilet,bicycle,0.0
+toilet,bird,0.0
+toilet,boat,0.0
+toilet,book,0.0
+toilet,bowl,0.0
+toilet,broccoli,0.0
+toilet,bus,0.0
+toilet,cake,0.0
+toilet,car,0.0
+toilet,carrot,0.0
+toilet,cell phone,0.0
+toilet,clock,0.0
+toilet,couch,0.0
+toilet,cow,0.0
+toilet,cup,0.0
+toilet,dining table,0.0
+toilet,donut,0.0
+toilet,elephant,0.0
+toilet,fire hydrant,0.0
+toilet,fork,0.0
+toilet,frisbee,0.0
+toilet,giraffe,0.0
+toilet,hair drier,0.0
+toilet,handbag,0.0
+toilet,horse,0.0
+toilet,hot dog,0.0
+toilet,keyboard,0.0
+toilet,kite,0.0
+toilet,knife,0.0
+toilet,laptop,0.0
+toilet,microwave,0.0
+toilet,motorcycle,0.0
+toilet,mouse,0.0
+toilet,orange,0.0
+toilet,oven,0.0
+toilet,parking meter,0.0
+toilet,pizza,0.0
+toilet,remote,0.0
+toilet,sandwich,0.0
+toilet,scissors,0.0
+toilet,sheep,0.0
+toilet,skateboard,0.0
+toilet,skis,0.0
+toilet,snowboard,0.0
+toilet,spoon,0.0
+toilet,sports ball,0.0
+toilet,stop sign,0.0
+toilet,suitcase,0.0
+toilet,surfboard,0.0
+toilet,tennis racket,0.0
+toilet,toaster,0.0
+toilet,traffic light,0.0
+toilet,train,0.0
+toilet,truck,0.0
+toilet,tv,0.0
+toilet,umbrella,0.0
+toilet,wine glass,0.0
+toilet,zebra,0.0
+toothbrush,airplane,0.0
+toothbrush,apple,0.0
+toothbrush,backpack,0.0
+toothbrush,banana,0.0
+toothbrush,baseball bat,0.0
+toothbrush,baseball glove,0.0
+toothbrush,bear,0.0
+toothbrush,bed,0.0
+toothbrush,bench,0.0
+toothbrush,bicycle,0.0
+toothbrush,bird,0.0
+toothbrush,boat,0.0
+toothbrush,book,0.0
+toothbrush,broccoli,0.0
+toothbrush,bus,0.0
+toothbrush,cake,0.0
+toothbrush,car,0.0
+toothbrush,carrot,0.0
+toothbrush,cat,0.0
+toothbrush,cell phone,0.0
+toothbrush,chair,0.0
+toothbrush,clock,0.0
+toothbrush,couch,0.0
+toothbrush,cow,0.0
+toothbrush,dining table,0.0
+toothbrush,dog,0.0
+toothbrush,donut,0.0
+toothbrush,elephant,0.0
+toothbrush,fire hydrant,0.0
+toothbrush,fork,0.0
+toothbrush,frisbee,0.0
+toothbrush,giraffe,0.0
+toothbrush,hair drier,0.0
+toothbrush,handbag,0.0
+toothbrush,horse,0.0
+toothbrush,hot dog,0.0
+toothbrush,keyboard,0.0
+toothbrush,kite,0.0
+toothbrush,knife,0.0
+toothbrush,laptop,0.0
+toothbrush,microwave,0.0
+toothbrush,motorcycle,0.0
+toothbrush,mouse,0.0
+toothbrush,orange,0.0
+toothbrush,oven,0.0
+toothbrush,parking meter,0.0
+toothbrush,pizza,0.0
+toothbrush,refrigerator,0.0
+toothbrush,remote,0.0
+toothbrush,sandwich,0.0
+toothbrush,sheep,0.0
+toothbrush,skateboard,0.0
+toothbrush,skis,0.0
+toothbrush,snowboard,0.0
+toothbrush,spoon,0.0
+toothbrush,sports ball,0.0
+toothbrush,stop sign,0.0
+toothbrush,suitcase,0.0
+toothbrush,surfboard,0.0
+toothbrush,teddy bear,0.0
+toothbrush,tennis racket,0.0
+toothbrush,tie,0.0
+toothbrush,toaster,0.0
+toothbrush,traffic light,0.0
+toothbrush,train,0.0
+toothbrush,truck,0.0
+toothbrush,tv,0.0
+toothbrush,umbrella,0.0
+toothbrush,vase,0.0
+toothbrush,wine glass,0.0
+toothbrush,zebra,0.0
+traffic light,airplane,0.0
+traffic light,apple,0.0
+traffic light,banana,0.0
+traffic light,baseball bat,0.0
+traffic light,baseball glove,0.0
+traffic light,bear,0.0
+traffic light,bed,0.0
+traffic light,bird,0.0
+traffic light,boat,0.0
+traffic light,book,0.0
+traffic light,bottle,0.0
+traffic light,bowl,0.0
+traffic light,broccoli,0.0
+traffic light,cake,0.0
+traffic light,carrot,0.0
+traffic light,cat,0.0
+traffic light,chair,0.0
+traffic light,couch,0.0
+traffic light,cow,0.0
+traffic light,cup,0.0
+traffic light,dining table,0.0
+traffic light,dog,0.0
+traffic light,donut,0.0
+traffic light,elephant,0.0
+traffic light,fork,0.0
+traffic light,frisbee,0.0
+traffic light,giraffe,0.0
+traffic light,hair drier,0.0
+traffic light,horse,0.0
+traffic light,hot dog,0.0
+traffic light,keyboard,0.0
+traffic light,kite,0.0
+traffic light,knife,0.0
+traffic light,laptop,0.0
+traffic light,microwave,0.0
+traffic light,mouse,0.0
+traffic light,orange,0.0
+traffic light,oven,0.0
+traffic light,parking meter,0.0
+traffic light,pizza,0.0
+traffic light,potted plant,0.0
+traffic light,refrigerator,0.0
+traffic light,remote,0.0
+traffic light,sandwich,0.0
+traffic light,scissors,0.0
+traffic light,sheep,0.0
+traffic light,sink,0.0
+traffic light,skis,0.0
+traffic light,snowboard,0.0
+traffic light,spoon,0.0
+traffic light,sports ball,0.0
+traffic light,suitcase,0.0
+traffic light,surfboard,0.0
+traffic light,teddy bear,0.0
+traffic light,tennis racket,0.0
+traffic light,tie,0.0
+traffic light,toaster,0.0
+traffic light,toilet,0.0
+traffic light,toothbrush,0.0
+traffic light,tv,0.0
+traffic light,vase,0.0
+traffic light,wine glass,0.0
+traffic light,zebra,0.0
+train,apple,0.0
+train,banana,0.0
+train,baseball bat,0.0
+train,baseball glove,0.0
+train,bear,0.0
+train,bed,0.0
+train,bicycle,0.0
+train,bird,0.0
+train,book,0.0
+train,bottle,0.0
+train,bowl,0.0
+train,broccoli,0.0
+train,cake,0.0
+train,carrot,0.0
+train,cat,0.0
+train,chair,0.0
+train,couch,0.0
+train,cow,0.0
+train,cup,0.0
+train,dining table,0.0
+train,dog,0.0
+train,donut,0.0
+train,elephant,0.0
+train,fire hydrant,0.0
+train,fork,0.0
+train,frisbee,0.0
+train,giraffe,0.0
+train,hair drier,0.0
+train,horse,0.0
+train,hot dog,0.0
+train,keyboard,0.0
+train,kite,0.0
+train,knife,0.0
+train,laptop,0.0
+train,microwave,0.0
+train,motorcycle,0.0
+train,mouse,0.0
+train,orange,0.0
+train,oven,0.0
+train,parking meter,0.0
+train,pizza,0.0
+train,potted plant,0.0
+train,refrigerator,0.0
+train,remote,0.0
+train,sandwich,0.0
+train,scissors,0.0
+train,sheep,0.0
+train,sink,0.0
+train,skateboard,0.0
+train,skis,0.0
+train,snowboard,0.0
+train,spoon,0.0
+train,sports ball,0.0
+train,stop sign,0.0
+train,surfboard,0.0
+train,teddy bear,0.0
+train,tennis racket,0.0
+train,toaster,0.0
+train,toilet,0.0
+train,toothbrush,0.0
+train,tv,0.0
+train,vase,0.0
+train,wine glass,0.0
+train,zebra,0.0
+truck,apple,0.0
+truck,banana,0.0
+truck,baseball bat,0.0
+truck,baseball glove,0.0
+truck,bear,0.0
+truck,bed,0.0
+truck,bird,0.0
+truck,book,0.0
+truck,bottle,0.0
+truck,bowl,0.0
+truck,broccoli,0.0
+truck,cake,0.0
+truck,carrot,0.0
+truck,chair,0.0
+truck,couch,0.0
+truck,cup,0.0
+truck,dining table,0.0
+truck,donut,0.0
+truck,fork,0.0
+truck,frisbee,0.0
+truck,giraffe,0.0
+truck,hair drier,0.0
+truck,horse,0.0
+truck,hot dog,0.0
+truck,keyboard,0.0
+truck,knife,0.0
+truck,laptop,0.0
+truck,microwave,0.0
+truck,mouse,0.0
+truck,orange,0.0
+truck,oven,0.0
+truck,pizza,0.0
+truck,potted plant,0.0
+truck,refrigerator,0.0
+truck,remote,0.0
+truck,sandwich,0.0
+truck,scissors,0.0
+truck,sheep,0.0
+truck,sink,0.0
+truck,skateboard,0.0
+truck,skis,0.0
+truck,snowboard,0.0
+truck,spoon,0.0
+truck,sports ball,0.0
+truck,teddy bear,0.0
+truck,tennis racket,0.0
+truck,tie,0.0
+truck,toaster,0.0
+truck,toilet,0.0
+truck,toothbrush,0.0
+truck,train,0.0
+truck,tv,0.0
+truck,vase,0.0
+truck,wine glass,0.0
+truck,zebra,0.0
+tv,airplane,0.0
+tv,apple,0.0
+tv,backpack,0.0
+tv,banana,0.0
+tv,baseball glove,0.0
+tv,bear,0.0
+tv,bench,0.0
+tv,bicycle,0.0
+tv,boat,0.0
+tv,bowl,0.0
+tv,broccoli,0.0
+tv,bus,0.0
+tv,cake,0.0
+tv,carrot,0.0
+tv,cow,0.0
+tv,donut,0.0
+tv,elephant,0.0
+tv,fire hydrant,0.0
+tv,frisbee,0.0
+tv,giraffe,0.0
+tv,hair drier,0.0
+tv,handbag,0.0
+tv,horse,0.0
+tv,hot dog,0.0
+tv,kite,0.0
+tv,knife,0.0
+tv,motorcycle,0.0
+tv,parking meter,0.0
+tv,pizza,0.0
+tv,refrigerator,0.0
+tv,sandwich,0.0
+tv,sheep,0.0
+tv,skateboard,0.0
+tv,skis,0.0
+tv,snowboard,0.0
+tv,spoon,0.0
+tv,stop sign,0.0
+tv,surfboard,0.0
+tv,tennis racket,0.0
+tv,toaster,0.0
+tv,toothbrush,0.0
+tv,traffic light,0.0
+tv,train,0.0
+tv,truck,0.0
+tv,umbrella,0.0
+tv,zebra,0.0
+umbrella,airplane,0.0
+umbrella,baseball bat,0.0
+umbrella,baseball glove,0.0
+umbrella,bear,0.0
+umbrella,bed,0.0
+umbrella,bicycle,0.0
+umbrella,bird,0.0
+umbrella,book,0.0
+umbrella,bowl,0.0
+umbrella,broccoli,0.0
+umbrella,cake,0.0
+umbrella,cat,0.0
+umbrella,cow,0.0
+umbrella,donut,0.0
+umbrella,elephant,0.0
+umbrella,fire hydrant,0.0
+umbrella,fork,0.0
+umbrella,frisbee,0.0
+umbrella,giraffe,0.0
+umbrella,hair drier,0.0
+umbrella,hot dog,0.0
+umbrella,keyboard,0.0
+umbrella,knife,0.0
+umbrella,laptop,0.0
+umbrella,microwave,0.0
+umbrella,mouse,0.0
+umbrella,orange,0.0
+umbrella,oven,0.0
+umbrella,parking meter,0.0
+umbrella,pizza,0.0
+umbrella,refrigerator,0.0
+umbrella,remote,0.0
+umbrella,sandwich,0.0
+umbrella,scissors,0.0
+umbrella,sheep,0.0
+umbrella,sink,0.0
+umbrella,skis,0.0
+umbrella,snowboard,0.0
+umbrella,spoon,0.0
+umbrella,sports ball,0.0
+umbrella,stop sign,0.0
+umbrella,teddy bear,0.0
+umbrella,tennis racket,0.0
+umbrella,toaster,0.0
+umbrella,toilet,0.0
+umbrella,toothbrush,0.0
+umbrella,train,0.0
+umbrella,tv,0.0
+umbrella,vase,0.0
+umbrella,wine glass,0.0
+umbrella,zebra,0.0
+vase,airplane,0.0
+vase,backpack,0.0
+vase,baseball bat,0.0
+vase,baseball glove,0.0
+vase,bear,0.0
+vase,bicycle,0.0
+vase,bird,0.0
+vase,boat,0.0
+vase,broccoli,0.0
+vase,bus,0.0
+vase,car,0.0
+vase,carrot,0.0
+vase,cat,0.0
+vase,cell phone,0.0
+vase,cow,0.0
+vase,donut,0.0
+vase,elephant,0.0
+vase,fire hydrant,0.0
+vase,frisbee,0.0
+vase,giraffe,0.0
+vase,hair drier,0.0
+vase,handbag,0.0
+vase,horse,0.0
+vase,hot dog,0.0
+vase,kite,0.0
+vase,laptop,0.0
+vase,motorcycle,0.0
+vase,mouse,0.0
+vase,parking meter,0.0
+vase,pizza,0.0
+vase,sandwich,0.0
+vase,sheep,0.0
+vase,skateboard,0.0
+vase,skis,0.0
+vase,snowboard,0.0
+vase,sports ball,0.0
+vase,stop sign,0.0
+vase,suitcase,0.0
+vase,surfboard,0.0
+vase,tennis racket,0.0
+vase,tie,0.0
+vase,toaster,0.0
+vase,toothbrush,0.0
+vase,traffic light,0.0
+vase,train,0.0
+vase,truck,0.0
+vase,zebra,0.0
+wine glass,airplane,0.0
+wine glass,backpack,0.0
+wine glass,banana,0.0
+wine glass,baseball bat,0.0
+wine glass,baseball glove,0.0
+wine glass,bear,0.0
+wine glass,bed,0.0
+wine glass,bench,0.0
+wine glass,bicycle,0.0
+wine glass,bird,0.0
+wine glass,boat,0.0
+wine glass,bus,0.0
+wine glass,car,0.0
+wine glass,clock,0.0
+wine glass,cow,0.0
+wine glass,dog,0.0
+wine glass,donut,0.0
+wine glass,elephant,0.0
+wine glass,fire hydrant,0.0
+wine glass,frisbee,0.0
+wine glass,giraffe,0.0
+wine glass,hair drier,0.0
+wine glass,horse,0.0
+wine glass,keyboard,0.0
+wine glass,kite,0.0
+wine glass,microwave,0.0
+wine glass,motorcycle,0.0
+wine glass,mouse,0.0
+wine glass,orange,0.0
+wine glass,oven,0.0
+wine glass,parking meter,0.0
+wine glass,refrigerator,0.0
+wine glass,remote,0.0
+wine glass,sheep,0.0
+wine glass,skateboard,0.0
+wine glass,skis,0.0
+wine glass,snowboard,0.0
+wine glass,sports ball,0.0
+wine glass,stop sign,0.0
+wine glass,suitcase,0.0
+wine glass,surfboard,0.0
+wine glass,teddy bear,0.0
+wine glass,tennis racket,0.0
+wine glass,toaster,0.0
+wine glass,toilet,0.0
+wine glass,toothbrush,0.0
+wine glass,traffic light,0.0
+wine glass,train,0.0
+wine glass,truck,0.0
+wine glass,tv,0.0
+wine glass,umbrella,0.0
+wine glass,zebra,0.0
+zebra,airplane,0.0
+zebra,apple,0.0
+zebra,backpack,0.0
+zebra,banana,0.0
+zebra,baseball bat,0.0
+zebra,baseball glove,0.0
+zebra,bear,0.0
+zebra,bed,0.0
+zebra,bench,0.0
+zebra,bicycle,0.0
+zebra,boat,0.0
+zebra,book,0.0
+zebra,bottle,0.0
+zebra,bowl,0.0
+zebra,broccoli,0.0
+zebra,bus,0.0
+zebra,cake,0.0
+zebra,car,0.0
+zebra,carrot,0.0
+zebra,cat,0.0
+zebra,cell phone,0.0
+zebra,chair,0.0
+zebra,clock,0.0
+zebra,couch,0.0
+zebra,cup,0.0
+zebra,dining table,0.0
+zebra,donut,0.0
+zebra,fire hydrant,0.0
+zebra,fork,0.0
+zebra,frisbee,0.0
+zebra,hair drier,0.0
+zebra,handbag,0.0
+zebra,hot dog,0.0
+zebra,keyboard,0.0
+zebra,kite,0.0
+zebra,knife,0.0
+zebra,laptop,0.0
+zebra,microwave,0.0
+zebra,motorcycle,0.0
+zebra,mouse,0.0
+zebra,orange,0.0
+zebra,oven,0.0
+zebra,parking meter,0.0
+zebra,person,0.0
+zebra,pizza,0.0
+zebra,potted plant,0.0
+zebra,refrigerator,0.0
+zebra,remote,0.0
+zebra,sandwich,0.0
+zebra,scissors,0.0
+zebra,sheep,0.0
+zebra,sink,0.0
+zebra,skateboard,0.0
+zebra,skis,0.0
+zebra,snowboard,0.0
+zebra,spoon,0.0
+zebra,sports ball,0.0
+zebra,stop sign,0.0
+zebra,suitcase,0.0
+zebra,surfboard,0.0
+zebra,teddy bear,0.0
+zebra,tennis racket,0.0
+zebra,tie,0.0
+zebra,toaster,0.0
+zebra,toilet,0.0
+zebra,toothbrush,0.0
+zebra,traffic light,0.0
+zebra,train,0.0
+zebra,truck,0.0
+zebra,tv,0.0
+zebra,umbrella,0.0
+zebra,vase,0.0
+zebra,wine glass,0.0
+person,bear,6.80040802448147e-05
+person,giraffe,6.845095489082072e-05
+person,toaster,0.0002039151712887439
+person,elephant,0.00020627062706270627
+chair,toothbrush,0.00033478406427854036
+chair,kite,0.0003348961821835231
+chair,surfboard,0.0003359086328518643
+chair,broccoli,0.0003361344537815126
+chair,scissors,0.0003372681281618887
+chair,banana,0.00033875338753387534
+chair,bicycle,0.00034164673727365904
+chair,suitcase,0.00034164673727365904
+chair,baseball bat,0.0003419972640218878
+chair,cat,0.0003495281370150297
+chair,tennis racket,0.00035523978685612787
+chair,umbrella,0.00035855145213338117
+car,wine glass,0.0003590664272890485
+car,donut,0.00035932446999640676
+car,bowl,0.00035971223021582735
+car,pizza,0.00035971223021582735
+car,elephant,0.0003606202668589975
+car,baseball bat,0.00036258158085569254
+car,surfboard,0.00036258158085569254
+car,bird,0.0003627130939426913
+dining table,toaster,0.0003687315634218289
+dining table,scissors,0.0003698224852071006
+car,horse,0.00037037037037037035
+dining table,keyboard,0.000370919881305638
+dining table,bed,0.00037105751391465676
+dining table,cat,0.0003736920777279522
+dining table,car,0.0003757985719654265
+dining table,remote,0.00037936267071320183
+person,parking meter,0.00040978008468788414
+person,fire hydrant,0.00041220115416323167
+cup,bench,0.00048123195380173246
+cup,toilet,0.0004833252779120348
+cup,cat,0.000484027105517909
+cup,banana,0.0004899559039686428
+cup,tie,0.0004906771344455348
+bottle,surfboard,0.0004935834155972359
+bottle,suitcase,0.0004987531172069825
+bottle,umbrella,0.0005070993914807302
+bottle,mouse,0.0005076142131979696
+bottle,keyboard,0.0005078720162519045
+cup,couch,0.0005104645227156713
+bottle,backpack,0.0005181347150259067
+bottle,couch,0.0005241090146750524
+bottle,laptop,0.0005254860746190226
+person,scissors,0.0005468589787408572
+person,stop sign,0.0005489604062307006
+person,cat,0.0005493750858398572
+bowl,toothbrush,0.0006119951040391676
+bowl,toilet,0.0006131207847946045
+person,vase,0.0006193654944601197
+bowl,scissors,0.0006195786864931846
+bowl,tie,0.0006195786864931846
+handbag,surfboard,0.0006514657980456026
+handbag,donut,0.0006523157208088715
+handbag,apple,0.00065359477124183
+handbag,boat,0.000655307994757536
+handbag,sports ball,0.0006561679790026247
+handbag,tennis racket,0.0006574621959237344
+handbag,cat,0.0006587615283267457
+chair,toaster,0.0006704659738518271
+chair,horse,0.0006711409395973154
+handbag,dog,0.0006752194463200541
+handbag,potted plant,0.0006784260515603799
+handbag,train,0.0006788866259334691
+chair,baseball glove,0.0006837606837606838
+person,airplane,0.0006879944960440316
+chair,backpack,0.0007054673721340388
+car,sheep,0.0007207207207207207
+car,airplane,0.0007320644216691069
+car,boat,0.0007334066740007334
+car,dining table,0.0007344840249724568
+truck,cat,0.0007407407407407407
+truck,elephant,0.0007412898443291327
+truck,surfboard,0.0007451564828614009
+truck,kite,0.0007513148009015778
+truck,parking meter,0.0007564296520423601
+truck,cell phone,0.0007587253414264037
+truck,clock,0.00076103500761035
+dining table,clock,0.0007613247049866769
+truck,fire hydrant,0.0007704160246533128
+bench,toothbrush,0.0007733952049497294
+bench,hot dog,0.0007776049766718507
+bench,horse,0.000778816199376947
+bench,fire hydrant,0.00078003120124805
+bench,sandwich,0.00078064012490242
+bench,fork,0.0007830853563038371
+bench,cat,0.0007892659826361484
+bench,motorcycle,0.0007892659826361484
+bench,tie,0.000791765637371338
+truck,bicycle,0.000791765637371338
+bench,clock,0.0007930214115781126
+bench,traffic light,0.000794912559618442
+bench,train,0.0008051529790660225
+bench,truck,0.0008090614886731392
+bench,dog,0.0008103727714748784
+bench,tennis racket,0.0008169934640522876
+bench,bottle,0.0008183306055646482
+book,donut,0.0008183306055646482
+person,broccoli,0.0008185538881309686
+bench,baseball glove,0.0008216926869350862
+bench,bicycle,0.0008216926869350862
+book,orange,0.0008216926869350862
+clock,parking meter,0.0008216926869350862
+book,apple,0.0008237232289950577
+clock,carrot,0.0008237232289950577
+clock,fire hydrant,0.0008244023083264633
+person,bird,0.000825195984046211
+clock,orange,0.0008264462809917355
+clock,motorcycle,0.0008285004142502071
+clock,teddy bear,0.0008298755186721991
+book,bench,0.0008340283569641367
+clock,boat,0.0008347245409015025
+clock,umbrella,0.0008368200836820083
+clock,wine glass,0.0008382229673093043
+clock,bench,0.0008431703204047217
+clock,microwave,0.0008445945945945946
+backpack,kite,0.000846740050804403
+clock,bicycle,0.000847457627118644
+clock,cell phone,0.000847457627118644
+clock,remote,0.0008488964346349745
+book,oven,0.0008503401360544217
+clock,bed,0.0008503401360544217
+backpack,tie,0.0008532423208191126
+cell phone,parking meter,0.0008583690987124463
+cell phone,skis,0.0008583690987124463
+cell phone,toothbrush,0.000859106529209622
+cell phone,skateboard,0.0008598452278589854
+cell phone,microwave,0.0008635578583765112
+cell phone,scissors,0.0008680555555555555
+backpack,dining table,0.0008703220191470844
+clock,tv,0.0008733624454148472
+backpack,book,0.0008771929824561404
+cell phone,bus,0.0008771929824561404
+cell phone,pizza,0.0008771929824561404
+cell phone,bed,0.0008818342151675485
+cell phone,truck,0.0008849557522123894
+cell phone,fork,0.0008873114463176575
+person,sheep,0.0008888281143169698
+cell phone,knife,0.0008888888888888889
+person,toilet,0.0008896188325463628
+cell phone,umbrella,0.0008904719501335708
+person,cow,0.0008913878222709819
+cell phone,couch,0.0008984725965858042
+backpack,bottle,0.0008992805755395684
+person,train,0.0009061759375435662
+backpack,bicycle,0.0009319664492078285
+backpack,bench,0.0009328358208955224
+dog,bear,0.000942507068803016
+dog,spoon,0.000946073793755913
+book,bed,0.0009478672985781991
+dog,keyboard,0.0009523809523809524
+dog,kite,0.0009523809523809524
+backpack,chair,0.0009541984732824427
+sink,broccoli,0.0009541984732824427
+dog,motorcycle,0.0009569377990430622
+sink,sandwich,0.0009569377990430622
+person,orange,0.0009587727708533077
+dog,skateboard,0.0009596928982725527
+cup,toothbrush,0.0009601536245799327
+tv,orange,0.0009606147934678194
+tv,toilet,0.0009615384615384616
+tv,baseball bat,0.0009624639076034649
+tv,fork,0.0009633911368015414
+tv,bird,0.0009643201542912247
+tv,sports ball,0.0009652509652509653
+dog,surfboard,0.0009699321047526673
+potted plant,parking meter,0.0009718172983479105
+dog,bowl,0.0009727626459143969
+potted plant,skateboard,0.0009746588693957114
+dog,bicycle,0.0009765625
+tv,tie,0.0009765625
+tv,teddy bear,0.0009775171065493646
+sink,couch,0.0009813542688910696
+tv,oven,0.0009813542688910696
+potted plant,teddy bear,0.0009881422924901185
+potted plant,pizza,0.0009891196834817012
+sink,cat,0.0009910802775024777
+potted plant,toilet,0.0009930486593843098
+bottle,donut,0.000996512207274539
+potted plant,bed,0.001
+potted plant,microwave,0.001
+cat,bear,0.0010090817356205853
+cat,cow,0.0010090817356205853
+couch,orange,0.00101010101010101
+chair,carrot,0.0010107816711590297
+cat,cake,0.0010111223458038423
+bottle,tie,0.0010141987829614604
+chair,hot dog,0.0010141987829614604
+bottle,dog,0.0010152284263959391
+cat,donut,0.0010152284263959391
+chair,donut,0.001015572105619499
+sports ball,orange,0.0010162601626016261
+cat,oven,0.001017293997965412
+sports ball,apple,0.001017293997965412
+cat,umbrella,0.0010183299389002036
+potted plant,cat,0.0010183299389002036
+sports ball,teddy bear,0.0010193679918450561
+sports ball,cat,0.0010204081632653062
+potted plant,laptop,0.0010214504596527069
+sports ball,mouse,0.0010214504596527069
+chair,teddy bear,0.0010252904989747095
+tv,clock,0.001026694045174538
+knife,sports ball,0.0010298661174047373
+knife,toothbrush,0.0010309278350515464
+couch,microwave,0.0010319917440660474
+cup,tv,0.0010330578512396695
+person,banana,0.0010334849111202976
+bottle,remote,0.0010346611484738748
+cat,backpack,0.0010362694300518134
+cat,cell phone,0.0010362694300518134
+sports ball,truck,0.0010384215991692627
+cat,handbag,0.001040582726326743
+umbrella,apple,0.001040582726326743
+umbrella,couch,0.001040582726326743
+umbrella,skateboard,0.001040582726326743
+umbrella,carrot,0.0010416666666666667
+knife,toaster,0.0010438413361169101
+chair,car,0.0010445682451253482
+chair,tie,0.001049317943336831
+umbrella,banana,0.001049317943336831
+surfboard,airplane,0.0010548523206751054
+surfboard,cake,0.0010548523206751054
+surfboard,knife,0.0010548523206751054
+surfboard,suitcase,0.0010548523206751054
+surfboard,motorcycle,0.0010570824524312897
+surfboard,skateboard,0.001059322033898305
+surfboard,dining table,0.0010604453870625664
+umbrella,clock,0.0010604453870625664
+umbrella,dog,0.0010626992561105207
+knife,clock,0.0010695187165775401
+knife,banana,0.0010706638115631692
+traffic light,cell phone,0.0010706638115631692
+knife,cell phone,0.001076426264800861
+traffic light,skateboard,0.0010775862068965517
+surfboard,chair,0.0010845986984815619
+surfboard,dog,0.0010893246187363835
+car,cat,0.0010913059294288831
+traffic light,bench,0.001091703056768559
+surfboard,car,0.001095290251916758
+car,sports ball,0.0010960906101571063
+car,suitcase,0.0010972933430870519
+car,cell phone,0.0011102886750555144
+dining table,dog,0.0011173184357541898
+sports ball,bench,0.0011185682326621924
+bed,kite,0.0011507479861910242
+umbrella,bench,0.0011534025374855825
+bus,bench,0.0011547344110854503
+dining table,laptop,0.0011569610489780178
+bed,wine glass,0.0011627906976744186
+bed,keyboard,0.0011682242990654205
+person,teddy bear,0.0011695906432748538
+bed,mouse,0.0011723329425556857
+tennis racket,orange,0.0011750881316098707
+tennis racket,remote,0.0011750881316098707
+tennis racket,scissors,0.0011750881316098707
+tennis racket,toothbrush,0.0011750881316098707
+tennis racket,dog,0.001176470588235294
+tennis racket,teddy bear,0.001176470588235294
+tie,cow,0.001177856301531213
+tie,skateboard,0.001177856301531213
+tennis racket,bicycle,0.0011792452830188679
+tennis racket,tv,0.0011792452830188679
+tie,donut,0.0011792452830188679
+tie,sheep,0.0011792452830188679
+tie,carrot,0.0011806375442739079
+tennis racket,truck,0.001182033096926714
+bus,motorcycle,0.001184834123222749
+tie,bed,0.0011876484560570072
+tie,cat,0.0011918951132300357
+tie,remote,0.0011918951132300357
+bed,backpack,0.0011933174224343676
+laptop,carrot,0.0011947431302270011
+tie,train,0.0011947431302270011
+tennis racket,cell phone,0.0011961722488038277
+tie,dog,0.0011976047904191617
+tie,teddy bear,0.0011976047904191617
+laptop,microwave,0.001199040767386091
+tie,fork,0.001199040767386091
+tie,sports ball,0.001199040767386091
+train,airplane,0.001199040767386091
+bed,dining table,0.0012004801920768306
+tie,vase,0.0012004801920768306
+bed,handbag,0.001201923076923077
+tie,clock,0.001201923076923077
+tennis racket,car,0.0012048192771084338
+train,umbrella,0.0012062726176115801
+laptop,sandwich,0.0012077294685990338
+tie,suitcase,0.0012077294685990338
+bed,clock,0.0012091898428053204
+motorcycle,frisbee,0.0012091898428053204
+tie,tv,0.0012091898428053204
+laptop,oven,0.0012121212121212121
+train,tie,0.0012135922330097086
+laptop,bench,0.001215066828675577
+laptop,fork,0.001215066828675577
+laptop,knife,0.001215066828675577
+motorcycle,boat,0.001215066828675577
+motorcycle,airplane,0.0012165450121654502
+tie,bowl,0.0012165450121654502
+train,cell phone,0.0012165450121654502
+tie,bus,0.0012239902080783353
+tie,umbrella,0.0012239902080783353
+laptop,wine glass,0.0012254901960784314
+laptop,tie,0.001226993865030675
+spoon,toothbrush,0.0012285012285012285
+train,clock,0.0012285012285012285
+vase,umbrella,0.0012315270935960591
+motorcycle,cell phone,0.0012330456226880395
+vase,scissors,0.0012330456226880395
+vase,teddy bear,0.0012376237623762376
+laptop,vase,0.0012391573729863693
+vase,keyboard,0.0012422360248447205
+laptop,clock,0.0012437810945273632
+spoon,scissors,0.0012453300124533001
+tie,book,0.0012468827930174563
+vase,banana,0.0012484394506866417
+spoon,toaster,0.00125
+fork,umbrella,0.0012515644555694619
+vase,dog,0.0012515644555694619
+vase,orange,0.0012531328320802004
+vase,apple,0.0012547051442910915
+motorcycle,potted plant,0.0012578616352201257
+bowl,cat,0.0012594458438287153
+laptop,handbag,0.0012594458438287153
+fork,bench,0.0012642225031605564
+spoon,donut,0.0012658227848101266
+bowl,handbag,0.0012674271229404308
+laptop,bowl,0.0012674271229404308
+fork,couch,0.001272264631043257
+train,bench,0.001272264631043257
+vase,bed,0.0012738853503184713
+fork,handbag,0.0012787723785166241
+spoon,vase,0.0012787723785166241
+tennis racket,bench,0.0012787723785166241
+vase,microwave,0.001282051282051282
+spoon,clock,0.0012836970474967907
+fork,oven,0.0012953367875647669
+spoon,banana,0.0012970168612191958
+person,mouse,0.0013020833333333333
+fork,cell phone,0.0013054830287206266
+pizza,skateboard,0.0013054830287206266
+pizza,stop sign,0.0013054830287206266
+toilet,refrigerator,0.001314060446780552
+handbag,skateboard,0.0013157894736842105
+pizza,dog,0.0013157894736842105
+pizza,tv,0.0013157894736842105
+toilet,bed,0.0013175230566534915
+pizza,bench,0.0013192612137203166
+toilet,dog,0.001321003963011889
+toilet,teddy bear,0.001321003963011889
+toilet,tie,0.001321003963011889
+pizza,couch,0.0013280212483399733
+bicycle,tennis racket,0.0013297872340425532
+pizza,sink,0.0013315579227696406
+bird,banana,0.0013333333333333333
+bird,carrot,0.0013333333333333333
+bird,donut,0.0013333333333333333
+bird,orange,0.0013333333333333333
+bicycle,sandwich,0.0013351134846461949
+handbag,tv,0.0013422818791946308
+bird,airplane,0.0013440860215053765
+bird,motorcycle,0.0013458950201884253
+toilet,chair,0.0013458950201884253
+pizza,book,0.0013477088948787063
+pizza,potted plant,0.0013477088948787063
+bicycle,book,0.0013513513513513514
+bird,book,0.0013513513513513514
+bird,bowl,0.0013513513513513514
+bird,cup,0.0013531799729364006
+chair,orange,0.0013540961408259986
+handbag,clock,0.0013577732518669382
+bicycle,parking meter,0.0013605442176870747
+bird,bicycle,0.0013605442176870747
+bird,cat,0.0013605442176870747
+bird,elephant,0.0013605442176870747
+bicycle,cat,0.001364256480218281
+bicycle,train,0.0013679890560875513
+toilet,cat,0.0013736263736263737
+bicycle,stop sign,0.0013774104683195593
+handbag,motorcycle,0.0013812154696132596
+bicycle,dog,0.001392757660167131
+person,suitcase,0.0013945056477478734
+bicycle,dining table,0.001394700139470014
+bicycle,potted plant,0.001394700139470014
+handbag,cup,0.0013956734124214933
+bicycle,cell phone,0.0013986013986013986
+bicycle,bottle,0.0014044943820224719
+boat,banana,0.0014144271570014145
+boat,toilet,0.0014144271570014145
+boat,wine glass,0.0014144271570014145
+remote,microwave,0.001422475106685633
+boat,cow,0.0014285714285714286
+bicycle,skateboard,0.001430615164520744
+skateboard,frisbee,0.0014367816091954023
+person,toothbrush,0.001437962202136401
+skateboard,baseball bat,0.0014388489208633094
+person,keyboard,0.0014391447368421052
+boat,dining table,0.001440922190201729
+skateboard,airplane,0.001440922190201729
+skateboard,suitcase,0.001440922190201729
+boat,cell phone,0.001443001443001443
+skateboard,boat,0.001443001443001443
+skateboard,sports ball,0.001445086705202312
+skateboard,clock,0.001447178002894356
+cup,umbrella,0.0014485755673587638
+car,cow,0.0014503263234227702
+boat,bottle,0.001451378809869376
+remote,refrigerator,0.001451378809869376
+skateboard,dining table,0.0014534883720930232
+remote,wine glass,0.001455604075691412
+boat,handbag,0.0014577259475218659
+boat,backpack,0.0014684287812041115
+boat,bicycle,0.0014705882352941176
+bicycle,chair,0.0014727540500736377
+oven,sandwich,0.0014771048744460858
+oven,scissors,0.0014771048744460858
+cup,remote,0.0014851485148514852
+car,train,0.0014858841010401188
+oven,dog,0.0014903129657228018
+car,parking meter,0.0014925373134328358
+horse,elephant,0.0014925373134328358
+remote,clock,0.0014925373134328358
+cup,keyboard,0.0014947683109118087
+horse,kite,0.0014947683109118087
+car,skateboard,0.0015020653398422831
+truck,cow,0.0015037593984962407
+horse,motorcycle,0.0015060240963855422
+person,apple,0.0015060240963855422
+truck,boat,0.0015094339622641509
+skis,motorcycle,0.0015105740181268882
+skis,skateboard,0.0015105740181268882
+truck,suitcase,0.0015117157974300832
+person,hot dog,0.0015125472671020969
+horse,bench,0.0015128593040847202
+horse,bird,0.0015174506828528073
+skis,cell phone,0.0015174506828528073
+skis,boat,0.001519756838905775
+bottle,hot dog,0.0015205271160669033
+dining table,umbrella,0.0015214910612400153
+skis,dog,0.0015267175572519084
+truck,bench,0.001539645881447267
+horse,potted plant,0.0015408320493066256
+remote,bed,0.0015432098765432098
+person,horse,0.0015435346944502912
+cake,cow,0.0015455950540958269
+cake,suitcase,0.0015455950540958269
+horse,chair,0.0015455950540958269
+bottle,cake,0.0015479876160990713
+skis,car,0.0015479876160990713
+cake,keyboard,0.0015527950310559005
+cake,remote,0.0015527950310559005
+cake,train,0.0015527950310559005
+truck,stop sign,0.0015527950310559005
+bottle,clock,0.0015535991714137752
+cake,bird,0.001557632398753894
+bench,spoon,0.0015625
+skateboard,bicycle,0.0015625
+cake,hot dog,0.001567398119122257
+cake,sink,0.001567398119122257
+cake,apple,0.0015723270440251573
+person,carrot,0.0015735102962304167
+cake,teddy bear,0.0015748031496062992
+truck,backpack,0.001579778830963665
+person,donut,0.0015817344061618871
+cake,refrigerator,0.001589825119236884
+bench,suitcase,0.001597444089456869
+bottle,tv,0.001597444089456869
+cake,cell phone,0.001597444089456869
+cake,carrot,0.0016051364365971107
+cake,book,0.001607717041800643
+bench,bird,0.0016090104585679806
+book,toothbrush,0.001639344262295082
+person,microwave,0.0016429353778751369
+wine glass,scissors,0.0016611295681063123
+bench,sports ball,0.0016625103906899418
+wine glass,hot dog,0.0016638935108153079
+bench,umbrella,0.0016750418760469012
+wine glass,cat,0.0016750418760469012
+book,spoon,0.0016806722689075631
+wine glass,apple,0.0016806722689075631
+book,teddy bear,0.0016849199663016006
+suitcase,kite,0.0016891891891891893
+book,suitcase,0.001692047377326565
+suitcase,parking meter,0.001692047377326565
+suitcase,skateboard,0.001692047377326565
+wine glass,broccoli,0.001692047377326565
+book,knife,0.001693480101608806
+suitcase,oven,0.0017006802721088435
+backpack,cup,0.0017079419299743809
+book,refrigerator,0.0017123287671232876
+backpack,train,0.0017152658662092624
+wine glass,carrot,0.001718213058419244
+wine glass,laptop,0.001718213058419244
+clock,vase,0.0017196904557179708
+clock,oven,0.001728608470181504
+suitcase,laptop,0.0017331022530329288
+suitcase,traffic light,0.0017331022530329288
+suitcase,airplane,0.001736111111111111
+suitcase,couch,0.0017543859649122807
+wine glass,sink,0.0017574692442882249
+book,handbag,0.0017605633802816902
+suitcase,umbrella,0.0017605633802816902
+book,clock,0.001763668430335097
+cell phone,clock,0.0017699115044247787
+cell phone,potted plant,0.0017730496453900709
+suitcase,bicycle,0.0017761989342806395
+cell phone,spoon,0.0017825311942959
+airplane,skis,0.0017889087656529517
+airplane,surfboard,0.0017889087656529517
+refrigerator,surfboard,0.0017889087656529517
+airplane,dog,0.0017921146953405018
+airplane,tv,0.0017921146953405018
+refrigerator,toothbrush,0.0017921146953405018
+refrigerator,donut,0.0017953321364452424
+suitcase,bus,0.0017953321364452424
+backpack,bus,0.0017985611510791368
+airplane,cell phone,0.0018018018018018018
+airplane,traffic light,0.0018018018018018018
+airplane,kite,0.0018050541516245488
+giraffe,dog,0.0018050541516245488
+wine glass,book,0.0018083182640144665
+airplane,bird,0.0018115942028985507
+baseball glove,truck,0.0018148820326678765
+refrigerator,scissors,0.0018148820326678765
+suitcase,train,0.0018148820326678765
+backpack,umbrella,0.0018198362147406734
+car,frisbee,0.0018281535648994515
+frisbee,banana,0.0018315018315018315
+frisbee,baseball glove,0.0018315018315018315
+frisbee,toilet,0.0018315018315018315
+giraffe,cow,0.0018315018315018315
+sandwich,umbrella,0.001838235294117647
+sandwich,clock,0.001841620626151013
+airplane,suitcase,0.0018450184501845018
+frisbee,clock,0.001851851851851852
+car,potted plant,0.0018601190476190475
+refrigerator,cell phone,0.0018656716417910447
+refrigerator,handbag,0.001869158878504673
+person,bed,0.0018714909544603868
+bowl,donut,0.001875
+sandwich,banana,0.001876172607879925
+car,chair,0.0018782870022539444
+baseball bat,toothbrush,0.001893939393939394
+frisbee,truck,0.0018975332068311196
+sandwich,orange,0.0018975332068311196
+sandwich,potted plant,0.0019011406844106464
+refrigerator,apple,0.0019047619047619048
+car,stop sign,0.0019157088122605363
+dog,oven,0.0019157088122605363
+dog,suitcase,0.0019157088122605363
+refrigerator,couch,0.0019193857965451055
+baseball bat,truck,0.0019267822736030828
+dog,laptop,0.0019305019305019305
+dog,remote,0.0019342359767891683
+sink,scissors,0.001937984496124031
+tv,car,0.001943634596695821
+cup,orange,0.0019521717911176184
+potted plant,banana,0.0019550342130987292
+frisbee,chair,0.00196078431372549
+potted plant,apple,0.001962708537782139
+potted plant,bird,0.001962708537782139
+dog,tv,0.0019646365422396855
+keyboard,microwave,0.0019646365422396855
+person,clock,0.001967535661583866
+dog,backpack,0.001968503937007874
+dog,boat,0.001968503937007874
+potted plant,orange,0.001968503937007874
+cup,clock,0.0019704433497536944
+potted plant,keyboard,0.0019704433497536944
+tv,wine glass,0.0019704433497536944
+keyboard,sandwich,0.001976284584980237
+tv,suitcase,0.0019801980198019802
+handbag,kite,0.001986754966887417
+keyboard,clock,0.00199203187250996
+keyboard,teddy bear,0.00199203187250996
+tv,dog,0.00199203187250996
+bottle,scissors,0.002
+potted plant,dog,0.0020100502512562816
+banana,bird,0.002012072434607646
+banana,boat,0.002012072434607646
+banana,surfboard,0.002012072434607646
+banana,hot dog,0.0020161290322580645
+sink,book,0.0020181634712411706
+couch,bird,0.002026342451874367
+baseball bat,car,0.002028397565922921
+cat,truck,0.0020304568527918783
+couch,bench,0.0020304568527918783
+cat,microwave,0.0020325203252032522
+cat,wine glass,0.002036659877800407
+banana,wine glass,0.0020408163265306124
+cat,tie,0.0020408163265306124
+teddy bear,motorcycle,0.002070393374741201
+banana,handbag,0.002074688796680498
+teddy bear,boat,0.002074688796680498
+potted plant,handbag,0.002079002079002079
+teddy bear,vase,0.002105263157894737
+kite,sheep,0.002109704641350211
+mouse,teddy bear,0.002109704641350211
+umbrella,horse,0.002109704641350211
+cat,car,0.0021119324181626186
+kite,skis,0.0021141649048625794
+bottle,handbag,0.0021152829190904283
+kite,motorcycle,0.00211864406779661
+kite,sports ball,0.0021231422505307855
+kite,wine glass,0.0021231422505307855
+teddy bear,clock,0.0021231422505307855
+umbrella,suitcase,0.0021253985122210413
+mouse,vase,0.002127659574468085
+umbrella,surfboard,0.002127659574468085
+cat,remote,0.0021321961620469083
+kite,airplane,0.0021321961620469083
+teddy bear,cell phone,0.0021321961620469083
+handbag,dining table,0.0021337126600284497
+bottle,cell phone,0.0021344717182497333
+chair,bed,0.002135231316725979
+handbag,bottle,0.002135231316725979
+mouse,clock,0.002145922746781116
+sports ball,car,0.0021551724137931034
+umbrella,bus,0.0021551724137931034
+elephant,baseball bat,0.0021598272138228943
+keyboard,cat,0.0021645021645021645
+knife,vase,0.0021645021645021645
+umbrella,motorcycle,0.0021668472372697724
+banana,knife,0.002173913043478261
+teddy bear,cat,0.002173913043478261
+handbag,bench,0.002180232558139535
+umbrella,cup,0.0021810250817884407
+teddy bear,cup,0.002188183807439825
+kite,bench,0.0021929824561403508
+cow,clock,0.002207505518763797
+elephant,chair,0.0022123893805309734
+knife,carrot,0.0022123893805309734
+mouse,cat,0.0022222222222222222
+traffic light,umbrella,0.0022222222222222222
+traffic light,clock,0.002232142857142857
+person,tennis racket,0.002234717416378316
+cow,boat,0.0022371364653243847
+mouse,dining table,0.002242152466367713
+zebra,dog,0.002242152466367713
+elephant,car,0.002257336343115124
+elephant,handbag,0.0022727272727272726
+bus,umbrella,0.00228310502283105
+dining table,bench,0.00228310502283105
+couch,cat,0.002285714285714286
+traffic light,train,0.0023148148148148147
+bed,tie,0.0023228803716608595
+bed,refrigerator,0.002331002331002331
+zebra,bird,0.002336448598130841
+person,motorcycle,0.002346249555634554
+tennis racket,frisbee,0.002352941176470588
+traffic light,bicycle,0.002355712603062426
+broccoli,potted plant,0.0023584905660377358
+bench,frisbee,0.0023603461841070024
+tie,toilet,0.002366863905325444
+tie,baseball bat,0.002372479240806643
+broccoli,oven,0.002380952380952381
+bed,vase,0.0023894862604540022
+tennis racket,tie,0.0023894862604540022
+broccoli,banana,0.0023923444976076554
+bed,cell phone,0.0023952095808383233
+person,bicycle,0.00240690924536316
+frisbee,dog,0.0024154589371980675
+laptop,refrigerator,0.0024183796856106408
+chair,dog,0.0024204702627939143
+cup,broccoli,0.0024271844660194173
+truck,airplane,0.0024330900243309003
+tennis racket,clock,0.0024390243902439024
+bench,cell phone,0.0024410089503661514
+motorcycle,clock,0.0024509803921568627
+tie,potted plant,0.00245398773006135
+tie,knife,0.0024691358024691358
+bus,bicycle,0.0024783147459727386
+bowl,toaster,0.002482929857231533
+broccoli,chair,0.0024875621890547263
+stop sign,boat,0.0024875621890547263
+bottle,broccoli,0.002508780732563974
+vase,cake,0.002509410288582183
+person,tv,0.0025190679448604016
+stop sign,bench,0.0025252525252525255
+fork,tie,0.0025284450063211127
+motorcycle,chair,0.0025284450063211127
+vase,fork,0.0025348542458808617
+bottle,apple,0.002535496957403651
+fire hydrant,sports ball,0.0025380710659898475
+stop sign,umbrella,0.0025380710659898475
+clock,bus,0.002540220152413209
+clock,truck,0.002551020408163265
+fork,hot dog,0.002551020408163265
+spoon,orange,0.002560819462227913
+fork,vase,0.0025673940949935813
+broccoli,bottle,0.002570694087403599
+fire hydrant,clock,0.002570694087403599
+backpack,tv,0.002577319587628866
+cup,vase,0.002577319587628866
+keyboard,person,0.002577319587628866
+orange,pizza,0.002577319587628866
+orange,truck,0.002583979328165375
+person,pizza,0.0025847013622074745
+spoon,apple,0.00258732212160414
+cup,laptop,0.002594706798131811
+vase,remote,0.002600780234070221
+fire hydrant,bench,0.0026109660574412533
+carrot,bear,0.002617801047120419
+bowl,couch,0.002621231979030144
+clock,couch,0.0026246719160104987
+spoon,potted plant,0.0026246719160104987
+fire hydrant,parking meter,0.002631578947368421
+vase,oven,0.002631578947368421
+spoon,microwave,0.002635046113306983
+carrot,vase,0.0026455026455026454
+bicycle,sheep,0.0026560424966799467
+person,laptop,0.0026579002587955513
+carrot,potted plant,0.0026595744680851063
+pizza,cake,0.0026595744680851063
+backpack,truck,0.0026642984014209592
+bowl,book,0.0026666666666666666
+carrot,truck,0.0026666666666666666
+dining table,tie,0.0026676829268292685
+carrot,sink,0.00267379679144385
+dining table,orange,0.00267379679144385
+spoon,refrigerator,0.00267379679144385
+broccoli,person,0.002680965147453083
+car,fire hydrant,0.002680965147453083
+laptop,cat,0.0026845637583892616
+toilet,vase,0.0026845637583892616
+orange,cake,0.002688172043010753
+orange,refrigerator,0.002688172043010753
+car,bench,0.002690238278247502
+clock,dining table,0.0026929982046678637
+chair,boat,0.0026972353337828725
+bicycle,bird,0.0027063599458728013
+pizza,cell phone,0.0027063599458728013
+cell phone,bench,0.002717391304347826
+bird,dog,0.0027210884353741495
+book,cat,0.0027223230490018148
+dining table,tv,0.0027279812938425566
+carrot,oven,0.00273224043715847
+snowboard,dog,0.00273224043715847
+cell phone,tie,0.0027347310847766638
+handbag,tie,0.002745367192862045
+orange,fork,0.0027472527472527475
+stop sign,bus,0.0027472527472527475
+bicycle,boat,0.002751031636863824
+fire hydrant,handbag,0.0027548209366391185
+snowboard,kite,0.0027548209366391185
+cell phone,car,0.002785515320334262
+carrot,wine glass,0.002793296089385475
+mouse,person,0.002793296089385475
+orange,carrot,0.002793296089385475
+stop sign,traffic light,0.0028011204481792717
+chair,clock,0.0028338646829613886
+boat,motorcycle,0.002840909090909091
+dog,mouse,0.0028462998102466793
+microwave,cat,0.002849002849002849
+microwave,remote,0.002849002849002849
+bird,bench,0.0028530670470756064
+cup,toaster,0.0028557829604950024
+dog,bird,0.0028708133971291866
+microwave,cell phone,0.0028735632183908046
+cup,scissors,0.0028804608737397984
+microwave,pizza,0.002881844380403458
+skateboard,snowboard,0.002881844380403458
+dog,umbrella,0.0028957528957528956
+dog,horse,0.0029013539651837525
+bicycle,umbrella,0.0029154518950437317
+remote,dog,0.0029282576866764276
+microwave,fork,0.002932551319648094
+oven,donut,0.002932551319648094
+tv,microwave,0.0029354207436399216
+dog,dining table,0.002955665024630542
+microwave,orange,0.0029585798816568047
+person,sink,0.002967359050445104
+sheep,teddy bear,0.0029850746268656717
+sink,clock,0.0029850746268656717
+cup,microwave,0.0029895366218236174
+dog,book,0.0029910269192422734
+cup,mouse,0.0029925187032418953
+dog,bench,0.0029940119760479044
+sheep,scissors,0.0029940119760479044
+person,potted plant,0.0030112044817927172
+apple,boat,0.0030120481927710845
+donut,teddy bear,0.0030120481927710845
+boat,dog,0.0030165912518853697
+dog,handbag,0.0030181086519114686
+microwave,apple,0.0030211480362537764
+bottle,carrot,0.0030241935483870967
+skis,kite,0.0030257186081694403
+dining table,apple,0.0030303030303030303
+donut,hot dog,0.0030303030303030303
+horse,sheep,0.0030349013657056147
+toilet,person,0.00303951367781155
+remote,cat,0.0030441400304414
+apple,couch,0.003048780487804878
+potted plant,spoon,0.0030581039755351682
+person,cake,0.003060656649972176
+person,bus,0.003065516503885364
+donut,wine glass,0.003067484662576687
+horse,umbrella,0.003067484662576687
+remote,mouse,0.003067484662576687
+boat,bird,0.0030721966205837174
+truck,dog,0.003079291762894534
+horse,tie,0.0030816640986132513
+chair,sandwich,0.0030821917808219177
+bicycle,bus,0.0030864197530864196
+cat,refrigerator,0.0030864197530864196
+person,dog,0.003088803088803089
+truck,umbrella,0.003088803088803089
+remote,keyboard,0.0030911901081916537
+potted plant,clock,0.0030991735537190084
+cat,teddy bear,0.0031023784901758012
+donut,book,0.003105590062111801
+cat,bench,0.0031088082901554403
+person,oven,0.0031098825155494126
+apple,wine glass,0.003115264797507788
+microwave,vase,0.003115264797507788
+couch,sink,0.0031185031185031187
+oven,wine glass,0.003129890453834116
+cake,broccoli,0.003134796238244514
+dining table,cell phone,0.003134796238244514
+bottle,toilet,0.0031496062992125984
+sheep,car,0.0031545741324921135
+couch,teddy bear,0.003157894736842105
+potted plant,remote,0.003157894736842105
+chair,cake,0.0031645569620253164
+knife,scissors,0.0031645569620253164
+surfboard,skis,0.0031645569620253164
+surfboard,frisbee,0.0031678986272439284
+apple,handbag,0.0031847133757961785
+cake,vase,0.003189792663476874
+apple,fork,0.003194888178913738
+cake,orange,0.003194888178913738
+donut,fork,0.003194888178913738
+bottle,pizza,0.0031965903036760787
+cat,bowl,0.0032017075773745998
+surfboard,truck,0.0032119914346895075
+potted plant,car,0.00322234156820623
+knife,orange,0.003232758620689655
+cake,oven,0.003236245954692557
+surfboard,umbrella,0.0032537960954446853
+umbrella,cell phone,0.003257328990228013
+couch,clock,0.003260869565217391
+knife,apple,0.003260869565217391
+truck,motorcycle,0.0032626427406199023
+remote,bottle,0.003284072249589491
+knife,microwave,0.0033003300330033004
+person,refrigerator,0.0033073795907117755
+hot dog,keyboard,0.0033222591362126247
+traffic light,fire hydrant,0.0033519553072625698
+hot dog,refrigerator,0.003355704697986577
+bench,dining table,0.0033613445378151263
+person,kite,0.003361579942573009
+hot dog,pizza,0.0034129692832764505
+cup,hot dog,0.0034263338228095936
+backpack,snowboard,0.003430531732418525
+person,surfboard,0.003477756846833792
+clock,bowl,0.0034934497816593887
+hot dog,car,0.0034965034965034965
+donut,chair,0.0035211267605633804
+suitcase,cell phone,0.003527336860670194
+person,baseball glove,0.003529328721677137
+bottle,orange,0.00354251012145749
+clock,cup,0.0035460992907801418
+clock,book,0.0035746201966041107
+baseball glove,tennis racket,0.0035842293906810036
+hot dog,fork,0.0035842293906810036
+wine glass,couch,0.0035842293906810036
+clock,bottle,0.003587443946188341
+airplane,tie,0.003590664272890485
+suitcase,bench,0.0036231884057971015
+giraffe,elephant,0.003629764065335753
+tie,laptop,0.0036363636363636364
+refrigerator,dog,0.0036429872495446266
+airplane,boat,0.003656307129798903
+frisbee,tennis racket,0.003669724770642202
+bed,suitcase,0.003676470588235294
+frisbee,baseball bat,0.003676470588235294
+refrigerator,toaster,0.003676470588235294
+laptop,dog,0.0036809815950920245
+suitcase,book,0.0036900369003690036
+airplane,backpack,0.003703703703703704
+suitcase,bed,0.003703703703703704
+vase,bench,0.003708281829419036
+bowl,hot dog,0.0037267080745341614
+tie,cake,0.0037267080745341614
+person,book,0.0037308179642404618
+vase,toilet,0.00375
+backpack,skis,0.00375234521575985
+giraffe,bird,0.00375234521575985
+wine glass,pizza,0.0037735849056603774
+car,clock,0.0037764350453172208
+dining table,banana,0.003787878787878788
+cell phone,backpack,0.0038022813688212928
+frisbee,bench,0.003816793893129771
+refrigerator,tv,0.003816793893129771
+bowl,clock,0.0038240917782026767
+laptop,potted plant,0.0038314176245210726
+vase,spoon,0.0038363171355498722
+bottle,book,0.0038503850385038503
+sandwich,broccoli,0.0038535645472061657
+fork,orange,0.0038560411311053984
+person,boat,0.0038601909039865244
+person,sandwich,0.0038660683465654125
+chair,pizza,0.0038705137227304713
+tv,scissors,0.003875968992248062
+chair,keyboard,0.0038896746817538895
+vase,refrigerator,0.003896103896103896
+vase,knife,0.0039011703511053317
+refrigerator,clock,0.00392156862745098
+sink,apple,0.003940886699507389
+sink,wine glass,0.003940886699507389
+cup,donut,0.0039447731755424065
+cell phone,bottle,0.003968253968253968
+tv,sink,0.003972194637537239
+pizza,refrigerator,0.003978779840848806
+dog,truck,0.00398406374501992
+bottle,toaster,0.003986048829098156
+bird,apple,0.004026845637583893
+bench,skateboard,0.004111842105263158
+banana,truck,0.00411522633744856
+couch,oven,0.004123711340206186
+teddy bear,bird,0.004140786749482402
+teddy bear,donut,0.004140786749482402
+banana,car,0.004149377593360996
+banana,vase,0.004149377593360996
+potted plant,oven,0.004149377593360996
+person,baseball bat,0.004155807564978516
+teddy bear,sports ball,0.004158004158004158
+dining table,microwave,0.004168245547555892
+book,scissors,0.004170141784820684
+banana,carrot,0.0041753653444676405
+cat,toilet,0.0041797283176593526
+bicycle,clock,0.0041841004184100415
+couch,refrigerator,0.0041841004184100415
+keyboard,dining table,0.0041841004184100415
+handbag,truck,0.004201680672268907
+spoon,sink,0.004225352112676056
+kite,frisbee,0.00423728813559322
+tv,cat,0.0042417815482502655
+couch,cell phone,0.00425531914893617
+teddy bear,car,0.00425531914893617
+chair,mouse,0.004259850905218318
+clock,backpack,0.004262574595055414
+teddy bear,tie,0.0042643923240938165
+cat,cup,0.004268943436499467
+cat,potted plant,0.004268943436499467
+banana,oven,0.004282655246252677
+umbrella,tie,0.004287245444801715
+handbag,bus,0.004291845493562232
+clock,traffic light,0.004299226139294927
+boat,airplane,0.004310344827586207
+skateboard,remote,0.004310344827586207
+bottle,potted plant,0.00431266846361186
+skateboard,surfboard,0.004335260115606936
+clock,potted plant,0.004347826086956522
+boat,kite,0.00436046511627907
+backpack,traffic light,0.004393673110720563
+kite,umbrella,0.004405286343612335
+mouse,couch,0.004415011037527594
+bicycle,bench,0.004418262150220913
+umbrella,truck,0.004419889502762431
+elephant,umbrella,0.004424778761061947
+traffic light,stop sign,0.004424778761061947
+umbrella,bottle,0.004424778761061947
+kite,truck,0.004454342984409799
+person,wine glass,0.0044705224923162895
+cow,giraffe,0.0044742729306487695
+cup,handbag,0.004488778054862843
+car,dog,0.004492699363534257
+boat,surfboard,0.0045045045045045045
+oven,couch,0.004524886877828055
+zebra,elephant,0.004524886877828055
+person,snowboard,0.004527092909876027
+remote,vase,0.004531722054380665
+person,umbrella,0.004534331366057291
+zebra,horse,0.0045351473922902496
+horse,clock,0.0045385779122541605
+backpack,cell phone,0.004545454545454545
+oven,tv,0.004545454545454545
+zebra,cow,0.004545454545454545
+chair,oven,0.004553415061295972
+couch,laptop,0.004555808656036446
+person,skateboard,0.004559378784640592
+car,umbrella,0.004564473183720046
+bear,dog,0.0045871559633027525
+bear,elephant,0.0045871559633027525
+bicycle,traffic light,0.004594180704441042
+dining table,hot dog,0.0045994633959371405
+couch,bottle,0.004602991944764097
+dining table,sink,0.004602991944764097
+boat,bench,0.004608294930875576
+skateboard,backpack,0.004608294930875576
+dining table,refrigerator,0.004634994206257242
+horse,traffic light,0.00463678516228748
+bear,teddy bear,0.004651162790697674
+horse,handbag,0.004724409448818898
+bear,bird,0.004739336492890996
+cell phone,keyboard,0.004739336492890996
+cell phone,mouse,0.004752851711026616
+oven,book,0.004754358161648178
+banana,cup,0.00477326968973747
+bed,potted plant,0.004801920768307323
+remote,laptop,0.004815409309791332
+train,boat,0.004842615012106538
+bench,boat,0.0048543689320388345
+truck,handbag,0.0048543689320388345
+laptop,spoon,0.004878048780487805
+laptop,scissors,0.004884004884004884
+toothbrush,bowl,0.004901960784313725
+toothbrush,potted plant,0.004901960784313725
+teddy bear,chair,0.004914004914004914
+remote,cup,0.004918032786885246
+chair,bench,0.00492091388400703
+broccoli,sandwich,0.005
+bed,teddy bear,0.005012531328320802
+train,truck,0.005012531328320802
+dining table,handbag,0.005021243723445346
+train,suitcase,0.005031446540880503
+car,backpack,0.005050505050505051
+cell phone,dining table,0.005055611729019211
+scissors,baseball bat,0.005076142131979695
+scissors,tennis racket,0.005076142131979695
+orange,sports ball,0.005089058524173028
+bed,dog,0.005095541401273885
+cat,toothbrush,0.0050968399592252805
+motorcycle,umbrella,0.00510204081632653
+book,dog,0.005106382978723404
+scissors,bicycle,0.005128205128205128
+cup,potted plant,0.00513347022587269
+person,bench,0.005149031836971499
+orange,couch,0.005154639175257732
+chair,microwave,0.0051777701070072485
+scissors,banana,0.005208333333333333
+tie,cup,0.005208333333333333
+fork,potted plant,0.00522875816993464
+carrot,toothbrush,0.005235602094240838
+tv,bed,0.005235602094240838
+vase,clock,0.005249343832020997
+suitcase,tie,0.005253940455341506
+scissors,remote,0.005263157894736842
+cat,sink,0.005274261603375527
+umbrella,kite,0.005285412262156448
+chair,refrigerator,0.005289139633286318
+broccoli,knife,0.005291005291005291
+laptop,bed,0.005291005291005291
+bowl,banana,0.005294506949040371
+bowl,pizza,0.0053085600530856005
+knife,tie,0.00536480686695279
+wine glass,cell phone,0.005366726296958855
+baseball glove,frisbee,0.005376344086021506
+scissors,clock,0.005376344086021506
+tie,dining table,0.005383580080753701
+suitcase,tv,0.00539568345323741
+person,frisbee,0.0053985837481595736
+broccoli,cup,0.005405405405405406
+pizza,broccoli,0.005412719891745603
+dining table,oven,0.005413766434648105
+toilet,potted plant,0.005457025920873124
+scissors,spoon,0.00546448087431694
+person,remote,0.005472148168935036
+orange,sink,0.005494505494505495
+frisbee,surfboard,0.005504587155963303
+carrot,banana,0.005509641873278237
+orange,oven,0.005509641873278237
+surfboard,kite,0.005518763796909493
+knife,potted plant,0.0055248618784530384
+person,tie,0.0055387713997985906
+snowboard,surfboard,0.00554016620498615
+refrigerator,banana,0.0055658627087198514
+refrigerator,orange,0.0055658627087198514
+person,traffic light,0.005636581413372789
+baseball bat,tennis racket,0.005681818181818182
+bus,clock,0.005701254275940707
+baseball bat,frisbee,0.005703422053231939
+backpack,suitcase,0.005708848715509039
+toothbrush,cup,0.005714285714285714
+bench,potted plant,0.005733005733005733
+cell phone,tv,0.005752636625119847
+bird,boat,0.005763688760806916
+dining table,broccoli,0.005820721769499418
+refrigerator,vase,0.005847953216374269
+sink,banana,0.005865102639296188
+sink,orange,0.005865102639296188
+tennis racket,baseball bat,0.005875440658049354
+handbag,suitcase,0.005878030859662013
+boat,truck,0.005908419497784343
+scissors,bowl,0.005917159763313609
+microwave,wine glass,0.005952380952380952
+microwave,tv,0.006006006006006006
+backpack,car,0.006018054162487462
+carrot,bottle,0.006024096385542169
+microwave,couch,0.006024096385542169
+cup,refrigerator,0.006042296072507553
+donut,orange,0.006042296072507553
+handbag,chair,0.006042296072507553
+person,skis,0.006046379285815906
+keyboard,potted plant,0.006097560975609756
+horse,bicycle,0.0061068702290076335
+dining table,donut,0.00611387084447841
+donut,oven,0.0061162079510703364
+potted plant,refrigerator,0.0061162079510703364
+chair,cell phone,0.006121714079942384
+oven,fork,0.006125574272588055
+scissors,book,0.006134969325153374
+frisbee,car,0.006147540983606557
+horse,backpack,0.0061633281972265025
+keyboard,couch,0.006172839506172839
+banana,potted plant,0.006185567010309278
+potted plant,knife,0.006191950464396285
+oven,apple,0.006201550387596899
+potted plant,wine glass,0.0062047569803516025
+remote,cell phone,0.006211180124223602
+cup,oven,0.006253256904637832
+handbag,umbrella,0.006254886630179828
+person,couch,0.006257910279848122
+bottle,sandwich,0.006266318537859008
+tie,wine glass,0.006273525721455458
+chair,sink,0.006298110566829951
+kite,bird,0.006342494714587738
+apple,broccoli,0.006349206349206349
+cup,carrot,0.006360078277886497
+bed,laptop,0.006369426751592357
+cell phone,chair,0.006369426751592357
+cat,keyboard,0.006382978723404255
+apple,vase,0.00641025641025641
+horse,truck,0.00641025641025641
+cup,pizza,0.006462035541195477
+chair,handbag,0.006477150053976251
+knife,broccoli,0.006521739130434782
+cat,bottle,0.006535947712418301
+donut,knife,0.006535947712418301
+elephant,boat,0.006535947712418301
+mouse,potted plant,0.006550218340611353
+kite,chair,0.006564551422319475
+spoon,broccoli,0.006587615283267457
+motorcycle,backpack,0.006613756613756613
+dog,cow,0.0066857688634192934
+hot dog,donut,0.006688963210702341
+hot dog,oven,0.006711409395973154
+car,bicycle,0.006724683544303798
+apple,refrigerator,0.006734006734006734
+chair,sports ball,0.00673758865248227
+pizza,sandwich,0.006756756756756757
+person,spoon,0.006770906044953232
+apple,sink,0.006779661016949152
+hot dog,umbrella,0.006779661016949152
+bed,cat,0.006811989100817439
+couch,bowl,0.006825938566552901
+kite,backpack,0.00683371298405467
+teddy bear,couch,0.00683371298405467
+teddy bear,book,0.00684931506849315
+donut,bowl,0.006872852233676976
+motorcycle,handbag,0.0068775790921595595
+person,fork,0.006916788933137707
+apple,oven,0.006920415224913495
+cup,book,0.006966773847802787
+broccoli,cat,0.0069767441860465115
+cow,truck,0.006993006993006993
+bottle,toothbrush,0.007070707070707071
+tie,chair,0.007082152974504249
+wine glass,sandwich,0.0071301247771836
+bench,handbag,0.007136485280999108
+apple,knife,0.007142857142857143
+cow,car,0.007142857142857143
+wine glass,cake,0.007155635062611807
+dog,bed,0.007164790174002047
+boat,train,0.007173601147776184
+cell phone,cup,0.0071794871794871795
+wine glass,handbag,0.00718132854578097
+car,motorcycle,0.007237635705669481
+potted plant,bench,0.007261410788381743
+broccoli,apple,0.007263922518159807
+bowl,potted plant,0.007362784471218206
+bus,backpack,0.007407407407407408
+zebra,giraffe,0.007425742574257425
+boat,chair,0.007451564828614009
+dog,car,0.007454739084132056
+apple,cup,0.007462686567164179
+cat,dining table,0.007478632478632479
+broccoli,orange,0.007481296758104738
+skateboard,handbag,0.0074850299401197605
+bottle,vase,0.007506702412868633
+skateboard,truck,0.007530120481927711
+cup,sink,0.007534983853606028
+refrigerator,wine glass,0.007561436672967864
+frisbee,umbrella,0.007590132827324478
+oven,orange,0.007598784194528876
+tie,bottle,0.007614213197969543
+tie,car,0.007614213197969543
+boat,umbrella,0.007656967840735069
+clock,chair,0.007707129094412331
+sandwich,cake,0.007722007722007722
+cat,laptop,0.0078125
+couch,dog,0.0078125
+oven,pizza,0.00782472613458529
+refrigerator,potted plant,0.007920792079207921
+motorcycle,traffic light,0.007926023778071334
+sandwich,wine glass,0.007936507936507936
+traffic light,motorcycle,0.007945516458569807
+oven,clock,0.007974481658692184
+keyboard,scissors,0.008
+orange,potted plant,0.00804289544235925
+dining table,vase,0.008045052292839904
+broccoli,spoon,0.008064516129032258
+cake,potted plant,0.008064516129032258
+orange,sandwich,0.008086253369272238
+vase,wine glass,0.008097165991902834
+oven,potted plant,0.008116883116883116
+remote,dining table,0.008130081300813009
+bench,car,0.008166969147005444
+knife,sink,0.008187134502923977
+fork,carrot,0.008241758241758242
+book,bowl,0.008249312557286892
+hot dog,bottle,0.008298755186721992
+vase,sink,0.008298755186721992
+dining table,couch,0.008366533864541833
+person,bowl,0.008408151631751461
+bottle,microwave,0.008461131676361713
+vase,tv,0.00846262341325811
+mouse,scissors,0.008583690987124463
+orange,knife,0.008595988538681949
+teddy bear,dog,0.008602150537634409
+umbrella,traffic light,0.008743169398907104
+carrot,sandwich,0.008746355685131196
+clock,handbag,0.008748906386701663
+dog,sheep,0.008823529411764706
+microwave,banana,0.008849557522123894
+suitcase,truck,0.008928571428571428
+orange,bottle,0.008955223880597015
+giraffe,person,0.008968609865470852
+cell phone,laptop,0.008991008991008992
+bed,tv,0.009009009009009009
+bicycle,truck,0.00906344410876133
+donut,refrigerator,0.00909090909090909
+traffic light,bus,0.009150326797385621
+scissors,person,0.009174311926605505
+elephant,bench,0.009195402298850575
+tie,handbag,0.00922266139657444
+book,potted plant,0.009267840593141797
+cat,book,0.009302325581395349
+microwave,potted plant,0.009316770186335404
+clock,car,0.009319664492078284
+bowl,orange,0.009333333333333334
+chair,laptop,0.009345794392523364
+spoon,pizza,0.009358288770053475
+microwave,book,0.009404388714733543
+wine glass,vase,0.009433962264150943
+toothbrush,scissors,0.009478672985781991
+bench,backpack,0.009573542210617928
+sandwich,pizza,0.009578544061302681
+sheep,truck,0.009584664536741214
+dog,teddy bear,0.009596928982725527
+toilet,toothbrush,0.009655172413793104
+handbag,cell phone,0.009665427509293681
+teddy bear,bed,0.009685230024213076
+chair,remote,0.009726224783861672
+cell phone,book,0.009737098344693282
+sink,toaster,0.009746588693957114
+handbag,traffic light,0.009749303621169917
+donut,spoon,0.00980392156862745
+bowl,apple,0.009823182711198428
+book,bottle,0.00983284169124877
+dining table,pizza,0.0098754830399313
+bed,remote,0.009913258983890954
+broccoli,pizza,0.009950248756218905
+bowl,microwave,0.0099601593625498
+cake,wine glass,0.01
+dining table,carrot,0.010073614877954282
+banana,orange,0.010075566750629723
+person,cell phone,0.010077575581816864
+refrigerator,book,0.010101010101010102
+toothbrush,person,0.010101010101010102
+bowl,vase,0.010114632501685773
+bus,train,0.010135135135135136
+train,backpack,0.010165184243964422
+sports ball,baseball bat,0.010178117048346057
+remote,tv,0.01020408163265306
+scissors,toothbrush,0.01020408163265306
+sports ball,frisbee,0.01026694045174538
+book,vase,0.010338345864661654
+cup,cell phone,0.010378827192527244
+apple,spoon,0.010416666666666666
+chair,wine glass,0.010476878612716763
+sink,potted plant,0.010482180293501049
+dining table,book,0.010488100040338847
+bench,chair,0.010572687224669603
+carrot,person,0.010638297872340425
+oven,banana,0.0106544901065449
+person,bottle,0.010800088163985012
+wine glass,tie,0.0108499095840868
+train,car,0.010869565217391304
+cake,bottle,0.010889292196007259
+person,truck,0.010913558832032379
+fork,broccoli,0.01094391244870041
+snowboard,skateboard,0.01098901098901099
+umbrella,potted plant,0.011013215859030838
+frisbee,kite,0.011029411764705883
+banana,spoon,0.011061946902654867
+knife,refrigerator,0.011086474501108648
+apple,bottle,0.011111111111111112
+wine glass,potted plant,0.0111731843575419
+remote,potted plant,0.011217948717948718
+tv,bottle,0.01122334455667789
+book,cup,0.011235955056179775
+suitcase,car,0.011235955056179775
+carrot,apple,0.0113314447592068
+cake,sandwich,0.011363636363636364
+person,backpack,0.011375311903713489
+traffic light,backpack,0.011454753722794959
+pizza,spoon,0.011461318051575931
+cat,mouse,0.011482254697286013
+bed,book,0.011577424023154847
+sandwich,bottle,0.011627906976744186
+bowl,wine glass,0.011651816312542838
+potted plant,bottle,0.011668611435239206
+person,knife,0.011687671618672112
+potted plant,sink,0.011727078891257996
+umbrella,backpack,0.011778563015312132
+couch,bed,0.011789924973204717
+cup,cake,0.011935651271406332
+laptop,remote,0.01195219123505976
+couch,cup,0.011990407673860911
+donut,pizza,0.012048192771084338
+microwave,person,0.012048192771084338
+umbrella,boat,0.012074643249176729
+sink,person,0.012106537530266344
+donut,apple,0.012121212121212121
+bicycle,motorcycle,0.01225114854517611
+scissors,bottle,0.012269938650306749
+boat,car,0.012461059190031152
+vase,person,0.012678288431061807
+apple,potted plant,0.012698412698412698
+tie,cell phone,0.012836970474967908
+sandwich,chair,0.012875536480686695
+skateboard,bench,0.012924071082390954
+dining table,potted plant,0.012944983818770227
+frisbee,sports ball,0.013059701492537313
+carrot,cup,0.013071895424836602
+train,handbag,0.013123359580052493
+surfboard,boat,0.013245033112582781
+cake,tie,0.013289036544850499
+orange,vase,0.013368983957219251
+keyboard,bottle,0.013392857142857142
+bowl,cake,0.013458950201884253
+bowl,broccoli,0.013468013468013467
+cell phone,handbag,0.013471502590673576
+sports ball,baseball glove,0.01349527665317139
+suitcase,chair,0.013539651837524178
+vase,bowl,0.013677811550151976
+parking meter,traffic light,0.0136986301369863
+sports ball,chair,0.01373283395755306
+person,cup,0.013738887664389098
+book,keyboard,0.013748854262144821
+bear,cat,0.013761467889908258
+bear,sheep,0.013761467889908258
+bottle,fork,0.013827433628318585
+car,bus,0.01384083044982699
+tv,vase,0.013844515441959531
+book,mouse,0.013888888888888888
+umbrella,dining table,0.013888888888888888
+chair,vase,0.013991163475699559
+horse,dog,0.013996889580093312
+chair,spoon,0.014028776978417265
+refrigerator,person,0.014044943820224719
+knife,pizza,0.0140485312899106
+cow,sheep,0.01405152224824356
+potted plant,tv,0.014317180616740088
+orange,person,0.014388489208633094
+bus,handbag,0.014397905759162303
+knife,oven,0.014423076923076924
+fork,pizza,0.014539579967689823
+bottle,refrigerator,0.014582164890633763
+cat,tv,0.014656144306651634
+spoon,oven,0.014771048744460856
+hot dog,bowl,0.014814814814814815
+stop sign,truck,0.01488095238095238
+cat,bed,0.015186915887850467
+spoon,sandwich,0.015193370165745856
+chair,tv,0.015306122448979591
+spoon,wine glass,0.015341701534170154
+vase,couch,0.015360983102918587
+cell phone,remote,0.015426497277676952
+laptop,bottle,0.015514809590973202
+orange,cup,0.015527950310559006
+hot dog,chair,0.01556420233463035
+person,sports ball,0.0156794425087108
+dog,chair,0.015789473684210527
+toilet,bottle,0.01579778830963665
+snowboard,backpack,0.015822784810126583
+cat,suitcase,0.01592356687898089
+bottle,wine glass,0.015972618368511125
+train,bus,0.016029593094944512
+truck,traffic light,0.016057091882247992
+banana,bottle,0.016129032258064516
+cake,donut,0.016286644951140065
+sheep,person,0.01639344262295082
+mouse,remote,0.01647058823529412
+apple,carrot,0.0165016501650165
+book,person,0.01662049861495845
+oven,toaster,0.01669195751138088
+mouse,bottle,0.016706443914081145
+potted plant,couch,0.016706443914081145
+knife,cake,0.016817593790426907
+book,laptop,0.016898608349900597
+dining table,cake,0.016999575010624733
+tv,dining table,0.017006802721088437
+bowl,sandwich,0.01701837985023826
+toothbrush,toilet,0.017142857142857144
+book,cell phone,0.0173992673992674
+person,dining table,0.017524151875982927
+bowl,refrigerator,0.017591339648173207
+cat,chair,0.0176678445229682
+fire hydrant,traffic light,0.01775147928994083
+keyboard,remote,0.017777777777777778
+fire hydrant,truck,0.017857142857142856
+orange,dining table,0.017857142857142856
+microwave,toaster,0.01791044776119403
+apple,person,0.017937219730941704
+car,handbag,0.01807955002008839
+pizza,oven,0.018105849582172703
+person,handbag,0.01816816816816817
+potted plant,person,0.018363939899833055
+potted plant,cup,0.018518518518518517
+vase,bottle,0.018518518518518517
+sink,toothbrush,0.01859504132231405
+sink,chair,0.018743109151047408
+spoon,person,0.018779342723004695
+sink,vase,0.018789144050104383
+pizza,wine glass,0.01881331403762663
+spoon,carrot,0.018944519621109608
+oven,vase,0.01901743264659271
+traffic light,handbag,0.01907032181168057
+sink,dining table,0.01939655172413793
+tv,potted plant,0.01958650707290533
+sandwich,carrot,0.0196078431372549
+tv,mouse,0.01971090670170828
+dog,cat,0.019782393669634024
+kite,boat,0.019823788546255508
+microwave,chair,0.01984126984126984
+vase,book,0.020061728395061727
+tv,keyboard,0.02021563342318059
+remote,person,0.020242914979757085
+sports ball,tennis racket,0.020446096654275093
+dog,frisbee,0.02045209903121636
+hot dog,carrot,0.020477815699658702
+chair,fork,0.020488856937455068
+horse,cow,0.020537124802527645
+kite,handbag,0.020642201834862386
+baseball glove,bench,0.02074688796680498
+laptop,couch,0.02074688796680498
+bird,person,0.020833333333333332
+bowl,person,0.020855057351407715
+cup,sandwich,0.02099737532808399
+knife,sandwich,0.02122641509433962
+bicycle,backpack,0.021241830065359478
+truck,bus,0.021367521367521368
+kite,car,0.021377672209026127
+potted plant,bowl,0.021396396396396396
+refrigerator,dining table,0.0215311004784689
+bottle,person,0.021551724137931036
+handbag,car,0.021704180064308683
+chair,potted plant,0.02180566182096404
+chair,knife,0.021929824561403508
+vase,cup,0.02197802197802198
+donut,sandwich,0.0220125786163522
+chair,bowl,0.022033243138770777
+bowl,carrot,0.022103148024112524
+bottle,oven,0.022375215146299483
+refrigerator,spoon,0.02240325865580448
+baseball bat,bench,0.02242152466367713
+book,dining table,0.022426095820591234
+horse,car,0.022530329289428077
+tv,person,0.02254428341384863
+cow,dog,0.022675736961451247
+sheep,cow,0.02280130293159609
+cat,couch,0.022962112514351322
+dining table,wine glass,0.023116438356164382
+fork,cake,0.023183925811437404
+spoon,cake,0.023323615160349854
+spoon,chair,0.02356902356902357
+book,couch,0.023630504833512353
+umbrella,car,0.02369077306733167
+potted plant,book,0.023809523809523808
+sheep,dog,0.023809523809523808
+cat,person,0.023923444976076555
+train,traffic light,0.024
+person,car,0.02420610211706102
+bottle,sink,0.024208566108007448
+knife,wine glass,0.024330900243309004
+sink,spoon,0.02433862433862434
+person,chair,0.02475093399750934
+book,remote,0.024832855778414518
+donut,cup,0.024896265560165973
+book,tv,0.025191675794085433
+sandwich,person,0.025236593059936908
+broccoli,fork,0.025423728813559324
+carrot,knife,0.025477707006369428
+tv,cup,0.02549246813441483
+cat,dog,0.025504782146652496
+bowl,oven,0.025510204081632654
+wine glass,spoon,0.025691699604743084
+bowl,sink,0.025843503230437905
+dog,couch,0.02598752598752599
+motorcycle,bicycle,0.02620689655172414
+microwave,dining table,0.02631578947368421
+refrigerator,knife,0.026530612244897958
+chair,couch,0.02711198428290766
+tv,cell phone,0.027114967462039046
+motorcycle,truck,0.027259684361549498
+fork,sandwich,0.027439024390243903
+oven,chair,0.027777777777777776
+toaster,cup,0.027777777777777776
+cup,wine glass,0.028062601187263895
+bottle,spoon,0.028112449799196786
+chair,book,0.028196981731532962
+skateboard,car,0.028268551236749116
+pizza,bowl,0.028481012658227847
+cow,horse,0.028708133971291867
+parking meter,truck,0.02877697841726619
+scissors,knife,0.028901734104046242
+dining table,sandwich,0.028961522548613984
+chair,bottle,0.029315960912052116
+bowl,chair,0.02936378466557912
+cake,person,0.029411764705882353
+oven,person,0.02947845804988662
+fork,person,0.02977667493796526
+sink,knife,0.029946524064171122
+banana,bowl,0.02997275204359673
+knife,person,0.03056768558951965
+cup,person,0.03057199211045365
+orange,banana,0.030821917808219176
+laptop,person,0.030952380952380953
+cow,person,0.031055900621118012
+baseball bat,chair,0.031180400890868598
+baseball glove,chair,0.03125
+bicycle,handbag,0.03125
+toaster,microwave,0.03125
+sink,microwave,0.03135498320268757
+couch,person,0.032
+airplane,car,0.0321285140562249
+bottle,chair,0.03227975790181574
+remote,book,0.03244274809160305
+bed,chair,0.03254437869822485
+couch,vase,0.032569360675512665
+cake,bowl,0.032586558044806514
+microwave,cup,0.0326530612244898
+cake,spoon,0.03294573643410853
+bus,traffic light,0.03296703296703297
+cake,cup,0.03303964757709251
+wine glass,bowl,0.03309692671394799
+handbag,person,0.033112582781456956
+umbrella,chair,0.03324468085106383
+microwave,spoon,0.03333333333333333
+couch,potted plant,0.033877038895859475
+car,traffic light,0.033921302578018994
+spoon,bottle,0.034220532319391636
+bed,person,0.03454231433506045
+kite,surfboard,0.034722222222222224
+fork,wine glass,0.03474320241691843
+apple,banana,0.03508771929824561
+hot dog,cup,0.035555555555555556
+laptop,dining table,0.03561253561253561
+orange,bowl,0.035856573705179286
+couch,tv,0.036061026352288486
+carrot,fork,0.036303630363036306
+dining table,person,0.036576444769568395
+cake,fork,0.03696098562628337
+chair,person,0.037037037037037035
+banana,person,0.03728813559322034
+apple,dining table,0.03734439834024896
+tennis racket,chair,0.03770739064856712
+banana,apple,0.03807106598984772
+refrigerator,chair,0.03816793893129771
+sandwich,hot dog,0.03837953091684435
+hot dog,person,0.038461538461538464
+stop sign,person,0.038461538461538464
+cake,chair,0.0389344262295082
+wine glass,person,0.03902439024390244
+fork,chair,0.03924914675767918
+vase,chair,0.03962264150943396
+bottle,knife,0.03974284044418469
+refrigerator,cup,0.03990610328638498
+chair,cup,0.039965620971207566
+keyboard,cup,0.04
+oven,dining table,0.040515653775322284
+microwave,knife,0.04067796610169491
+elephant,person,0.041379310344827586
+keyboard,chair,0.04142011834319527
+apple,bowl,0.041474654377880185
+bed,couch,0.042131350681536554
+knife,chair,0.0425531914893617
+carrot,spoon,0.04276315789473684
+fire hydrant,person,0.04291845493562232
+tv,laptop,0.04292929292929293
+donut,cake,0.043333333333333335
+banana,dining table,0.044226044226044224
+pizza,bottle,0.04426229508196721
+bowl,fork,0.044798785117691725
+bottle,dining table,0.0449438202247191
+carrot,broccoli,0.045454545454545456
+apple,orange,0.04568527918781726
+sandwich,spoon,0.046052631578947366
+sports ball,person,0.046511627906976744
+pizza,person,0.04657534246575343
+sandwich,knife,0.047058823529411764
+backpack,handbag,0.04784688995215311
+laptop,cup,0.04791344667697063
+handbag,backpack,0.04794520547945205
+sink,refrigerator,0.048554913294797684
+potted plant,dining table,0.0489060489060489
+bicycle,car,0.04897959183673469
+sink,cup,0.049367088607594936
+cup,chair,0.04986149584487535
+toothbrush,bottle,0.05063291139240506
+donut,person,0.050955414012738856
+wine glass,fork,0.052060737527114966
+bottle,bowl,0.052104208416833664
+bowl,bottle,0.05248868778280543
+sandwich,fork,0.052763819095477386
+couch,dining table,0.05297157622739018
+sandwich,bowl,0.05319148936170213
+cell phone,person,0.05327868852459016
+fork,bottle,0.05335628227194492
+dining table,bottle,0.05364173228346457
+dining table,spoon,0.05422222222222222
+tv,couch,0.054333764553686936
+toothbrush,sink,0.0546875
+couch,remote,0.05538922155688623
+knife,bottle,0.05546995377503852
+traffic light,truck,0.055865921787709494
+vase,dining table,0.055944055944055944
+skis,snowboard,0.056363636363636366
+mouse,cup,0.057065217391304345
+cup,fork,0.05771495877502945
+laptop,cell phone,0.05794947994056464
+tv,remote,0.05804111245465538
+orange,apple,0.05813953488372093
+refrigerator,sink,0.058981233243967826
+pizza,chair,0.0594059405940594
+sink,oven,0.05981794538361508
+laptop,tv,0.05982905982905983
+cup,spoon,0.06019070321811681
+skis,backpack,0.060546875
+parking meter,person,0.061224489795918366
+potted plant,chair,0.061823802163833076
+broccoli,carrot,0.06206896551724138
+sink,bowl,0.062266500622665005
+book,chair,0.06283422459893048
+laptop,keyboard,0.06335616438356165
+mouse,chair,0.06397306397306397
+chair,dining table,0.06440866185452526
+fire hydrant,car,0.0660377358490566
+airplane,truck,0.06651376146788991
+clock,person,0.06693989071038252
+wine glass,knife,0.06798245614035088
+potted plant,vase,0.0679886685552408
+bowl,knife,0.0680379746835443
+dining table,chair,0.06932635709614127
+pizza,cup,0.06944444444444445
+oven,cup,0.06981519507186858
+bench,person,0.07123287671232877
+dining table,fork,0.07179487179487179
+cup,bottle,0.07188612099644127
+hot dog,dining table,0.07222222222222222
+knife,bowl,0.0723905723905724
+pizza,fork,0.07253886010362694
+wine glass,chair,0.07277628032345014
+oven,knife,0.072992700729927
+oven,spoon,0.072992700729927
+refrigerator,bowl,0.07323232323232323
+laptop,book,0.0734094616639478
+dining table,bowl,0.07392197125256673
+remote,chair,0.07453416149068323
+spoon,fork,0.07540394973070018
+knife,fork,0.07583774250440917
+keyboard,cell phone,0.0775
+cup,bowl,0.07797537619699042
+dog,person,0.07809847198641766
+teddy bear,person,0.07947019867549669
+bottle,cup,0.07960576194086429
+microwave,sink,0.08040201005025126
+cup,knife,0.08048048048048048
+couch,book,0.08080808080808081
+cup,dining table,0.08236434108527131
+bus,truck,0.08241758241758242
+snowboard,skis,0.08267716535433071
+microwave,bottle,0.08372093023255814
+laptop,mouse,0.08378870673952642
+sandwich,cup,0.08383233532934131
+keyboard,book,0.0862533692722372
+donut,dining table,0.0867579908675799
+knife,spoon,0.08720112517580872
+dining table,knife,0.08752941176470588
+backpack,person,0.088
+refrigerator,microwave,0.08851674641148326
+suitcase,backpack,0.08878504672897196
+umbrella,handbag,0.08895265423242468
+car,truck,0.08975659229208925
+airplane,person,0.09018567639257294
+sink,toilet,0.09090909090909091
+fork,bowl,0.0912863070539419
+cake,knife,0.09151785714285714
+spoon,dining table,0.09226190476190477
+spoon,knife,0.09352517985611511
+tv,book,0.09353507565337002
+carrot,bowl,0.0944206008583691
+stop sign,car,0.09502262443438914
+mouse,cell phone,0.09536784741144415
+spoon,cup,0.096
+keyboard,tv,0.09615384615384616
+mouse,tv,0.09644670050761421
+refrigerator,oven,0.09696969696969697
+oven,microwave,0.09771309771309772
+broccoli,bowl,0.0989010989010989
+microwave,bowl,0.0990990990990991
+fork,spoon,0.10054844606946983
+remote,couch,0.10182767624020887
+suitcase,handbag,0.10344827586206896
+hot dog,sandwich,0.1036036036036036
+knife,cup,0.10444874274661509
+wine glass,bottle,0.10461538461538461
+tv,chair,0.10472972972972973
+sink,bottle,0.10492845786963434
+laptop,chair,0.10546875
+oven,bottle,0.10579345088161209
+dining table,cup,0.10590383444917834
+motorcycle,car,0.10748560460652591
+knife,dining table,0.1092896174863388
+suitcase,person,0.11009174311926606
+bowl,spoon,0.11101243339253997
+bowl,cup,0.11585365853658537
+vase,potted plant,0.11704312114989733
+pizza,knife,0.11764705882352941
+fork,cup,0.11948051948051948
+frisbee,person,0.11956521739130435
+refrigerator,bottle,0.11974110032362459
+carrot,dining table,0.1206896551724138
+horse,person,0.12135922330097088
+mouse,book,0.12424242424242424
+bowl,dining table,0.12456344586728754
+oven,refrigerator,0.12663755458515283
+traffic light,person,0.13114754098360656
+bicycle,person,0.13414634146341464
+spoon,bowl,0.1362126245847176
+toilet,sink,0.13647642679900746
+keyboard,laptop,0.14007782101167315
+wine glass,cup,0.1415929203539823
+mouse,keyboard,0.14285714285714285
+microwave,refrigerator,0.14351851851851852
+baseball bat,sports ball,0.1484848484848485
+oven,sink,0.1506172839506173
+baseball glove,baseball bat,0.15165876777251186
+wine glass,dining table,0.15165876777251186
+broccoli,dining table,0.15217391304347827
+keyboard,mouse,0.15254237288135594
+mouse,laptop,0.15625
+fork,dining table,0.167420814479638
+fork,knife,0.1691542288557214
+traffic light,car,0.17073170731707318
+train,person,0.17167381974248927
+truck,person,0.17684210526315788
+truck,car,0.18130841121495328
+oven,bowl,0.18660287081339713
+skateboard,person,0.1875
+parking meter,car,0.2
+sandwich,dining table,0.2
+baseball bat,baseball glove,0.20441988950276244
+cake,dining table,0.20817843866171004
+couch,chair,0.2085661080074488
+car,person,0.2132034632034632
+bus,car,0.21709006928406466
+microwave,oven,0.2251655629139073
+tie,person,0.22857142857142856
+tennis racket,sports ball,0.22962962962962963
+pizza,dining table,0.2410958904109589
+baseball glove,sports ball,0.24126984126984127
+surfboard,person,0.24242424242424243
+boat,person,0.2803347280334728
+motorcycle,person,0.2857142857142857
+umbrella,person,0.3076923076923077
+bus,person,0.53125
+kite,person,0.5833333333333334
