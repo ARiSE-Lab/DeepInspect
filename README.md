@@ -3,8 +3,9 @@ See the ICSE'20 paper [Testing DNN Image Classifier for Confusion & Bias Errors]
 
 
 ## Reproduce paper results
+
 ### Prerequisite
-### Python 3
+Python 3
 
 ### Reproducing results in Table 3 and Figure 6 in paper:  
 ```
