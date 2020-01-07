@@ -14,6 +14,6 @@ python3 confusion_bugs.py
 ```
 ## DeepInspect
 
-### CIFAR-100
+### Inspect CIFAR-100 [model](https://github.com/aaron-xichen/pytorch-playground)
 #### Prerequisite
-Python 2.7, numpy-1.16, tqdm-4.41, torch-1.3.1, jupyter, 
+Python 2.7, numpy-1.16, tqdm-4.41, torch-1.3.1, jupyter
