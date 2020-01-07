@@ -60,7 +60,7 @@ def hook_all_conv_layer(net, handler):
 def get_channel_coverage_group_exp(self, input, output):
     from torchncoverage import NCoverage
     global globalcoverage
-    nc = NCoverage(threshold = 0.25)
+    nc = NCoverage(threshold = 0.5)
     #print('Layer: ' + str(self))
     covered_channel_group = nc.get_channel_coverage_group(output.data)
     for c in xrange(len(covered_channel_group)):
@@ -83,7 +83,7 @@ def get_channel_coverage_group_exp(self, input, output):
         globalcoverage[d]["layercoverage"].append((len(output.data[0]), covered_channel))
 
     if len(globalcoverage[-1]["layercoverage"]) == 53:
-        with open('globalcoveragecocoexp_test_0.25.pickle', 'ab') as handle:
+        with open('globalcoveragecocoexp_test_0.5.pickle', 'ab') as handle:
             pickle.dump(globalcoverage, handle, protocol=pickle.HIGHEST_PROTOCOL)
         globalcoverage = []
     #print(len(globalcoverage[-1]["layercoverage"]))
