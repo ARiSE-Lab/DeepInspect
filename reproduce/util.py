@@ -84,7 +84,7 @@ class Test:
                     self.map_obj_to_idx[obj2] = self.count
                     self.count += 1
             self.map_idx_to_obj = {v:k for k,v in self.map_obj_to_idx.items()}
-
+        # print(self.map_obj_to_idx)
 
     # Build 2d distance matrix
     def build_dist_mat(self):
@@ -671,24 +671,28 @@ def get_single_precision_recall_wrapper(predicted_label_conf_bias_list, conf_top
 
     top_num = int(np.ceil(N*top_percentage))
     # print(conf_top_percentage, top_percentage)
-    recall_ab = 0
-    precision_ab = 0
+
+    m11 = 0
+    m01 = 0
+    precision = 0
+    recall = 0
+
     if top_num > 0:
         top_bias_inds = sorted_bias_list[-top_num:]
         bottom_bias_inds = sorted_bias_list[:-top_num]
 
-        recall_ab, precision_ab = get_single_precision_recall(top_conf_inds, bottom_conf_inds, top_bias_inds, bottom_bias_inds, top_percentage, verbose)
-        if verbose:
-            print('random baseline')
-            N = len(predicted_label_conf_bias_list)
-            m11 = int(top_percentage * conf_top_percentage * N)
-            m01 = int(top_percentage * (1-conf_top_percentage) * N)
-            precision = conf_top_percentage
-            recall = top_percentage
-            F1 = 2*precision*recall/(precision+recall)
-            print(','.join([f'{top_percentage:.2f}', str(m11), str(m01), f'{precision:.3f}', f'{recall:.3f}', f'{F1:.3f}']))
+        m11, m01, precision, recall = get_single_precision_recall(top_conf_inds, bottom_conf_inds, top_bias_inds, bottom_bias_inds, top_percentage, verbose)
+        # if verbose:
+        #     print('random baseline')
+        #     N = len(predicted_label_conf_bias_list)
+        #     m11 = int(top_percentage * conf_top_percentage * N)
+        #     m01 = int(top_percentage * (1-conf_top_percentage) * N)
+        #     precision = conf_top_percentage
+        #     recall = top_percentage
+        #     F1 = 2*precision*recall/(precision+recall)
+        #     print(','.join([f'{top_percentage:.2f}', str(m11), str(m01), f'{precision:.3f}', f'{recall:.3f}', f'{F1:.3f}']))
 
-    return recall_ab, precision_ab
+    return m11, m01, precision, recall
 
 
 
@@ -718,17 +722,17 @@ def get_single_precision_recall(top_conf_inds, bottom_conf_inds, top_bias_inds, 
         precision = m11 / (m01 + m11)
     if m10 + m11 > 0:
         recall = m11 / (m10 + m11)
-    if  precision+recall > 0:
-        F1 = 2*precision*recall/(precision+recall)
+    # if  precision+recall > 0:
+    #     F1 = 2*precision*recall/(precision+recall)
 
 
-    if verbose:
-        print(','.join([f'{top_percentage:.2f}', str(m11), str(m01), f'{precision:.3f}', f'{recall:.3f}', f'{F1:.3f}']))
+    # if verbose:
+    #     print(','.join([f'{top_percentage:.2f}', str(m11), str(m01), f'{precision:.3f}', f'{recall:.3f}', f'{F1:.3f}']))
 
 
 
 
-    return recall, precision
+    return m11, m01, precision, recall
 
 
 def calculate_AUCEC(x_list, y_list):
@@ -750,7 +754,7 @@ def get_AUCEC_gain(conf_top_percentage, top_percentages, predicted_label_conf_bi
     '''
     recall_precision_ab_list = []
     for top_percentage in top_percentages:
-        recall_ab, precision_ab = get_single_precision_recall_wrapper(predicted_label_conf_bias_list, conf_top_percentage, top_percentage, verbose=False)
+        _, _, precision_ab, recall_ab = get_single_precision_recall_wrapper(predicted_label_conf_bias_list, conf_top_percentage, top_percentage, verbose=False)
         recall_precision_ab_list.append((recall_ab, precision_ab))
     recall_precision_ab_list = np.array(recall_precision_ab_list)
     AUCEC_gain = (calculate_AUCEC(top_percentages, recall_precision_ab_list[:, 0]) - 1/2) / (1/2)
@@ -758,7 +762,7 @@ def get_AUCEC_gain(conf_top_percentage, top_percentages, predicted_label_conf_bi
 
     return AUCEC_gain, recall_precision_ab_list
 
-def draw_CE_comparison(x_list, recall_precision_ab_list_per_dataset, MODE_recall_precision_ab_list_per_dataset, top_std_cutoff_per_dataset, AUCEC_gain_per_dataset, datasets, dataset_names, conf_top_percentage):
+def draw_CE_comparison(x_list, recall_precision_ab_list_per_dataset, MODE_recall_precision_ab_list_per_dataset, top_std_cutoff_per_dataset, AUCEC_gain_per_dataset_dual, datasets, dataset_names, conf_top_percentage):
     '''
     Draw a 2 x 4 cost-effective graphs.
     INPUT:
@@ -767,7 +771,7 @@ def draw_CE_comparison(x_list, recall_precision_ab_list_per_dataset, MODE_recall
     MODE_recall_precision_ab_list_per_dataset: similar to recall_precision_ab_list_per_dataset, but for MODE baseline and does not have imsitu
     top_std_cutoff_per_dataset: dictionary with key to be dataset folder name and the corresponding percentage of top 1std cutoff.
 
-    AUCEC_gain_per_dataset:
+    AUCEC_gain_per_dataset_dual: a dictionary with entry dataset:(AUCEC gain over MODE, AUCEC gain over random)
 
     datasets: a list of dataset folder names.
     datasets: a list of dataset names.
@@ -797,7 +801,7 @@ def draw_CE_comparison(x_list, recall_precision_ab_list_per_dataset, MODE_recall
                 if dataset != 'imsitu':
                     y3_list = MODE_recall_precision_ab_list_per_dataset[dataset][:, 0]
 
-                print((calculate_AUCEC(x_list, y0_list)-calculate_AUCEC(x_list, y2_list))/calculate_AUCEC(x_list, y2_list))
+                # print((calculate_AUCEC(x_list, y0_list)-calculate_AUCEC(x_list, y2_list))/calculate_AUCEC(x_list, y2_list))
 
                 ax.set_ylabel('% of errors found', fontsize=60)
                 if j == 2:
@@ -820,11 +824,13 @@ def draw_CE_comparison(x_list, recall_precision_ab_list_per_dataset, MODE_recall
 
                 # pc_1percent = precison_recall_at_1percent_per_dataset[dataset]
                 # pc_1std = precison_recall_at_1std_per_dataset[dataset]
-                AUCEC = AUCEC_gain_per_dataset[dataset]
+                AUCEC_over_MODE, AUCEC_over_random = AUCEC_gain_per_dataset_dual[dataset]
 
                 # ax.text(0.6, 0.7, '('+f'{pc_1percent[1]:.3f}'+','+f'{pc_1percent[0]:.3f}'+')', size=26)
                 # ax.text(0.6, 0.5, '('+f'{pc_1std[1]:.3f}'+','+f'{pc_1std[0]:.3f}'+')', size=26)
-                ax.text(0.4, 0.5, 'Gain='+f'{AUCEC*100:.1f}'+'%', size=45)
+                if dataset != 'imsitu':
+                    ax.text(0.23, 0.5, 'Gain wrt MODE ='+f'{AUCEC_over_MODE*100:.1f}'+'%', size=30)
+                ax.text(0.23, 0.6, 'Gain wrt random ='+f'{AUCEC_over_random*100:.1f}'+'%', size=30)
 
                 ax.tick_params(axis='x', labelsize=35)
                 ax.tick_params(axis='y', labelsize=35)
@@ -839,20 +845,20 @@ def draw_CE_comparison(x_list, recall_precision_ab_list_per_dataset, MODE_recall
     for ax in axs.flat:
         ax.label_outer()
 
-    plt.savefig('saved_ce_figures'+'/'+'bias_top_1std'+'.pdf', format='pdf', dpi=1000, bbox_inches = 'tight')
+    plt.savefig('bias_top_1std'+'.pdf', format='pdf', dpi=1000, bbox_inches = 'tight')
     plt.show()
 
-def get_val_and_test_path(dataset, err_type='type2'):
+def get_val_and_test_path(dataset, th_str='', err_type='type2'):
     '''
     Get the paths of all the necessary files.
     The paths are quite local so they may subject to change.
     '''
 
-    prepend_path = 'Paper_deepInspect/experiment/ase_extra'
+    prepend_path = '../data'
     dataset_path = os.path.join(prepend_path, dataset)
 
     multi_label = False
-    if dataset in ['coco', 'coco_gender', 'nus']:
+    if dataset in ['coco', 'coco_gender', 'nus', 'imsitu']:
         multi_label = True
 
     cooccur_path = None
@@ -861,7 +867,7 @@ def get_val_and_test_path(dataset, err_type='type2'):
         err_type = 'type1'
         cal_count_bias = False
 
-    dist_path = os.path.join(dataset_path, 'neuron_distance_from_predicted_labels_test_90.csv')
+    dist_path = os.path.join(dataset_path, 'neuron_distance_from_predicted_labels_test_90'+th_str+'.csv')
 
     val_predicted_label_dist_path = os.path.join(dataset_path, 'test_predicted_labels_10.csv')
     test_predicted_label_dist_path = os.path.join(dataset_path, 'test_predicted_labels_90.csv')

@@ -12,6 +12,13 @@ Python 3
 cd reproduce
 python3 confusion_bugs.py
 ```
+
+### Reproducing results in Table 4 and Figure 10 in paper:
+```
+cd reproduce
+python3 bias_bugs_estimate_ab_and_acd.py
+python3 bias_bugs_generate_results.py
+```
 ## DeepInspect
 
 ### Inspect robust CIFAR-10 [models]()
