@@ -3,7 +3,6 @@ from collections import defaultdict, OrderedDict
 from tqdm import tqdm
 import pickle
 import numpy as np
-from sklearn.metrics import average_precision_score
 import csv
 import torch
 import torchvision.models as models
@@ -26,7 +25,7 @@ torch.manual_seed(1)
 torch.cuda.manual_seed_all(1)
 random.seed(0)
 np.random.seed(0)
-gthreshold = 0.4
+gthreshold = 0.5 # neuron coverage threshold
 globalcoverage = [] # [{file, label, layercoverage, yhat}]
 hook_layer_count = 0
 
@@ -450,7 +449,7 @@ def get_90_csv_files(sample_10):
             csvrecord.append(value)
             writer.writerow(csvrecord)
 
-def read_coverage_dump_probability_test_predicted_90(sample_10):
+def deepinspect(sample_10):
     #compute neuron-feature score
     #feature->neurons mapping
     total_layers = 4
@@ -597,7 +596,7 @@ if __name__ == '__main__':
     np.random.seed(0)
     sample_10 = np.random.choice(10000, 1000, replace=False)
     # Get object pair-wise probability distance matrix
-    read_coverage_dump_probability_test_predicted_90(sample_10=sample_10)
+    deepinspect(sample_10=sample_10)
     #Compute pair-wise type1 confusion errors and write pairwise confusion errors and predicted labels into files.
     #get_10_csv_files(sample_10=sample_10)
-    #get_90_csv_files(sample_10=sample_10)
+    get_90_csv_files(sample_10=sample_10)
