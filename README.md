@@ -18,7 +18,7 @@ python3 confusion_bugs.py
 #### Prerequisite
 Python 2.7, numpy-1.16, tqdm-4.41, torch-1.3.1, torchsummary
 
-#### Run deepinspect on cifar-100 model
+#### Run deepinspect on three robust training CIFAR-10 models
 ```
 cd deepinspect/robust_cifar10/
 python2 cifar10_small_deepinspect.py
@@ -30,7 +30,7 @@ python2 cifar10_resnet_deepinspect.py
 #### Prerequisite
 Python 2.7, numpy-1.16, tqdm-4.41, torch-1.3.1, jupyter
 
-#### Run deepinspect on cifar-100 model
+#### Run deepinspect on CIFAR-100 model
 ```
 cd deepinspect/cifar100/
 python2 cifar100_deepinspect.py
