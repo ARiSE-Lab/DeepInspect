@@ -6,7 +6,7 @@ There are generally two sections, "Reproduce paper results" section and "DeepIns
 ## 1. Reproduce paper results
 
 ### Prerequisite
-Python 3
+Python 3, numpy, scipy, matplotlib, sklearn, pandas
 
 ### Reproducing results in Table 3 and Figure 6 in paper:  
 ```
