@@ -26,6 +26,18 @@ Generating neuron coverage and computing probability matrix may take some time. 
 ### Inspect pre-trained COCO model (model from [paper](https://arxiv.org/abs/1707.09457))
 #### Prerequisite
 Python 2.7, numpy-1.16, tqdm-4.41, torch-1.3.1, scikit-learn-0.20.4, matplotlib-2.2.4
+
+### COCO dataset structure
+cocodataset  
+├── annotations  
+│   &nbsp;&nbsp;&nbsp;&nbsp;├── instances_train2014.json             
+│   &nbsp;&nbsp;&nbsp;&nbsp;├── instances_val2014.json  
+├── train2014                    
+│   &nbsp;&nbsp;&nbsp;&nbsp;├── COCO_train2014_000000291797.jpg      
+│   &nbsp;&nbsp;&nbsp;&nbsp;├── ...     
+├── val2014                   
+│   &nbsp;&nbsp;&nbsp;&nbsp;├── COCO_val2014_000000581929.jpg               
+│   &nbsp;&nbsp;&nbsp;&nbsp;├── ...                    
 #### Run deepinspect on pre-trained COCO model
 ```
 cd deepinspect/coco/
