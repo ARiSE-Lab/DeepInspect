@@ -828,10 +828,13 @@ def get_90_csv_files(sample_10):
 
 if __name__ == '__main__':
     get_id2object_pkl()
+    print("run pre-trained model on test data")
     get_yhats_test()
+    print("compute neuron coverage for each test data")
     get_coverage_test()
     np.random.seed(0)
     sample_10 = np.random.choice(16931, 1693, replace=False)
+    print("compute probability matrix and pairwise object distance")
     deepinspect(sample_10=sample_10)
     get_10_csv_files(sample_10=sample_10)
     get_90_csv_files(sample_10=sample_10)

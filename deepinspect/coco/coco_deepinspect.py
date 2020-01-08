@@ -544,8 +544,6 @@ def deepinspect(sample_10):
         labels_list.append(id2object[i])
 
     #compute pairwise distance
-    #distance1 based on probability score
-    #distance2 based on sensitivity score
     distance1 = {}
     for l1 in labels_list:
         for l2 in labels_list:
