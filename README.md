@@ -23,7 +23,7 @@ python3 bias_bugs_generate_results.py
 ## 2. DeepInspect
 Generating neuron coverage and computing probability matrix may take some time. It is recommended to run the CIFAR-10 script first to get a general idea of DeepInspect, set up the environment and get familiar with the whole workflow.
 
-### Inspect pre-trained COCO model(from [paper](https://arxiv.org/abs/1707.09457))
+### Inspect pre-trained COCO model (model from [paper](https://arxiv.org/abs/1707.09457))
 #### Prerequisite
 Python 2.7, numpy-1.16, tqdm-4.41, torch-1.3.1, scikit-learn-0.20.4, matplotlib-2.2.4
 #### Run deepinspect on pre-trained COCO model
@@ -32,7 +32,7 @@ cd deepinspect/coco/
 python2 coco_deepinspect.py
 ```
 
-### Inspect pre-trained COCO gender(COCO dataset with man/woman label) model (from [paper](https://arxiv.org/abs/1707.09457))
+### Inspect pre-trained COCO gender(COCO dataset with man/woman label) model (model from [paper](https://arxiv.org/abs/1707.09457))
 #### Prerequisite
 Python 2.7, numpy-1.16, tqdm-4.41, torch-1.3.1, scikit-learn-0.20.4, matplotlib-2.2.4
 #### Run deepinspect on pre-trained COCO gender model
@@ -42,7 +42,7 @@ python2 coco_gender_deepinspect.py
 ```
 
 
-### Inspect robust CIFAR-10 models ([paper1](http://papers.nips.cc/paper/8060-scaling-provable-adversarial-defenses.pdf), [paper2](https://arxiv.org/abs/1811.02625))
+### Inspect robust CIFAR-10 models (models from [paper1](http://papers.nips.cc/paper/8060-scaling-provable-adversarial-defenses.pdf), [paper2](https://arxiv.org/abs/1811.02625))
 #### Prerequisite
 Python 2.7, numpy-1.16, tqdm-4.41, torch-1.3.1, torchsummary
 
@@ -54,7 +54,7 @@ python2 cifar10_large_deepinspect.py
 python2 cifar10_resnet_deepinspect.py
 ```
 
-### Inspect CIFAR-100 model ([repo](https://github.com/aaron-xichen/pytorch-playground))
+### Inspect CIFAR-100 model (model from [repo](https://github.com/aaron-xichen/pytorch-playground))
 #### Prerequisite
 Python 2.7, numpy-1.16, tqdm-4.41, torch-1.3.1, jupyter
 
