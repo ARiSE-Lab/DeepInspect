@@ -27,7 +27,7 @@ Generating neuron coverage and computing probability matrix may take some time. 
 #### Prerequisite
 Python 2.7, numpy-1.16, tqdm-4.41, torch-1.3.1, scikit-learn-0.20.4, matplotlib-2.2.4
 
-### COCO dataset structure
+#### COCO dataset structure
 cocodataset  
 ├── annotations  
 │   &nbsp;&nbsp;&nbsp;&nbsp;├── instances_train2014.json             
