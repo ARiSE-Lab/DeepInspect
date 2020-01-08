@@ -1,8 +1,9 @@
 # DeepInspect: Testing DNN Image Classifier for Confusion & Bias Errors  (ICSE'20)
 See the ICSE'20 paper [Testing DNN Image Classifier for Confusion & Bias Errors](https://arxiv.org/pdf/1905.07831.pdf) for more details.
 
+There are generally two sections, "Reproduce paper results" section and "DeepInspect" section. The reproducing scipts in "Reproduce paper results" sections directly use the data our tool "DeepInspect" generated and then outputs the precision/recall, false postivie and true positive in our predictions. "DeepInspect" section includes the code on inspecting various datasets and models and generating the data for predictions.
 
-## Reproduce paper results
+## 1. Reproduce paper results
 
 ### Prerequisite
 Python 3
@@ -19,7 +20,7 @@ cd reproduce
 python3 bias_bugs_estimate_ab_and_acd.py
 python3 bias_bugs_generate_results.py
 ```
-## DeepInspect
+## 2. DeepInspect
 
 ### Inspect pre-trained COCO [model]()
 #### Prerequisite
