@@ -21,6 +21,25 @@ python3 bias_bugs_generate_results.py
 ```
 ## DeepInspect
 
+### Inspect robust COCO [model]()
+#### Prerequisite
+Python 2.7, numpy-1.16, tqdm-4.41, torch-1.3.1, scikit-learn-0.20.4, matplotlib-2.2.4
+#### Run deepinspect on pre-trained COCO model
+```
+cd deepinspect/coco/
+python2 coco_deepinspect.py
+```
+
+### Inspect robust COCO gender(COCO dataset with man/woman label) [model]()
+#### Prerequisite
+Python 2.7, numpy-1.16, tqdm-4.41, torch-1.3.1, scikit-learn-0.20.4, matplotlib-2.2.4
+#### Run deepinspect on pre-trained COCO gender model
+```
+cd deepinspect/coco_gender/
+python2 coco_gender_deepinspect.py
+```
+
+
 ### Inspect robust CIFAR-10 [models]()
 #### Prerequisite
 Python 2.7, numpy-1.16, tqdm-4.41, torch-1.3.1, torchsummary
