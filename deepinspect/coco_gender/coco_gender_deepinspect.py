@@ -22,11 +22,10 @@ from data_loader import CocoObject
 from model import MultilabelObject
 
 globalcoverage = [] # [{file, label, layercoverage, yhat}]
+ann_dir = '/home/yuchi/Downloads/cocodataset/annotations'
+image_dir = '/home/yuchi/Downloads/cocodataset/'
 
 def get_id2object():
-    ann_dir = '/home/yuchi/dataset/coco/annotations'
-    image_dir = '/home/yuchi/dataset/coco/'    
-    
     from pycocotools.coco import COCO
 
     ann_path = os.path.join(ann_dir, "instances_train2014.json")
@@ -89,9 +88,6 @@ def get_channel_coverage_group_exp(self, input, output):
     #print(len(globalcoverage[-1]["layercoverage"]))
 
 def get_id2object_pkl():
-    ann_dir = '/home/yuchi/dataset/coco/annotations'
-    image_dir = '/home/yuchi/dataset/coco/'    
-    
     from pycocotools.coco import COCO
 
     ann_path = os.path.join(ann_dir, "instances_train2014.json")
@@ -149,7 +145,7 @@ def get_coverage_test():
                                             pin_memory = True)
     model = MultilabelObject(None, 81).cuda()
     hook_all_conv_layer(model, get_channel_coverage_group_exp)
-    log_dir = "./log/"
+    log_dir = "./"
     log_dir1 =  "/home/yuchi/work/coco/backup"
     checkpoint = torch.load(os.path.join(log_dir, 'model_best.pth.tar'))
     model.load_state_dict(checkpoint['state_dict'])
@@ -191,10 +187,6 @@ def get_coverage_test():
 
 # Get yhats
 def get_yhats_val():
-
-    
-    ann_dir = '/home/yuchi/dataset/coco/annotations'
-    image_dir = '/home/yuchi/dataset/coco/'
     crop_size = 224
     image_size = 256
     batch_size = 16
@@ -221,7 +213,7 @@ def get_yhats_val():
                                             pin_memory = True)
     model = MultilabelObject(None, 81).cuda()
 
-    log_dir = "./log/"
+    log_dir = "./"
     checkpoint = torch.load(os.path.join(log_dir, 'model_best.pth.tar'))
     model.load_state_dict(checkpoint['state_dict'])
 
@@ -301,7 +293,7 @@ def get_yhats_test(confidence=0.5):
                                             pin_memory = True)
     model = MultilabelObject(None, 81).cuda()
 
-    log_dir = "./log/"
+    log_dir = "./"
     checkpoint = torch.load(os.path.join(log_dir, 'model_best.pth.tar'))
     model.load_state_dict(checkpoint['state_dict'])
 
@@ -339,7 +331,7 @@ def get_yhats_test(confidence=0.5):
     preds_object   = torch.cat([entry[1] for entry in res], 0)
     targets_object = torch.cat([entry[2] for entry in res], 0)
     eval_score_object = average_precision_score(targets_object.numpy(), preds_object.numpy())
-    print('\nmean average precision of object classifier on val data is {}\n'.format(eval_score_object))
+    print('\nmean average precision of object classifier on test data is {}\n'.format(eval_score_object))
     
     with open('globalyhats_test.pickle', 'wb') as handle:
         pickle.dump(yhats, handle, protocol=pickle.HIGHEST_PROTOCOL)
@@ -350,10 +342,6 @@ def get_yhats_test(confidence=0.5):
 
 # Get yhats
 def get_yhats_train(confidence=0.5):
-
-    
-    ann_dir = '/home/yuchi/dataset/coco/annotations'
-    image_dir = '/home/yuchi/dataset/coco/'
     crop_size = 224
     image_size = 256
     batch_size = 16
@@ -380,7 +368,7 @@ def get_yhats_train(confidence=0.5):
                                             pin_memory = True)
     model = MultilabelObject(None, 81).cuda()
 
-    log_dir = "./log/"
+    log_dir = "./"
     checkpoint = torch.load(os.path.join(log_dir, 'model_best.pth.tar'))
     model.load_state_dict(checkpoint['state_dict'])
 
@@ -447,7 +435,7 @@ def predict_image(image_file):
     val_transform = get_val_transform()
     img = val_transform(img)
     model = MultilabelObject(None, 81).cuda()
-    log_dir = "./log/"
+    log_dir = "./"
     checkpoint = torch.load(os.path.join(log_dir, 'model_best.pth.tar'))
     model.load_state_dict(checkpoint['state_dict'])
 
@@ -485,8 +473,6 @@ def get_object_id():
 
 
 def deepinspect(sample_10):
-    #compute neuron-feature score
-    #feature->neurons mapping
     total_layers = 53
     with open('globalyhats_test.pickle', 'rb') as handle:
         test_yhats = pickle.load(handle)
@@ -583,9 +569,6 @@ def deepinspect(sample_10):
     for i in xrange(81):
         labels_list.append(id2object[i])
 
-    #compute pairwise distance
-    #distance1 based on probability score
-    #distance2 based on sensitivity score
     distance1 = {}
     for l1 in labels_list:
         for l2 in labels_list:

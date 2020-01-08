@@ -1,7 +1,6 @@
 import math, os, random, json, pickle, sys, pdb, csv, copy
 import string, shutil, time, argparse
 import numpy as np
-
 from sklearn.metrics import average_precision_score
 from sklearn.metrics import roc_auc_score
 from tqdm import tqdm as tqdm
@@ -22,11 +21,10 @@ from data_loader import CocoObject
 from model import MultilabelObject
 
 globalcoverage = [] # [{file, label, layercoverage, yhat}]
+ann_dir = '/home/yuchi/Downloads/cocodataset/annotations'
+image_dir = '/home/yuchi/Downloads/cocodataset/'
 
 def get_id2object():
-    ann_dir = '/home/yuchi/dataset/coco/annotations'
-    image_dir = '/home/yuchi/dataset/coco/'    
-    
     from pycocotools.coco import COCO
 
     ann_path = os.path.join(ann_dir, "instances_train2014.json")
@@ -82,9 +80,6 @@ def get_channel_coverage_group_exp(self, input, output):
     #print(len(globalcoverage[-1]["layercoverage"]))
 
 def get_id2object_pkl():
-    ann_dir = '/home/yuchi/dataset/coco/annotations'
-    image_dir = '/home/yuchi/dataset/coco/'    
-    
     from pycocotools.coco import COCO
 
     ann_path = os.path.join(ann_dir, "instances_train2014.json")
@@ -104,8 +99,6 @@ def get_id2object_pkl():
 #Get coverage of all validating data in train dataset.
 def get_coverage_test():
     global globalcoverage
-    ann_dir = '/local/yuchi/dataset/coco/annotations'
-    image_dir = '/local/yuchi/dataset/coco/'
     crop_size = 224
     image_size = 256
     batch_size = 16
@@ -133,8 +126,7 @@ def get_coverage_test():
                                             pin_memory = True)
     model = MultilabelObject(None, 80).cuda()
     hook_all_conv_layer(model, get_channel_coverage_group_exp)
-    log_dir = "./log/"
-    log_dir1 =  "/home/yuchi/work/coco/backup"
+    log_dir = "./"
     checkpoint = torch.load(os.path.join(log_dir, 'model_best.pth.tar'))
     model.load_state_dict(checkpoint['state_dict'])
 
@@ -176,9 +168,6 @@ def get_coverage_test():
 # Get yhats
 def get_yhats_val():
 
-    
-    ann_dir = '/home/yuchi/dataset/coco/annotations'
-    image_dir = '/home/yuchi/dataset/coco/'
     crop_size = 224
     image_size = 256
     batch_size = 16
@@ -205,7 +194,7 @@ def get_yhats_val():
                                             pin_memory = True)
     model = MultilabelObject(None, 80).cuda()
 
-    log_dir = "./log/"
+    log_dir = "./"
     checkpoint = torch.load(os.path.join(log_dir, 'model_best.pth.tar'))
     model.load_state_dict(checkpoint['state_dict'])
 
@@ -244,21 +233,10 @@ def get_yhats_val():
         pickle.dump(labels, handle, protocol=pickle.HIGHEST_PROTOCOL)
     with open('imagefiles_val.pickle', 'wb') as handle:
         pickle.dump(imagefiles, handle, protocol=pickle.HIGHEST_PROTOCOL)
-    '''
-    with open('globalyhats.pickle', 'rb') as handle:
-        yhats = pickle.load(handle)
-    with open('globallabels.pickle', 'rb') as handle:
-        labels = pickle.load(handle)
-    with open('imagefiles.pickle', 'rb') as handle:
-        imagefiles = pickle.load(handle)
-    '''
 
 # Get yhats
 def get_yhats_test(confidence=0.5):
 
-    
-    ann_dir = '/local/yuchi/dataset/coco/annotations'
-    image_dir = '/local/yuchi/dataset/coco/'
     crop_size = 224
     image_size = 256
     batch_size = 16
@@ -274,7 +252,9 @@ def get_yhats_test(confidence=0.5):
     # Data samplers.
     test_data = CocoObject(ann_dir = ann_dir, image_dir = image_dir, 
         split = 'test', transform = val_transform)
-    image_ids = test_data.image_ids 
+    image_ids = test_data.image_ids
+    print(len(image_ids))
+    exit()
     image_path_map = test_data.image_path_map
     #80 objects
     id2object = test_data.id2object
@@ -285,7 +265,7 @@ def get_yhats_test(confidence=0.5):
                                             pin_memory = True)
     model = MultilabelObject(None, 80).cuda()
 
-    log_dir = "./log/"
+    log_dir = "./"
     checkpoint = torch.load(os.path.join(log_dir, 'model_best.pth.tar'))
     model.load_state_dict(checkpoint['state_dict'])
 
@@ -323,7 +303,7 @@ def get_yhats_test(confidence=0.5):
     preds_object   = torch.cat([entry[1] for entry in res], 0)
     targets_object = torch.cat([entry[2] for entry in res], 0)
     eval_score_object = average_precision_score(targets_object.numpy(), preds_object.numpy())
-    print('\nmean average precision of object classifier on val data is {}\n'.format(eval_score_object))
+    print('\nmean average precision of object classifier on test data is {}\n'.format(eval_score_object))
     
     with open('globalyhats_test.pickle', 'wb') as handle:
         pickle.dump(yhats, handle, protocol=pickle.HIGHEST_PROTOCOL)
@@ -335,9 +315,6 @@ def get_yhats_test(confidence=0.5):
 # Get yhats
 def get_yhats_train(confidence=0.5):
 
-    
-    ann_dir = '/home/yuchi/dataset/coco/annotations'
-    image_dir = '/home/yuchi/dataset/coco/'
     crop_size = 224
     image_size = 256
     batch_size = 16
@@ -364,7 +341,7 @@ def get_yhats_train(confidence=0.5):
                                             pin_memory = True)
     model = MultilabelObject(None, 80).cuda()
 
-    log_dir = "./log/"
+    log_dir = "./"
     checkpoint = torch.load(os.path.join(log_dir, 'model_best.pth.tar'))
     model.load_state_dict(checkpoint['state_dict'])
 
@@ -431,7 +408,7 @@ def predict_image(image_file):
     val_transform = get_val_transform()
     img = val_transform(img)
     model = MultilabelObject(None, 80).cuda()
-    log_dir = "./log/"
+    log_dir = "./"
     checkpoint = torch.load(os.path.join(log_dir, 'model_best.pth.tar'))
     model.load_state_dict(checkpoint['state_dict'])
 
@@ -469,8 +446,7 @@ def get_object_id():
 
 
 def deepinspect(sample_10):
-    #compute neuron-feature score
-    #feature->neurons mapping
+
     total_layers = 53
     with open('globalyhats_test.pickle', 'rb') as handle:
         test_yhats = pickle.load(handle)
@@ -829,8 +805,13 @@ def get_90_csv_files(sample_10):
 
 if __name__ == '__main__':
     get_id2object_pkl()
+    print("run pre-trained model on test data")
     get_yhats_test()
+    print("compute neuron coverage for each test data")
     get_coverage_test()
-    deepinspect(sample_10=[])
-    get_10_csv_files(sample_10=[])
-    get_90_csv_files(sample_10=[])
+    print("compute probability matrix and pairwise object distance")
+    np.random.seed(0)
+    sample_10 = np.random.choice(30504, 3050, replace=False)
+    deepinspect(sample_10=sample_10)
+    get_10_csv_files(sample_10=sample_10)
+    get_90_csv_files(sample_10=sample_10)
