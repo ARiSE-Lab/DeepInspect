@@ -253,8 +253,6 @@ def get_yhats_test(confidence=0.5):
     test_data = CocoObject(ann_dir = ann_dir, image_dir = image_dir, 
         split = 'test', transform = val_transform)
     image_ids = test_data.image_ids
-    print(len(image_ids))
-    exit()
     image_path_map = test_data.image_path_map
     #80 objects
     id2object = test_data.id2object
