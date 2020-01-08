@@ -21,6 +21,7 @@ python3 bias_bugs_estimate_ab_and_acd.py
 python3 bias_bugs_generate_results.py
 ```
 ## 2. DeepInspect
+Generating neuron coverage and computing probability matrix may take longer time. It is recommended to run the CIFAR-10 script if reading DeepInspect first time to get a general idea.
 
 ### Inspect pre-trained COCO model(from [paper](https://arxiv.org/abs/1707.09457))
 #### Prerequisite
