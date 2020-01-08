@@ -53,7 +53,7 @@ python2 cifar10_large_deepinspect.py
 python2 cifar10_resnet_deepinspect.py
 ```
 
-### Inspect CIFAR-100 model ([repo] https://github.com/aaron-xichen/pytorch-playground)
+### Inspect CIFAR-100 model ([repo] (https://github.com/aaron-xichen/pytorch-playground))
 #### Prerequisite
 Python 2.7, numpy-1.16, tqdm-4.41, torch-1.3.1, jupyter
 
