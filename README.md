@@ -47,6 +47,10 @@ python2 coco_deepinspect.py
 ### 2.2. Inspect pre-trained COCO gender(COCO dataset with man/woman label) model (model from [paper](https://arxiv.org/abs/1707.09457))
 #### Prerequisite
 Python 2.7, numpy-1.16, tqdm-4.41, torch-1.3.1, scikit-learn-0.20.4, matplotlib-2.2.4
+
+#### COCO gender dataset structure
+Same as COCO dataset structure
+
 #### Run deepinspect on pre-trained COCO gender model
 ```
 cd deepinspect/coco_gender/
