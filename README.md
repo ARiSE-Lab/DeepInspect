@@ -80,3 +80,15 @@ Python 2.7, numpy-1.16, tqdm-4.41, torch-1.3.1, jupyter
 cd deepinspect/cifar100/
 python2 cifar100_deepinspect.py
 ```
+
+
+### 2.5. Inspect pre-trained ImageNet model for ILSVRC2012 dataaset(model from [torchvision](https://pytorch.org/docs/stable/torchvision/models.html))
+#### Prerequisite
+Python 2.7, numpy-1.16, tqdm-4.41, torch, opencv-python, torchvision, cPickle, Pillow
+
+#### Run deepinspect on ImageNet model
+```
+cd deepinspect/imagenet/
+python2 imagenet_coverage.py
+python2 Imagenet_deepinspect.py
+```
