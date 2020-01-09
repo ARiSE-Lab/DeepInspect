@@ -338,6 +338,6 @@ if __name__ == '__main__':
     
     get_10_csv_files(sample_10=sample_10)
     get_90_csv_files(sample_10=sample_10)
-    read_coverage_dump_probability_test_predicted_90(sample_10=sample_10)
+    deepinspect(sample_10=sample_10)
  
     
