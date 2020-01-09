@@ -23,7 +23,7 @@ python3 bias_bugs_generate_results.py
 ## 2. DeepInspect
 Generating neuron coverage and computing probability matrix may take some time. It is recommended to run the CIFAR-10 script first to get a general idea of DeepInspect, set up the environment and get familiar with the whole workflow. 
 
-Note: neuron coverage for each dataset are only required to compute once, so you can comment the function call(with name like *get_coverage*) in the main function in each script. The neuron coverage is saved into a pickle file with name like "globalcoverage*.pickle". Since it is cumulatively saved to this pickle file, if you need to re-call the get_coverage function again, please remove this pickle file before calling it again.
+Note: neuron coverage for each dataset are only required to compute once, so you can comment out the function call(with name like *get_coverage*) in the main function in each script. The neuron coverage is saved into a pickle file with name like "globalcoverage*.pickle". Since it is cumulatively saved to this pickle file, if you need to re-call the get_coverage function again, please remove this pickle file before calling it again.
 ### 2.1. Inspect pre-trained COCO model (model from [paper](https://arxiv.org/abs/1707.09457))
 #### Prerequisite
 Python 2.7, numpy-1.16, tqdm-4.41, torch-1.3.1, scikit-learn-0.20.4, matplotlib-2.2.4
