@@ -1,0 +1,8162 @@
+objects,count
+man,26147
+outdoors,19367
+person,18547
+woman,18042
+room,12884
+inside,12559
+outside,12296
+people,11367
+hand,10562
+land,4736
+field,3821
+water,3720
+child,3489
+male child,3476
+table,3404
+girl,3100
+street,2894
+kitchen,2661
+road,2268
+dog,2132
+floor,2049
+car,1993
+female child,1934
+body of water,1928
+body,1796
+arm,1783
+grass,1606
+sidewalk,1565
+ocean,1563
+office,1486
+paper,1395
+air,1392
+female,1374
+food,1350
+house,1341
+farm,1322
+baby,1305
+forest,1304
+wall,1282
+sky,1265
+face,1205
+plant,1141
+classroom,1126
+finger,1106
+building,1105
+lake,1090
+wood,1080
+tree,1076
+stage,1073
+head,1056
+boat,1029
+stadium,1014
+family,978
+workshop,962
+airplane,936
+yard,918
+rope,909
+truck,900
+bowl,899
+beach,894
+horse,892
+gymnasium,885
+brush,875
+couple,871
+river,870
+soil,836
+fabric,835
+soldier,832
+rock,819
+cat,799
+knife,798
+shop,793
+bird,790
+leg,771
+hair,741
+playing field,734
+machine,719
+policeman,707
+mouth,705
+bed,690
+living room,687
+box,682
+doctor,681
+flower,678
+student,652
+park,651
+stick,648
+pen,640
+hospital,628
+garden,627
+bathroom,627
+restaurant,614
+football field,611
+old man,604
+ball,603
+desk,588
+racetrack,582
+path,575
+mother,572
+farmer,566
+fish,564
+mountain,559
+snow,554
+teacher,552
+bucket,552
+bottle,552
+sink,550
+ball field,550
+hose,548
+young buck,543
+baseball,539
+bicycle,535
+pot,532
+board,532
+meat,531
+football player,530
+lawn,529
+camera,529
+group,518
+container,516
+tractor,515
+telephone,510
+crowd,506
+book,501
+chair,500
+earth,499
+metallic element,498
+studio,496
+police,496
+back,494
+airport,490
+ballplayer,489
+athlete,489
+foot,483
+dirt,473
+cup,471
+liquid,470
+glass,467
+bedroom,460
+worker,453
+bag,453
+toilet,441
+home,440
+fire,434
+sofa,431
+parking lot,429
+spoon,427
+apparel,426
+neck,424
+pencil,412
+plaything,411
+door,409
+leaf,407
+pool,406
+cellular telephone,406
+old woman,403
+needle,402
+factory,402
+football,395
+runway,391
+lip,391
+toddler,388
+paint,387
+work force,386
+pond,384
+glue,384
+backyard,384
+pipe,377
+pan,377
+vegetable,369
+pier,368
+branch,366
+city,365
+fingernail,360
+adolescent,354
+torso,347
+trail,345
+swimming pool,343
+sand,343
+salon,339
+audience,339
+alloy,339
+garage,337
+animal,334
+soccer player,332
+shoulder,330
+screwdriver,328
+church,323
+baseball diamond,321
+plate,320
+bread,320
+rug,319
+fruit,318
+eye,315
+scraper,314
+cameraman,312
+weight,311
+towel,311
+gun,310
+chopping board,309
+dough,307
+shore,304
+computer,304
+window,303
+money,303
+nail,301
+painting,298
+crane,298
+cart,297
+tape,296
+pole,296
+hammer,295
+team,289
+laptop,289
+crop,289
+wool,288
+jet,287
+daughter,285
+mud,281
+fist,281
+son,278
+cheek,277
+artist,276
+pitcher,272
+syringe,270
+chef,270
+vehicle,269
+clinic,269
+vacuum,268
+school,266
+singer,265
+father,263
+ship,261
+sheep,260
+shrub,258
+milk,256
+roof,255
+cow,254
+countertop,254
+shirt,253
+hill,253
+faucet,252
+barn,251
+sea,250
+bar,250
+library,249
+trailer,248
+sprinkler,248
+mat,242
+lion,242
+chicken,241
+shovel,239
+screw,238
+dining room,237
+basketball court,237
+grocery store,236
+cook,235
+desert,234
+thread,233
+soap,233
+tent,232
+male,232
+drill,232
+fence,231
+clothing,230
+patio,227
+apple,225
+prey,223
+statue,222
+snake,222
+pump,222
+nurse,221
+businessman,221
+batter,221
+player,220
+driver,220
+lab,219
+President of the United States,219
+patient,217
+surfboard,214
+paintbrush,214
+wire,213
+puppy,213
+paw,213
+shelf,212
+keyboard,212
+shoe,211
+nose,211
+cyclist,211
+skin,210
+adult,210
+surfer,209
+stairs,207
+dentition,207
+hallway,204
+stove,203
+market,202
+key,201
+driveway,201
+pile,199
+cement,199
+warehouse,197
+parachute,197
+drum,197
+concert,197
+sponge,196
+scale,196
+homo,196
+wheel,192
+rag,192
+blowtorch,190
+limb,189
+marker,188
+fireman,188
+skydiver,186
+document,186
+clipper,186
+race,185
+handcart,185
+cliff,185
+broom,185
+lotion,184
+log,184
+train,183
+runner,183
+scissors,181
+plow,181
+tabletop,179
+sewing machine,179
+dish,178
+counter,178
+wave,177
+owner,177
+boxer,177
+jar,176
+hook,176
+deer,176
+court,176
+cake,176
+frying pan,175
+stream,174
+mime,174
+bathtub,174
+feline,173
+basketball player,173
+wing,172
+dwelling,172
+block,172
+space,170
+lass,170
+brow,170
+bee,170
+ribbon,169
+middle-aged man,169
+dancer,169
+coin,168
+vent,167
+tank,167
+tire,166
+engine,166
+priest,165
+boxing ring,165
+grain,164
+egg,163
+voice,162
+welder,161
+power shovel,161
+rifle,160
+white water,159
+stomach,159
+plain,159
+massager,157
+duck,157
+goat,156
+bullet,156
+plastic,155
+deck,155
+harvester,154
+eagle,154
+concrete,154
+flag,153
+conference room,153
+casino,153
+side,152
+rubbish,152
+nozzle,152
+drumstick,151
+sauce,150
+coffee,150
+wheat,148
+tube,148
+sharpener,148
+slope,147
+chip,147
+bus,147
+gasoline station,146
+track,145
+class,145
+tool,144
+lock,144
+ice rink,144
+highway,144
+demonstrator,143
+tiger,142
+shears,141
+wagon,140
+string,140
+dustcloth,140
+bulldozer,140
+wedding,139
+grinding wheel,139
+can,139
+breast,139
+toothbrush,138
+thorax,138
+cattle,138
+abdomen,138
+wrench,137
+wine,137
+tile,137
+soccer ball,137
+newspaper,137
+customer,135
+rocket,134
+hay,134
+drug,134
+corn,134
+walk,133
+seed,133
+cash,133
+surface,132
+parent,132
+music,132
+sword,131
+swing,131
+swimmer,131
+potato,131
+medicine,131
+lawn mower,131
+bear,131
+strap,130
+rice,130
+recording studio,130
+military personnel,130
+dinghy,130
+ice,129
+doorway,129
+beer,129
+opposition,128
+kitten,128
+tongue,127
+porch,127
+construction worker,127
+cord,126
+home plate,125
+ceiling,125
+basket,125
+truck bed,124
+nut,124
+lady,123
+fishing rod,123
+scrub brush,122
+pesticide,122
+orange,122
+actor,122
+trailer truck,121
+monkey,121
+marching band,121
+dais,121
+auditorium,121
+spatula,120
+smoke,120
+insect,120
+drawing,120
+nail polish,119
+rod,118
+ring,118
+match,118
+bug,118
+barbell,118
+racer,117
+hall,117
+colleague,117
+health spa,116
+chin,115
+station,114
+soup,114
+seat belt,114
+push button,114
+launching pad,114
+coach,114
+waist,113
+serviceman,113
+outer space,113
+hunter,113
+bridge,113
+tomato,112
+skier,112
+brook,112
+blanket,112
+tail,111
+plaza,111
+motorcycle,111
+makeup,111
+lumber,111
+hole,111
+comb,111
+trunk,110
+self,110
+scientist,110
+injury,110
+gas pump,110
+curate,110
+cream,110
+tub,109
+tray,109
+palm,109
+ear,109
+claw,109
+bench,109
+basketball,109
+ashcan,109
+pilot,108
+handle,108
+glove,108
+decoration,108
+volcano,107
+toothpaste,107
+theater,107
+net,107
+harness,107
+drink,107
+cheetah,107
+adversary,107
+wife,106
+unknown,106
+shaving cream,106
+contest,106
+barroom,106
+thumb,105
+object,105
+human body,105
+fox,105
+candle,105
+brick,105
+teammate,104
+microphone,104
+cigarette,104
+bone,104
+baggage,104
+television camera,103
+scoop,103
+razor,103
+pavement,103
+menagerie,103
+clothesline,103
+steering wheel,102
+musician,102
+lava,102
+band,102
+shower,101
+hospital room,101
+railway station,100
+manicurist,100
+light,100
+hand tool,100
+grinder,100
+cargo,100
+Black man,100
+motorboat,99
+jockey,99
+guitar,99
+whale,98
+staple gun,98
+garbage,98
+football stadium,98
+employee,98
+wolf,97
+wallpaper,97
+song,97
+husband,97
+cookie,97
+bull,97
+art,97
+whip,96
+storage,96
+stage set,96
+spout,96
+produce,96
+bin,96
+seat,95
+screen,95
+range,95
+passerby,95
+mortar,95
+miner,95
+beam,95
+trowel,94
+sun,94
+fork,94
+ballot box,94
+pruning shears,93
+parade,93
+oil,93
+ice hockey rink,93
+forklift,93
+chain,93
+balloon,93
+stairway,92
+sheet,92
+rabbit,92
+cotton,92
+center,92
+wheelchair,91
+ski slope,91
+referee,91
+elephant,91
+bottom,91
+sport utility,90
+sailboat,90
+leopard,90
+golf course,90
+gasoline,90
+game,90
+concert hall,90
+chisel,90
+car seat,90
+buttocks,90
+helicopter,89
+hawk,89
+town,88
+tea,88
+stethoscope,88
+reporter,88
+pistol,88
+photographer,88
+length,88
+kayak,88
+ice cream,88
+cultivator,88
+butter,88
+atomizer,88
+screen actor,87
+party,87
+pad,87
+notebook,87
+frosting,87
+baby buggy,87
+advice,87
+wrist,86
+fur,86
+ceremony,86
+binoculars,86
+suspect,85
+front yard,85
+debris,85
+cafe,85
+wayside,84
+stapler,84
+rooftop,84
+railing,84
+oven,84
+meter,84
+lighter,83
+backhoe,83
+stalk,82
+squirrel,82
+rectangle,82
+post,82
+device,82
+branchlet,82
+power saw,81
+mine,81
+line,81
+file,81
+combatant,81
+canoe,81
+salad,80
+preacher,80
+base,80
+swab,79
+sign,79
+pizza,79
+hitch,79
+hat,79
+cheese,79
+caulk,79
+business people,79
+bookshelf,79
+bandage,79
+washcloth,78
+savanna,77
+massage parlor,77
+lever,77
+leash,77
+jug,77
+jeep,77
+igniter,77
+hog,77
+hockey player,77
+crate,77
+congregation,77
+cemetery,77
+berry,77
+ramp,76
+masher,76
+fireplace,76
+dress,76
+conference,76
+cockpit,76
+button,76
+van,75
+sculpture,75
+nothing,75
+ice skate,75
+card,75
+water faucet,74
+structure,74
+gardener,74
+diver,74
+cardboard,74
+bat,74
+ballroom,74
+young person,73
+wine bottle,73
+rider,73
+rain,73
+knee,73
+grocery,73
+fire hose,73
+baseball bat,73
+veterinarian,72
+suit,72
+sack,72
+rack,72
+president,72
+politician,72
+pit,72
+pincer,72
+part,72
+military officer,72
+maul,72
+furniture,72
+dumbbell,72
+dance floor,72
+crowbar,72
+credit card,72
+cable,72
+biceps,72
+barrow,72
+automobile mechanic,72
+package,71
+mouse,71
+monitor,71
+marriage,71
+fountain,71
+cloud,71
+cage,71
+Black woman,71
+step,70
+raft,70
+playground,70
+meeting,70
+hamburger,70
+funeral,70
+catcher,70
+calf,70
+bookshop,70
+spindle,69
+pestle,69
+pastry,69
+kitchen table,69
+instrument,69
+coal,69
+cave,69
+wilderness,68
+spot-welder,68
+sandwich,68
+rink,68
+putty knife,68
+piggy bank,68
+guy,68
+grassland,68
+fingertip,68
+crayon,68
+chocolate,68
+bolt,68
+shell,67
+scuba diver,67
+picture,67
+pasture,67
+laundry,67
+bow,67
+barrel,67
+anteroom,67
+sail,66
+pulley,66
+pliers,66
+peg,66
+nature,66
+missile,66
+light bulb,66
+hoe,66
+hiker,66
+chalk,66
+bomb,66
+bean,66
+vase,65
+shoelace,65
+mirror,65
+hurdle,65
+hoof,65
+garden hose,65
+blackboard,65
+waterfall,64
+torch,64
+tennis court,64
+professor,64
+none,64
+mug,64
+hairbrush,64
+gravel,64
+conservatory,64
+wrestler,63
+tiara,63
+temple,63
+shredder,63
+show,63
+owl,63
+merchandise,63
+machinery,63
+cabinet,63
+ax,63
+watering can,62
+steak,62
+roadway,62
+prisoner,62
+metro,62
+jungle,62
+electronic device,62
+beautician,62
+toast,61
+shotgun,61
+punch,61
+pumpkin,61
+power tool,61
+platform,61
+passenger,61
+hotdog,61
+hoist,61
+hillside,61
+grape,61
+girlfriend,61
+belt,61
+vine,60
+top,60
+tennis ball,60
+target,60
+reading,60
+mound,60
+memorial,60
+bride,60
+workbench,59
+weed,59
+soccer,59
+sled,59
+shark,59
+rule,59
+rose,59
+onion,59
+letter,59
+killer whale,59
+jump rope,59
+greenhouse,59
+grave,59
+frame,59
+curling iron,59
+canvas,59
+bread dough,59
+backpack,59
+alley,59
+wooden spoon,58
+waiter,58
+undertaking,58
+power drill,58
+pickup,58
+flour,58
+elevator,58
+dining table,58
+boyfriend,58
+arts and crafts,58
+shingle,57
+scalpel,57
+pasta,57
+parachutist,57
+machinist,57
+cookie sheet,57
+collar,57
+writing,56
+supermarket,56
+snowplow,56
+rocking chair,56
+powder,56
+museum,56
+jacket,56
+inch,56
+illness,56
+dump truck,56
+domestic ass,56
+dance,56
+butter knife,56
+Crown,56
+steel,55
+square,55
+property,55
+plaster,55
+piano,55
+peeler,55
+necktie,55
+napkin,55
+motorcyclist,55
+kitchen sink,55
+honey,55
+float,55
+envelope,55
+elder,55
+dip,55
+carrot,55
+beaker,55
+yoga,54
+word,54
+window frame,54
+tissue,54
+straw,54
+slide,54
+skeleton,54
+penguin,54
+midair,54
+juice,54
+horse race,54
+golfer,54
+dummy,54
+dolphin,54
+chemical,54
+chain saw,54
+blade,54
+banana,54
+vaccine,53
+tiller,53
+shaver,53
+pick,53
+pea,53
+model,53
+lamp,53
+hedge,53
+gas tank,53
+cartoon,53
+tightening,52
+spray,52
+seal,52
+lioness,52
+gathering,52
+fisherman,52
+fire extinguisher,52
+eyesight,52
+elbow,52
+butterfly,52
+beehive,52
+beard,52
+spreader,51
+pillow,51
+photograph,51
+performer,51
+nipple,51
+lemon,51
+grove,51
+deflector,51
+cleansing agent,51
+blood,51
+batch,51
+assault rifle,51
+sphere,50
+sound,50
+shampoo,50
+saw,50
+ram,50
+paint roller,50
+musical instrument,50
+measuring cup,50
+hand blower,50
+equipment,50
+country,50
+brewery,50
+beverage,50
+bark,50
+baker,50
+American flag,50
+young,49
+wheatfield,49
+spray gun,49
+roller,49
+plug,49
+knob,49
+heat,49
+gate,49
+frost,49
+frog,49
+construction paper,49
+clay,49
+car door,49
+candy,49
+baseball glove,49
+shed,48
+lettuce,48
+ladder,48
+herb,48
+headset,48
+gull,48
+gallery,48
+exterior door,48
+doll,48
+bongo,48
+baton,48
+seashore,47
+railroad track,47
+poster,47
+lizard,47
+donkey,47
+combine,47
+club,47
+celebration,47
+cap,47
+booklet,47
+alcohol,47
+air pump,47
+strawberry,46
+spinal column,46
+sample,46
+salt,46
+railway,46
+pin,46
+height,46
+goalkeeper,46
+dissenter,46
+corkscrew,46
+construction,46
+basement,46
+aquarium,46
+ant,46
+punter,45
+protest,45
+mill,45
+goose,45
+cigar lighter,45
+buckle,45
+American bison,45
+wall socket,44
+thresher,44
+livingroom suite,44
+leader,44
+jaw,44
+horseman,44
+grill,44
+contract,44
+charcoal,44
+battery,44
+bank,44
+vaulter,43
+trainer,43
+thigh,43
+site,43
+panel,43
+paddy,43
+number,43
+ladle,43
+javelin,43
+cocoa,43
+chipmunk,43
+cashier,43
+beef,43
+baptismal font,43
+arrow,43
+airfield,43
+wings,42
+toy,42
+sewing needle,42
+pepper,42
+lecture room,42
+leather,42
+hilltop,42
+highchair,42
+hay bale,42
+hairdresser,42
+grater,42
+golf club,42
+gas,42
+dentist,42
+coral,42
+cheerleader,42
+boodle,42
+beak,42
+village,41
+stable,41
+present,41
+polling place,41
+plastic bag,41
+ink,41
+gift,41
+footrace,41
+epoxy,41
+cougar,41
+conveyer belt,41
+campsite,41
+boxing glove,41
+antelope,41
+water bottle,40
+tricycle,40
+stretcher,40
+stone,40
+scarf,40
+pottery,40
+picture frame,40
+perspiration,40
+ma,40
+lipstick,40
+lid,40
+hospital bed,40
+guard,40
+friend,40
+dinner,40
+dessert,40
+crib,40
+businesswoman,40
+buck,40
+amusement park,40
+Earth,40
+turkey,39
+tennis player,39
+spice,39
+sealant,39
+red,39
+pulse,39
+pain,39
+gym shoe,39
+football team,39
+flood,39
+festival,39
+farmer's market,39
+education,39
+cutter,39
+circuit,39
+carriage,39
+camera angle,39
+cafeteria,39
+white man,38
+watch,38
+walking stick,38
+shaving foam,38
+scalp,38
+performance,38
+ice bear,38
+framework,38
+formula,38
+form,38
+eyelid,38
+elk,38
+drain,38
+dolphinfish,38
+clothing store,38
+canister,38
+bus stop,38
+bay,38
+ash,38
+airstrip,38
+aid,38
+aged,38
+wok,37
+triangle,37
+trampoline,37
+switch,37
+stump,37
+stall,37
+skateboard,37
+putty,37
+prawn,37
+mosquito,37
+measuring stick,37
+luggage compartment,37
+go-kart,37
+entrance,37
+disk,37
+crown,37
+camper,37
+blood pressure,37
+belonging,37
+aerosol,37
+White House,37
+wineglass,36
+whisk,36
+stuffing,36
+seaport,36
+rake,36
+planter,36
+paste,36
+operating room,36
+marsh,36
+liquor,36
+land line,36
+hip,36
+hedge trimmer,36
+groom,36
+doorframe,36
+desktop computer,36
+dancing,36
+corner,36
+clamp,36
+circuit board,36
+cabaret,36
+bodybuilder,36
+bakery,36
+wax,35
+vote,35
+tooth,35
+sugar,35
+recreational vehicle,35
+power cord,35
+poker,35
+open-air market,35
+nest,35
+mast,35
+janitor,35
+garlic,35
+eyebrow,35
+enclosure,35
+edge,35
+drummer,35
+drum sander,35
+display,35
+degree,35
+cowboy,35
+carnival,35
+ankle,35
+zebra,34
+windshield,34
+well,34
+touch screen,34
+tortilla,34
+surgeon,34
+sphygmomanometer,34
+rugby,34
+painter,34
+operator,34
+lap,34
+lamb,34
+hypodermic syringe,34
+gymnast,34
+french fries,34
+fan,34
+cub,34
+bowling pin,34
+bouquet,34
+actress,34
+Frisbee,34
+workplace,33
+tourist,33
+starship,33
+singing,33
+rat,33
+pouch,33
+physical therapy,33
+microscope,33
+lounge,33
+knot,33
+heart,33
+gauze,33
+flagpole,33
+feather,33
+ember,33
+dock,33
+design,33
+department store,33
+criminal,33
+cargo container,33
+camel,33
+cadaver,33
+birthday,33
+asphalt,33
+air hammer,33
+Dumpster,33
+urinal,32
+track meet,32
+touch,32
+tarpaulin,32
+pruner,32
+paramedic,32
+organ,32
+lakeside,32
+hovel,32
+horn,32
+gurney,32
+flower arrangement,32
+event,32
+dishwasher,32
+curtain,32
+coat,32
+circumference,32
+butcher knife,32
+blueprint,32
+windowpane,31
+white woman,31
+water buffalo,31
+venue,31
+turtle,31
+tow truck,31
+stop,31
+spinning wheel,31
+riverbank,31
+rear,31
+punching bag,31
+pocket,31
+pill,31
+paper towel,31
+meal,31
+marketplace,31
+mammal,31
+jam,31
+golf ball,31
+gap,31
+fluid,31
+compact disk,31
+clasp,31
+case,31
+carton,31
+balcony,31
+washbasin,30
+temperature,30
+teens,30
+talk,30
+spectator,30
+socket,30
+run,30
+ridge,30
+nostril,30
+motor,30
+motion-picture camera,30
+jean,30
+interview,30
+information,30
+hand glass,30
+gear,30
+crusher,30
+crew,30
+circle,30
+carpenter,30
+campfire,30
+bunny,30
+aroma,30
+yacht,29
+victory,29
+steam,29
+service,29
+right,29
+rancher,29
+puzzle,29
+pope,29
+polish,29
+plumbing,29
+pitch,29
+peanut,29
+operation,29
+movie,29
+mixing bowl,29
+megaphone,29
+loaf of bread,29
+lace,29
+hoop,29
+handshake,29
+greens,29
+goal,29
+firewood,29
+drygoods,29
+cupcake,29
+choir,29
+buffet,29
+boulder,29
+bison,29
+automaton,29
+wrestling ring,28
+weightlifter,28
+violin,28
+umbrella,28
+technician,28
+subway station,28
+spear,28
+snout,28
+sitting,28
+prison,28
+pie,28
+peach,28
+pathway,28
+passenger car,28
+neighborhood,28
+loom,28
+llama,28
+jewelry,28
+iron,28
+insecticide,28
+homeless,28
+grout,28
+gold,28
+front,28
+foundation,28
+foam,28
+fishnet,28
+ferry,28
+farmland,28
+drawer,28
+cushion,28
+cruiser,28
+crab,28
+cast,28
+card table,28
+camper trailer,28
+bridal gown,28
+bobcat,28
+blue,28
+bait,28
+astronaut,28
+wind,27
+width,27
+vessel,27
+traffic,27
+television,27
+strip,27
+stoop,27
+stirrer,27
+sausage,27
+sapling,27
+saliva,27
+riding mower,27
+refrigerator,27
+ranch,27
+public toilet,27
+public square,27
+power mower,27
+noodle,27
+mallet,27
+magazine,27
+legs,27
+launcher,27
+landscape,27
+jail,27
+impression,27
+hotel,27
+gravity,27
+forearm,27
+flatbed,27
+detective,27
+cruise ship,27
+clip,27
+champagne,27
+canyon,27
+booth,27
+beaver,27
+beast,27
+barber,27
+army,27
+air cushion,27
+windowsill,26
+whetstone,26
+vineyard,26
+tunnel,26
+teapot,26
+stuff,26
+spring,26
+space shuttle,26
+red carpet,26
+puck,26
+press conference,26
+paddle,26
+noise,26
+kabob,26
+gauge,26
+explosion,26
+exercise,26
+doorknob,26
+disk drive,26
+dad,26
+curb,26
+cow pen,26
+computer keyboard,26
+cash machine,26
+cab,26
+bow and arrow,26
+bottle opener,26
+boot,26
+bonfire,26
+blazer,26
+automatic rifle,26
+armpit,26
+wrestling mat,25
+vegetation,25
+treadmill,25
+toe,25
+speaker,25
+siding,25
+shopping cart,25
+seller,25
+rodent,25
+quarterback,25
+pop,25
+play,25
+pancake,25
+nurse practitioner,25
+mushroom,25
+monk,25
+left,25
+hinge,25
+grillroom,25
+fit,25
+figurine,25
+coloring book,25
+cereal,25
+blue sky,25
+barnyard,25
+barbecue,25
+award,25
+watermelon,24
+thermometer,24
+telescope,24
+teamster,24
+teacup,24
+syrup,24
+strainer,24
+scribble,24
+plot,24
+plier,24
+otter,24
+necklace,24
+lobster,24
+koala,24
+hyena,24
+hot-air balloon,24
+ground,24
+grandma,24
+garbage heap,24
+cylinder,24
+competition,24
+coffee cup,24
+coffee bean,24
+cigar,24
+chute,24
+check,24
+butcher,24
+bomber,24
+basin,24
+barge,24
+badge,24
+arena,24
+aircraft carrier,24
+air terminal,24
+adhesive material,24
+watchman,23
+waitress,23
+volume,23
+submarine,23
+storehouse,23
+stool,23
+squash,23
+sprinter,23
+sport,23
+skirt,23
+signal,23
+sheet metal,23
+sculptor,23
+salmon,23
+rail,23
+police station,23
+plywood,23
+pheasant,23
+oldster,23
+nailfile,23
+milking machine,23
+material,23
+martial art,23
+jaguar,23
+honeycomb,23
+healthcare,23
+funnel,23
+end,23
+clock,23
+circular,23
+breathing,23
+atmosphere,23
+artwork,23
+White,23
+wiring,22
+wallboard,22
+view,22
+utensil,22
+trimmer,22
+sunlight,22
+stairwell,22
+spectacles,22
+softball,22
+rioter,22
+rim,22
+repair,22
+pulp,22
+pressure,22
+pony,22
+peak,22
+pane,22
+ocean floor,22
+lecture,22
+kid,22
+karate,22
+handkerchief,22
+garment,22
+fly,22
+flesh,22
+eyes,22
+eyelash,22
+excavator,22
+energy,22
+domestic cat,22
+dolly,22
+coyote,22
+corncob,22
+column,22
+cargo area,22
+burner,22
+building complex,22
+boy,22
+bartender,22
+barbershop,22
+archer,22
+applicator,22
+applicant,22
+QWERTY keyboard,22
+Christmas bush,22
+CPU board,22
+volleyball player,21
+volleyball court,21
+test tube,21
+tennis racket,21
+tailor,21
+swan,21
+swamp,21
+subway train,21
+stranger,21
+spaghetti,21
+spade,21
+shot,21
+seawater,21
+saucer,21
+rubber,21
+root,21
+press,21
+peanut butter,21
+pea pod,21
+pallet,21
+orchestra,21
+opening,21
+mill-hand,21
+meditation,21
+mannequin,21
+mammary gland,21
+lunch,21
+kitchen garden,21
+kettle,21
+kernel,21
+insulating material,21
+horseback,21
+health,21
+giraffe,21
+front porch,21
+fighter,21
+drop,21
+drill rig,21
+cracker,21
+cornfield,21
+computer game,21
+comforter,21
+cognition,21
+chart,21
+celery,21
+camp,21
+cabbage,21
+bun,21
+beer bottle,21
+bead,21
+bald eagle,21
+Christmas tree,21
+wild boar,20
+whistle,20
+waterway,20
+water pump,20
+water hole,20
+washer,20
+vulture,20
+varnish,20
+sludge,20
+sewing room,20
+scene,20
+rodeo,20
+plastic wrap,20
+paper money,20
+optometrist,20
+ocean trip,20
+oarsman,20
+muscle,20
+mind,20
+mathematics,20
+mask,20
+latch,20
+jigsaw puzzle,20
+interviewer,20
+hands,20
+gazelle,20
+eyeliner,20
+dump,20
+drugstore,20
+drill press,20
+dove,20
+dinner table,20
+dial,20
+dam,20
+curler,20
+connection,20
+cone,20
+computer monitor,20
+compost,20
+clearing,20
+cherry,20
+celebrity,20
+bumper,20
+buffer,20
+bicycle race,20
+battlefield,20
+Styrofoam,20
+victim,19
+valve,19
+tugboat,19
+tightness,19
+terrorist,19
+tarmacadam,19
+stack,19
+sprinkler system,19
+sponge cloth,19
+sloth,19
+short ribs,19
+shopfront,19
+shooting gallery,19
+saunterer,19
+rhinoceros,19
+resort hotel,19
+mustache,19
+molding,19
+miniature,19
+military,19
+measuring instrument,19
+marathon,19
+librarian,19
+ledge,19
+kangaroo,19
+hobby,19
+gummed label,19
+guitarist,19
+electronics,19
+distance,19
+direction,19
+desktop,19
+depository financial institution,19
+convention,19
+clown,19
+chimpanzee,19
+carcase,19
+bullhorn,19
+bill,19
+barrier,19
+banner,19
+bamboo,19
+ballot,19
+avocado,19
+antler,19
+alumnus,19
+Mass,19
+work,18
+uniform,18
+turf,18
+trouser,18
+teddy,18
+talon,18
+stylus,18
+star,18
+standing,18
+spray paint,18
+ski,18
+skate,18
+shrimp,18
+robber,18
+rally,18
+radio,18
+plating,18
+parrot,18
+palette,18
+office building,18
+mixer,18
+map,18
+mailbox,18
+jersey,18
+hood,18
+honeybee,18
+hide,18
+helmet,18
+hammock,18
+golfcart,18
+giant panda,18
+forceps,18
+fishing line,18
+fireplug,18
+fat,18
+farmhand,18
+electricity,18
+deep,18
+control panel,18
+coffin,18
+cocoon,18
+coconut,18
+chocolate sauce,18
+change,18
+cane,18
+canal,18
+boardroom,18
+bloomers,18
+base metal,18
+airdock,18
+Indian,18
+wrapping,17
+wound,17
+worsted,17
+veteran,17
+valley,17
+trail bike,17
+tower,17
+toenail,17
+stoker,17
+sports fan,17
+sniper rifle,17
+slicer,17
+skyscraper,17
+ski resort,17
+shelter,17
+sewer,17
+semiautomatic pistol,17
+sailor,17
+remote control,17
+public,17
+presenter,17
+popcorn,17
+plumber,17
+plow horse,17
+peel,17
+padlock,17
+opinion,17
+note,17
+mounter,17
+maid,17
+kennel,17
+injection,17
+ice water,17
+holding pen,17
+handlebar,17
+hand drill,17
+garbage truck,17
+foreman,17
+flavorer,17
+flab,17
+firework,17
+fertilizer,17
+dirt track,17
+course,17
+contribution,17
+contact,17
+chewing gum,17
+bubble,17
+brass,17
+basis,17
+apple tree,17
+animal foot,17
+alpaca,17
+alligator,17
+writer,16
+worm,16
+woodwork,16
+terminal,16
+surprise,16
+supply,16
+staff,16
+soldering iron,16
+ski run,16
+sketch,16
+sister,16
+signboard,16
+seafood,16
+resort area,16
+repair shop,16
+pumpkin seed,16
+pull,16
+preteen,16
+potato yellow-dwarf virus,16
+port,16
+plantation,16
+physical rehabilitation,16
+phial,16
+palace,16
+page,16
+mob,16
+matchbox,16
+mascara,16
+mail,16
+magnifier,16
+machine gun,16
+lung,16
+lollipop,16
+locker room,16
+kick,16
+inner tube,16
+ingredient,16
+hosiery,16
+graduation,16
+geyser,16
+flowerbed,16
+flashlight,16
+fishing boat,16
+field house,16
+feed,16
+emery paper,16
+egg yolk,16
+dye,16
+duckling,16
+defendant,16
+current,16
+college student,16
+climber,16
+clam,16
+citizenry,16
+cinema,16
+cinder block,16
+cell,16
+catch,16
+carving,16
+cabin,16
+biscuit,16
+basketball team,16
+ballerina,16
+attendant,16
+air conditioner,16
+throw,15
+therapist,15
+support,15
+stylist,15
+squeegee,15
+speedboat,15
+spackle,15
+source,15
+socket wrench,15
+shear,15
+sewing,15
+riding,15
+racehorse,15
+proboscis,15
+portrait,15
+police matron,15
+pharmacist,15
+outboard motorboat,15
+otoscope,15
+obstacle race,15
+mover,15
+mattress,15
+matchstick,15
+masseuse,15
+mango,15
+livestock,15
+item,15
+interface,15
+hurdles,15
+host,15
+hair dye,15
+graph,15
+gnu,15
+flock,15
+felt-tip pen,15
+feedback,15
+falcon,15
+eyeshadow,15
+explosive device,15
+dugout,15
+dropper,15
+dressmaker,15
+downhill,15
+doughnut,15
+cooking utensil,15
+contestant,15
+coating,15
+care,15
+captain,15
+canal boat,15
+bull's eye,15
+botulinum toxin A,15
+boardwalk,15
+blind,15
+blender,15
+area,15
+ape,15
+aim,15
+Santa Claus,15
+Bush,15
+wreath,14
+worktable,14
+water heater,14
+voltmeter,14
+voltage,14
+volleyball,14
+upholstery,14
+trimming,14
+time,14
+tension,14
+teller,14
+television program,14
+tap wrench,14
+sweater,14
+sugarcane,14
+staple,14
+size,14
+seedling,14
+scenery,14
+saucepan,14
+rumpus room,14
+project,14
+potter,14
+perfume,14
+pelvis,14
+parsley,14
+nowhere,14
+motor oil,14
+mineshaft,14
+lion cub,14
+lesson,14
+lemur,14
+insignia,14
+housewife,14
+hot tub,14
+green,14
+grease,14
+giant,14
+fuel,14
+fang,14
+fair,14
+evidence,14
+dust,14
+duct tape,14
+dryer,14
+dress shirt,14
+doorlock,14
+dollar,14
+ditch,14
+diner,14
+digger,14
+depth,14
+cucumber,14
+crocodile,14
+countryside,14
+cooler,14
+computer screen,14
+comfort,14
+cobble,14
+clean room,14
+chimney,14
+campus,14
+calculator,14
+brassiere,14
+boss,14
+binder,14
+belly,14
+banquet,14
+bannister,14
+auto part,14
+alignment,14
+acting,14
+Oval Office,14
+wrestling match,13
+winery,13
+weeder,13
+voting booth,13
+vicinity,13
+vegetable oil,13
+university,13
+underwear,13
+tuner,13
+trough,13
+ticket,13
+television reporter,13
+tear,13
+stretch,13
+sprout,13
+snail,13
+slot machine,13
+skateboarder,13
+sickle,13
+shotgun shell,13
+sheath,13
+shaker,13
+school bus,13
+sadness,13
+receiver,13
+rapper,13
+purple,13
+provision,13
+production line,13
+prairie,13
+pink,13
+pigeon,13
+piece,13
+petal,13
+personal computer,13
+pepper spray,13
+paper plate,13
+notepad,13
+mulch,13
+mosque,13
+minivan,13
+mercantile establishment,13
+measurement,13
+mascot,13
+marksman,13
+mark,13
+lifting device,13
+lapel,13
+lantern,13
+lancet,13
+knit,13
+judge,13
+hummingbird,13
+hotel room,13
+guest,13
+grid,13
+grate,13
+gorilla,13
+golf,13
+flower garden,13
+filling,13
+fictional character,13
+environment,13
+engineer,13
+electric refrigerator,13
+dustmop,13
+dog food,13
+doe,13
+data,13
+cymbal,13
+cover,13
+constriction,13
+compound,13
+color,13
+cloth covering,13
+cheeseburger,13
+cargo ship,13
+car window,13
+cactus,13
+brown,13
+bricks and mortar,13
+bracelet,13
+black,13
+bell pepper,13
+beads,13
+barbecued spareribs,13
+baby doctor,13
+appliance,13
+angle,13
+aircraft,13
+Savannah,13
+Jesus,13
+India,13
+Black,13
+whipped cream,12
+wallet,12
+volunteer,12
+tundra,12
+tortilla chip,12
+toothpick,12
+tomato sauce,12
+toilet tissue,12
+swimming,12
+sweet pepper,12
+sunflower,12
+streetcar,12
+stamp,12
+sporting man,12
+solder,12
+soda can,12
+sock,12
+sleeve,12
+rapid,12
+public house,12
+populace,12
+plan,12
+place,12
+pie crust,12
+packet,12
+orange juice,12
+oar,12
+nun,12
+mule,12
+mobile home,12
+merchant,12
+medical instrument,12
+manta,12
+machete,12
+loudspeaker,12
+loofa,12
+loft,12
+journalist,12
+ingot,12
+icepick,12
+holder,12
+hippopotamus,12
+ham,12
+glitter,12
+furnace,12
+foundry,12
+food processor,12
+florist,12
+floater,12
+fire engine,12
+eyeball,12
+dumpling,12
+drone,12
+display panel,12
+dart,12
+dairy,12
+courthouse,12
+concern,12
+coal mine,12
+clergyman,12
+chiropractor,12
+chili,12
+chick,12
+chest of drawers,12
+caterpillar,12
+caribou,12
+carafe,12
+call,12
+businessmen,12
+buoy,12
+broadcasting studio,12
+breakfast,12
+bracket,12
+bleachers,12
+bell,12
+battleship,12
+baseboard,12
+ballpark,12
+bacon,12
+audio,12
+assembly hall,12
+apparatus,12
+apartment,12
+ambulance,12
+Sharpie,12
+Rollerblade,12
+Africa,12
+zucchini,11
+yellow,11
+yak,11
+wrapping paper,11
+wrap,11
+workman,11
+water jug,11
+tug-of-war,11
+trophy,11
+torque wrench,11
+tornado,11
+tobacco,11
+tag,11
+taco,11
+stripper,11
+straight razor,11
+spacecraft,11
+solar array,11
+soapsuds,11
+smile,11
+slot,11
+silicone,11
+shrubbery,11
+showroom,11
+showerhead,11
+shot glass,11
+sea lion,11
+scythe,11
+scatter rug,11
+sap,11
+saltshaker,11
+rubber band,11
+rub,11
+roulette,11
+rolling pin,11
+roller skate,11
+recital,11
+radio receiver,11
+raccoon,11
+quilt,11
+private,11
+presentation,11
+pollen,11
+playing card,11
+pitchfork,11
+pineapple,11
+phonograph record,11
+penny,11
+pennant,11
+pelican,11
+pebble,11
+pear,11
+paperboard,11
+olive oil,11
+mural,11
+mucus,11
+mountainside,11
+mountain bike,11
+motor scooter,11
+moss,11
+minibike,11
+memory chip,11
+mane,11
+lacrosse player,11
+label,11
+knuckle,11
+juggler,11
+insignia of rank,11
+hull,11
+groin,11
+gravy,11
+gravel pit,11
+goldmine,11
+gel,11
+garden rake,11
+force,11
+foil,11
+field hockey,11
+field glass,11
+felt,11
+fatigue,11
+extremity,11
+dune buggy,11
+drive,11
+doorbell,11
+dashboard,11
+cut,11
+cupboard,11
+cross,11
+cork,11
+conductor,11
+condition,11
+concrete mixer,11
+commencement,11
+clerk,11
+circus,11
+circular saw,11
+checkup,11
+can opener,11
+burrito,11
+brother,11
+broth,11
+breakwater,11
+boutique,11
+bookcase,11
+bobbin,11
+boat deck,11
+bear cub,11
+bar soap,11
+ballet dancer,11
+ballet,11
+ammunition,11
+aluminum foil,11
+X ray,11
+Vice President of the United States,11
+Moon,11
+Lego,11
+yelling,10
+windmill,10
+whole,10
+whirlpool,10
+whirling dervish,10
+way,10
+wasp,10
+volt,10
+volcanic eruption,10
+udder,10
+trio,10
+trench,10
+traveler,10
+tract,10
+tongs,10
+tick,10
+throat,10
+thief,10
+test,10
+tennis,10
+sweat,10
+sunscreen,10
+storeroom,10
+stingray,10
+sticks and stone,10
+stereo,10
+stain,10
+sports car,10
+spider,10
+spaghetti and meatballs,10
+soy,10
+snowboard,10
+snot,10
+sniper,10
+skull,10
+sketchbook,10
+silo,10
+semitrailer,10
+rouge,10
+roll,10
+rib,10
+religious leader,10
+recycling bin,10
+recruit,10
+razor edge,10
+racket,10
+question,10
+prize,10
+pretzel,10
+position,10
+park bench,10
+parer,10
+paper toweling,10
+ore,10
+orangutan,10
+octopus,10
+monument,10
+microwave,10
+lynx,10
+life raft,10
+lecturer,10
+lawyer,10
+keyhole,10
+junkyard,10
+jewel,10
+island,10
+insulation,10
+incense,10
+ice hockey,10
+hydraulic system,10
+herbicide,10
+headache,10
+hayfield,10
+hatha yoga,10
+hare,10
+handwriting,10
+hamster,10
+hairpin,10
+gymnastics,10
+gutter,10
+ground beef,10
+gravestone,10
+grasshopper,10
+forum,10
+flooring,10
+flipper,10
+fire pit,10
+film,10
+fight,10
+fawn,10
+exhibition,10
+electrician,10
+electric drill,10
+doorsill,10
+dipstick,10
+date,10
+dainty,10
+cube,10
+conference center,10
+cock,10
+cobbler,10
+chopstick,10
+chameleon,10
+certificate,10
+cavern,10
+cartridge holder,10
+capsicum,10
+cannon,10
+caliper,10
+burglar,10
+briefcase,10
+brewer,10
+bow tie,10
+body length,10
+bite,10
+birthday party,10
+bird of prey,10
+big cat,10
+bidding,10
+backboard,10
+anchor,10
+adjustment,10
+address,10
+ad,10
+Dixie cup,10
+Crane,10
+yogurt,9
+wood chisel,9
+wire stripper,9
+wire cutter,9
+white,9
+whiskey,9
+wedding ring,9
+weapon,9
+wax paper,9
+wash,9
+war zone,9
+walnut,9
+vein,9
+upholstery material,9
+umpire,9
+typewriter,9
+tongue depressor,9
+television receiver,9
+synagogue,9
+sushi,9
+sun deck,9
+suburb,9
+substance,9
+strength,9
+stitch,9
+stare,9
+sprain,9
+space station,9
+sole,9
+snow thrower,9
+snack food,9
+shirt button,9
+shipyard,9
+shin,9
+seating,9
+scouring pad,9
+scooter,9
+running shoe,9
+rugby ball,9
+roofing,9
+rockslide,9
+ride,9
+revolver,9
+recliner,9
+ratchet,9
+queen,9
+push,9
+public speaking,9
+professional football,9
+prayer,9
+pita,9
+pine,9
+pimple,9
+physical therapist,9
+petting zoo,9
+petroleum,9
+parasail,9
+panic,9
+nursery,9
+nectar,9
+muffin,9
+moth,9
+military march,9
+medical practitioner,9
+medical officer,9
+master of ceremonies,9
+masseur,9
+marinade,9
+lot,9
+limestone,9
+lens,9
+knitting needle,9
+kitchen utensil,9
+joint,9
+jelly,9
+intersection,9
+human head,9
+houseboat,9
+horseshoe,9
+hockey stick,9
+heroin,9
+hardwood,9
+hand mower,9
+good,9
+globe,9
+genitalia,9
+general,9
+gelatin,9
+franchise,9
+forest fire,9
+folder,9
+floorboard,9
+fixture,9
+firing range,9
+fire alarm,9
+fastener,9
+family room,9
+engine block,9
+electronic equipment,9
+drinking fountain,9
+dome,9
+disposable,9
+dishwater,9
+cycling,9
+cricketer,9
+cricket bat,9
+crevasse,9
+costume,9
+confusion,9
+compressed air,9
+compost heap,9
+comedian,9
+coil,9
+coffee mug,9
+coffee maker,9
+cleaning,9
+cityscape,9
+chevron,9
+chamois cloth,9
+catheter,9
+cashier's check,9
+carving knife,9
+caressing,9
+card game,9
+buyer,9
+bus terminal,9
+brace,9
+blowtube,9
+beginning,9
+bath,9
+baseball team,9
+barber chair,9
+bank card,9
+balance,9
+baked goods,9
+bagel,9
+assortment,9
+artillery,9
+apple orchard,9
+air compressor,9
+affection,9
+Petri dish,9
+New York,9
+Molotov cocktail,9
+Independence Day,9
+Cross,9
+Arctic,9
+worship,8
+window cleaner,8
+win,8
+watermelon begonia,8
+water cooler,8
+waste,8
+venom,8
+urban area,8
+upstairs,8
+turtleneck,8
+trouser press,8
+treat,8
+trainee,8
+tortoise,8
+tip,8
+tin,8
+theme park,8
+textbook,8
+telephone pole,8
+telephone booth,8
+tavern,8
+tap,8
+tackle,8
+stand,8
+sprayer,8
+sparkler,8
+snare drum,8
+slab,8
+skewer,8
+shape,8
+sewage,8
+scrubland,8
+scrubber,8
+screw thread,8
+scorpion,8
+schoolmate,8
+savings bank,8
+salesman,8
+safety match,8
+roller coaster,8
+release,8
+rein,8
+reception,8
+reason,8
+reamer,8
+radish,8
+push broom,8
+pudding,8
+prong,8
+porpoise,8
+pommel horse,8
+point,8
+pocketknife,8
+plane,8
+piglet,8
+pew,8
+peace,8
+paperwork,8
+ostrich,8
+ophthalmoscope,8
+numeral,8
+neonate,8
+native,8
+muzzle,8
+motorized wheelchair,8
+microbrewery,8
+memory,8
+melon,8
+medical care,8
+mashed potato,8
+long trousers,8
+logo,8
+load,8
+leek,8
+keycard,8
+jumping,8
+joke,8
+jogger,8
+jewelry dealer,8
+intravenous drip,8
+ice lolly,8
+hired hand,8
+hello,8
+heater,8
+hair spray,8
+golf pro,8
+glaze,8
+freshener,8
+forge,8
+flame tree,8
+fern,8
+fender,8
+fame,8
+eye contact,8
+explosive,8
+exercise device,8
+entree,8
+eggplant,8
+egg roll,8
+dispenser,8
+die,8
+diamond,8
+detail,8
+decal,8
+daycare,8
+dairy cattle,8
+currency,8
+cuff,8
+cry,8
+crossing,8
+cricket match,8
+credit,8
+cradle,8
+cooking oil,8
+convertible,8
+convenience store,8
+convenience food,8
+component,8
+church service,8
+chicken wing,8
+charwoman,8
+charger,8
+casserole,8
+carpet,8
+caramel,8
+canopy,8
+canned food,8
+candlestick,8
+buttock,8
+butcher shop,8
+butane,8
+bust,8
+bush,8
+broccoli,8
+bowling alley,8
+body weight,8
+boatman,8
+blood sugar,8
+blackjack,8
+birdbath,8
+bird shot,8
+battle,8
+baster,8
+barbecue pit,8
+bandstand,8
+backdrop,8
+artichoke,8
+approach,8
+anger,8
+alteration,8
+air base,8
+acerate leaf,8
+abattoir,8
+abacus,8
+X-ray film,8
+Velcro,8
+SWAT team,8
+Mason jar,8
+Marine,8
+Kleenex,8
+Clinton,8
+CD player,8
+American football,8
+woman's clothing,7
+waterfront,7
+water pistol,7
+walrus,7
+walkie-talkie,7
+volcanic crater,7
+vinegar,7
+very important person,7
+vanguard,7
+tuber,7
+truss,7
+tournament,7
+tee,7
+tea bag,7
+tack,7
+tablecloth,7
+t'ai chi,7
+switchboard,7
+study,7
+stud,7
+stability,7
+squid,7
+speed skate,7
+spaghettini,7
+snowboarder,7
+smoothie,7
+slingshot,7
+sliding door,7
+sledder,7
+sifter,7
+shot put,7
+shopper,7
+shield,7
+sheriff,7
+server,7
+seam,7
+scrub,7
+schoolyard,7
+scanner,7
+satchel,7
+safe,7
+rock climber,7
+riot,7
+riding crop,7
+rib cage,7
+reef,7
+red wine,7
+range pole,7
+radiotelephone,7
+radio station,7
+prison guard,7
+pork,7
+pool table,7
+planet,7
+pipeline,7
+pencil sharpener,7
+pedestrian,7
+paving,7
+passenger train,7
+parking,7
+pack of cards,7
+overlook,7
+outdoor sport,7
+official,7
+oatmeal,7
+nonexistence,7
+mountain goat,7
+mole,7
+mold,7
+mint,7
+metal screw,7
+meet,7
+meat grinder,7
+marina,7
+mantel,7
+mansion,7
+lumberman,7
+location,7
+light pen,7
+leak,7
+lasso,7
+lacrosse,7
+keg,7
+jumbojet,7
+irons,7
+image,7
+ice-cream cone,7
+hug,7
+hot air,7
+homework problem,7
+holiday,7
+handsaw,7
+handcuff,7
+grocery bag,7
+grindstone,7
+great white shark,7
+grandfather,7
+graffito,7
+grade school,7
+gingerbread,7
+gazebo,7
+garden tool,7
+garbage collection,7
+front door,7
+foal,7
+flask,7
+flare,7
+flamethrower,7
+figure,7
+fighter pilot,7
+fever,7
+facial hair,7
+expressway,7
+exercise bike,7
+enemy,7
+electric,7
+dune,7
+duct,7
+dry dock,7
+director,7
+dinosaur,7
+diagram,7
+detector,7
+dark,7
+crow,7
+crochet needle,7
+cricket ball,7
+crack,7
+corset,7
+corrugated board,7
+cooking,7
+convict,7
+commercial enterprise,7
+cold cream,7
+colander,7
+cocaine,7
+climbing frame,7
+cleaver,7
+chocolate fondue,7
+chariot,7
+character,7
+chapel,7
+carpet sweeper,7
+car dealer,7
+capsule,7
+cake mix,7
+cafeteria facility,7
+business card,7
+business,7
+buff,7
+bubble bath,7
+brake system,7
+brake,7
+blueberry,7
+blow,7
+blouse,7
+billboard,7
+beetle,7
+barricade,7
+barbed wire,7
+ax head,7
+attention,7
+assembly,7
+arena theater,7
+architect,7
+arch,7
+appearance,7
+agent,7
+adult female body,7
+Washington,7
+Putin,7
+Olympic Games,7
+National Aeronautics and Space Administration,7
+Muslim,7
+God,7
+German shepherd,7
+Gazella subgutturosa,7
+Eskimo dog,7
+Coca Cola,7
+Allen wrench,7
+zombi,6
+yellow jacket,6
+yam,6
+workroom,6
+winning,6
+wick,6
+wetland,6
+wedding reception,6
+warship,6
+ward,6
+voter,6
+violinist,6
+vacant lot,6
+upright,6
+unicycle,6
+underpass,6
+turntable,6
+turn,6
+truncheon,6
+training,6
+trail riding,6
+tie,6
+tide,6
+tidal wave,6
+thing,6
+text,6
+table knife,6
+swordfish,6
+surgical instrument,6
+streetlight,6
+stew,6
+spread,6
+spinach,6
+spark plug,6
+spareribs,6
+somewhere,6
+soak,6
+smelter,6
+slipper,6
+sling,6
+slide fastener,6
+silk,6
+silence,6
+sight,6
+shuttle bus,6
+shove,6
+shoreline,6
+shoe shop,6
+service station,6
+sermon,6
+sergeant,6
+seaweed,6
+seat cushion,6
+scrambled eggs,6
+school assignment,6
+scaffold,6
+sawdust,6
+roentgenogram,6
+rock group,6
+rind,6
+reservoir,6
+rehabilitation program,6
+rainbow,6
+rain forest,6
+purse,6
+puree,6
+projector,6
+professional,6
+pop bottle,6
+plunger,6
+place-kicker,6
+pill bottle,6
+pianist,6
+penicillin,6
+pedal,6
+paper clip,6
+paintball gun,6
+padding,6
+package store,6
+outcrop,6
+orator,6
+opener,6
+nude,6
+nape,6
+musket,6
+musical,6
+monkey-wrench,6
+mixture,6
+millstone,6
+medical center,6
+mechanism,6
+master,6
+massage,6
+marine,6
+marble,6
+manure,6
+locomotive,6
+liner,6
+lime,6
+level,6
+lavender,6
+knight,6
+kite,6
+kindling,6
+kibble,6
+jury,6
+jumper,6
+job,6
+irrigation,6
+instrumental music,6
+hurdler,6
+hot spring,6
+homework,6
+holy water,6
+herd,6
+hen,6
+heel,6
+hearing aid,6
+headdress,6
+hanger,6
+hand truck,6
+hand shovel,6
+hand pump,6
+groundhog,6
+griddle,6
+graphite,6
+grapefruit,6
+graduated cylinder,6
+glucose tolerance test,6
+glacier,6
+geography,6
+generator,6
+garbage man,6
+fuss,6
+fuse,6
+fryer,6
+fruit tree,6
+fruit juice,6
+fresh water,6
+foodstuff,6
+flute,6
+flow,6
+flight deck,6
+flatcar,6
+fire station,6
+finger-pointing,6
+fin,6
+filter,6
+figure skate,6
+fence line,6
+fastening,6
+fairground,6
+eyedrop,6
+espresso,6
+engraving,6
+engineering,6
+employer,6
+emery stone,6
+emergency room,6
+emblem,6
+electric guitar,6
+easy chair,6
+earphone,6
+duffel bag,6
+duet,6
+drum major,6
+driving,6
+drilling bit,6
+dressing,6
+domino,6
+district,6
+dishrag,6
+dance band,6
+cruise,6
+crow's foot,6
+crossbar,6
+cream cheese,6
+crayfish,6
+crash,6
+crap,6
+conveyer,6
+control,6
+consumer goods,6
+commodity,6
+comic book,6
+coloring,6
+cleaning implement,6
+chocolate bar,6
+chicken coop,6
+charity,6
+charge,6
+championship,6
+chaff,6
+ceramic,6
+catwalk,6
+catsup,6
+cat food,6
+cartridge,6
+cargo helicopter,6
+cardinal,6
+caffe latte,6
+cadet,6
+butterfly weed,6
+butcher board,6
+burial,6
+broccoli raab,6
+broadcast,6
+bridle,6
+boxcar,6
+boomerang,6
+book fair,6
+boards,6
+blower,6
+billiard room,6
+believer,6
+bean sprout,6
+batting cage,6
+bang,6
+artifact,6
+acorn,6
+Wilderness,6
+United States,6
+Transportation Security Administration,6
+Roman Catholic,6
+O.K.,6
+Labrador retriever,6
+Commission on the Status of Women,6
+Catholic Church,6
+Bible,6
+Bengal tiger,6
+zoo keeper,5
+yoke,5
+yardstick,5
+wrestle,5
+womanhood,5
+wildcat,5
+wicker basket,5
+watering place,5
+washboard,5
+warplane,5
+war,5
+visitor,5
+victory celebration,5
+vending machine,5
+typing,5
+turkey leg,5
+trunk lid,5
+tread,5
+tow,5
+tongue and groove joint,5
+toilet roll,5
+tithe,5
+third base,5
+things,5
+thermostat,5
+test room,5
+television station,5
+talk show,5
+tail fin,5
+symbol,5
+swimsuit,5
+sweatshop,5
+surgery,5
+subordinate,5
+stucco,5
+strain,5
+stewardess,5
+steel wool,5
+steam shovel,5
+state,5
+starfish,5
+sponge mop,5
+spinning,5
+soup ladle,5
+sound camera,5
+solar system,5
+soft drink,5
+snap,5
+smudge,5
+smell,5
+skating,5
+skater,5
+sill,5
+silhouette,5
+sideline,5
+shower stall,5
+shot putter,5
+shag rug,5
+seesaw,5
+security,5
+screen door,5
+scantling,5
+saline solution,5
+salesclerk,5
+safety belt,5
+rust,5
+ruin,5
+row,5
+router,5
+roofer,5
+robotics equipment,5
+robe,5
+retention,5
+resort,5
+residential district,5
+reptile,5
+remark,5
+rehabilitation,5
+recreation room,5
+receptionist,5
+razorblade,5
+ravine,5
+rag doll,5
+rabbi,5
+quill,5
+quartet,5
+pug,5
+pruning saw,5
+protractor,5
+propeller,5
+printer,5
+prayer rug,5
+power station,5
+potter's clay,5
+pot plant,5
+postbox,5
+poor people,5
+pole vault,5
+poison,5
+platter,5
+photo opportunity,5
+phone,5
+perch,5
+pepperoni,5
+pepper mill,5
+pendant,5
+peanuts,5
+patchwork,5
+partition,5
+paratrooper,5
+pantry,5
+pantie,5
+panther,5
+pageant,5
+pack,5
+osprey,5
+oreo,5
+order,5
+opossum,5
+olive,5
+officiant,5
+octagon,5
+oarswoman,5
+newscaster,5
+navy,5
+mugger,5
+moving van,5
+moviegoer,5
+mourner,5
+mountaineer,5
+mountain trail,5
+motion,5
+mortarboard,5
+moped,5
+mitten,5
+mineral,5
+menu,5
+memory device,5
+maple syrup,5
+manhole,5
+luminosity,5
+lottery,5
+loosening,5
+loop,5
+links,5
+link,5
+lift,5
+life preserver,5
+leopardess,5
+lector,5
+learning,5
+lawn chair,5
+laser,5
+lampshade,5
+lagoon,5
+lacuna,5
+kit,5
+kiss,5
+king,5
+kindergarten,5
+jump,5
+joist,5
+jack-o'-lantern,5
+jack,5
+ivy,5
+interstate,5
+internet,5
+insulin,5
+infantryman,5
+idea,5
+iceberg,5
+ice-skater,5
+ice skating,5
+hypodermic needle,5
+hydrant,5
+hotness,5
+hostage,5
+hornet,5
+hive,5
+heron,5
+hatchet,5
+handout,5
+handicapped person,5
+gunnysack,5
+guacamole,5
+ground floor,5
+greyhound,5
+greeting,5
+green bean,5
+gravy boat,5
+government office,5
+goblet,5
+ginger,5
+gearset,5
+garlic press,5
+garden trowel,5
+gang,5
+gambler,5
+friendship,5
+fracture,5
+football coach,5
+flat tip screwdriver,5
+first lady,5
+firecracker,5
+file folder,5
+fecal matter,5
+fatness,5
+facility,5
+ethernet cable,5
+engagement ring,5
+empty,5
+electric toothbrush,5
+electric mixer,5
+easel,5
+earring,5
+dust devil,5
+dragonfly,5
+dragon,5
+drafting board,5
+dormitory,5
+dogsled,5
+dog show,5
+diving board,5
+distillery,5
+dinner jacket,5
+diameter,5
+determination,5
+deodorant,5
+demonstration,5
+delivery truck,5
+delicatessen,5
+dealer,5
+dartboard,5
+dart player,5
+dame,5
+cowgirl,5
+cowboy hat,5
+couch,5
+cosmetic,5
+cornstalk,5
+cornet,5
+core,5
+coral reef,5
+container ship,5
+congressman,5
+compass,5
+compartment,5
+community,5
+clothes dryer,5
+clock time,5
+climb,5
+civilian,5
+cinnamon roll,5
+chocolate milk,5
+chicken wire,5
+cheesecloth,5
+cello,5
+cash register,5
+cardiac rhythm,5
+car tire,5
+capybara,5
+captivity,5
+cantaloupe,5
+candlelight,5
+camera lens,5
+camcorder,5
+burrow,5
+bunk bed,5
+bungee,5
+bulletin board,5
+bulldog,5
+break,5
+brain,5
+bonsai,5
+blond,5
+bishop,5
+bib,5
+betting shop,5
+bench press,5
+beer mug,5
+beagle,5
+beach wagon,5
+basil,5
+baseball coach,5
+baptism,5
+badger,5
+background,5
+back porch,5
+baboon,5
+axle,5
+awl,5
+automobile factory,5
+auricle,5
+attraction,5
+atmospheric pressure,5
+asparagus,5
+armrest,5
+argument,5
+archery,5
+apron,5
+antifreeze,5
+anthill,5
+antenna,5
+alarm,5
+air passage,5
+air gun,5
+age,5
+adhesive tape,5
+addict,5
+Windows,5
+United States Army,5
+Peron,5
+Mace,5
+Jew,5
+Jackson,5
+Humvee,5
+Crock Pot,5
+Christmas,5
+China,5
+Band Aid,5
+wreckage,4
+world,4
+words,4
+woodpecker,4
+wolf pup,4
+witness,4
+witch,4
+winner,4
+window blind,4
+winch,4
+wildfire,4
+wild,4
+white bread,4
+well point,4
+weightlift,4
+web site,4
+weasel,4
+water system,4
+watchband,4
+wastepaper basket,4
+warrior,4
+wardrobe,4
+wading pool,4
+vitamin,4
+vise,4
+villager,4
+viewing audience,4
+video recording,4
+ventilation,4
+vagina,4
+universe,4
+underbrush,4
+turbine,4
+tsunami,4
+truffle,4
+trellis,4
+tree house,4
+trapeze,4
+trap,4
+transsexual,4
+traffic light,4
+traffic cop,4
+toyshop,4
+towel rack,4
+token,4
+toiletry,4
+toilet bowl,4
+tire iron,4
+tiger cub,4
+throwing stick,4
+therapy,4
+thatch,4
+tennis pro,4
+telephone cord,4
+tease,4
+teaching,4
+tangerine,4
+table saw,4
+tab key,4
+tab,4
+system of weights,4
+sweet potato,4
+suspension,4
+surf,4
+superior,4
+succulent,4
+submersible,4
+sty,4
+studentship,4
+stress,4
+stock,4
+steward,4
+stevedore,4
+stencil,4
+steamer,4
+stake,4
+spine,4
+spike,4
+speed,4
+spatulate leaf,4
+spacesuit,4
+solution,4
+snowman,4
+snowfield,4
+snowcap,4
+snow leopard,4
+sleeping bag,4
+slant,4
+skyline,4
+skill,4
+ski jump,4
+skeletal system,4
+shower room,4
+short pants,4
+shopping,4
+shipping,4
+shawl,4
+setting,4
+set,4
+secretary,4
+seasoning,4
+seashell,4
+sealing wax,4
+screw wrench,4
+scream,4
+scratcher,4
+score,4
+science museum,4
+schoolchild,4
+scaffolding,4
+satisfaction,4
+sanitation,4
+sandbox,4
+sandbag,4
+sandal,4
+salsa,4
+salesperson,4
+salami,4
+safety rail,4
+saddle,4
+ruler,4
+royalty,4
+rockers,4
+rocker,4
+rock star,4
+ritual,4
+rifleman,4
+rescuer,4
+request,4
+remedy,4
+religious ceremony,4
+refried beans,4
+redcoat,4
+rectangularity,4
+record player,4
+record,4
+receipt,4
+rawhide,4
+raven,4
+random-access memory,4
+rainstorm,4
+rafter,4
+quadruped,4
+pup,4
+pronghorn,4
+proletarian,4
+projectile,4
+progress,4
+princess,4
+prince,4
+priestess,4
+pressure gauge,4
+pregnancy,4
+power line,4
+power,4
+powdered sugar,4
+poultry,4
+postage,4
+porcupine,4
+ponytail,4
+pompon,4
+plastering trowel,4
+placement,4
+pivot,4
+pipet,4
+piper,4
+pinecone,4
+pickle,4
+photography,4
+phase,4
+pet,4
+pesto,4
+pavilion,4
+patch,4
+parish,4
+pants suit,4
+pant leg,4
+paneling,4
+pair,4
+paddock,4
+pacifier,4
+origami,4
+operating table,4
+open-end wrench,4
+olfactory property,4
+oil lamp,4
+occupation,4
+obstacle,4
+oat,4
+nuts and bolts,4
+nursing,4
+night,4
+news program,4
+net income,4
+needlenose pliers,4
+narcotic,4
+nailbrush,4
+music teacher,4
+mountain gorilla,4
+motorcycle cop,4
+morsel,4
+mining,4
+mincer,4
+military unit,4
+middle,4
+message,4
+mess,4
+meringue,4
+menace,4
+meerkat,4
+medicine ball,4
+medical building,4
+medical assistant,4
+measure,4
+masonry,4
+marsupial,4
+marijuana,4
+marcher,4
+marathoner,4
+man-of-war,4
+man hour,4
+magnetic disk,4
+machine shop,4
+mace,4
+lunchroom,4
+luffa,4
+look,4
+lobster tail,4
+lobby,4
+little brother,4
+liquid crystal display,4
+lionfish,4
+linoleum,4
+limousine,4
+life buoy,4
+life,4
+leaf mold,4
+lead,4
+law enforcement agency,4
+launderette,4
+laugh,4
+lathe,4
+laser beam,4
+lasagna,4
+laminate,4
+ladybug,4
+lacrosse ball,4
+knowledge domain,4
+knife edge,4
+kangaroo apple,4
+jewelry maker,4
+jackal,4
+iron ore,4
+interviewee,4
+instruction manual,4
+inoculation,4
+inmate,4
+index,4
+impala,4
+icicle,4
+ice cube,4
+hydrogen peroxide,4
+hummus,4
+hubcap,4
+horticulturist,4
+horse cart,4
+horizon,4
+homosexual,4
+high wire,4
+headband,4
+head covering,4
+hardware,4
+half,4
+hairdo,4
+ground squirrel,4
+groove,4
+groomsman,4
+graph paper,4
+government building,4
+goldfish,4
+golden eagle,4
+gold miner,4
+glider,4
+glassware,4
+gland,4
+gerbil,4
+gentleman,4
+gas burner,4
+garlic bread,4
+galaxy,4
+frustration,4
+freight car,4
+fountain pen,4
+foul,4
+fortune cookie,4
+focus,4
+flow chart,4
+flight,4
+flexibility,4
+flea market,4
+flat bench,4
+fitting,4
+fish scale,4
+film star,4
+field day,4
+fiber,4
+ferret,4
+feed grain,4
+face mask,4
+eyebrow pencil,4
+extraterrestrial being,4
+expression,4
+esthetician,4
+escalator,4
+eraser,4
+entertainer,4
+elevation,4
+electric hammer,4
+egg white,4
+eating,4
+dust storm,4
+dressing room,4
+double,4
+doorjamb,4
+disgust,4
+disabled,4
+dining area,4
+dew,4
+detergent,4
+destruction,4
+dentistry,4
+deliveryman,4
+defense,4
+deep-freeze,4
+decay,4
+debate,4
+dash,4
+dance school,4
+daisy,4
+cutout,4
+crying,4
+crumb,4
+cripple,4
+cricket,4
+crap shooting,4
+craftsman,4
+cracker crumbs,4
+cover plate,4
+court game,4
+corridor,4
+coroner,4
+coriander,4
+copper,4
+conversation,4
+control room,4
+consolation,4
+conference table,4
+composition,4
+company,4
+commuter,4
+college,4
+cold,4
+coffee table,4
+cocktail,4
+clove,4
+cloudiness,4
+clothespin,4
+clothes hamper,4
+clergy,4
+cleaning pad,4
+clay pigeon,4
+classroom project,4
+citrus,4
+circuitry,4
+cinnamon,4
+cigarette butt,4
+chorus,4
+chop-suey greens,4
+chocolate chip cookie,4
+chicken leg,4
+chestnut,4
+chest,4
+chandelier,4
+centrifuge,4
+cavalry,4
+casualty,4
+cassette tape,4
+carpenter's hammer,4
+card player,4
+byway,4
+businessperson,4
+burn,4
+bulb,4
+brownie,4
+broken arch,4
+brewer's yeast,4
+bratwurst,4
+boxing match,4
+boxing,4
+bowstring,4
+bowling ball,4
+bovine,4
+bottled water,4
+boot camp,4
+bodybuilding,4
+body temperature,4
+board game,4
+boar,4
+bit,4
+bird feeder,4
+biceps brachii,4
+belt buckle,4
+beggar,4
+beer can,4
+bedding material,4
+beacon,4
+basketball coach,4
+base on balls,4
+barrack,4
+bandanna,4
+backing,4
+awning,4
+asynchronous transfer mode,4
+ashtray,4
+army officer,4
+application,4
+applesauce,4
+anvil,4
+anus,4
+anteater,4
+alarm clock,4
+agriculturist,4
+adult male body,4
+adipose tissue,4
+adhesiveness,4
+acid,4
+abdominal,4
+World Trade Center,4
+Washington Monument,4
+United States Marine Corps,4
+TV dinner,4
+Spanish American,4
+Segway,4
+SOS,4
+Red,4
+Marines,4
+Hippo,4
+Grand Canyon,4
+Geiger counter,4
+English,4
+Dutch oven,4
+Communion,4
+Capitol,4
+Boy Scout,4
+Barber,4
+Australia,4
+Asian,4
+Antarctic,4
+American black bear,4
+African-American,4
+African,4
+yield,3
+worldly possessions,3
+working,3
+workbook,3
+woodcarver,3
+wood grain,3
+won ton,3
+wine tasting,3
+window washer,3
+window shade,3
+wind turbine,3
+wild dog,3
+whaler,3
+weight unit,3
+wedge,3
+waterside,3
+watercourse,3
+watercolor,3
+watchmaker,3
+washtub,3
+washroom,3
+warthog,3
+warehouser,3
+ware,3
+walker,3
+wafer,3
+voice over,3
+vital sign,3
+vinifera,3
+vigil light,3
+video,3
+vice president,3
+vest,3
+vapor,3
+vacation,3
+unknown quantity,3
+undercarriage,3
+tying,3
+two,3
+tutorial,3
+tuning,3
+tuna,3
+tulip,3
+trout,3
+troop,3
+tripod,3
+tribesman,3
+trash,3
+tramp,3
+trailer camp,3
+track and field,3
+toy dog,3
+torture,3
+torpedo,3
+toothache,3
+toolbox,3
+tool steel,3
+tomahawk,3
+thumbtack,3
+throne,3
+thickness,3
+testis,3
+testing,3
+terra cotta,3
+tennis match,3
+television room,3
+tea urn,3
+taxidriver,3
+tattoo,3
+tape player,3
+swimming event,3
+swatch,3
+suture,3
+surfing,3
+sunset,3
+sunglasses,3
+sunflower seed,3
+sulky,3
+suffocation,3
+suction cup,3
+stripe,3
+stretch pants,3
+storm,3
+stockroom,3
+steam engine,3
+stealth bomber,3
+start,3
+spray painting,3
+spill,3
+spider web,3
+speedskater,3
+speech,3
+spaniel,3
+spaghetti sauce,3
+sour cream,3
+soup kitchen,3
+soft pretzel,3
+social event,3
+soap dispenser,3
+soap bubble,3
+smoke bomb,3
+small boat,3
+slum,3
+sled dog,3
+slap,3
+skip,3
+skilled worker,3
+sketcher,3
+skeleton key,3
+singlet,3
+silverware,3
+signature,3
+sieve,3
+sidewall,3
+shrine,3
+shopping bag,3
+shop class,3
+shooting,3
+shoal,3
+shallot,3
+shadow,3
+senior high school,3
+senator,3
+self-feeder,3
+seed corn,3
+seaside,3
+scratch,3
+scimitar,3
+schoolgirl,3
+scarecrow,3
+satellite,3
+sash,3
+sanitary landfill,3
+sandbar,3
+salt lick,3
+sailing vessel,3
+safety pin,3
+safari park,3
+saber,3
+rundle,3
+rudder,3
+rubber cement,3
+rowing club,3
+roulette wheel,3
+rose bed,3
+rope yarn,3
+rock concert,3
+robotics,3
+riveting machine,3
+rival,3
+reviewer,3
+retirement community,3
+rest,3
+respondent,3
+residence,3
+research worker,3
+replica,3
+repairman,3
+religious person,3
+religious holiday,3
+regiment,3
+reflection,3
+refinery,3
+reenactor,3
+reed,3
+reception desk,3
+rave,3
+rate,3
+raspberry,3
+radiator,3
+radiation,3
+racing,3
+quarryman,3
+protection,3
+prostitute,3
+propaganda,3
+probe,3
+primate,3
+preschool,3
+prairie dog,3
+potty seat,3
+potter's wheel,3
+pothole,3
+pot metal,3
+post office,3
+possession,3
+portrayal,3
+pontoon,3
+polyvinyl chloride,3
+pneumatics,3
+plumbing fixture,3
+platoon,3
+plaque,3
+planting,3
+pizzeria,3
+piston rod,3
+pipe cleaner,3
+picnic,3
+picker,3
+pharmacy,3
+perpetrator,3
+penis,3
+penetration,3
+peer,3
+patron,3
+parking space,3
+parishioner,3
+papaya,3
+pancake batter,3
+packer,3
+packaged goods,3
+oyster,3
+oxygen,3
+outgrowth,3
+outfit,3
+organization,3
+orbit,3
+omelet,3
+old age,3
+ointment,3
+oil well,3
+oil tanker,3
+nutshell,3
+novel,3
+neck brace,3
+national,3
+nasal cavity,3
+nanny,3
+nan,3
+nailer,3
+mustard,3
+mussel,3
+mushy peas,3
+murderer,3
+muralist,3
+mousse,3
+monastery,3
+mix,3
+mist,3
+missionary,3
+minnow,3
+military vehicle,3
+microbe,3
+mesh,3
+mermaid,3
+medic,3
+mechanical engineer,3
+mechanical device,3
+meatball,3
+mare,3
+man of means,3
+mailman,3
+magpie,3
+magma,3
+lubricant,3
+lover,3
+love,3
+lotto,3
+litterbin,3
+lint,3
+lignite,3
+lifeguard,3
+lick,3
+leopard cat,3
+lemonade,3
+leap,3
+lead pencil,3
+landscape architect,3
+landing gear,3
+laborer,3
+kung fu,3
+knoll,3
+kitchen island,3
+kitchen appliance,3
+kin,3
+joystick,3
+joker,3
+jimmies,3
+jig,3
+ironing board,3
+internal organ,3
+insurgent,3
+inlet,3
+ink cartridge,3
+influenza,3
+industrial park,3
+ice pack,3
+hydrogen,3
+husk,3
+hundred dollar bill,3
+hula-hoop,3
+house of cards,3
+hound,3
+hot plate,3
+homeowner,3
+hit,3
+hippie,3
+hindquarters,3
+high jump,3
+hero,3
+health professional,3
+headscarf,3
+headlight,3
+hardware store,3
+happiness,3
+hang glider,3
+handset,3
+hand cream,3
+hamstring,3
+halter,3
+gunman,3
+gun trigger,3
+guidance,3
+guardsman,3
+guardhouse,3
+grocer,3
+grizzly,3
+grief,3
+grenade,3
+greenery,3
+green pepper,3
+green onion,3
+grape arbor,3
+graduating class,3
+graduate student,3
+grade,3
+grace,3
+gown,3
+gourd,3
+gong,3
+golf bag,3
+goldfish bowl,3
+golden retriever,3
+goal line,3
+gift wrap,3
+gecko,3
+gearshift,3
+gas range,3
+garrison,3
+gardening,3
+garden spade,3
+game show,3
+game bird,3
+fungus,3
+fundraiser,3
+four-wheeler,3
+four-wheel drive,3
+flint,3
+flax,3
+flash memory,3
+flange,3
+flamingo,3
+fitted sheet,3
+fitness,3
+fish stick,3
+fish farm,3
+first aid,3
+fillet,3
+fiberboard,3
+fencing,3
+fencer,3
+female chest,3
+fear,3
+fast food,3
+farm machine,3
+facet,3
+faceplate,3
+external drive,3
+exhilaration,3
+excelsior,3
+excavation,3
+equalizer,3
+enchantress,3
+emu,3
+employment agency,3
+embrace,3
+ellipse,3
+elf,3
+electronic voltmeter,3
+electrical system,3
+electric potential,3
+effort,3
+edible fruit,3
+earlobe,3
+dustpan,3
+ducks and drakes,3
+drug addict,3
+droplet,3
+drogue parachute,3
+drill steel,3
+drill master,3
+drawknife,3
+drafting table,3
+disinfectant,3
+discus,3
+discipline,3
+dipper,3
+diploma,3
+digital voltmeter,3
+departure,3
+dental hygienist,3
+defeat,3
+deck chair,3
+dead person,3
+darkness,3
+dancing school,3
+cylinder lock,3
+cycle,3
+cutlery,3
+crystal,3
+crucible,3
+crowding,3
+crossbow,3
+crockery,3
+crochet,3
+crevice,3
+crescent roll,3
+craps,3
+crankshaft,3
+crank,3
+crag,3
+crab legs,3
+cotton ball,3
+cookout,3
+contractor,3
+confrontation,3
+confetti,3
+confectionery,3
+condom,3
+conditioner,3
+concoction,3
+conciliator,3
+committee,3
+commanding officer,3
+comic strip,3
+combination,3
+coloring material,3
+cologne,3
+collage,3
+coffee urn,3
+code,3
+cocktail shaker,3
+coati,3
+clover,3
+cloak,3
+clipboard,3
+cleaner,3
+city center,3
+citizen,3
+cigarette paper,3
+chrysalis,3
+chocolate candy,3
+chives,3
+childbirth,3
+chest pain,3
+chemist,3
+chemical reaction,3
+cellulose tape,3
+catfish,3
+cassette player,3
+cartoonist,3
+carrier,3
+caregiver,3
+cappuccino,3
+campaigner,3
+call center,3
+calibration,3
+calendar,3
+caldron,3
+calamity,3
+cabinetwork,3
+buzzer,3
+busman,3
+business suit,3
+business district,3
+bunker,3
+bumper car,3
+bullying,3
+builder,3
+buggy,3
+bud,3
+brussels sprout,3
+broil,3
+bristle brush,3
+brim,3
+bridesmaid,3
+breath,3
+breakage,3
+breadstick,3
+brandy,3
+bowler,3
+bottlecap,3
+boom,3
+blocking,3
+bleaching agent,3
+birthday cake,3
+birdhouse,3
+bird's nest,3
+bird feed,3
+bighorn,3
+bicycle-built-for-two,3
+bicycle wheel,3
+bending,3
+beer glass,3
+bedclothes,3
+beanbag,3
+beading,3
+beach ball,3
+bauble,3
+battering ram,3
+bathrobe,3
+bassinet,3
+bass fiddle,3
+base runner,3
+bar chart,3
+bandleader,3
+band aid,3
+bad,3
+azalea,3
+automatic firearm,3
+attachment,3
+asshole,3
+art class,3
+army base,3
+aqualung,3
+apartment building,3
+annoyance,3
+anil,3
+angle bracket,3
+amplifier,3
+altar,3
+alphabet,3
+almond,3
+alfalfa,3
+album,3
+airline,3
+airbrush,3
+air mattress,3
+agency,3
+affiliation,3
+act,3
+accessory,3
+Walt Disney World,3
+Viking,3
+Venetian blind,3
+United Nations,3
+Stonehenge,3
+Secretary of State,3
+Scot,3
+Rome,3
+Queen of England,3
+Parmesan,3
+Paris,3
+North Korea,3
+Middle East,3
+London,3
+Laptev Sea,3
+Komodo dragon,3
+Kitty Litter,3
+Ferris wheel,3
+Erlenmeyer flask,3
+Eiffel Tower,3
+Doberman,3
+Crazy Glue,3
+Chihuahua,3
+Catholic,3
+Buckingham Palace,3
+Amerindian,3
+American Staffordshire terrier,3
+writing desk,2
+workstation,2
+workspace,2
+woodpile,2
+woodcutter,2
+womanizer,2
+wiper,2
+window box,2
+wind farm,2
+wildlife,2
+wild rice,2
+wicker,2
+white rice,2
+whiskey on the rocks,2
+whirlwind,2
+whirl,2
+wedding day,2
+wedding cake,2
+web,2
+weaving,2
+weave,2
+weather strip,2
+weather,2
+wear,2
+water line,2
+water glass,2
+water closet,2
+warning,2
+wapiti,2
+wallaby,2
+wall tent,2
+wall panel,2
+wake board,2
+wake,2
+voting precinct,2
+vogue,2
+vodka,2
+vinyl,2
+videodisk,2
+veterinary school,2
+veneer,2
+vault,2
+vandal,2
+vampire,2
+vacuum chamber,2
+uterus,2
+used-car lot,2
+use,2
+urine,2
+uphill,2
+unit,2
+unicyclist,2
+ungulate,2
+ultrasound,2
+twins,2
+turkey cock,2
+tuning fork,2
+tumbler,2
+tug,2
+trouser cuff,2
+troublemaker,2
+trouble,2
+tricyclic,2
+tribe,2
+trial,2
+tree surgeon,2
+tree farm,2
+travel,2
+trave,2
+trainman,2
+trade,2
+track star,2
+tracing paper,2
+toy box,2
+tour guide,2
+touchdown,2
+tool bag,2
+toll,2
+toilet seat,2
+toboggan,2
+toaster oven,2
+toaster,2
+timepiece,2
+time capsule,2
+tilling,2
+tiger cat,2
+thumbnail,2
+thruster,2
+threat,2
+thoroughbred race,2
+thoroughbred,2
+thinning shears,2
+thermos,2
+there,2
+thanks,2
+terrorist organization,2
+terrier,2
+terrace,2
+termite,2
+television monitor,2
+telephone wire,2
+teaspoon,2
+tarsier,2
+tarantula,2
+tape recorder,2
+tankard,2
+tangle,2
+tailgate,2
+tadpole,2
+tablet,2
+tableland,2
+table-tennis table,2
+system,2
+swimming meet,2
+sweet,2
+sweeping,2
+sweatshirt,2
+sweatband,2
+sweat gland,2
+surveyor,2
+surface-to-air missile,2
+supermodel,2
+sun parlor,2
+summit,2
+sugar cookie,2
+success,2
+strip mine,2
+strike,2
+streambed,2
+storybook,2
+store,2
+stopwatch,2
+stomachache,2
+stole,2
+stocking,2
+stock exchange,2
+stiffness,2
+step ladder,2
+steeplechase,2
+steamboat,2
+steam iron,2
+starboard,2
+stage effect,2
+squash racket,2
+springboard,2
+spotted hyena,2
+sports equipment,2
+split rail,2
+splash,2
+spiral,2
+spin dryer,2
+spin,2
+spectroscope,2
+specimen,2
+specialist,2
+spearfish,2
+speaking,2
+sparkplug wrench,2
+spaghetti squash,2
+sounding board,2
+sommelier,2
+sodium carbonate,2
+soap pad,2
+snowmobile,2
+snowflake,2
+snowbank,2
+snore,2
+snifter,2
+snakebite,2
+snack bar,2
+smoker,2
+slurry,2
+slug,2
+slop,2
+slat,2
+slalom,2
+skylight,2
+skunk,2
+ski tow,2
+ski jumper,2
+sitar,2
+sinus,2
+singing voice,2
+simulator,2
+signpost,2
+sideburn,2
+side yard,2
+shuttlecock,2
+shutter,2
+showjumping,2
+shower curtain,2
+shoot,2
+shock absorber,2
+shiner,2
+shepherd,2
+shellfish,2
+sheepherder,2
+sharecropper,2
+shale,2
+shaft,2
+shade,2
+sewer main,2
+sewage system,2
+serve,2
+sequin,2
+sedan,2
+security system,2
+seascape,2
+seaplane,2
+seahorse,2
+sea urchin,2
+sea turtle,2
+script,2
+scope,2
+scold,2
+science,2
+schoolbag,2
+scholar,2
+scepter,2
+scare,2
+saxophonist,2
+sausage meat,2
+saucepot,2
+sandpit,2
+salt mine,2
+salesgirl,2
+salamander,2
+salad plate,2
+sacking,2
+sabot,2
+ruling class,2
+row of bricks,2
+rosemary,2
+roots,2
+root beer,2
+rock climbing,2
+roast,2
+roadblock,2
+road map,2
+river boat,2
+rip,2
+rinse,2
+rings,2
+right-hand man,2
+rigger,2
+rifle grenade,2
+ricer,2
+retriever,2
+retainer,2
+retailer,2
+restraint,2
+respiratory tract,2
+resistor,2
+resin,2
+resident,2
+repetition,2
+repellent,2
+relish,2
+religion,2
+relief,2
+registered nurse,2
+refugee,2
+reflector,2
+reenactment,2
+red fox,2
+red deer,2
+recycling plant,2
+recycling,2
+recognition,2
+real estate broker,2
+read-only memory chip,2
+read-only memory,2
+read,2
+ray,2
+raw material,2
+raindrop,2
+raftsman,2
+radio broadcast,2
+raceway,2
+quiche,2
+quarter,2
+quail,2
+pylon,2
+purple onion,2
+purifier,2
+punk rocker,2
+punishment,2
+puffin,2
+public transit,2
+psychologist,2
+psychiatrist,2
+protest march,2
+protective covering,2
+propeller plane,2
+profile,2
+product,2
+prizefighter,2
+prizefight,2
+printout,2
+principal,2
+price,2
+press photographer,2
+prescription drug,2
+prescription,2
+praying mantis,2
+practice,2
+pound,2
+potion,2
+potholer,2
+portfolio,2
+portable circular saw,2
+porridge,2
+porkchop,2
+poop deck,2
+pony cart,2
+polygon,2
+polo shirt,2
+political campaign,2
+police dog,2
+pointing out,2
+pogo stick,2
+pod,2
+pocket watch,2
+pneumatic tire,2
+plum,2
+plug fuse,2
+playing,2
+playhouse,2
+plasterboard,2
+plaster of Paris,2
+planning,2
+planner,2
+place of business,2
+place mat,2
+piston,2
+pistachio,2
+pirate,2
+pipe wrench,2
+pinto bean,2
+pimp,2
+pillbox,2
+pike,2
+picnic area,2
+piano music,2
+piano keyboard,2
+physical education,2
+photographer's model,2
+phonebook,2
+philter,2
+petfood,2
+pet shop,2
+periscope,2
+pepper shaker,2
+penny arcade,2
+pellet,2
+peer group,2
+pedicab,2
+pectoral,2
+pearl,2
+peach blight,2
+payment,2
+paved surface,2
+patty,2
+passenger ship,2
+parlor,2
+parallel bars,2
+pangolin,2
+palette knife,2
+pagoda,2
+oxygen mask,2
+oximeter,2
+outdoorswoman,2
+outdoorsman,2
+ounce,2
+organism,2
+orchid,2
+orange grove,2
+ophthalmologist,2
+opera,2
+open,2
+one,2
+omission,2
+old lady,2
+old boy,2
+oil stain,2
+oil refinery,2
+oil painting,2
+ohmmeter,2
+ohm,2
+oersted,2
+objet d'art,2
+nylon,2
+nutrition,2
+nutcracker,2
+nuclear reactor,2
+niqab,2
+ninja,2
+nimbus,2
+newt,2
+news agency,2
+news,2
+nestling,2
+neonatal intensive care unit,2
+neon lamp,2
+negro vine,2
+nectarine,2
+nation,2
+narrative,2
+nakedness,2
+musical composition,2
+multitude,2
+multiple,2
+mug shot,2
+mud puddle,2
+mud flat,2
+mousetrap,2
+motorcycling,2
+motorcade,2
+morgue,2
+moon,2
+monster,2
+mongoose,2
+monetary value,2
+momentum,2
+mollusk,2
+moderator,2
+moat,2
+mistake,2
+mission,2
+milliliter,2
+militia,2
+military policeman,2
+microelectronics,2
+metric unit,2
+meteoroid,2
+metatarsal arch,2
+metal filing,2
+metal detector,2
+mesa,2
+merry-go-round,2
+mercenary,2
+medication,2
+medical institution,2
+meat loaf,2
+measuring unit,2
+mean,2
+mayonnaise,2
+mattress cover,2
+matchbook,2
+matador,2
+mastiff,2
+mass,2
+mash,2
+marshmallow,2
+mariner,2
+marinara,2
+margin,2
+marbles,2
+manikin,2
+manicure set,2
+manhole cover,2
+man jack,2
+malice,2
+malfunction,2
+male sibling,2
+mail slot,2
+magnetic resonance imaging,2
+magnet,2
+magic trick,2
+magic,2
+macaroni,2
+lumberyard,2
+luggage rack,2
+loss,2
+lookout,2
+locust,2
+locksmith,2
+locket,2
+locker,2
+little leaguer,2
+little black ant,2
+literature,2
+listening,2
+liquid soap,2
+lip balm,2
+lining,2
+limiter,2
+lime juice,2
+lima bean,2
+lily pad,2
+lily,2
+lighting fixture,2
+lighting,2
+light-emitting diode,2
+life jacket,2
+leverage,2
+letters,2
+legal holiday,2
+leave,2
+leather strip,2
+leaning,2
+lawsuit,2
+laundry detergent,2
+lanyard,2
+landslide,2
+landing,2
+landfill,2
+lair,2
+lacquer,2
+knowledgeability,2
+knock,2
+knee brace,2
+kiwi,2
+kite balloon,2
+kiln,2
+key ring,2
+kat,2
+kale,2
+jumping up and down,2
+jumper cable,2
+joy,2
+job interview,2
+jet bridge,2
+jerky,2
+jack-o-lantern fungus,2
+jab,2
+irritation,2
+irritant,2
+ironwork,2
+iron man,2
+inventory item,2
+inventory,2
+intimidation,2
+interpretation,2
+intelligence,2
+installation,2
+insole,2
+inside track,2
+inscription,2
+initiate,2
+inclination,2
+incendiary bomb,2
+inaccessibility,2
+immigrant,2
+icon,2
+ice-cream sundae,2
+ice tea,2
+ice mass,2
+iPod,2
+hygiene,2
+hovercraft,2
+housing,2
+house paint,2
+hot-water bottle,2
+hot sauce,2
+hot rod,2
+horse racing,2
+horizontal bar,2
+home fries,2
+hoister,2
+hockey skate,2
+hockey coach,2
+hijab,2
+highlighter,2
+high,2
+henna,2
+heliport,2
+heating element,2
+heat pump,2
+hearer,2
+headboard,2
+harrow,2
+harpoon,2
+hardback,2
+hard disc,2
+hanging,2
+handling,2
+hammer throw,2
+hamburger bun,2
+halite,2
+hail,2
+hag,2
+hacksaw,2
+gynecologist,2
+guru,2
+gunpowder,2
+gunfire,2
+guitar pick,2
+guinea pig,2
+guide,2
+grub,2
+growth,2
+grouse,2
+groupie,2
+grounds,2
+ground water,2
+gross,2
+gristmill,2
+greeting card,2
+granite,2
+grandson,2
+granddaughter,2
+graham cracker,2
+grab,2
+governor,2
+government officials,2
+government agent,2
+gorge,2
+gondola,2
+golf range,2
+goggles,2
+glass cutter,2
+glare,2
+girder,2
+gin,2
+ghetto blaster,2
+geologist,2
+gearbox,2
+gay liberation movement,2
+gasoline engine,2
+gasket,2
+garnish,2
+garden plant,2
+gangplank,2
+gadgetry,2
+funeral home,2
+function,2
+fun,2
+fruit salad,2
+frigate,2
+freight train,2
+freedom,2
+free fall,2
+freak,2
+fossil,2
+foraging,2
+footstool,2
+footlocker,2
+footing,2
+football play,2
+football helmet,2
+fondue,2
+fondant,2
+follower,2
+folding chair,2
+fold,2
+fluorescent,2
+flower cluster,2
+flounder,2
+floor wax,2
+floor plan,2
+floodplain,2
+floating dock,2
+flatbread,2
+flashlight battery,2
+flash card,2
+flap,2
+flank,2
+fix,2
+fishing,2
+fishery,2
+firearm,2
+fire warden,2
+fir,2
+finishing line,2
+fingerprint,2
+fine-tooth comb,2
+filler,2
+filament,2
+field hockey ball,2
+fiddlestick,2
+fibril,2
+fetus,2
+feminist,2
+fan blade,2
+fair ball,2
+facial tissue,2
+eye socket,2
+eye clinic,2
+expertness,2
+experiment,2
+euro,2
+estate,2
+espresso maker,2
+escalator clause,2
+equestrian sport,2
+environmentalist,2
+ensemble,2
+emotion,2
+emergency medicine,2
+embassy,2
+electric organ,2
+electric frying pan,2
+election,2
+eggbeater,2
+effigy,2
+edger,2
+edge tool,2
+eaves,2
+eatage,2
+dynamite,2
+dye-works,2
+drunk,2
+drug company,2
+drogue,2
+drip,2
+driftwood,2
+dressing table,2
+drawstring,2
+draftsman,2
+draft horse,2
+doorstop,2
+dominoes,2
+dolmas,2
+dollhouse,2
+doily,2
+dog racing,2
+dog catcher,2
+dog biscuit,2
+dockside,2
+diving,2
+disrepair,2
+disposal,2
+displeasure,2
+diskette,2
+disk jockey,2
+disk harrow,2
+dishtowel,2
+disease,2
+discontentment,2
+discomfort,2
+disappointment,2
+dirtiness,2
+dipterous insect,2
+dinner plate,2
+diningroom suite,2
+dingo,2
+dictator,2
+diaper,2
+diabetic,2
+devil,2
+developer,2
+details,2
+dermatologist,2
+denture,2
+dent,2
+den,2
+deity,2
+deed,2
+decomposition,2
+debit card,2
+deadwood,2
+day laborer,2
+danish,2
+dandelion,2
+dagger,2
+dachshund,2
+cutlet,2
+cuticle,2
+cufflink,2
+crust,2
+crotch,2
+crosscut saw,2
+crochet stitch,2
+crescent wrench,2
+crescent,2
+creature,2
+crape,2
+cranberry,2
+craft,2
+covering,2
+counterweight,2
+cotton candy,2
+cornea,2
+cornbread,2
+cordial reception,2
+coolant,2
+cookie cutter,2
+cooker,2
+conveyance,2
+controversy,2
+control center,2
+constitution,2
+console table,2
+congress,2
+condor,2
+concessionaire,2
+concert band,2
+concentration,2
+computer science,2
+computer graphics,2
+compressor,2
+comparison,2
+compact-disk burner,2
+communication,2
+comedienne,2
+combination lock,2
+colt,2
+collectible,2
+coffeepot,2
+coffee mill,2
+coffee grounds,2
+coffee filter,2
+cocoa butter,2
+cockroach,2
+cochineal insect,2
+cobra,2
+coaching,2
+clutter,2
+clockwork,2
+clock tower,2
+clipping,2
+cliff brake,2
+client,2
+cleat,2
+cleaners,2
+clarinet,2
+city hall,2
+circuit breaker,2
+cipher,2
+cicada,2
+chopping block,2
+chop,2
+choking,2
+choice,2
+chocolate cake,2
+chief executive officer,2
+chickpea,2
+chew,2
+cheese dip,2
+cheddar,2
+checkout,2
+chassis,2
+chasm,2
+charioteer,2
+chamber,2
+chalk dust,2
+chaise longue,2
+ceramic ware,2
+central processing unit,2
+centimeter,2
+cellophane,2
+cellar,2
+celeriac,2
+caveman,2
+catapult,2
+catamaran,2
+catalog,2
+cat box,2
+castle,2
+cashew,2
+casein glue,2
+case shot,2
+carryall,2
+carry,2
+carport,2
+carpenter's level,2
+caricaturist,2
+caricature,2
+cargo hatch,2
+cardiopulmonary resuscitation,2
+carapace,2
+car wheel,2
+capote,2
+canyonside,2
+canteen,2
+cantaloup,2
+cannonball,2
+canine,2
+candy corn,2
+candy cane,2
+candidate,2
+cancer,2
+camera tripod,2
+calligraphy,2
+caller,2
+cacao bean,2
+cable television,2
+cable car,2
+cabbage palmetto,2
+cab fare,2
+butterfly pea,2
+bustier,2
+bushing,2
+burro,2
+burn plant,2
+burl,2
+bullpen,2
+brushwood,2
+bruise,2
+brown bear,2
+broadcaster,2
+bristle,2
+brickwork,2
+bricklayer,2
+brick trowel,2
+breakfast table,2
+bread knife,2
+braid,2
+boxing equipment,2
+box office,2
+bowling,2
+bowed stringed instrument,2
+boutonniere,2
+boundary line,2
+boundary,2
+border patrolman,2
+bookmark,2
+bonding,2
+bombshell,2
+body part,2
+boatyard,2
+boat race,2
+board meeting,2
+bluish green,2
+bluebird,2
+blowfish,2
+blob,2
+blessing,2
+blank,2
+blackberry,2
+birth,2
+birdcall,2
+biometric identification,2
+bicycle seat,2
+bicycle chain,2
+beloved,2
+beige,2
+beauty,2
+beats per minute,2
+beating,2
+bear claw,2
+bean curd,2
+batter's box,2
+batman,2
+bath salts,2
+bassarisk,2
+bass drum,2
+baseball equipment,2
+baseball club,2
+baseball cap,2
+barrette,2
+banker,2
+bank account,2
+banjo,2
+bangle,2
+bamboo fern,2
+ballooning,2
+ballet mistress,2
+ball game,2
+bale,2
+badlands,2
+backscratcher,2
+backpacker,2
+automobile race,2
+autograph,2
+authority,2
+audio system,2
+attempt,2
+attacker,2
+attack,2
+athletics,2
+athletic contest,2
+asteroid,2
+assistant,2
+assault,2
+ass,2
+art teacher,2
+art student,2
+art exhibition,2
+arrest,2
+armored personnel carrier,2
+architecture,2
+apprentice,2
+apprehension,2
+apiary,2
+antiseptic,2
+antiaircraft,2
+annual ring,2
+anklet,2
+ankle brace,2
+animal trainer,2
+angler,2
+angel,2
+android,2
+amphitheater,2
+ampere,2
+ammeter,2
+amber,2
+aluminum,2
+alfalfa sprout,2
+aisle,2
+airplane mechanics,2
+agribusiness,2
+agreement,2
+aftermath,2
+advocate,2
+adjustable wrench,2
+acupuncture,2
+acrylic,2
+ace,2
+abstraction,2
+absence,2
+abrader,2
+above,2
+aardvark,2
+Yorkshire terrier,2
+Xerox,2
+Vaseline,2
+United States Constitution,2
+United States Coast Guard,2
+United Kingdom,2
+Tyson,2
+Thanksgiving,2
+Thailand,2
+Teapot Dome,2
+Syria,2
+Swiss cheese,2
+Siberian husky,2
+Sheetrock,2
+Scorpio,2
+Sahara,2
+Pyrex,2
+Protestant,2
+Prayer of Azariah and Song of the Three Children,2
+Post-It,2
+Old World buffalo,2
+Ohio,2
+Niagara Falls,2
+New Year's Day,2
+Medal of Honor,2
+May Day,2
+Mandela,2
+Jaws of Life,2
+Israel,2
+Irish,2
+Highlander,2
+Heaven,2
+Hanks,2
+Gulf of Mexico,2
+Guantanamo Bay,2
+Great Plains,2
+Golden Gate Bridge,2
+Frenchman,2
+French toast,2
+French bread,2
+French,2
+English muffin,2
+England,2
+Doctor of Medicine,2
+Distinguished Service Medal,2
+Disneyland,2
+De Niro,2
+Cuba,2
+Congo,2
+Colosseum,2
+Chinese lantern,2
+Chinese gooseberry,2
+Cape Canaveral,2
+Canada,2
+CD-ROM,2
+CD drive,2
+Buffalo,2
+Big Ben,2
+Asia,2
+Angora,2
+Agent Orange,2
+Afghanistan,2
+Academy Award,2
+zone,1
+zinc oxide,1
+zebra finch,1
+yogi,1
+yew,1
+yellowish pink,1
+yellowish brown,1
+yawn,1
+yard marker,1
+yard goods,1
+yacht club,1
+wrought iron,1
+writing board,1
+wristwatch,1
+wreck,1
+wrath,1
+worry,1
+worksheet,1
+woolly indris,1
+wool stapler,1
+woodworker,1
+woodenware,1
+wonder woman,1
+wonder boy,1
+wombat,1
+womanliness,1
+wolverine,1
+witness box,1
+witches' brew,1
+wit,1
+wireless local area network,1
+winter,1
+wing shooting,1
+wineskin,1
+wineglass heel,1
+wine cask,1
+windshield wiper,1
+window seat,1
+winder,1
+wind tunnel,1
+willow,1
+will,1
+wildflower,1
+wild carrot,1
+wig,1
+widowhood,1
+white whale,1
+white sauce,1
+white goods,1
+whisker,1
+whippersnapper,1
+whey,1
+wheel and axle,1
+whale shark,1
+wellbeing,1
+welfare state,1
+welding,1
+welcome,1
+weeds,1
+wedding present,1
+webfoot,1
+webcam,1
+weatherman,1
+weather satellite,1
+weaponry,1
+weakness,1
+waxwork,1
+wattle and daub,1
+watt,1
+waterproofing,1
+watering cart,1
+waterfowl,1
+waterdog,1
+watercraft,1
+water wings,1
+water starwort,1
+water sport,1
+water ski,1
+water scooter,1
+water polo,1
+water nymph,1
+water mill,1
+water meter,1
+water filter,1
+water chute,1
+wasp's nest,1
+washhouse,1
+wand,1
+wall unit,1
+waist pack,1
+wag,1
+waffle,1
+voltaic battery,1
+volleyball net,1
+vole,1
+volcanic rock,1
+void,1
+vixen,1
+vital organ,1
+visual impairment,1
+visit,1
+viper,1
+violence,1
+vinyl polymer,1
+vintner,1
+vine snake,1
+vigil,1
+viewer,1
+view angle,1
+videotape,1
+vertical tail,1
+vertical stabilizer,1
+vermiculite,1
+veranda,1
+vehemence,1
+vaulting horse,1
+varmint,1
+vaporizer,1
+vanilla ice cream,1
+vanilla bean,1
+value,1
+usher,1
+urinary bladder,1
+upholsterer,1
+upgrade,1
+unidentified flying object,1
+unicorn,1
+unhappiness,1
+unemployed people,1
+underdevelopment,1
+unclearness,1
+uncle,1
+uncertainty,1
+ulnar vein,1
+uke,1
+typist,1
+type,1
+tympanist,1
+two-spotted ladybug,1
+twit,1
+twist,1
+twin,1
+twilight,1
+twenty-two rifle,1
+tune,1
+tumor,1
+tularemia,1
+try square,1
+true pepper,1
+truck stop,1
+trident,1
+triangular prism,1
+trial judge,1
+trekker,1
+tree toad,1
+treatment,1
+treasure chest,1
+trapezoid,1
+transportation system,1
+transportation,1
+transmitter,1
+transformer,1
+transfer paper,1
+tramcar,1
+training school,1
+training program,1
+traffic lane,1
+trackball,1
+toy soldier,1
+toxic waste dump,1
+town meeting,1
+town hall,1
+towline,1
+tourist attraction,1
+tour,1
+totem pole,1
+tosser,1
+tortoiseshell,1
+torsion,1
+torr,1
+torch race,1
+topping,1
+topography,1
+topographic point,1
+top fermenting yeast,1
+tonometer,1
+tonic,1
+tongue tie,1
+toner,1
+tone arm,1
+tomato paste,1
+tomato blight,1
+tom,1
+tollkeeper,1
+toilet soap,1
+togs,1
+titrator,1
+titanium,1
+tinsel,1
+tinfoil,1
+tincture of iodine,1
+tin can,1
+time period,1
+timbre,1
+till,1
+tiddlywinks,1
+tickle,1
+ticket holder,1
+ticket agent,1
+threshing floor,1
+three-way switch,1
+thoroughfare,1
+thirst,1
+third-class mail,1
+third person,1
+third baseman,1
+thermosphere,1
+thermonuclear reaction,1
+thermoelectric thermometer,1
+theodolite,1
+theca,1
+theater stage,1
+thaw,1
+thank offering,1
+tester,1
+terrarium,1
+terrain,1
+tern,1
+tepee,1
+tentmaker,1
+tenpenny nail,1
+tennis stroke,1
+tenner,1
+tendon,1
+tender,1
+template,1
+television star,1
+television equipment,1
+televangelist,1
+telephone receiver,1
+telephone operator,1
+telephone line,1
+telephone company,1
+telegram,1
+teething,1
+technology,1
+teashop,1
+tear gas,1
+teamwork,1
+team sport,1
+teakettle,1
+tea service,1
+taxpayer,1
+taxiway,1
+taxidermy,1
+taste,1
+tapir,1
+tapestry,1
+tape cartridge,1
+tap water,1
+tap dancer,1
+tank top,1
+tandoor,1
+tan,1
+tambourine,1
+tailoring,1
+taillight,1
+taffy,1
+tack hammer,1
+tabloid,1
+table-tennis racquet,1
+table tipping,1
+table mat,1
+table game,1
+tabasco,1
+symphony orchestra,1
+symphony,1
+sycophant,1
+swizzle stick,1
+swivel chair,1
+switcher,1
+sweetbread,1
+sweep,1
+sweat pants,1
+swatter,1
+swathe,1
+swat,1
+suspensory,1
+survivor,1
+surveyor's level,1
+surveying instrument,1
+survey,1
+surveillance system,1
+surrey,1
+surfboat,1
+supply closet,1
+supervisor,1
+supervision,1
+supernova,1
+superintendent,1
+sunroof,1
+sunhat,1
+sunbather,1
+sumo wrestler,1
+sumo ring,1
+sum,1
+suggestion,1
+sugar water,1
+sugar maple,1
+suction,1
+succotash,1
+subway fare,1
+substitution,1
+substitute,1
+submachine gun,1
+subdivision,1
+stupid,1
+stun gun,1
+study hall,1
+studio apartment,1
+struggle,1
+structural iron,1
+strop,1
+string section,1
+string quartet,1
+striker,1
+stretch reflex,1
+street name,1
+street cleaner,1
+strawberry ice cream,1
+strawberry hemangioma,1
+strawberry bush,1
+strap hinge,1
+strange quark,1
+straightedge,1
+straight pin,1
+straight line,1
+stout,1
+stork,1
+stoneware,1
+stonecutter,1
+stone wall,1
+stoic,1
+stilt,1
+still life,1
+stick figure,1
+stick cinnamon,1
+stew meat,1
+steroid,1
+stern,1
+stepping stone,1
+step stool,1
+steel mill,1
+steamroller,1
+steak sauce,1
+steak knife,1
+stay,1
+stationery,1
+statement,1
+starter,1
+starch,1
+standard poodle,1
+standard,1
+stance,1
+stamen,1
+stalactite,1
+stainless steel,1
+stainer,1
+stained glass,1
+stagecoach,1
+stag,1
+stabilizer,1
+squeeze,1
+squad,1
+squab,1
+spy,1
+springer spaniel,1
+spraying,1
+spouse,1
+spotted lynx,1
+spot welding,1
+spot weld,1
+sportsmanship,1
+sports announcer,1
+sporting goods,1
+spokesperson,1
+spokesman,1
+spoke,1
+splinter,1
+spirometer,1
+spiritual leader,1
+spirit,1
+spiral bandage,1
+spiny lobster,1
+spinning machine,1
+spinal nerve,1
+spider flower,1
+sperm,1
+spelling,1
+speedway,1
+speedometer,1
+speed trap,1
+speed skating,1
+speculum,1
+spatter,1
+sparkling wine,1
+spark,1
+sparerib,1
+spare tire,1
+space capsule,1
+space bar,1
+soy sauce,1
+south,1
+sourness,1
+sourdough,1
+sour mash,1
+soupspoon,1
+soup bowl,1
+soundtrack,1
+sorghum,1
+sore throat,1
+sophisticate,1
+sonogram,1
+sonar,1
+somersault,1
+solvent,1
+solderer,1
+solar energy,1
+sod house,1
+society,1
+socialist,1
+social gathering,1
+social climber,1
+soar,1
+soapweed,1
+snowshoe,1
+snowball,1
+snorkeling,1
+snorkel,1
+snips,1
+sneeze,1
+sneak,1
+snapping turtle,1
+snake venom,1
+smuggler,1
+smoking room,1
+smokestack,1
+smokehouse,1
+smog,1
+smiley,1
+smelling salts,1
+smasher,1
+smart card,1
+small ship,1
+small businessman,1
+smack,1
+slush,1
+slump,1
+slow loris,1
+slip,1
+sliding seat,1
+slicing,1
+sleep,1
+slave,1
+slattern,1
+slate,1
+slash,1
+slacks,1
+skywalk,1
+sky wave,1
+skin care,1
+skillet corn bread,1
+skidder,1
+ski wax,1
+ski race,1
+ski pole,1
+ski mask,1
+ski conditions,1
+ski binding,1
+sketch map,1
+skeet,1
+skateboarding,1
+sirloin,1
+sinkhole,1
+sinker,1
+single-rotor helicopter,1
+sin,1
+simulation,1
+silverfish,1
+silver dollar,1
+silver,1
+silly,1
+silkscreen,1
+silencer,1
+sieva bean,1
+side road,1
+side dish,1
+sick person,1
+sick,1
+shuttle helicopter,1
+shrink-wrap,1
+shrew,1
+showcase,1
+shopkeeper,1
+shoemaking,1
+shoebox,1
+shirking,1
+shipwright,1
+shipwreck,1
+shim,1
+shellflower,1
+shelf bracket,1
+sheet-metal work,1
+sheet music,1
+shearer,1
+shaving brush,1
+shave,1
+shariah,1
+shale oil,1
+shaking,1
+shaggymane,1
+shadow box,1
+shackle,1
+sextet,1
+sewing stitch,1
+sewage disposal,1
+set decoration,1
+sesame seed,1
+serving dish,1
+serving cart,1
+serial killer,1
+septic tank,1
+separation,1
+sensationalist,1
+seminar,1
+semicircle,1
+semiautomatic firearm,1
+selling,1
+self-consciousness,1
+selector,1
+seepage,1
+seedsman,1
+seeder,1
+seed stock,1
+sedimentary rock,1
+security staff,1
+section,1
+secondary school,1
+second baseman,1
+sea slug,1
+sea otter,1
+sea boat,1
+sea anemone,1
+scuff,1
+scuba diving,1
+scrub beefwood,1
+scripture,1
+screw key,1
+scratch pad,1
+scrapbook,1
+scrap metal,1
+scot and lot,1
+scoreboard,1
+scone,1
+scientific instrument,1
+schoolboy,1
+scheme,1
+schedule,1
+scallop,1
+scabbard,1
+scab,1
+sax,1
+sawmill,1
+sawhorse,1
+saw log,1
+sauna,1
+sauerkraut,1
+sass,1
+sarcophagus,1
+sarcasm,1
+sandwich plate,1
+sanctuary,1
+samurai,1
+samizdat,1
+saltine,1
+sale,1
+salad green,1
+sake,1
+sagebrush buttercup,1
+safflower seed,1
+safety valve,1
+safety razor,1
+safety,1
+safe-deposit,1
+saddle seat,1
+sable,1
+saber saw,1
+runt,1
+running back,1
+rum,1
+rug merchant,1
+rubbing alcohol,1
+rowing,1
+round,1
+roulette ball,1
+rotor,1
+rotation,1
+rotating shaft,1
+rose water,1
+rose of Sharon,1
+rope ladder,1
+root vegetable,1
+roofing paper,1
+roof garden,1
+rollerblading,1
+rollerblader,1
+roller-skater,1
+roller bandage,1
+roe deer,1
+roe,1
+rocker arm,1
+rock dove,1
+rock candy,1
+robin,1
+roadman,1
+rivet,1
+riverbed,1
+river otter,1
+rite,1
+ripple,1
+riot control,1
+ring finger,1
+right field,1
+right angle,1
+rigging,1
+rig,1
+rifle range,1
+rhythm,1
+rhombus,1
+reverie,1
+reveler,1
+reticulated python,1
+retardant,1
+retaining wall,1
+restaurant chain,1
+respite,1
+respects,1
+reservation,1
+requirement,1
+reproductive system,1
+representation,1
+report,1
+replacement,1
+repeat,1
+remove,1
+removal,1
+remainder,1
+religious residence,1
+religious festival,1
+relay,1
+reinforced concrete,1
+rehearsal,1
+region,1
+refuge,1
+refiner,1
+red meat,1
+red cabbage,1
+recruitment,1
+recourse,1
+recording,1
+recorder,1
+recombinant human insulin,1
+recoil,1
+recipe,1
+reception room,1
+rearview mirror,1
+ready,1
+reaction,1
+raw meat,1
+ravioli,1
+ratel,1
+rasp,1
+rap,1
+ranch house,1
+ramrod,1
+rampart,1
+rammer,1
+ramekin,1
+raincoat,1
+rail fence,1
+raffle,1
+raffia,1
+radiologist,1
+radar beacon,1
+rad,1
+rack of lamb,1
+queue,1
+quesadilla,1
+quality,1
+quadriceps,1
+python,1
+pyramidal tent,1
+pyramid,1
+pygmy chimpanzee,1
+putt,1
+pussy-paw,1
+pusher,1
+purpose,1
+purity,1
+purchase,1
+puppet show,1
+puppet,1
+punks,1
+punk,1
+puncture,1
+pumpkin pie,1
+pump action,1
+pumice,1
+pull chain,1
+puffed rice,1
+puddle,1
+public relations person,1
+psychotic,1
+psychotherapist,1
+prowler,1
+proverb,1
+prosecutor,1
+propjet,1
+prophet,1
+propanol,1
+propane,1
+propagandist,1
+proof,1
+promotion,1
+promontory,1
+promise,1
+promenade,1
+proclamation,1
+procession,1
+procaine hydrochloride,1
+problem,1
+primitive,1
+primary care physician,1
+priesthood,1
+pride,1
+prickly pear,1
+prevention,1
+press corps,1
+preserve,1
+preschooler,1
+premiere,1
+prematureness,1
+premature baby,1
+preference,1
+prefab,1
+precipitation,1
+praise,1
+power walking,1
+pounder,1
+potholder,1
+potbelly,1
+potato skin,1
+pot roast,1
+post-office box number,1
+positive,1
+pose,1
+portico,1
+portable computer,1
+pork belly,1
+pore,1
+porcelain,1
+poppy,1
+pop tent,1
+pop group,1
+poor person,1
+poodle,1
+poncho,1
+pommel,1
+pomegranate,1
+polyethylene,1
+polo mallet,1
+pollution,1
+polls,1
+policeman bird,1
+police van,1
+police precinct,1
+police department,1
+poleax,1
+polar glacier,1
+pointing trowel,1
+point of view,1
+poacher,1
+plumb line,1
+plowman,1
+plowing,1
+plate iron,1
+plastic laminate,1
+plantain,1
+plant part,1
+planned community,1
+plank,1
+plane seat,1
+pitching,1
+pipit,1
+piping,1
+pipefitting,1
+pipe cutter,1
+pinniped mammal,1
+pine marten,1
+pinata,1
+pilot light,1
+pilot burner,1
+pilomotor reflex,1
+pillow lava,1
+pigment,1
+piggyback,1
+piggery,1
+piece of cloth,1
+picture rail,1
+picture postcard,1
+pickings,1
+picket fence,1
+piano lesson,1
+physics,1
+photomontage,1
+phonograph needle,1
+phone number,1
+phlebotomist,1
+pharmacologist,1
+petit point,1
+personal letter,1
+personal digital assistant,1
+peroneus,1
+permafrost,1
+peripheral,1
+perfumery,1
+peregrine,1
+percussion instrument,1
+percentage,1
+pepperoni pizza,1
+peppermint,1
+peoples,1
+pentagon,1
+penlight,1
+peephole,1
+peek,1
+pederast,1
+pecan,1
+peacock,1
+pave,1
+patriot,1
+patella,1
+pate,1
+pastry cook,1
+paster,1
+passer,1
+passage,1
+pass,1
+party favor,1
+parts inventory,1
+parts bin,1
+participant,1
+parsnip,1
+parquetry,1
+parquet,1
+parliament,1
+parchment,1
+parasailing,1
+paramilitary,1
+paralysis,1
+parade ground,1
+papier-mache,1
+paper mill,1
+paper cutter,1
+palm nut,1
+pallette,1
+pallbearer,1
+paleontologist,1
+pajama,1
+paintball,1
+paella,1
+paddlewheel,1
+paddle steamer,1
+packing material,1
+packing,1
+packaging,1
+oxcart,1
+ownership,1
+overpass,1
+overgrowth,1
+outsole,1
+outskirt,1
+outside mirror,1
+outside clinch,1
+outside caliper,1
+output,1
+outpost,1
+outfield,1
+outbuilding,1
+out,1
+ottoman,1
+ostrich fern,1
+orthodontics,1
+orifice,1
+organic,1
+ore bed,1
+orchestra pit,1
+oratory,1
+oration,1
+orange zest,1
+optometry,1
+optical glass,1
+open-hearth furnace,1
+onlooker,1
+one-half,1
+omelet pan,1
+old,1
+oilcan,1
+oil pump,1
+oil pipeline,1
+oil heater,1
+oil burner,1
+offspring,1
+officeholder,1
+offer,1
+ocelot,1
+observation station,1
+oath,1
+nutgrass,1
+nursery school,1
+nurse-patient relation,1
+nub,1
+novelist,1
+nova,1
+noumenon,1
+nothingness,1
+notepaper,1
+notch,1
+nose job,1
+noose,1
+nitric acid,1
+niqaabi,1
+niece,1
+nicotine,1
+newsroom,1
+news event,1
+newlywed,1
+network,1
+netting,1
+neighbor,1
+negative,1
+navy yard,1
+navel,1
+naval officer,1
+nausea,1
+nationality,1
+national park,1
+nap,1
+name tag,1
+name,1
+nailhead,1
+nacho,1
+nabothian cyst,1
+mythical monster,1
+mutism,1
+muteness,1
+mustachio,1
+musical organization,1
+music stand,1
+music box,1
+mushroom poisoning,1
+musculus biceps femoris,1
+muscleman,1
+murder,1
+mung,1
+multiengine airplane,1
+mozzarella,1
+movie projector,1
+mouthpiece,1
+mouth hole,1
+mousepad,1
+mountain tent,1
+mountain peak,1
+mount,1
+mouflon,1
+motorist,1
+motor vehicle,1
+motor control,1
+motherhood,1
+mother-in-law,1
+moor,1
+monocle,1
+monarch,1
+molehill,1
+molecule,1
+molasses,1
+molar,1
+moisture,1
+module,1
+modem,1
+mock orange,1
+mixing faucet,1
+mixed drink,1
+miter joint,1
+miter box,1
+mite,1
+misogynist,1
+mirror image,1
+millipede,1
+millinery,1
+milkshake,1
+milk chocolate,1
+milk can,1
+militiaman,1
+military uniform,1
+military training,1
+military post,1
+military hospital,1
+military drill,1
+mildew,1
+migrant,1
+mid-calf,1
+micron,1
+meteorite,1
+metalwork,1
+mercury,1
+mentally retarded,1
+mental hospital,1
+memento,1
+medical student,1
+medical profession,1
+medalist,1
+mechanical system,1
+meat pie,1
+meat packer,1
+measurer,1
+meaning,1
+mayweed,1
+maypole,1
+mayor,1
+matter,1
+math teacher,1
+maternity ward,1
+masked ball,1
+marzipan,1
+marten,1
+marshmallow fluff,1
+marriage license,1
+marmoset,1
+marking,1
+market day,1
+marjoram,1
+marimba,1
+marigold,1
+mariachi,1
+maple,1
+manila,1
+manger,1
+mandolin,1
+mandala,1
+manatee,1
+management,1
+man's clothing,1
+man of letters,1
+man of action,1
+mammoth,1
+malleability,1
+mallard,1
+male-patterned baldness,1
+male genitalia,1
+male body,1
+make-believe,1
+magnetism,1
+magnetic tape,1
+magician,1
+maggot,1
+magazine rack,1
+maestro,1
+machine tool,1
+machine politician,1
+lymph node,1
+luthier,1
+luster,1
+lunch meat,1
+luminescence,1
+luggage carrier,1
+luge,1
+lower berth,1
+low,1
+louver,1
+loupe,1
+lotus,1
+loot,1
+loose smut,1
+looking,1
+longhand,1
+loin,1
+logic,1
+log cabin,1
+local road,1
+lobbyist,1
+loading zone,1
+liver,1
+little finger,1
+litter,1
+list,1
+liquid unit,1
+lingerie,1
+line of life,1
+like,1
+light machine gun,1
+lift pump,1
+life-support system,1
+lichen,1
+license number,1
+license,1
+letter opener,1
+lesser panda,1
+lemon peel,1
+legate,1
+leg exercise,1
+leftovers,1
+leftover,1
+left-handed pitcher,1
+leech,1
+lectern,1
+lease,1
+leaf lettuce,1
+leaf bud,1
+leaf beetle,1
+layout,1
+laying on,1
+layer,1
+law enforcement,1
+lattice,1
+latrine,1
+lather,1
+latex,1
+larva,1
+lard,1
+larceny,1
+lapin,1
+langur,1
+landmark,1
+landing craft,1
+lander,1
+lanai,1
+lamb chop,1
+lakefront,1
+lake dwelling,1
+ladder truck,1
+lab coat,1
+lab bench,1
+knocker,1
+knife blade,1
+kneeler,1
+kitchenware,1
+kinkajou,1
+kidney,1
+kicker,1
+keyboard instrument,1
+kerosene,1
+keepsake,1
+kangaroo rat,1
+kalumpang,1
+jurist,1
+junk food,1
+juniper berries,1
+junction,1
+jump suit,1
+jujutsu,1
+juggle,1
+joust,1
+journalism,1
+jogging,1
+jinrikisha,1
+jeweler's glass,1
+jeweler,1
+jet engine,1
+jester,1
+jellyfish,1
+jazz musician,1
+jassid,1
+jalapeno,1
+jade,1
+ivory,1
+issue,1
+irrigation ditch,1
+iron filing,1
+iron cage,1
+invisibility,1
+invalidity,1
+intravenous feeding,1
+intestine,1
+interruption,1
+intern,1
+interior designer,1
+integral,1
+institution,1
+insentience,1
+inquisitor,1
+innocent,1
+inlay,1
+inkwell,1
+infrared,1
+inflater,1
+infirmity,1
+industrialization,1
+indigestion,1
+independence,1
+incubator,1
+incrimination,1
+incinerator,1
+improvised explosive device,1
+implement,1
+imaginary place,1
+imaginary being,1
+illustrator,1
+illustration,1
+illusion,1
+ill health,1
+iguanodon,1
+igloo,1
+idle pulley,1
+identity,1
+identification,1
+icetray,1
+iced-tea spoon,1
+ice-cream soda,1
+ice machine,1
+ice floe,1
+ice field,1
+ice ax,1
+ibex,1
+hyperextension,1
+hydraulic pump,1
+hyaluronic acid,1
+hush puppy,1
+hurricane,1
+hurling,1
+huntress,1
+hunting knife,1
+humanistic discipline,1
+hub,1
+housing project,1
+housekeeper,1
+housefly,1
+housebreaker,1
+house painter,1
+hourglass,1
+hound's-tongue,1
+hotelier,1
+hotel-casino,1
+hot-fudge sauce,1
+hot water,1
+hot pepper,1
+hostile,1
+hostess,1
+hospice,1
+horseshow,1
+horsemanship,1
+horse cassia,1
+horn of plenty,1
+horizontal surface,1
+hopscotch,1
+hop-picker,1
+hook wrench,1
+hook and eye,1
+honoree,1
+honker,1
+homelessness,1
+home buyer,1
+home appliance,1
+holy place,1
+holster,1
+hologram,1
+holiday season,1
+hog-nosed skunk,1
+hoe handle,1
+hodoscope,1
+hockey team,1
+hockey clinic,1
+hobbyist,1
+hitter,1
+historian,1
+hip roof,1
+hind leg,1
+hike,1
+high-five,1
+hideout,1
+hexagon,1
+hermit crab,1
+here,1
+herder,1
+hemp,1
+hemostat,1
+hem,1
+hedge nettle,1
+heavy lifting,1
+heating,1
+heat lamp,1
+heartburn,1
+heart attack,1
+hearse,1
+headlock,1
+header,1
+head cold,1
+hazelnut,1
+haystack,1
+haymaker,1
+hayfork,1
+hawk owl,1
+hatchling,1
+hatchery,1
+hatch,1
+hassock,1
+harvest,1
+harpist,1
+harp,1
+harmonica,1
+hardness,1
+hard-shell crab,1
+hard-boiled egg,1
+hard hat,1
+harassment,1
+happening,1
+handyman,1
+handsaw fish,1
+handrest,1
+handoff,1
+handicraft,1
+handhold,1
+handful,1
+handball court,1
+hand towel,1
+hand throttle,1
+hand lotion,1
+hand grenade,1
+hand brake,1
+hamper,1
+hammerhead,1
+ham hock,1
+half-mast,1
+hair care,1
+hacker,1
+gyneolatry,1
+gymnastic apparatus,1
+gunsight,1
+guffaw,1
+guesthouse,1
+guerrilla,1
+growth rate,1
+group participation,1
+group action,1
+groundsman,1
+groundnut,1
+groundcover,1
+ground wave,1
+ground state,1
+ground rose,1
+ground cedar,1
+grist,1
+grind,1
+grey fox,1
+greenish blue,1
+green thumb,1
+green pea,1
+grease-gun,1
+grated cheese,1
+grass skirt,1
+grasping,1
+graphic,1
+grapevine,1
+grapeshot,1
+grape juice,1
+granule,1
+granola,1
+grandstand,1
+grandchild,1
+gram molecule,1
+gram,1
+graduate,1
+government,1
+goner,1
+gondolier,1
+golfing,1
+golf-club head,1
+golf stroke,1
+golden hamster,1
+gold leaf,1
+going,1
+goffer,1
+godown,1
+goatee,1
+goat antelope,1
+gnat,1
+glow tube,1
+glory,1
+glabella,1
+giving up,1
+giving,1
+girth,1
+girdle,1
+ginseng,1
+gingerbread man,1
+gigabit,1
+gift wrapping,1
+gibbon,1
+giant hornet,1
+giant eland,1
+germ,1
+geothermal energy,1
+genus Capsicum,1
+gem,1
+gay man,1
+gawker,1
+gavel,1
+gaslight,1
+gas oven,1
+garlic chive,1
+garlic butter,1
+gargoyle,1
+gargle,1
+garage sale,1
+gangster,1
+gamekeeper,1
+game equipment,1
+gambling house,1
+gambling,1
+galley,1
+galago,1
+fuselage,1
+fuschia,1
+fury,1
+furan,1
+fur coat,1
+functionality,1
+fuel oil,1
+fuel line,1
+fuel injection,1
+fuel filter,1
+fuel cell,1
+fruit punch,1
+fruit drink,1
+frozen food,1
+frozen custard,1
+frown,1
+frontal bone,1
+front-porch campaigning,1
+fritter,1
+fringe,1
+fret,1
+frequency,1
+free hand,1
+fraternity,1
+frank,1
+fountainhead,1
+forward,1
+fortress,1
+formation,1
+forestry,1
+forest tent caterpillar,1
+foreign country,1
+foreground,1
+foray,1
+footprint,1
+foothold,1
+foothill,1
+footbridge,1
+footbath,1
+food court,1
+food bank,1
+folk,1
+fog,1
+focalization,1
+foam rubber,1
+flurry,1
+fluff,1
+flower-of-an-hour,1
+flower power,1
+flower girl,1
+flower bud,1
+floor joist,1
+flip,1
+flint corn,1
+flicker,1
+flibbertigibbet,1
+flea,1
+flattery,1
+flat file,1
+flat,1
+flashing,1
+flash welding,1
+flash,1
+flank steak,1
+flail,1
+fixings,1
+five,1
+fishpond,1
+fishmonger,1
+fishing gear,1
+fishhook,1
+fisher,1
+fishbowl,1
+fishbone,1
+first-aid station,1
+first base,1
+first,1
+firm,1
+firestorm,1
+firefly,1
+fire escape,1
+fire ant,1
+finish,1
+fingerprinting,1
+fingerboard,1
+finger spelling,1
+finance,1
+file server,1
+figure skating,1
+fig tree,1
+field trial,1
+field hospital,1
+field crop,1
+fiddler crab,1
+fibula,1
+fiberglass,1
+fiber bundle,1
+fiancee,1
+fennel,1
+fell,1
+feldspar,1
+feeding,1
+fedora,1
+faux pas,1
+fatso,1
+fart,1
+farmyard,1
+farm girl,1
+farm building,1
+fake,1
+faith healing,1
+fairy,1
+fairway,1
+faint,1
+fagot,1
+fag end,1
+facsimile,1
+facial,1
+eye condition,1
+eye chart,1
+extractor,1
+external ear,1
+exterminator,1
+extension cord,1
+extended care facility,1
+expert,1
+exoskeleton,1
+exhibit,1
+exhaust fan,1
+exhaust,1
+exemplar,1
+executive,1
+exchange,1
+excess,1
+examiner,1
+examination,1
+evergreen,1
+even spacing,1
+evaluator,1
+ethnic,1
+etching,1
+estuary,1
+esophagus,1
+escalader,1
+equation,1
+equality,1
+epiphyllum,1
+epinephrine,1
+epidermis,1
+epaulet,1
+entreaty,1
+entirety,1
+enthusiast,1
+enjoyment,1
+energizing,1
+endive,1
+enamel,1
+emptiness,1
+employment,1
+empathy,1
+emotional state,1
+embroidery,1
+embellishment,1
+embankment,1
+electroencephalogram,1
+electrical power,1
+electric socket,1
+electric resistance,1
+elastomer,1
+elastic device,1
+elastic bandage,1
+elastic,1
+egret,1
+eggcup,1
+eel,1
+edging,1
+earthquake,1
+dyeing,1
+dwarf,1
+duty,1
+duplicator,1
+dunk,1
+dude ranch,1
+duchess,1
+dry wall,1
+dry rot,1
+drupe,1
+drunkard,1
+drumming,1
+drumhead,1
+drum majorette,1
+drool,1
+driveshaft,1
+drive line,1
+drinking,1
+drinker,1
+dried fruit,1
+dressmaker's model,1
+dressing gown,1
+dresser,1
+dress rehearsal,1
+dredging bucket,1
+dredger,1
+draw,1
+dramaturgy,1
+drainage ditch,1
+drag,1
+doughboy,1
+douche,1
+double boiler,1
+dominance,1
+domestic llama,1
+domestic goat,1
+domestic fowl,1
+dog grass,1
+dog collar,1
+documentation,1
+diving suit,1
+ditch spade,1
+distributor point,1
+distribution,1
+distress,1
+disregard,1
+display window,1
+dispensary,1
+disgustingness,1
+discount house,1
+disco,1
+discharge,1
+disapproval,1
+diplomat,1
+diode,1
+dinnerware,1
+dime,1
+digression,1
+digital camera,1
+digit,1
+diggings,1
+digestive system,1
+differential gear,1
+difference,1
+dietician,1
+diesel oil,1
+diaphragm,1
+dialogue,1
+diagnostician,1
+diagnosis,1
+diabetes,1
+dewdrop,1
+destroyer,1
+desk sergeant,1
+desk clerk,1
+desert willow,1
+descent,1
+depressor,1
+depreciation,1
+deoxyribonucleic acid,1
+dentist's drill,1
+dental surgeon,1
+dental school,1
+dental practice,1
+dental plaque,1
+dental care,1
+dental appliance,1
+density,1
+demolition,1
+demigod,1
+delay,1
+dehydrated food,1
+degree centigrade,1
+defensive,1
+defender,1
+defamer,1
+deer hunter,1
+deep-sea diver,1
+decorator,1
+deathbed,1
+dead,1
+deactivation,1
+daze,1
+daygirl,1
+day,1
+dawdler,1
+date plum,1
+database management system,1
+data input device,1
+darning needle,1
+danger,1
+dampener,1
+dairyman,1
+dairymaid,1
+daiquiri,1
+cylinder head,1
+custodian,1
+custard,1
+curve,1
+currawong,1
+cupid,1
+culture,1
+cultivated land,1
+cul,1
+cuisine,1
+cuddle,1
+cubbyhole,1
+crustacean,1
+crumpet,1
+cruelty,1
+crouton,1
+crossing guard,1
+crosse,1
+cross-eye,1
+cross-country skiing,1
+crocolite,1
+crocodile bird,1
+crock,1
+crisphead lettuce,1
+crime,1
+crewman,1
+credit crunch,1
+creation,1
+cream pitcher,1
+crawlspace,1
+crankcase,1
+crackpot,1
+crab apple,1
+coyness,1
+cowfish,1
+cow pasture,1
+covered wagon,1
+couturier,1
+coupon,1
+coupe,1
+country people,1
+country club,1
+count,1
+counselor,1
+cough,1
+cotton gin,1
+cottage cheese,1
+cot,1
+costumier,1
+cosmetologist,1
+cosmetic surgeon,1
+cos lettuce,1
+cos,1
+cortisone,1
+cortege,1
+corrugated iron,1
+corporate executive,1
+cornsilk,1
+cornice,1
+corker,1
+corgi,1
+core drill,1
+cordon,1
+copilot,1
+cooling tower,1
+cooling,1
+cool,1
+conviction,1
+control tower,1
+contrail,1
+context,1
+contemplation,1
+consumption,1
+consumer,1
+construction industry,1
+constituent,1
+console,1
+consequence,1
+congestion,1
+cone pepper,1
+conduit,1
+condiment,1
+condensation,1
+concourse,1
+concierge,1
+computerized axial tomography scanner,1
+computer-aided design,1
+computer user,1
+computer store,1
+computer circuit,1
+compression,1
+companion,1
+compact,1
+commuter traffic,1
+commute,1
+community center,1
+commons,1
+common valerian,1
+common sense,1
+common jasmine,1
+common iguana,1
+common eland,1
+common corn salad,1
+commodity exchange,1
+commissariat,1
+comfort zone,1
+comet,1
+comedy,1
+combustion,1
+color guard,1
+collagen,1
+collaborator,1
+coldness,1
+cola,1
+coinage,1
+coin silver,1
+coffee can,1
+coconut milk,1
+cockfight,1
+cocker spaniel,1
+cobweb,1
+coatrack,1
+coat hanger,1
+coastline,1
+coastguardsman,1
+coaster,1
+coal miner,1
+clutch,1
+clubhouse,1
+closet,1
+clog,1
+clinometer,1
+cling film,1
+clementine,1
+clemency,1
+cleats,1
+cleanliness,1
+classwork,1
+classified ad,1
+clamshell,1
+cistern,1
+circumstance,1
+circulatory system,1
+cinnamon stone,1
+cinnamon bread,1
+cinder track,1
+cigarette case,1
+cigar box,1
+cichlid,1
+churchgoer,1
+christening,1
+chow,1
+chorus girl,1
+chop suey,1
+chocolate pudding,1
+chocolate egg,1
+chiropodist,1
+chinchilla,1
+china cabinet,1
+chin strap,1
+chili dog,1
+chiding,1
+chicken soup,1
+chicken provencale,1
+chicken feed,1
+chicken broth,1
+chevrotain,1
+chest cavity,1
+chessboard,1
+chess player,1
+chess,1
+cherry tomato,1
+cherry plum,1
+cherry laurel,1
+chemistry,1
+cheesecake,1
+cheese souffle,1
+cheese cutter,1
+cheering,1
+cheekbone,1
+checker,1
+check mark,1
+chatterer,1
+chard,1
+channel,1
+changelessness,1
+chanfron,1
+chancel,1
+champion,1
+chamberpot,1
+chalcid fly,1
+chairlift,1
+chainlink fence,1
+chain store,1
+chacma,1
+cereal bowl,1
+centipede,1
+centerpiece,1
+cent,1
+census taker,1
+cellulite,1
+cellist,1
+cayenne,1
+cavity,1
+cave myotis,1
+cavalryman,1
+cavalry sword,1
+caution,1
+cattleman,1
+catsup bottle,1
+cathedral,1
+castigation,1
+cast iron,1
+cassava,1
+cartridge fuse,1
+carpet pad,1
+carpentry,1
+carpenter's mallet,1
+carpenter bee,1
+carpenter ant,1
+carousel,1
+caroler,1
+carnation,1
+caretaker,1
+cardigan,1
+card catalog,1
+carbon dioxide,1
+caravan,1
+carambola,1
+car rental,1
+car battery,1
+capuchin,1
+captive,1
+capital,1
+cape,1
+cap opener,1
+canvas tent,1
+canoeist,1
+cannula,1
+candy bar,1
+candied apple,1
+camouflage,1
+call girl,1
+calendar month,1
+calcium oxide,1
+cad,1
+cabinet wood,1
+cabin cruiser,1
+by-line,1
+buzzard,1
+buttermilk biscuit,1
+butterfly bush,1
+butte,1
+butt,1
+butcher paper,1
+busker,1
+burr,1
+burqa,1
+burlap,1
+burial mound,1
+burglary,1
+bureaucrat,1
+buoyancy,1
+bunsen burner,1
+bunk,1
+bungalow,1
+bunch,1
+bump,1
+bumblebee,1
+bully,1
+bullring,1
+bullfighter,1
+bulletin board system,1
+bulgur pilaf,1
+bulgur,1
+bulge,1
+building material,1
+building block,1
+buffing wheel,1
+buddy,1
+bucking bronco,1
+bucket shop,1
+bubble gum,1
+brush fire,1
+brunet,1
+browse,1
+brown sugar,1
+brown bat,1
+broomstick,1
+brooch,1
+broken home,1
+broken heart,1
+broad bean,1
+brisket,1
+brine,1
+brigadier,1
+bric-a-brac,1
+breathing device,1
+breathalyzer,1
+breast pocket,1
+break dancing,1
+breadcrumb,1
+bread mold,1
+brazier,1
+brawn,1
+brawler,1
+bravado,1
+bran muffin,1
+brake lining,1
+brake drum,1
+brainwave,1
+brad,1
+bowling shoe,1
+bow leg,1
+bounty hunter,1
+bouncer,1
+boudoir,1
+bottling plant,1
+boric acid,1
+boredom,1
+borderland,1
+border patrol,1
+bootstrap,1
+bookmaker,1
+bookend,1
+bookdealer,1
+book jacket,1
+book bag,1
+bones,1
+bone fat,1
+bomb site,1
+bolt cutter,1
+bolster,1
+bok choy,1
+boiling,1
+boiled egg,1
+bodyguard,1
+body mass index,1
+body lotion,1
+bobby pin,1
+boater,1
+boat train,1
+boa constrictor,1
+blur,1
+bluff,1
+blue crab,1
+blubber,1
+blowgun,1
+bloom,1
+blood bank,1
+blizzard,1
+blister pack,1
+blindness,1
+blindfold,1
+bleach,1
+blacksmith,1
+blackhead,1
+blackboard eraser,1
+black-tailed deer,1
+black-footed ferret,1
+bistro,1
+birthday card,1
+birth defect,1
+birdcage,1
+birch,1
+biplane,1
+biologist,1
+binocular microscope,1
+bing cherry,1
+binding,1
+billy,1
+billow,1
+bill poster,1
+bikini pants,1
+bikini,1
+big brother,1
+bicycling,1
+bicycle pump,1
+bicarbonate of soda,1
+bewilderment,1
+betrothal,1
+best man,1
+beneficiary,1
+bender,1
+bench lathe,1
+bellow,1
+bellboy,1
+beggary,1
+beet,1
+beeswax,1
+beer barrel,1
+beeper,1
+beef tenderloin,1
+beef Wellington,1
+bedbug,1
+bed pillow,1
+beater,1
+bearing,1
+bearded seal,1
+beachfront,1
+bazaar,1
+bayou,1
+bay window,1
+bay leaf,1
+battledore,1
+battle-ax,1
+batting,1
+battery acid,1
+bath towel,1
+bath mat,1
+basset,1
+bass horn,1
+basketball equipment,1
+basket weave,1
+barren,1
+barometer,1
+barnacle,1
+barbecue sauce,1
+banter,1
+bankroll,1
+bandsaw,1
+banana peel,1
+bamboo shoot,1
+baluster,1
+balsa,1
+ballpoint,1
+balloonist,1
+ballet skirt,1
+ballet position,1
+ballet company,1
+ball carrier,1
+baked potato,1
+bagpipe,1
+baffle,1
+badminton,1
+bacon and eggs,1
+backstroke,1
+backseat,1
+back door,1
+back brace,1
+bachelor,1
+babysitting,1
+baby bed,1
+axis,1
+awe,1
+autograph album,1
+auto mechanics,1
+aurora borealis,1
+audition,1
+audio amplifier,1
+auctioneer,1
+auction house,1
+attire,1
+atom bomb,1
+athletic supporter,1
+athletic facility,1
+at home,1
+asthma,1
+asterisk,1
+associate,1
+assembly plant,1
+assassin,1
+asphyxia,1
+asparagus bean,1
+arthroscope,1
+arthritis,1
+army unit,1
+army ant,1
+armory,1
+armored vehicle,1
+armored car,1
+armor,1
+armoire,1
+armchair,1
+armband,1
+armadillo,1
+ark,1
+archeologist,1
+aquatic vertebrate,1
+aquatic mammal,1
+approval,1
+apple pie,1
+applause,1
+appetizer,1
+apparel chain,1
+antique,1
+anti-submarine rocket,1
+anthracite,1
+anther,1
+announcer,1
+announcement,1
+anniversary,1
+animatronics,1
+anguish,1
+anesthetic,1
+anesthesiologist,1
+andiron,1
+anchovy pizza,1
+anchor chain,1
+anatomy,1
+amusement arcade,1
+altitude,1
+alternative medicine,1
+alphanumerics,1
+alligator wrench,1
+alga,1
+ale,1
+airplane propeller,1
+air-intake,1
+air marshal,1
+air bag,1
+ailment,1
+ague root,1
+ague,1
+agility,1
+aggression,1
+aggravation,1
+affidavit,1
+affectation,1
+aerodynamic lift,1
+aerator,1
+adviser,1
+adventurer,1
+adult body,1
+adobe,1
+admission,1
+administration,1
+adience,1
+adhesive bandage,1
+addition,1
+adding machine,1
+addiction,1
+active matrix screen,1
+action officer,1
+acrobatics,1
+acrobatic stunt,1
+acrobat,1
+acoustic modem,1
+acne,1
+achiever,1
+ache,1
+accusation,1
+accounting,1
+accordionist,1
+accident,1
+acceptance,1
+accelerator,1
+academician,1
+abuse,1
+Zhu Jiang,1
+Yahweh,1
+Xerxes I,1
+World Wide Web,1
+Wild West,1
+Westminster Abbey,1
+West Africa,1
+West,1
+Weimaraner,1
+Waterhouse-Friderichsen syndrome,1
+Wailing Wall,1
+Vishnu,1
+Vietnam War,1
+Vatican,1
+United States House of Representatives,1
+United Nations Children's Fund,1
+Union Army,1
+Uncle Sam,1
+Twinkie,1
+Turkey,1
+Torrid Zone,1
+Toronto,1
+Torah,1
+Tokyo,1
+Tilapia,1
+Tibet,1
+Thor,1
+Thermopylae,1
+Thatcher,1
+Tasmanian devil,1
+Tappan Zee Bridge,1
+Taj Mahal,1
+T-square,1
+Susanna,1
+Statue of Liberty,1
+Stars and Bars,1
+Stanley Steamer,1
+Special Olympics,1
+Speaker,1
+Soviet Union,1
+South,1
+Sleeping Beauty,1
+Shih-Tzu,1
+Shanghai,1
+Serengeti National Park,1
+Serengeti,1
+Secretary of Defense,1
+Sayda,1
+Salvation Army,1
+Saint Bernard,1
+S wrench,1
+Russia,1
+Rottweiler,1
+Rotary Club,1
+Roman Legion,1
+Robin Hood,1
+Rhode Island,1
+Revelation,1
+Realtor,1
+Reagan,1
+RAM disk,1
+R-2,1
+Pyramid,1
+Prince of Wales,1
+Prime Minister,1
+Primates,1
+Presley,1
+Polaroid camera,1
+Poland,1
+Pluto,1
+Plexiglas,1
+Pierrot,1
+Philippines,1
+Pepto-bismal,1
+Pepsi,1
+People's Party,1
+Pekinese,1
+Panini,1
+Pacific walrus,1
+Pacific Time,1
+Orthodox Jew,1
+Oregon grape,1
+Olympus,1
+Olympian,1
+Oktoberfest,1
+Newfoundland,1
+Nepal,1
+Neapolitan ice cream,1
+Neandertal man,1
+Nazareth,1
+National Guard,1
+Nairobi,1
+Myanmar,1
+Muslimah,1
+Mormon,1
+Monroe,1
+Mongolia,1
+Milky Way,1
+Mickey Mouse,1
+Mexican,1
+Menorah,1
+Mayflower,1
+Mayday,1
+Matisse,1
+Masonite,1
+Mars,1
+Male,1
+Malaysia,1
+Madagascar cat,1
+Macropodidae,1
+MANPAD,1
+Lutrinae,1
+Louvre,1
+Lotus,1
+Lord Chancellor,1
+Lions Club,1
+Linz,1
+Lincoln,1
+Leonidas,1
+Leonardo,1
+Lemuridae,1
+Lasso,1
+Las Vegas,1
+Laos,1
+Ku Klux Klan,1
+Kremlin,1
+Korzybski,1
+Kalahari,1
+Kabul,1
+Joel,1
+Italian bread,1
+Italian,1
+Irish National Liberation Army,1
+Ireland,1
+Iran,1
+Industrial Workers of the World,1
+Indonesia,1
+Iditarod,1
+Holy Ghost,1
+Hollywood,1
+Hmong,1
+Hevea,1
+Hell,1
+Hanukkah,1
+Han,1
+Habakkuk,1
+HAZMAT,1
+Gulf War syndrome,1
+Great Pyrenees,1
+Granny Smith,1
+Grand Canyon National Park,1
+Global Positioning System,1
+Gaza Strip,1
+Gates,1
+Ganges,1
+Gandhi,1
+Galilee,1
+G-man,1
+Fungi,1
+Freon,1
+French bulldog,1
+Fiedler,1
+Ficus,1
+Federal Reserve System,1
+Federal Bureau of Investigation,1
+Father,1
+Euphorbia,1
+Eskimo,1
+Eritrean,1
+Eritrea,1
+Eighteenth Amendment,1
+Egyptian,1
+Egypt,1
+Easter egg,1
+Easter Sunday,1
+Easter,1
+Dutch,1
+Drug Enforcement Administration,1
+Downing Street,1
+Donald Duck,1
+Doctor of the Church,1
+Directorate for Inter-Services Intelligence,1
+DiMaggio,1
+Department of State,1
+Declaration of Independence,1
+Dalai Lama,1
+Cub Scout,1
+Cossack,1
+Cornwall,1
+Congress,1
+Confederate soldier,1
+Confederate,1
+Cologne,1
+Cola,1
+Clydesdale,1
+Christian name,1
+Chinese Wall,1
+Chile,1
+Cheshire cheese,1
+Chaplin,1
+Caterpillar,1
+Carolina allspice,1
+Capitol Hill,1
+Calorie,1
+California Personality Inventory,1
+California,1
+CD-ROM drive,1
+Bushman,1
+Buddha,1
+Brittany spaniel,1
+British pound,1
+British Parliament,1
+Boy Scouts of America,1
+Boy Scouts,1
+Boston bull,1
+Boston baked beans,1
+Bombus,1
+Black Muslim,1
+Belgian waffle,1
+Becker muscular dystrophy,1
+Beatles,1
+Baltimore,1
+Arnold-Chiari deformity,1
+Aries,1
+Arab,1
+Antarctica,1
+Amish,1
+American plaice,1
+American chameleon,1
+Allah,1
+Alaska,1
+African violet,1
+Abstract Expressionism,1
+Aborigine,1
