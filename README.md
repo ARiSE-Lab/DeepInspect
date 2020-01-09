@@ -95,3 +95,19 @@ cd deepinspect/imagenet/
 python2 imagenet_coverage.py
 python2 Imagenet_deepinspect.py
 ```
+
+### 2.6. Inspect pre-trained baseline_crf ResNet model for imSitu dataset(model from [paper](https://github.com/my89/imSitu))
+#### Prerequisite
+Python 2.7, numpy-1.16, tqdm-4.41, torch **0.3.1**, opencv-python, torchvision **0.2**, pickle
+
+#### Run deepinspect on imSitu model
+
+Install the original models from [imSitu](https://github.com/my89/imSitu)  
+Copy folder *baseline_models* to *deepinspect/imsitu/*  
+Download dataset to folder *resized_256/*.
+```
+cd deepinspect/imsitu/
+python2 baseline_crf_deepinspect.py resized_256/adjusting_1.jpg # test environment, this should output predictions without any error.
+
+python2 baseline_crf_deepinspect.py
+```
