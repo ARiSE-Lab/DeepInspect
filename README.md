@@ -48,7 +48,7 @@ cd deepinspect/coco/
 python2 coco_deepinspect.py
 ```
 ```
-Copy the generated csv files and pickle files to override the files in data/coco/ folder and run the code in Section 1.
+Copy the generated csv files to override the files in data/coco/ folder and run the code in Section 1.
 ```
 
 
@@ -65,7 +65,7 @@ cd deepinspect/coco_gender/
 python2 coco_gender_deepinspect.py
 ```
 ```
-Copy the generated csv files and pickle files to override the files in data/coco_gender/ folder and run the code in Section 1.
+Copy the generated csv files to override the files in data/coco_gender/ folder and run the code in Section 1.
 ```
 
 ### 2.3. Inspect robust CIFAR-10 models (models from [paper1](http://papers.nips.cc/paper/8060-scaling-provable-adversarial-defenses.pdf), [paper2](https://arxiv.org/abs/1811.02625))
@@ -80,7 +80,7 @@ python2 cifar10_large_deepinspect.py
 python2 cifar10_resnet_deepinspect.py
 ```
 ```
-Copy the generated csv files and pickle files to override the files in data/robust_cifar10_{small/large/resnet/}/ folder and run the code in Section 1.
+Copy the generated csv files to override the files in data/robust_cifar10_{small/large/resnet/}/ folder and run the code in Section 1.
 ```
 
 ### 2.4. Inspect CIFAR-100 model (model from [repo](https://github.com/aaron-xichen/pytorch-playground))
@@ -93,7 +93,7 @@ cd deepinspect/cifar100/
 python2 cifar100_deepinspect.py
 ```
 ```
-Copy the generated csv files and pickle files to override the files in data/cifar100/ folder and run the code in Section 1.
+Copy the generated csv files to override the files in data/cifar100/ folder and run the code in Section 1.
 ```
 
 ### 2.5. Inspect pre-trained ImageNet model for ILSVRC2012 dataset(model from [torchvision](https://pytorch.org/docs/stable/torchvision/models.html))
@@ -107,7 +107,7 @@ python2 imagenet_coverage.py
 python2 Imagenet_deepinspect.py
 ```
 ```
-Copy the generated csv files and pickle files to override the files in data/imagenet/ folder and run the code in Section 1.
+Copy the generated csv files to override the files in data/imagenet/ folder and run the code in Section 1.
 ```
 
 
@@ -127,6 +127,6 @@ python2 baseline_crf_deepinspect.py resized_256/adjusting_1.jpg # test environme
 python2 baseline_crf_deepinspect.py
 ```
 ```
-Copy the generated csv files and pickle files to override the files in data/imsitu/ folder and run the code in Section 1.
+Copy the generated csv files to override the files in data/imsitu/ folder and run the code in Section 1.
 ```
 
