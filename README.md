@@ -31,6 +31,8 @@ Note2: we only use 90% of test data's predictions to predict confusion and bias 
 #### Prerequisite
 Python 2.7, numpy-1.16, tqdm-4.41, torch-1.3.1, scikit-learn-0.20.4, matplotlib-2.2.4
 
+#### Download dataset
+COCO 2014 [dataset](http://cocodataset.org/#download)
 #### COCO dataset structure
 cocodataset  
 ├── annotations  
