@@ -1,3 +1,4 @@
+import argparse
 import numpy as np
 from scipy.stats import percentileofscore
 
@@ -43,7 +44,18 @@ def get_AUCEC_gain_and_recall_precision_ab_list(datasets, top_percentages, use_M
 
 
 if __name__ == '__main__':
-    datasets = ["coco","coco_gender","cifar100","robust_cifar10_small","robust_cifar10_large","robust_cifar10_resnet","imsitu","imagenet"]
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--datasets', dest='datasets', type=str, default='all', help='dataset to use')
+    args = parser.parse_args()
+
+    datasets = args.datasets
+    assert datasets in ["all", "coco","coco_gender","cifar100","robust_cifar10_small","robust_cifar10_large","robust_cifar10_resnet","imsitu","imagenet"]
+    if datasets == 'all':
+        datasets = ["coco","coco_gender","cifar100","robust_cifar10_small","robust_cifar10_large","robust_cifar10_resnet","imsitu","imagenet"]
+    else:
+        datasets = [datasets]
+
+    # datasets support one of the following or all of them: ["coco","coco_gender","cifar100","robust_cifar10_small","robust_cifar10_large","robust_cifar10_resnet","imsitu","imagenet"]
 
     for dataset in datasets:
         print("---------------------------")
@@ -147,8 +159,13 @@ if __name__ == '__main__':
         aucec_over_MODE = (aucec - MODE_aucec) / MODE_aucec
         AUCEC_gain_per_dataset_dual[dataset] = (aucec_over_MODE, aucec_over_random)
 
-    AUCEC_gain_per_dataset_dual['imsitu'] = (None, AUCEC_gain_per_dataset['imsitu'])
+    if 'imsitu' in datasets:
+        AUCEC_gain_per_dataset_dual['imsitu'] = (None, AUCEC_gain_per_dataset['imsitu'])
 
-    dataset_names = ['COCO', 'COCO gender', 'CIFAR-100', 'Robust CIFAR-10 Small', 'Robust CIFAR-10 Large', 'Robust CIFAR-10 ResNet', 'imSitu', 'ImageNet']
 
-    draw_CE_comparison(top_percentages, recall_precision_ab_list_per_dataset, MODE_recall_precision_ab_list_per_dataset, top_std_cutoff_per_dataset, AUCEC_gain_per_dataset_dual, datasets, dataset_names, conf_top_percentage)
+    datasets_names_mappings = {"coco":'COCO' ,"coco_gender":'COCO gender',"cifar100":'CIFAR-100',"robust_cifar10_small":'Robust CIFAR-10 Small',"robust_cifar10_large":'Robust CIFAR-10 Large',"robust_cifar10_resnet":'Robust CIFAR-10 ResNet',"imsitu":'imSitu',"imagenet":'ImageNet'}
+
+    dataset_names = [datasets_names_mappings[d] for d in datasets]
+
+    if len(datasets) == 8:
+        draw_CE_comparison(top_percentages, recall_precision_ab_list_per_dataset, MODE_recall_precision_ab_list_per_dataset, top_std_cutoff_per_dataset, AUCEC_gain_per_dataset_dual, datasets, dataset_names, conf_top_percentage)

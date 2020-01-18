@@ -1,9 +1,12 @@
 import os
+import argparse
 import numpy as np
 import pickle
 from sklearn.metrics.pairwise import euclidean_distances
 
 from util import Test, get_val_and_test_path
+
+
 
 
 def run_trials(datasets, mode):
@@ -32,7 +35,18 @@ def run_trials(datasets, mode):
 
 
 if __name__ == '__main__':
-    datasets = ["coco","coco_gender","cifar100","robust_cifar10_small","robust_cifar10_large","robust_cifar10_resnet","imsitu","imagenet"]
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--datasets', dest='datasets', type=str, default='all', help='dataset to use')
+    args = parser.parse_args()
+
+    datasets = args.datasets
+    assert datasets in ["all", "coco","coco_gender","cifar100","robust_cifar10_small","robust_cifar10_large","robust_cifar10_resnet","imsitu","imagenet"]
+    if datasets == 'all':
+        datasets = ["coco","coco_gender","cifar100","robust_cifar10_small","robust_cifar10_large","robust_cifar10_resnet","imsitu","imagenet"]
+    else:
+        datasets = [datasets]
+
+    # datasets support one of the following or all of them: ["coco","coco_gender","cifar100","robust_cifar10_small","robust_cifar10_large","robust_cifar10_resnet","imsitu","imagenet"]
 
     th = 0.5
     th_str = ''
