@@ -80,7 +80,7 @@ python2 cifar10_large_deepinspect.py
 python2 cifar10_resnet_deepinspect.py
 ```
 ```
-Copy the generated csv files and pickle files to override the files in data/robust_{small/large/resnet/}/ folder and run the code in Section 1.
+Copy the generated csv files and pickle files to override the files in data/robust_cifar10_{small/large/resnet/}/ folder and run the code in Section 1.
 ```
 
 ### 2.4. Inspect CIFAR-100 model (model from [repo](https://github.com/aaron-xichen/pytorch-playground))
