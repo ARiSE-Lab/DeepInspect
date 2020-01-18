@@ -21,7 +21,7 @@ python3 bias_bugs_estimate_ab_and_acd.py
 python3 bias_bugs_generate_results.py
 ```
 ## 2. DeepInspect
-Generating neuron coverage and computing probability matrix may take some time. It is recommended to run the CIFAR-10 script first to get a general idea of DeepInspect, set up the environment and get familiar with the whole workflow. 
+Generating neuron coverage and computing probability matrix for large dataset may take hours. It is recommended to run the CIFAR-10 script first to get a general idea of DeepInspect, set up the environment and get familiar with the whole workflow. 
 
 Note1: neuron coverage for each dataset are only required to compute once, so you can comment out the function call(with name like *get_coverage*) in the main function in each script. The neuron coverage is saved into a pickle file with name like "globalcoverage*.pickle". Since it is cumulatively saved to this pickle file, if you need to re-call the get_coverage function again, please remove this pickle file before calling it again.
 
@@ -47,6 +47,10 @@ cocodataset
 cd deepinspect/coco/
 python2 coco_deepinspect.py
 ```
+```
+Copy the generated csv files and pickle files to override the files in data/coco/ folder and run the code in Section 1.
+```
+
 
 ### 2.2. Inspect pre-trained COCO gender(COCO dataset with man/woman label) model (model from [paper](https://arxiv.org/abs/1707.09457))
 #### Prerequisite
@@ -60,7 +64,9 @@ Same as COCO dataset structure
 cd deepinspect/coco_gender/
 python2 coco_gender_deepinspect.py
 ```
-
+```
+Copy the generated csv files and pickle files to override the files in data/coco_gender/ folder and run the code in Section 1.
+```
 
 ### 2.3. Inspect robust CIFAR-10 models (models from [paper1](http://papers.nips.cc/paper/8060-scaling-provable-adversarial-defenses.pdf), [paper2](https://arxiv.org/abs/1811.02625))
 #### Prerequisite
@@ -73,6 +79,9 @@ python2 cifar10_small_deepinspect.py
 python2 cifar10_large_deepinspect.py
 python2 cifar10_resnet_deepinspect.py
 ```
+```
+Copy the generated csv files and pickle files to override the files in data/robust_{small/large/resnet/}/ folder and run the code in Section 1.
+```
 
 ### 2.4. Inspect CIFAR-100 model (model from [repo](https://github.com/aaron-xichen/pytorch-playground))
 #### Prerequisite
@@ -83,7 +92,9 @@ Python 2.7, numpy-1.16, tqdm-4.41, torch-1.3.1, jupyter
 cd deepinspect/cifar100/
 python2 cifar100_deepinspect.py
 ```
-
+```
+Copy the generated csv files and pickle files to override the files in data/cifar100/ folder and run the code in Section 1.
+```
 
 ### 2.5. Inspect pre-trained ImageNet model for ILSVRC2012 dataset(model from [torchvision](https://pytorch.org/docs/stable/torchvision/models.html))
 #### Prerequisite
@@ -95,6 +106,10 @@ cd deepinspect/imagenet/
 python2 imagenet_coverage.py
 python2 Imagenet_deepinspect.py
 ```
+```
+Copy the generated csv files and pickle files to override the files in data/imagenet/ folder and run the code in Section 1.
+```
+
 
 ### 2.6. Inspect pre-trained baseline_crf ResNet model for imSitu dataset(model from [paper](https://github.com/my89/imSitu))
 #### Prerequisite
@@ -111,3 +126,7 @@ python2 baseline_crf_deepinspect.py resized_256/adjusting_1.jpg # test environme
 
 python2 baseline_crf_deepinspect.py
 ```
+```
+Copy the generated csv files and pickle files to override the files in data/imsitu/ folder and run the code in Section 1.
+```
+
