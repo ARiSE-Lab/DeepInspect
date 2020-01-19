@@ -273,22 +273,11 @@ class Test:
         count_bias_conf_list = []
         trip_conf_list = []
 
-        # outliers = []
-
         for i in range(self.count):
             for j in range(i+1, self.count):
-                # if bias_avg[i, j] > 0.072 and conf_avg[i, j] < 0.048:
-                #     outliers.append((conf_avg[i, j]-bias_avg[i, j], conf_avg[i, j], bias_avg[i, j], self.map_idx_to_obj[i], self.map_idx_to_obj[j]))
 
                 bias_conf_list.append((conf_avg[i, j], bias_avg[i, j]))
                 count_bias_conf_list.append((conf_avg[i, j], count_bias_avg[i, j]))
-        # print('max:', np.max(self.dist_mat))
-        # for i in range(self.count):
-        #     for j in range(self.count):
-        #         for k in range(self.count):
-        #             trip_conf_list.append((self.conf[i, j, k], self.bias[i, j, k]))
-
-        #print(sorted(outliers))
 
         if filename:
             print('start building conf_list')
@@ -430,223 +419,6 @@ def plot(pair_list, title, xlabel, ylabel, save_name=None, xlim=None, ylim=None,
 
     if save_name:
          fig.savefig(save_dir+save_name+'.pdf', bbox_inches='tight')
-
-
-#
-# def save(filename, conf_list):
-#     start = time.time()
-#     count = len(conf_list)
-#     with open(filename, 'w') as f:
-#         for i, q in enumerate(sorted(conf_list)):
-#             if i % int(count/20) == 0:
-#                 print(i, '/', count, time.time()-start)
-#             assert len(q) == 5
-#             f.write(','.join([str(q[0]), str(q[1]), q[2], q[3], q[4]])+'\n')
-#
-#
-# def load_nus_mapping(filepath):
-#     dic = dict()
-#     with open(filepath, 'r') as f_r:
-#         for line in f_r:
-#             k, v = line.split(',')
-#             dic[k] = v.rstrip('\n')
-#     return dic
-#
-# def visualize(filepath, title=None, edge_len=60, save=True):
-#
-#     df = pd.read_csv(filepath)
-#     labels, X = df.values[:, 0], df.values[:, 1:]
-#     X_embedded = TSNE(n_components=2).fit_transform(X)
-#
-#     X, Y = X_embedded[:,0], X_embedded[:,1]
-#     title = 't-SNE embedding of ImageNet'
-#
-#     fig, ax = plt.subplots(figsize=(edge_len, edge_len))
-#     ax.scatter(X, Y)
-#     ax.set_title(title)
-#
-#     for i, txt in enumerate(labels):
-#         ax.annotate(txt, (X[i], Y[i]))
-#
-#     plt.show()
-#
-#     if save:
-#         fig.savefig('saved_data/'+title+'.pdf', bbox_inches='tight')
-#
-#
-# def compare_cluster(pca_path, conf_path, labels, kmeanlabels, labels_to_idx, target):
-#
-#     df_conf = pd.read_csv(conf_path)
-#
-#     df_pca = pd.read_csv(pca_path)
-#
-#     objects, embeddings = df_pca.values[:, 0], df_pca.values[:, 1:]
-#
-#     obj_embed = dict()
-#     for i in range(objects.shape[0]):
-#         obj_embed[objects[i]] = embeddings[i]
-#
-#     group1 = []
-#     group2 = []
-#
-#     for i, lab in enumerate(kmeanlabels):
-#         if lab == target:
-#             group1.append(i)
-#         else:
-#             group2.append(i)
-#
-#     n = len(labels)
-#     conf_mat = np.zeros([n, n])
-#     dist_mat = np.zeros([n, n])
-#
-#     for data in df_conf.values:
-#         obj1, obj2, conf = data
-#         idx1, idx2 = labels_to_idx[obj1], labels_to_idx[obj2]
-#
-#         conf_mat[idx1, idx2] = conf
-#         dist_mat[idx1, idx2] = np.linalg.norm(obj_embed[obj1] - obj_embed[obj2])
-#
-#     intra_conf_list = []
-#     inter_conf_list = []
-#
-#     intra_dist_list = []
-#     inter_dist_list = []
-#
-#     for a in group1:
-#         for b in group1:
-#             intra_conf_list.append(conf_mat[a, b]+conf_mat[b, a])
-#             intra_dist_list.append(dist_mat[a, b]+dist_mat[b, a])
-#         for c in group2:
-#             inter_conf_list.append(conf_mat[a, c]+conf_mat[c, a])
-#             inter_dist_list.append(dist_mat[a, c]+dist_mat[c, a])
-#
-#     intra_conf = np.mean(intra_conf_list)
-#     inter_conf = np.mean(inter_conf_list)
-#     intra_dist = np.mean(intra_dist_list)
-#     inter_dist = np.mean(inter_dist_list)
-#
-#     return intra_conf, inter_conf, intra_dist, inter_dist
-#
-#
-# def get_scores(m, x_th, y_th):
-#     m1 = m[m[:, 0]>x_th]
-#     m0 = m[m[:, 0]<=x_th]
-#
-#     m11 = m1[m1[:, 1]>y_th].shape[0]
-#     m10 = m1[m1[:, 1]<=y_th].shape[0]
-#     m01 = m0[m0[:, 1]>y_th].shape[0]
-#     # m00 = m0[m0[:, 1]<=y_th].shape[0]
-#
-#     precision = 0
-#     recall = 0
-#     if m01 + m11 > 0:
-#         precision = m11 / (m01 + m11)
-#     if m10 + m11 > 0:
-#         recall = m11 / (m10 + m11)
-#     F1 = 2*precision*recall/(precision+recall)
-#
-#     return m11, m10, precision, recall, F1
-#
-# def get_precision_recall(bias_conf_list, x_th, y_th_list):
-#
-#     precision_list = []
-#     recall_list = []
-#     TP_list = []
-#     FP_list = []
-#     F1_list = []
-#
-#     m = np.array(bias_conf_list)
-#     m1 = m[m[:, 0]>x_th]
-#     m0 = m[m[:, 0]<=x_th]
-#     for y_th in y_th_list:
-#         # Fix confusion
-#
-#
-#         m11 = m1[m1[:, 1]>y_th].shape[0]
-#         m10 = m1[m1[:, 1]<=y_th].shape[0]
-#         m01 = m0[m0[:, 1]>y_th].shape[0]
-#         # m00 = m0[m0[:, 1]<=y_th].shape[0]
-#         # print(m.shape[0], m1.shape[0], m0.shape[0], m11, m01, x_th, y_th)
-#         precision = 0
-#         recall = 0
-#         if m01 + m11 > 0:
-#             precision = m11 / (m01 + m11)
-#         if m10 + m11 > 0:
-#             recall = m11 / (m10 + m11)
-#         if precision == 0 and recall == 0:
-#             F1 = 0
-#         else:
-#             F1 = 2*precision*recall/(precision+recall)
-#
-#         # print(y_th, precision, recall, m11)
-#
-#         precision_list.append(f'{precision:.4f}')
-#         recall_list.append(f'{recall:.4f}')
-#         F1_list.append(F1)
-#         TP_list.append(str(m11))
-#         FP_list.append(str(m01))
-#
-#     y_th_str_list = [str(y_th) for y_th in y_th_list]
-#
-#     print('y TP FP precision recall F1 ')
-#     i = np.argmax(F1_list)
-#     print(f'{float(y_th_str_list[i]):.4f}', '&', TP_list[i], '&', FP_list[i], '&', precision_list[i], '&', recall_list[i], '&', f'{F1_list[i]:.4f}')
-#     # for i in range(len(y_th_list)):
-#     #     print(y_th_str_list[i], precision_list[i], recall_list[i], F1_list[i], TP_list[i], FP_list[i])
-#
-#     # print()
-#     # print(' & '+'threshold'+' & '+' & '.join(y_th_str_list)+' \\\\')
-#     # print(' & '+'precision'+' & '+' & '.join(precision_list)+ ' \\\\')
-#     # print(' & '+'recall'+' & '+' & '.join(recall_list)+ ' \\\\')
-#     # print(' & '+'\\#TP' +' & '+' & '.join(TP_list)+ ' \\\\')
-#
-#     return y_th_str_list[i], TP_list[i], FP_list[i], precision_list[i], recall_list[i], F1_list[i]
-#
-# def get_random_precision_recall(conf_list, x_th, num):
-#     np.random.seed(0)
-#     conf_list = np.random.permutation(conf_list)
-#     pred_pos = conf_list[:num]
-#     pred_neg = conf_list[num:]
-#
-#     m11 = pred_pos[pred_pos > x_th].shape[0]
-#     m10 = pred_neg[pred_neg > x_th].shape[0]
-#     m01 = pred_pos[pred_pos <= x_th].shape[0]
-#
-#     precision = 0
-#     recall = 0
-#     F1 = 0
-#     if m01 + m11 > 0:
-#         precision = m11 / (m01 + m11)
-#     if m10 + m11 > 0:
-#         recall = m11 / (m10 + m11)
-#     if  precision+recall > 0:
-#         F1 = 2*precision*recall/(precision+recall)
-#
-#     # print(y_th, precision, recall, m11)
-#     print('TP FP precision recall F1 ')
-#     print('-', '&', int(m11), '&', int(m10), '&', f'{precision:.4f}', '&', f'{recall:.4f}', '&', f'{F1:.4f}')
-#
-#
-#
-# '''
-# Strong Baseline using confusion disparity in the validation set to predict that in the test set.
-# '''
-# def get_val_conf_precision_recall(test_conf_avg, val_conf_avg, test_conf_top_num, val_conf_top_num, val_conf_top_percentage):
-#
-#     test_conf_avg_1d = test_conf_avg.ravel()
-#     val_conf_avg_1d = val_conf_avg.ravel()
-#
-#     test_conf_avg_1d = np.argsort(test_conf_avg_1d)
-#     val_conf_avg_1d = np.argsort(val_conf_avg_1d)
-#
-#     top_test_conf_inds = test_conf_avg_1d[-test_conf_top_num:]
-#     bottom_test_conf_inds = test_conf_avg_1d[:-test_conf_top_num]
-#     top_val_conf_inds = val_conf_avg_1d[-val_conf_top_num:]
-#     bottom_val_conf_inds = val_conf_avg_1d[:-val_conf_top_num]
-#
-#     F1 = get_single_precision_recall(top_test_conf_inds, bottom_test_conf_inds, top_val_conf_inds, bottom_val_conf_inds, val_conf_top_percentage)
-#
-#     return F1
 
 
 
@@ -801,7 +573,6 @@ def draw_CE_comparison(x_list, recall_precision_ab_list_per_dataset, MODE_recall
                 if dataset != 'imsitu':
                     y3_list = MODE_recall_precision_ab_list_per_dataset[dataset][:, 0]
 
-                # print((calculate_AUCEC(x_list, y0_list)-calculate_AUCEC(x_list, y2_list))/calculate_AUCEC(x_list, y2_list))
 
                 ax.set_ylabel('% of errors found', fontsize=60)
                 if j == 2:
@@ -822,12 +593,8 @@ def draw_CE_comparison(x_list, recall_precision_ab_list_per_dataset, MODE_recall
 
                 ax.text(0.08, 0, dataset_name, size=42)
 
-                # pc_1percent = precison_recall_at_1percent_per_dataset[dataset]
-                # pc_1std = precison_recall_at_1std_per_dataset[dataset]
                 AUCEC_over_MODE, AUCEC_over_random = AUCEC_gain_per_dataset_dual[dataset]
 
-                # ax.text(0.6, 0.7, '('+f'{pc_1percent[1]:.3f}'+','+f'{pc_1percent[0]:.3f}'+')', size=26)
-                # ax.text(0.6, 0.5, '('+f'{pc_1std[1]:.3f}'+','+f'{pc_1std[0]:.3f}'+')', size=26)
                 if dataset != 'imsitu':
                     ax.text(0.23, 0.5, 'Gain wrt MODE ='+f'{AUCEC_over_MODE*100:.1f}'+'%', size=30)
                 ax.text(0.23, 0.6, 'Gain wrt random ='+f'{AUCEC_over_random*100:.1f}'+'%', size=30)
