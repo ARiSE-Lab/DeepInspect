@@ -130,8 +130,8 @@ Python 2.7, numpy-1.16, tqdm-4.41, torch **0.3.1**, opencv-python, torchvision *
 #### Run deepinspect on imSitu model
 
 Install the original models from [imSitu](https://github.com/my89/imSitu)  
-Copy folder *baseline_models* to *deepinspect/imsitu/*  
-Download dataset to folder *resized_256/*.
+Copy folder `baseline_models` to `deepinspect/imsitu/` 
+Download dataset to folder `resized_256/`.
 ```
 cd deepinspect/imsitu/
 python2 baseline_crf_deepinspect.py resized_256/adjusting_1.jpg # test environment, this should output predictions without any error.
