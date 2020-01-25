@@ -1,7 +1,7 @@
 # DeepInspect: Testing DNN Image Classifier for Confusion & Bias Errors  (ICSE'20)
 See the ICSE'20 paper [Testing DNN Image Classifier for Confusion & Bias Errors](https://arxiv.org/pdf/1905.07831.pdf) for more details.
 
-There are generally two sections, "Reproduce paper results" section and "DeepInspect" section. The reproducing scipts in "Reproduce paper results" sections directly use the data our tool "DeepInspect" generated and then outputs the precision/recall, false postivie and true positive in our predictions. "DeepInspect" section includes the code on inspecting various datasets and models and generating the data for predictions and evaluting our predictions.
+There are two directories: (1) Reproduce paper results and (2) DeepInspect. **DeepInspect** is the implementation of the tool that analyzes the target model and dataset under test and outputs potential confusion and bias errors. The scripts in **Reproduce paper results** directory evaluate DeepInspect, i.e., they analyze the tool's output and report precision/recall, false positive and true positive of our predictions. 
 
 ## 1. Reproduce paper results
 
