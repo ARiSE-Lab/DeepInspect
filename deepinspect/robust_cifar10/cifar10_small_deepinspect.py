@@ -22,7 +22,12 @@ from trainer import *
 
 
 torch.manual_seed(1)
-torch.cuda.manual_seed_all(1)
+if torch.cuda.is_available():
+    torch.cuda.manual_seed_all(1)
+
+device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
+print(device)
+
 random.seed(0)
 np.random.seed(0)
 gthreshold = 0.5 # neuron coverage threshold
@@ -34,18 +39,22 @@ train_loader, test_loader = pblm.cifar_loaders(64)
 def select_model(m): 
     if m == 'large': 
         # raise ValueError
-        model = pblm.cifar_model_large().cuda()
-    elif m == 'resnet': 
-        model = pblm.cifar_model_resnet(N=args.resnet_N, factor=args.resnet_factor).cuda()
-    else: 
-        model = pblm.cifar_model().cuda() 
+        model = pblm.cifar_model_large().to(device)   
+    elif m == 'resnet':
+        model = pblm.cifar_model_resnet(N=args.resnet_N, factor=args.resnet_factor).to(device)
+    else:
+        model = pblm.cifar_model().to(device)
+
     summary(model, (3, 32, 32))
     return model
 
 def get_yhats_test():
     model = select_model('small')
     model_name = 'model/cifar_small_robust_new.h5'
-    model = torch.load(model_name)[0].cuda()
+    if torch.cuda.is_available():
+        model = torch.load(model_name)[0].cuda()
+    else:
+        model = torch.load(model_name, map_location='cpu')[0]
     model.eval()
 
     t = tqdm(test_loader, desc="Evaluating on Test:")
@@ -53,15 +62,19 @@ def get_yhats_test():
     labels = []
     for batch_idx, (data, target) in enumerate(t):
 
-        data, target = data.cuda(), target.cuda()
+        data, target = data.to(device), target.to(device)
         data, target = Variable(data), Variable(target) 
 
         object_preds = model(data)     
         for i in xrange(len(data)):
             yhat = []
             label = []
-            yhat.append(np.argmax(object_preds[i].cpu().data.numpy()))
-            label.append(int(target[i].cpu().data.numpy()))
+            if torch.cuda.is_available():
+                yhat.append(np.argmax(object_preds[i].cpu().data.numpy()))
+                label.append(int(target[i].cpu().data.numpy()))
+            else:
+                yhat.append(np.argmax(object_preds[i].data.numpy()))
+                label.append(int(target[i].data.numpy()))
             yhats.append(yhat)
             labels.append(label)
             #print(label)
@@ -130,7 +143,10 @@ def get_coverage_test():
     hook_layer_count = 0
     model = select_model('small')
     model_name = 'model/cifar_small_robust_new.h5'
-    model = torch.load(model_name)[0].cuda()
+    if torch.cuda.is_available():
+        model = torch.load(model_name)[0].cuda()
+    else:
+        model = torch.load(model_name, map_location='cpu')[0]
     
 
     
@@ -148,15 +164,17 @@ def get_coverage_test():
     s_function = nn.Sigmoid()
     for batch_idx, (data, target) in enumerate(t):
 
-        data, target = data.cuda(), target.cuda()
+        data, target = data.to(device), target.to(device)
         data, target = Variable(data), Variable(target) 
 
         for i in xrange(len(data)):
             globalcoverage.append({})
             yhat = []
             label = []
-
-            label.append(int(target[i].cpu().data.numpy()))
+            if torch.cuda.is_available():
+                label.append(int(target[i].cpu().data.numpy()))
+            else:
+                label.append(int(target[i].data.numpy()))
             globalcoverage[-1]["file"] = str(count)
             globalcoverage[-1]["yhat"] = yhat
             globalcoverage[-1]["dataset"] = "test"
