@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/227184732.svg)](https://zenodo.org/badge/latestdoi/227184732)
 # DeepInspect: Testing DNN Image Classifier for Confusion & Bias Errors  (ICSE'20)
 See the ICSE'20 paper [Testing DNN Image Classifier for Confusion & Bias Errors](https://arxiv.org/pdf/1905.07831.pdf) for more details.
 
